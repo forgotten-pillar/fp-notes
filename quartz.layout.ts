@@ -8,8 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/mpresecan/forgotten-pillar-obsidian",
+      "Download Center": "https://forgottenpillar.com/books",
+      Contribute: "/contribute",
+      RSS: "/index.xml",
     },
   }),
 }
@@ -30,9 +32,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    // Component.Graph(),
   ],
 }
 

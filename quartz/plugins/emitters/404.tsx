@@ -5,7 +5,7 @@ import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
 import { FilePath, FullSlug } from "../../util/path"
 import { sharedPageComponents } from "../../../quartz.layout"
-import { NotFound } from "../../components"
+import { NotFound, Search } from "../../components"
 import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
@@ -18,6 +18,7 @@ export const NotFoundPage: QuartzEmitterPlugin = () => {
     beforeBody: [],
     left: [],
     right: [],
+    afterBody: [Search()]
   }
 
   const { head: Head, pageBody, footer: Footer } = opts

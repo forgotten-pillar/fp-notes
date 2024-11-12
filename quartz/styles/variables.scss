@@ -20,6 +20,8 @@ $topSpacing: 6rem;
 $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
+$font-scale: 1.1;    // Can be changed to any value like 1, 1.5, etc.
+$spacing-scale: 1; // Independent scale for margins/padding/spacing
 
 $mobileGrid: (
   templateRows: "auto auto auto auto auto",
