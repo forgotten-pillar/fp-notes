@@ -1,0 +1,9 @@
+It is generally known that Satan is a leader of rebellion against the Government of God. But against who is Satan warring against? God the Father,
+
+> [!bible] [1 Corinthians 15:24-28 - KJV](https://www.biblegateway.com/passage/?search=1+Corinthians+15:24-28&version=kjv)
+> 24. Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power.
+> 25. For he must reign, till he hath put all enemies under his feet.
+> 26. The last enemy that shall be destroyed is death.
+> 27. For he hath put all things under his feet. But when he saith, all things are put under him, it is manifest that he is excepted, which did put all things under him.
+> 28. And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.
+
