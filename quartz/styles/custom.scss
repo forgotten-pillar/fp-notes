@@ -96,6 +96,10 @@ a {
   }
 }
 
+.recent-li .section .tags {
+  justify-content: flex-end;
+}
+
 // Typography improvements with scaled sizes and margins
 h1 {
   font-size: 1.75rem * $font-scale;
