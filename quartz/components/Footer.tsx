@@ -17,7 +17,7 @@ export default ((opts?: Options) => {
           <a href="https://forgottenpillar.com" target='_blank'>The Forgotten Pillar Project</a>{" | "}
           <a href="https://creativecommons.org/licenses/by/4.0/" target='_blank'>CC BY 4.0</a>
         </p>
-        <ul>
+        <ul class='footer-link'>
           {Object.entries(links).map(([text, link]) => (
             <li>
               <a href={link} target='_blank'>{text}</a>

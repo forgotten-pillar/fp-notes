@@ -2,6 +2,7 @@
 publish: true
 tags:
   - sanctification
+  - video
 ---
 ![Fermented vs Unfermented](https://cdn.midjourney.com/7a8b721d-37ea-43e3-8b1a-7dfd9562c586/0_3.png)
 

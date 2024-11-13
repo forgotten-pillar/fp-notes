@@ -10,7 +10,7 @@
 @use "./callouts.scss";
 
 html {
-  font-size: percentage($font-scale);
+  font-size: percentage(1);
   scroll-behavior: smooth;
   text-size-adjust: none;
   overflow-x: hidden;
@@ -51,163 +51,170 @@ section {
   color: var(--darkgray);
 }
 
-.text-highlight {
-  background-color: var(--textHighlight);
-  padding: 0 0.1rem * $spacing-scale;
-  border-radius: 5px;
-}
+/* increase the size on desktop */
+@media all and ($desktop) {
+  html {
+    font-size: percentage($font-scale);
+  }
 
-a {
-  &.internal {
+  .text-highlight {
+    background-color: var(--textHighlight);
     padding: 0 0.1rem * $spacing-scale;
     border-radius: 5px;
-    line-height: 1.4rem * $font-scale;
   }
 
-  &.external .external-icon {
-    margin: 0 0.15em * $spacing-scale;
-  }
-}
-
-.page {
-  & article {
-    & > h1 {
-      font-size: 2rem * $font-scale;
+  a {
+    &.internal {
+      padding: 0 0.1rem * $spacing-scale;
+      border-radius: 5px;
+      line-height: 1.4rem * $font-scale;
     }
 
-    & li:has(> input[type="checkbox"]) {
-      padding-left: 0;
+    &.external .external-icon {
+      margin: 0 0.15em * $spacing-scale;
     }
   }
 
-  & > #quartz-body {
-    column-gap: #{map-get($desktopGrid, columnGap)};
-    row-gap: #{map-get($desktopGrid, rowGap)};
+  .page {
+    & article {
+      & > h1 {
+        font-size: 2rem * $font-scale;
+      }
 
-    & .sidebar {
-      gap: 2rem * $spacing-scale;
-      padding: $topSpacing * $spacing-scale 2rem * $spacing-scale 2rem * $spacing-scale 2rem * $spacing-scale;
+      & li:has(> input[type="checkbox"]) {
+        padding-left: 0;
+      }
     }
 
-    & .page-header,
-    & .page-footer {
-      margin-top: 1rem * $spacing-scale;
-    }
-  }
-}
+    & > #quartz-body {
+      column-gap: #{map-get($desktopGrid, columnGap)};
+      row-gap: #{map-get($desktopGrid, rowGap)};
 
-.recent-li .section .tags {
-  justify-content: flex-end;
-}
+      & .sidebar {
+        gap: 2rem * $spacing-scale;
+        padding: $topSpacing * $spacing-scale 2rem * $spacing-scale 2rem * $spacing-scale 2rem * $spacing-scale;
+      }
 
-// Typography improvements with scaled sizes and margins
-h1 {
-  font-size: 1.75rem * $font-scale;
-  margin-top: 2.25rem * $spacing-scale;
-  margin-bottom: 1rem * $spacing-scale;
-}
-
-h2 {
-  font-size: 1.4rem * $font-scale;
-  margin-top: 1.9rem * $spacing-scale;
-  margin-bottom: 1rem * $spacing-scale;
-}
-
-h3 {
-  font-size: 1.12rem * $font-scale;
-  margin-top: 1.62rem * $spacing-scale;
-  margin-bottom: 1rem * $spacing-scale;
-}
-
-h4,
-h5,
-h6 {
-  font-size: 1rem * $font-scale;
-  margin-top: 1.5rem * $spacing-scale;
-  margin-bottom: 1rem * $spacing-scale;
-}
-
-figure[data-rehype-pretty-code-figure] {
-  margin: 0;
-  line-height: 1.6rem * $font-scale;
-
-  & > [data-rehype-pretty-code-title] {
-    font-size: 0.9rem * $font-scale;
-    padding: 0.1rem * $spacing-scale 0.5rem * $spacing-scale;
-    margin-bottom: -0.5rem * $spacing-scale;
-  }
-}
-
-pre {
-  padding: 0 0.5rem * $spacing-scale;
-
-  & > code {
-    font-size: 0.85rem * $font-scale;
-    padding: 0.5rem * $spacing-scale 0;
-
-    & > [data-line] {
-      padding: 0 0.25rem * $spacing-scale;
-
-      &::before {
-        margin-right: 1rem * $spacing-scale;
+      & .page-header,
+      & .page-footer {
+        margin-top: 1rem * $spacing-scale;
       }
     }
   }
-}
 
-code {
-  font-size: 0.9em * $font-scale;
-  padding: 0.1rem * $spacing-scale 0.2rem * $spacing-scale;
-}
+  .recent-li .section .tags {
+    justify-content: flex-end;
+  }
 
-tbody,
-li,
-p {
-  line-height: 1.6rem * $font-scale;
-}
+  // Typography improvements with scaled sizes and margins
+  h1 {
+    font-size: 1.75rem * $font-scale;
+    margin-top: 2.25rem * $spacing-scale;
+    margin-bottom: 1rem * $spacing-scale;
+  }
 
-.table-container {
-  & > table {
-    margin: 1rem * $spacing-scale;
-    padding: 1.5rem * $spacing-scale;
+  h2 {
+    font-size: 1.4rem * $font-scale;
+    margin-top: 1.9rem * $spacing-scale;
+    margin-bottom: 1rem * $spacing-scale;
+  }
 
-    th,
-    td {
-      min-width: 75px;
-    }
+  h3 {
+    font-size: 1.12rem * $font-scale;
+    margin-top: 1.62rem * $spacing-scale;
+    margin-bottom: 1rem * $spacing-scale;
+  }
 
-    & > * {
-      line-height: 2rem * $font-scale;
+  h4,
+  h5,
+  h6 {
+    font-size: 1rem * $font-scale;
+    margin-top: 1.5rem * $spacing-scale;
+    margin-bottom: 1rem * $spacing-scale;
+  }
+
+  figure[data-rehype-pretty-code-figure] {
+    margin: 0;
+    line-height: 1.6rem * $font-scale;
+
+    & > [data-rehype-pretty-code-title] {
+      font-size: 0.9rem * $font-scale;
+      padding: 0.1rem * $spacing-scale 0.5rem * $spacing-scale;
+      margin-bottom: -0.5rem * $spacing-scale;
     }
   }
-}
 
-th {
-  padding: 0.4rem * $spacing-scale 0.7rem * $spacing-scale;
-}
+  pre {
+    padding: 0 0.5rem * $spacing-scale;
 
-td {
-  padding: 0.2rem * $spacing-scale 0.7rem * $spacing-scale;
-}
+    & > code {
+      font-size: 0.85rem * $font-scale;
+      padding: 0.5rem * $spacing-scale 0;
 
-img {
-  margin: 1rem * $spacing-scale 0;
-}
+      & > [data-line] {
+        padding: 0 0.25rem * $spacing-scale;
 
-hr {
-  margin: 2rem * $spacing-scale auto;
-}
-
-ul.overflow,
-ol.overflow {
-  & > li:last-of-type {
-    margin-bottom: 30px * $spacing-scale;
+        &::before {
+          margin-right: 1rem * $spacing-scale;
+        }
+      }
+    }
   }
-}
 
-.transclude {
-  ul {
-    padding-left: 1rem * $spacing-scale;
+  code {
+    font-size: 0.9em * $font-scale;
+    padding: 0.1rem * $spacing-scale 0.2rem * $spacing-scale;
+  }
+
+  tbody,
+  li,
+  p {
+    line-height: 1.6rem * $font-scale;
+  }
+
+  .table-container {
+    & > table {
+      margin: 1rem * $spacing-scale;
+      padding: 1.5rem * $spacing-scale;
+
+      th,
+      td {
+        min-width: 75px;
+      }
+
+      & > * {
+        line-height: 2rem * $font-scale;
+      }
+    }
+  }
+
+  th {
+    padding: 0.4rem * $spacing-scale 0.7rem * $spacing-scale;
+  }
+
+  td {
+    padding: 0.2rem * $spacing-scale 0.7rem * $spacing-scale;
+  }
+
+  img {
+    margin: 1rem * $spacing-scale 0;
+  }
+
+  hr {
+    margin: 2rem * $spacing-scale auto;
+  }
+
+  ul.overflow,
+  ol.overflow {
+    & > li:last-of-type {
+      margin-bottom: 30px * $spacing-scale;
+    }
+  }
+
+  .transclude {
+    ul {
+      padding-left: 1rem * $spacing-scale;
+    }
   }
 }
 
@@ -221,6 +228,10 @@ ol.overflow {
     --border: #448aff44;
     --bg: #448aff05;
     --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-book-open-text'%3E%3Cpath d='M12 7v14'%3E%3C/path%3E%3Cpath d='M16 12h2'%3E%3C/path%3E%3Cpath d='M16 8h2'%3E%3C/path%3E%3Cpath d='M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z'%3E%3C/path%3E%3Cpath d='M6 12h2'%3E%3C/path%3E%3Cpath d='M6 8h2'%3E%3C/path%3E%3C/svg%3E");
+  }
+
+  &.bible ol {
+    padding-left: 1.5rem;
   }
 }
 
@@ -242,4 +253,29 @@ ul.recent-ul {
 .content-meta a {
   color: var(--gray);
   margin-top: 0;
+}
+
+footer ul {
+  flex-wrap: wrap;
+}
+
+/* search */
+.search>#search-container>#search-space>#search-layout[data-preview]>#results-container {
+  flex: 0 0 100%;
+}
+
+@media all and ($desktop) {
+  .search>#search-container>#search-space>#search-layout[data-preview]>#results-container {
+    flex: 0 0 min(30%, 450px);
+  }
+}
+
+.search>#search-container>#search-space>#search-layout>#preview-container {
+  display: none;
+}
+
+@media all and ($desktop) {
+  .search>#search-container>#search-space>#search-layout>#preview-container {
+    display: block;
+  }
 }
