@@ -6,20 +6,20 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: 'mpresecan/fp-notes',
-        // from data-repo-id
-        repoId: 'R_kgDONObySw',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDONObyS84CkNz5',
-        inputPosition: 'top',
-      }
-    }),
+    // Component.Comments({
+    //   provider: 'giscus',
+    //   options: {
+    //     // from data-repo
+    //     repo: 'mpresecan/fp-notes',
+    //     // from data-repo-id
+    //     repoId: 'R_kgDONObySw',
+    //     // from data-category
+    //     category: 'Announcements',
+    //     // from data-category-id
+    //     categoryId: 'DIC_kwDONObyS84CkNz5',
+    //     inputPosition: 'top',
+    //   }
+    // }),
   ],
   footer: Component.Footer({
     links: {
