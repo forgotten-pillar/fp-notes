@@ -2,6 +2,8 @@
 publish: true
 tags:
   - presentTruth
+  - video
+title: Present Truth
 ---
 > [!bible]+ [2 Peter 1:12 - KJV](https://www.biblegateway.com/passage/?search=2+Peter+1:12&version=kjv)
 > 12. Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and **be established in the present truth**.
@@ -84,7 +86,7 @@ We learn in [Daniel 8](https://www.biblegateway.com/passage/?search=Daniel+8&ver
 
 
 > [!info]+ Tangent
-> For more information on the experiences and fulfillment of the 2300 days prophecy, see the [[Little Book]].
+> For more information on the experiences and fulfillment of the 2300 days prophecy, see the [[little-book]].
 
 ## Present Truth for the Israel era
 

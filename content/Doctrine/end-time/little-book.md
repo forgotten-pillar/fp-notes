@@ -2,6 +2,7 @@
 publish: true
 tags:
   - greatDisapointment
+title: Little Book
 ---
 
 > [!bible] [Revelation 10:1-2 - KJV](https://www.biblegateway.com/passage/?search=Revelation+10:1-2&version=kjv)

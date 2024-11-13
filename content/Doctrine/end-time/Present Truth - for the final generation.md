@@ -10,7 +10,7 @@ tags:
 
 
 > [!important] What is the "Present Truth"?
-> The term "Present Truth" does not refer to the progression of the truth over time, rather it implies the significance for the certain time period. For details see [[Present Truth]]
+> The term "Present Truth" does not refer to the progression of the truth over time, rather it implies the significance for the certain time period. For details see [[present-truth]]
 
 > There are many precious truths contained in the Word of God, **but it is “_present truth_”** that the flock needs **now**. [{EW 63.1}](https://egwwritings.org/read?panels=p28.427&index=0)
 
