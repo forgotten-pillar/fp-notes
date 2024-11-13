@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/mpresecan/forgotten-pillar-obsidian",
+      GitHub: "https://github.com/mpresecan/fp-notes",
       "Download Center": "https://forgottenpillar.com/books",
       Contribute: "/contribute",
       RSS: "/index.xml",

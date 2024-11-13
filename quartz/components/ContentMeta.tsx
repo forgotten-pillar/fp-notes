@@ -56,7 +56,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       // Display edit on GitHub link
       if(fileData.relativePath) {
         const path = fileData.relativePath.toString().split('/').map(encodeURIComponent).join('/');
-        const editLink = `https://github.com/mpresecan/forgotten-pillar-obsidian/blob/main/${path}`;
+        const editLink = `https://github.com/mpresecan/fp-notes/blob/v4/content/${path}`;
         const editIcon = (<a href={editLink} target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="26" viewBox="0 0 34 10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-pencil"><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"/><path d="m15 5 4 4"/></svg><span style={{fontWeight: 'normal'}}>edit</span></a>)
         segments.push(editIcon)
       }
