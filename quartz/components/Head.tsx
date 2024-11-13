@@ -21,6 +21,29 @@ export default (() => {
 
     const ogImagePath = fileData?.frontmatter?.title ? `https://forgottenpillar.com/api/og-notes?title=${encodeURIComponent(fileData.frontmatter?.title)}` : 'https://forgotten-pillar.s3.us-east-2.amazonaws.com/og-notes.png'
 
+    // Prepare JSON-LD structured data
+    const jsonLd = {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": fileData.frontmatter?.title || 'The Forgotten Pillar Notes',
+      "description": fileData.frontmatter?.description || description,
+      "image": ogImagePath,
+      "author": {
+        "@type": "Organization",
+        "name": "The Forgotten Pillar"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Forgotten Pillar",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://forgotten-pillar.s3.us-east-2.amazonaws.com/fp-notes-logo.svg"
+        }
+      },
+      "datePublished": fileData.dates?.created || new Date().toISOString(),
+      "dateModified": fileData.dates?.modified || new Date().toISOString()
+    }
+
     return (
       <head>
         <title>{title}</title>
@@ -46,6 +69,9 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+        
+        {/* JSON-LD script - output raw JSON */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </head>
     )
   }
