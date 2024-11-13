@@ -1,4 +1,4 @@
 ---
-title: Doctrine
 publish: true
+title: Church
 ---
