@@ -18,7 +18,8 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = 'https://forgotten-pillar.s3.us-east-2.amazonaws.com/fp-notes-logo.svg'
-    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
+
+    const ogImagePath = fileData?.frontmatter?.title ? `https://forgottenpillar.com/api/og-notes?title=${fileData.frontmatter?.title}` : 'https://forgotten-pillar.s3.us-east-2.amazonaws.com/og-notes.png'
 
     return (
       <head>

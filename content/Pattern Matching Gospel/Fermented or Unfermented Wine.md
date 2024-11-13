@@ -123,3 +123,8 @@ In the Old Testament, God gave instruction for Nazirites not to drink strong dri
 > 3. He shall separate himself from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried.
 
 The reason for this instruction was due to their sanctification. Nazarite sanctification level was no match with Jesus' sanctification level. If Jesus was pure, then He must have not drank the alcohol. Therefore, I believe that it is unreasonable to think He was offering others fermented wine, while preaching the sanctification. All that Jesus ever server and offered to mankind was a blessing.
+
+> [!bible] [John 17:20-21 - KJV](https://www.biblegateway.com/passage/?search=John+17:20-21&version=kjv)
+> 20. Neither pray I for these alone, but for them also which shall believe on me through their word;
+> 21. That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
+
