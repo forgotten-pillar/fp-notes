@@ -130,7 +130,7 @@ God has His voice in regards to faith. It is the Bible! The General Conference i
 
 The SDA church has gone through a process of transformation across time, and our beliefs have changed. Some argue that these changes are the result of the advancement of present truth, while others believe that the church has backslidden. We encourage every soul to investigate these differences with the Word of God and the Testimony of Christ, but in the following, we want to present the historical facts, as well as our overview of the principles of the liberty of conscience in the context of the Bride of Christ in the end-time perspective.
 
-The doctrinal statement of the SDA church in the time of Ellen White was very different from the one we have today. See [[Fundamental Principles vs. Fundamental Beliefs]].
+The doctrinal statement of the SDA church in the time of Ellen White was very different from the one we have today. See [[principles-vs-beliefs|Fundamental Principles vs. Fundamental Beliefs]].
 
 According to Ellen White, the foundation of the Seventh-day Adventist church was denoted by [[The Fundamental Principles|the Fundamental Principles]]. In the chapter "[The Foundation of Our Faith](https://egwwritings.org/read?panels=p417.259&index=0)," she warned us not to depart from the foundation of our faith - the Fundamental Principles. In the beginning, she wrote:
 
@@ -146,7 +146,7 @@ In the context of the chapter, in 1903 there was already a satanic effort to dep
 
 The book "Living Temple" introduced reasonings regarding the presence and the personality of God, which departed from the foundation principles of present truth - in the context, the Fundamental Principles.
 
-[[Fundamental Principles vs. Fundamental Beliefs|Comparing]] the current [Fundamental Beliefs](https://www.adventist.org/wp-content/uploads/2020/06/ADV-28Beliefs2020.pdf) and the declaration of the fundamental principles, we see that the change indeed appeared in regards to the presence and the personality of God. To see the detailed historical overview, read [the Forgotten Pillar book](https://forgottenpillar.com/book/the-forgotten-pillar). In the chapter, Ellen White prophesied:
+[[principles-vs-beliefs|Comparing]] the current [Fundamental Beliefs](https://www.adventist.org/wp-content/uploads/2020/06/ADV-28Beliefs2020.pdf) and the declaration of the fundamental principles, we see that the change indeed appeared in regards to the presence and the personality of God. To see the detailed historical overview, read [the Forgotten Pillar book](https://forgottenpillar.com/book/the-forgotten-pillar). In the chapter, Ellen White prophesied:
 
 > The enemy of souls has sought to bring in the supposition that **a great reformation was to take place among Seventh-day Adventists**, and that this reformation would consist in **giving up the doctrines which stand as the pillars of our faith**, and engaging in a process **of reorganization**. Were this reformation to take place, what would result? **The principles of truth** that God in His wisdom has given to the remnant church, **would be discarded**. **Our religion would be changed**. The **fundamental principles** that have sustained the work for the last fifty years **would be accounted as error**. **A new organization would be established**. Books of a new order would be written. **A system of intellectual philosophy would be introduced**. [{EGW; SpTB02 54.3; 1904}](https://egwwritings.org/read?panels=p417.261(417.277)&index=0)
 

@@ -3,6 +3,8 @@ publish: true
 tags:
   - fundamentalPrinciples
   - fundamentalBeliefs
+description: "This article compares the teachings on God, Jesus Christ, and the Holy Spirit in the Fundamental Principles (1872) and the Fundamental Beliefs (1980) of the Seventh-day Adventist Church. The comparison highlights key theological differences, particularly in the understanding of the nature of God and the trinity. The Fundamental Principles presents God as a personal, spiritual being, with the Father as the creator, while the Fundamental Beliefs emphasizes the unity of God as three coeternal persons: the Father, the Son, and the Holy Spirit. This article delves into these doctrinal variations, exploring their implications on the understanding of God’s presence, personality, and role as Creator. It also contrasts how both documents address the divinity of Christ and the Holy Spirit’s personality and work in creation and redemption."
+title: Fundamental Principles vs. Fundamental Beliefs
 ---
 The following is the comparison between the Fundamental Principles and Fundamental Beliefs on their teachings on God, His Son and the Holy Spirit.
 
