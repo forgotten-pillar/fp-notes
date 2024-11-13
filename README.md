@@ -1,18 +1,6 @@
-# Quartz v4
+# The Forgotten Pillar Notes
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+The source code powering the [Forgotten Pillar Notes](https://forgottenpillar.com) - built by [https://github.com/sponsors/jackyzha0](Quartz 4.4.0) and [obsidian.md](Obsidian). The site is a collection of my personal study notes, thoughts, and research on Bible, the Spirit of Prophecy and Seventh-day Adventist history.
+The content can be found in the [content](content) folder.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
