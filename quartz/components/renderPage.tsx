@@ -243,7 +243,7 @@ export function renderPage(
                 </div>
               </div>
               <Content {...componentData} />
-              {slug === 'Recent-Notes' && <RecentNotesComponent {...componentData} />}
+              {slug === 'recent-notes' && <RecentNotesComponent {...componentData} />}
               <hr />
               <div class="page-footer">
                 {afterBody.map((BodyComponent) => (

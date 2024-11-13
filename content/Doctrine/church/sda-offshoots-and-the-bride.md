@@ -1,5 +1,6 @@
 ---
 publish: true
+title: SDA, offshoots & the bride of Christ
 ---
 Is the Seventh-day Adventist Church the bride of Christ?
 Are the offshoots of SDA the bride of Christ?
@@ -233,7 +234,7 @@ Ellen White said that in the final days the history will be rehearsed. There wil
 But what are the repercussions of those who adhere to the original Fundamental Principles? From the personal experience, as well from the experience of many people on the same path, has been a similar experience as Ellen White have had with her family with Methodist church. You can read this in her [Life Sketches chapter 5](https://egwwritings.org/read?panels=p41.189&index=0).  The same principles are being executed by the General Conference, which eventually result in the extortion of consciences of their members. If their the members have tested the Fundamental Principles by the Scriptures, and got convinced that they are true, why are their conscience being extorted by not holding the harmony with the current Fundamental Beliefs?
 
 > [!question] Should we leave SDA church because of the apostasy?
-> The answer is resounding no! See [[Love for the Church while it is in apostasy]]. The current situation of the Seventh-day Adventist church is perfect environment to grow in the character of Christ.
+> The answer is resounding no! See [[love-for-church]]. The current situation of the Seventh-day Adventist church is perfect environment to grow in the character of Christ.
 
 ## Conclusion
 
