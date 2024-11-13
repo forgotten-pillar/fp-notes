@@ -1,6 +1,7 @@
 ---
 publish: true
 permalink: contribute
+title: Contribution Guide
 ---
 
 > [!todo] Todo

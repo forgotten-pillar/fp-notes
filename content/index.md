@@ -1,8 +1,5 @@
 ---
 publish: true
-dg-home: true
-dg-show-backlinks: "false"
-dg-show-toc: "false"
 title: Welcome to the Forgotten Pillar Notes
 ---
 These Wiki style notes are an *experimental* part of my note-taking process (*work-in-progress forever*), where I extract and organize data during my studies. I use the [Obsidian App](https://obsidian.md/) for taking notes and conducting research, and these public notes is a subset of my research notes.
