@@ -24,7 +24,7 @@ html {
 .center-container {
   max-width: 40rem;
   margin: 0 auto;
-  padding-top: 1.5rem;
+  padding-top: 4rem;
 
   @media all and ($mobile) {
     padding-top: 0rem;
@@ -36,10 +36,10 @@ html {
 }
 
 .page>#quartz-body .sidebar.left {
-  padding-top: 1.5rem !important;
+  padding-top: 2rem !important;
 }
 .page>#quartz-body .sidebar.right {
-  padding-top: 2.5rem !important;
+  padding-top: 5rem !important;
 }
 
 body,
@@ -49,6 +49,17 @@ section {
   background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
+}
+
+h1, h2 {
+  font-family: Bebas Neue, Roboto, Roboto Condensed, sans-serif;
+  letter-spacing: .08em;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.6rem;
 }
 
 /* increase the size on desktop */
@@ -108,13 +119,13 @@ section {
 
   // Typography improvements with scaled sizes and margins
   h1 {
-    font-size: 1.75rem * $font-scale;
+    font-size: 2rem * $font-scale;
     margin-top: 2.25rem * $spacing-scale;
     margin-bottom: 1rem * $spacing-scale;
   }
 
   h2 {
-    font-size: 1.4rem * $font-scale;
+    font-size: 1.6rem * $font-scale;
     margin-top: 1.9rem * $spacing-scale;
     margin-bottom: 1rem * $spacing-scale;
   }
@@ -219,10 +230,6 @@ section {
 }
 
 .callout {
-  .callout-title {
-    align-items: center;
-  }
-
   &[data-callout="bible"] {
     --color: #234379;
     --border: #448aff44;
@@ -233,8 +240,25 @@ section {
   &.bible ol {
     padding-left: 1.5rem;
   }
+
+  .callout-icon {
+    margin-top: 1px;
+  }
 }
 
+@media all and ($desktop) {
+  .callout {
+    .callout-icon {
+      margin-top: 3px;
+    }
+
+    .fold-callout-icon {
+      margin-top: 3px;
+    }
+  }
+}
+
+/* recent notes list */
 li.recent-li>.section {
   grid-template-columns: fit-content(8em) 3fr 1fr;
   display: grid;
@@ -242,6 +266,16 @@ li.recent-li>.section {
   align-content: stretch;
   justify-content: center;
   gap: 23px;
+
+  .tags {
+    justify-content: flex-end;
+  }
+}
+
+@media (max-width: 800px) {
+  li.recent-li>.section>.tags {
+    display: none;
+  }
 }
 
 ul.recent-ul {

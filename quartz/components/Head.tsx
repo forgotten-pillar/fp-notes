@@ -29,6 +29,7 @@ export default (() => {
             <link rel="preconnect" href="https://fonts.googleapis.com" />
             <link rel="preconnect" href="https://fonts.gstatic.com" />
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
+            <link rel="stylesheet" href='https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400;700' />
           </>
         )}
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
