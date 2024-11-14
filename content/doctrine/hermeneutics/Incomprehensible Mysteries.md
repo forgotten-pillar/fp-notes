@@ -87,5 +87,5 @@ tags:
 
 
 > [!abstract] Conclusion on the Sonship
-> We cannot logically reconcile two mutual concepts of having [[The Beginning Problem|a beginning]] and being [[From All Eternity|everlasting]] - "*I was set up from everlasting, from beginning*" Proverbs 8:23. But we accept this testimony, by the authority of the Word of God. It is a mystery. See [[From All Eternity]] paradox, in regards to the Plan of Salvation and Christ's relation to it in regards to time.
+> We cannot logically reconcile two mutual concepts of having [[The Beginning Problem|a beginning]] and being [[from-all-eternity|everlasting]] - "*I was set up from everlasting, from beginning*" Proverbs 8:23. But we accept this testimony, by the authority of the Word of God. It is a mystery. See [[from-all-eternity|From All Eternity]] paradox, in regards to the Plan of Salvation and Christ's relation to it in regards to time.
 
