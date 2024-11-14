@@ -218,7 +218,7 @@ export function renderPage(
     </div>
   )
 
-  const RecentNotesComponent = RecentNotes({limit: 10, title: "", filter: (data) => data.slug !== "Recent-Notes"})
+  const RecentNotesComponent = RecentNotes({limit: 20, title: "", filter: (data) => data.slug !== "recent-notes"})
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const doc = (
