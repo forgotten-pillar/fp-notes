@@ -1,4 +1,4 @@
 ---
 publish: true
-title: Doctrines
+title: Doctrine
 ---
