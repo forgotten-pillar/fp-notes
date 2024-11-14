@@ -1,5 +1,6 @@
 ---
 publish: true
+Title: But you are not a theologian
 ---
 
 > [!bible] [1 Corinthians 1:26-31 - KJV](https://www.biblegateway.com/passage/?search=1+Corinthians+1:26-31&version=kjv)
