@@ -322,3 +322,9 @@ footer ul {
     display: block;
   }
 }
+
+footer.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
