@@ -64,7 +64,7 @@ What makes us think that God had not planned every individual life, and that our
 
 ## "Unplanned" lineage of Jesus
 
-We know with certainty, that God had planned the birth of [[monogeness#Own Begotten Son|His own begotten Son]]. The Bible gives a good deal of emphasis on Christ's lineage. We read this in [Matthew 1:1-17](https://www.biblegateway.com/passage/?search=Matthew+1.1-17&version=KJV)and [Luke 3:23-38](https://www.biblegateway.com/passage/?search=Luke+3.23-38&version=KJV). In the Old Testament, there are stories preserved with the mentioned individuals.
+We know with certainty, that God had planned the birth of [[monogenes#Own Begotten Son|His own begotten Son]]. The Bible gives a good deal of emphasis on Christ's lineage. We read this in [Matthew 1:1-17](https://www.biblegateway.com/passage/?search=Matthew+1.1-17&version=KJV)and [Luke 3:23-38](https://www.biblegateway.com/passage/?search=Luke+3.23-38&version=KJV). In the Old Testament, there are stories preserved with the mentioned individuals.
 
 ### Phares (Son of Judah and Tamar) - [Genesis 38](https://www.biblegateway.com/passage/?search=Genesis+38&version=KJV)
 
