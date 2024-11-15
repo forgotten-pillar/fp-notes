@@ -1,0 +1,50 @@
+.email-subscribe-container {
+    background-color: var(--highlight);
+    color: white;
+    padding: 2.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    border-radius: 0.5rem;
+
+    h3 {
+        margin: 0;
+        font-size: 1.5rem;
+        color: var(--darkgray)
+    }
+  }
+  
+  .input-container {
+    display: flex;
+    margin-top: 1.5rem;
+    gap: .5em;
+  }
+  
+  .email-input {
+    color: #ccc;
+    background-color: rgba(var(--lightgray), 0.8);
+    border: var(--darkgray) 1px solid;
+    border-radius: 10px;
+    padding: 8px 12px;
+    font-size: .75em;
+    width: 15em;
+}
+  
+  .subscribe-btn {
+    padding: 10px 15px;
+    background-color: var(--dark);
+    color: var(--light);
+    border: none;
+    border-radius: .5em;
+    font-size: .75em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: flex;
+    align-content: center;
+    gap: 0.5em;
+  }
+  
+  .subscribe-btn:hover {
+    background-color: var(--darkgray);
+  }
