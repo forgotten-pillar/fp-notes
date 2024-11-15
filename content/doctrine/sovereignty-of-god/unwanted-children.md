@@ -1,6 +1,8 @@
 ---
 publish: true
-tags:
+tags: 
+title: Unwanted Children
+description: Discover biblical evidence showing how 'unplanned' children are part of God's divine plan, featuring examples from Jesus's lineage including Solomon and Phares. Learn why every child has God-ordained purpose.
 ---
 "Unwanted" or unplanned children are not unplanned neither unwanted by God.
 
