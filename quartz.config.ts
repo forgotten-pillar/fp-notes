@@ -17,6 +17,7 @@ const config: QuartzConfig = {
       apiKey: "phc_zQIVH6pZo6Jv0TjRizYgk0BYkWcLGjyqY3Q7aBF1JZ6",
       host: "https://eu.i.posthog.com",
     },
+    generateSocialImages: false,
     locale: "en-US",
     baseUrl: "notes.forgottenpillar.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
