@@ -332,6 +332,25 @@ footer.footer {
 @media all and ($mobile) {
   footer.footer {
     flex-direction: column;
-    align-items: flex-end;
+    align-items: flex-start;
   }
+
+  .darkmode-toggle {
+    align-self: flex-end;
+    margin-top: 2em;
+  }
+}
+
+.share-panel {
+  display: flex;
+  gap: 1em;
+}
+
+#copy-link {
+  color: var(--secondary);
+  cursor: pointer;
+}
+
+#copied-popup {
+  display: none;
 }

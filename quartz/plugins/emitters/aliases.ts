@@ -67,6 +67,7 @@ export const AliasRedirects: QuartzEmitterPlugin = () => ({
             <meta property="og:title" content="${file.data.frontmatter?.title}" />
             <meta property="og:description" content="${file.data.description}" />
             <meta property="og:image" content="${ogImagePath}" />
+            <meta property="og:type" content="website" />
             <meta name="robots" content="noindex">
             <meta charset="utf-8">
             <meta http-equiv="refresh" content="0; url=${redirUrl}">

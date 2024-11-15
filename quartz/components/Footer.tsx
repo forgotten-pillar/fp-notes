@@ -29,7 +29,7 @@ export default ((opts?: Options) => {
             ))}
           </ul>
         </div>
-        <div>
+        <div class="darkmode-toggle">
             <DarkModeComponent {...componentData} />
         </div>
       </footer>

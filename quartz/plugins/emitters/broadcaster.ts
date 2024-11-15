@@ -1,5 +1,5 @@
 import { QuartzEmitterPlugin } from "../types";
-import { FilePath, FullSlug, SimpleSlug, joinSegments } from "../../util/path"
+import { FullSlug, SimpleSlug, joinSegments } from "../../util/path"
 import { getDate } from "../../components/Date"
 import { escapeHTML } from "../../util/escape"
 import { toHtml } from "hast-util-to-html"
@@ -55,11 +55,8 @@ export const Broadcaster: QuartzEmitterPlugin = () => ({
         }
 
         if(newBroadcastList.size > 0) {
-
+          // call API function
         }
-
-        console.log('env', process.env.NODE_ENV)
-
         return []
     }
 })
