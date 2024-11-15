@@ -7,18 +7,35 @@
     align-items: flex-start;
     justify-content: center;
     border-radius: 0.5rem;
+    margin-bottom: 1.5rem;
 
     h3 {
         margin: 0;
         font-size: 1.5rem;
         color: var(--darkgray)
     }
+
+    .notice {
+        font-size: .8em;
+        font-style: italic;
+        margin: 0;
+        // margin-bottom: 5px;
+        color: var(--dark);
+        font-weight: 100;
+
+        a.telegram-channel {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+    }
   }
   
   .input-container {
     display: flex;
-    margin-top: 1.5rem;
+    margin-top: .5rem;
     gap: .5em;
+    width: 100%;
   }
   
   .email-input {
@@ -28,10 +45,11 @@
     border-radius: 10px;
     padding: 8px 12px;
     font-size: .75em;
-    width: 15em;
+    min-width: 5em;
+    width: 40%;
 
     &::placeholder {
-        color: var(---darkgray);
+        color: var(--darkgray);
     }
 }
   

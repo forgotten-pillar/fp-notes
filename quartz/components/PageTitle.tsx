@@ -9,7 +9,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       {/*<a href={baseDir}>{title}</a>*/}
-      <a href={baseDir}>
+      <a href={baseDir} aria-label="Forgotten Pillar Notes Logo">
         {/*<img src='https://forgotten-pillar.s3.us-east-2.amazonaws.com/fp-logo.svg' alt='logo' width="80"/>*/}
         <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 202 202" fill="none">
           <g clip-path="url(#clip0_48_113)">
