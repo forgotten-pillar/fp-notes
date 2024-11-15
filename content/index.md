@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Welcome to the Forgotten Pillar Notes
+description: Join the Forgotten Pillar project's journey to rediscover Adventist identity through interconnected Bible study notes. Explore detailed theological research that examines our spiritual heritage and Biblical foundations.
 ---
 These Wiki style notes are an *experimental* part of my note-taking process (*work-in-progress forever*), where I extract and organize data during my studies. I use the [Obsidian App](https://obsidian.md/) for taking notes and conducting research, and these public notes is a subset of my research notes.
 

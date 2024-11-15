@@ -61,7 +61,7 @@ Christ had the glory from the Father, from all eternity:
 > "O Father, glorify thou me **with thine own self** with **the glory** which **I had with thee before the world was**" ([John 17:5](https://www.biblegateway.com/passage/?search=John+17.5&version=KJV)). This glory was given Him by the Father: "that they may behold **my glory**, which **thou hast given me**" ([John 17:24](https://www.biblegateway.com/passage/?search=John+17.24&version=KJV)).
 
 > [!important] Christ is from all eternity, yet He is only begotten Son of God
-> See [[The Beginning Problem]] for more data that Christ is eternal yet has a beginning. *TLDR*: [[Incomprehensible Mysteries#Mystery of the Sonship of Christ|it is a mistery]]!
+> See [[the-beginning-problem|The Beginning Problem]] for more data that Christ is eternal yet has a beginning. *TLDR*: [[Incomprehensible Mysteries#Mystery of the Sonship of Christ|it is a mistery]]!
 
 > [!example]- Further study
 > See [[The Order of Heaven - By the Bible]] study to examine the glory of Christ as the only begotten of the Father.

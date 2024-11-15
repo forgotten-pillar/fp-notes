@@ -4,6 +4,9 @@ tags:
   - patternMatching
   - father
   - covenantOfPeace
+title: Christ - The Everlasting Father
+permalink: christ-everlasting-father
+description: Discover why Jesus Christ is called 'The everlasting Father' in Isaiah 9:6. Through the biblical parallel of Abraham as a type of Christ, learn how God made Jesus the Father of many nations and gave Him children as an eternal inheritance. Understand this profound biblical concept through key verses from Genesis, John, and Hebrews, supported by Ellen White's insights from The Desire of Ages. A clear explanation of Christ's unique role as both Son of God and Father to the faithful.
 ---
 ![Artistic illustration of patriarch Abraham](https://www.wisdomonline.org/images/r/july-2021-hth-1/c960x540g0-6-1655-937/july-2021-hth-1.jpg)
 

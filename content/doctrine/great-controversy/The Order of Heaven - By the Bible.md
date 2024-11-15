@@ -185,7 +185,7 @@ In [Proverbs 8](https://www.biblegateway.com/passage/?search=Proverbs+8&version=
 
 
 > [!important] "I was set up from everlasting, from the beginning"
-> How can Christ be from everlasting (eternal), and yet from the beginning? This is mathematically contradicting each other. Regardless of that, we have to accept this notion, by the authority of the Word of God. [[The Beginning Problem|Christ is eternal, yet the Bible speaks of a “beginning.”]] He is begotten in the express image of the Father's person.
+> How can Christ be from everlasting (eternal), and yet from the beginning? This is mathematically contradicting each other. Regardless of that, we have to accept this notion, by the authority of the Word of God. [[the-beginning-problem|Christ is eternal, yet the Bible speaks of a “beginning.”]] He is begotten in the express image of the Father's person.
 
 Paul quotes [Psalm 2](https://www.biblegateway.com/passage/?search=Psalm+2&version=KJV) in his sermon in [Acts 13](https://www.biblegateway.com/passage/?search=Acts+13&version=KJV) to confirm the fact that Christ is the Son of God, and that His resurrection is *the most powerful evidence in support of this fact*.
 
@@ -250,7 +250,7 @@ How can we know that Jesus is explaining His position with the Father, even befo
 > [!important] [John 5:26 - KJV](https://www.biblegateway.com/passage/?search=John+5:26&version=kjv)
 > 26. For as the Father hath life in himself; so hath he given to the Son to have life in himself;
 
-The life which is in the Father Himself, is not a human life. His life is [[Original, Unborrowed, Underived Life|the original, unborrowed and underived life]]. This life was given to His Son, so the Son also has original, unborrowed and underived life. Christ did not receive such life in His incarnation, but He had received it when He was [[The Beginning Problem|begotten]] from [[from-all-eternity#Christ from all eternity|all eternity]]
+The life which is in the Father Himself, is not a human life. His life is [[Original, Unborrowed, Underived Life|the original, unborrowed and underived life]]. This life was given to His Son, so the Son also has original, unborrowed and underived life. Christ did not receive such life in His incarnation, but He had received it when He was [[the-beginning-problem|begotten]] from [[from-all-eternity#Christ from all eternity|all eternity]]
 
 In this context, we see that Christ's description of His relationship with the Father is what He had even before He became human. Evidence for this can be found in the text itself.
 

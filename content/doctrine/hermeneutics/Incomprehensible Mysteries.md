@@ -83,9 +83,9 @@ tags:
 
 
 > [!tip] Important
-> What truth is infinitely mysterious and incomprehensible? It is the truth of the divine Son of God’s eternal oneness with the Father. “*Eternal sonship*” is an oxymoron. [[The Beginning Problem|If Christ is eternal, how can He be a Son]]? The answer “*is enshrined in light, unapproachable and incomprehensible*”. 
+> What truth is infinitely mysterious and incomprehensible? It is the truth of the divine Son of God’s eternal oneness with the Father. “*Eternal sonship*” is an oxymoron. [[the-beginning-problem|If Christ is eternal, how can He be a Son]]? The answer “*is enshrined in light, unapproachable and incomprehensible*”. 
 
 
 > [!abstract] Conclusion on the Sonship
-> We cannot logically reconcile two mutual concepts of having [[The Beginning Problem|a beginning]] and being [[from-all-eternity|everlasting]] - "*I was set up from everlasting, from beginning*" Proverbs 8:23. But we accept this testimony, by the authority of the Word of God. It is a mystery. See [[from-all-eternity|From All Eternity]] paradox, in regards to the Plan of Salvation and Christ's relation to it in regards to time.
+> We cannot logically reconcile two mutual concepts of having [[the-beginning-problem|a beginning]] and being [[from-all-eternity|everlasting]] - "*I was set up from everlasting, from beginning*" Proverbs 8:23. But we accept this testimony, by the authority of the Word of God. It is a mystery. See [[from-all-eternity|From All Eternity]] paradox, in regards to the Plan of Salvation and Christ's relation to it in regards to time.
 

@@ -18,7 +18,7 @@ tags:
 > God gives sufficient evidence for the candid mind to believe; but he who turns from the **weight of evidence** because there are a few things which he cannot make plain to his **finite understanding** will be left in the cold, chilling atmosphere of unbelief and questioning doubts, and will make shipwreck of faith. [4T 232.1](https://egwwritings.org/read?panels=p114.1192&index=0)
 
 > [!NOTE]- Example
-> I met many people who doubt the truth that Christ is truly the Son of God, [[The Beginning Problem|begotten in the express image of the Father's person]], because they refuse to accept that Jesus has beginning, yet He is eternal.
+> I met many people who doubt the truth that Christ is truly the Son of God, [[the-beginning-problem|begotten in the express image of the Father's person]], because they refuse to accept that Jesus has beginning, yet He is eternal.
 
 ## No excuse for doubt or skepticism
 
