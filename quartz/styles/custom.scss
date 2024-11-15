@@ -354,3 +354,13 @@ footer.footer {
 #copied-popup {
   display: none;
 }
+
+@media all and ($mobile) {
+  .page>#quartz-body .sidebar.right {
+      position: initial;
+      height: fit-content;
+      flex-direction: column;
+      width: 100%;
+      padding: 0 !important;
+  }
+}
