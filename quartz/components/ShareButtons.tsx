@@ -3,7 +3,8 @@ import script from './scripts/sharebuttons.inline'
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 const ShareButtons: QuartzComponent = ({fileData, displayClass, cfg} : QuartzComponentProps) => {
-    const link = fileData.frontmatter?.permalink ? `https://notefp.link/${fileData.frontmatter.permalink}` : `https://${cfg.baseUrl}/${fileData.slug}`;
+    const path = fileData.frontmatter?.permalink ? fileData.frontmatter.permalink : fileData.slug !== 'index' ? fileData.slug : '';
+    const link = `https://notefp.link/${path}`;
     const facebookAppId = '3807278449520612';
     const facebookLink = `https://www.facebook.com/dialog/share?app_id=${facebookAppId}&display=page&href=${encodeURIComponent(link)}&hashtag=#forgottenpillar`
     const twitterLink = `https://twitter.com/intent/tweet?text=${encodeURIComponent('Check out this note: ' + link)}`
