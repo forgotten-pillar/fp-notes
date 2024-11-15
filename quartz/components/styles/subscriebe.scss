@@ -22,13 +22,17 @@
   }
   
   .email-input {
-    color: #ccc;
+    color: var(--dark);
     background-color: rgba(var(--lightgray), 0.8);
     border: var(--darkgray) 1px solid;
     border-radius: 10px;
     padding: 8px 12px;
     font-size: .75em;
     width: 15em;
+
+    &::placeholder {
+        color: var(---darkgray);
+    }
 }
   
   .subscribe-btn {
