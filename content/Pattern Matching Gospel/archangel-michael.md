@@ -3,6 +3,8 @@ publish: true
 tags:
   - michael
   - JesusOT
+title: Who is Archangel Michael
+description: Explore the biblical evidence revealing how Michael the Archangel is Christ Himself, leading Heaven's armies. Discover compelling scriptural connections through Revelation, Daniel, and New Testament showing Christ as the divine Commander of angelic hosts. Learn why the title 'Archangel' reflects Jesus' position as head of all principalities and powers, and His unique role in the Great Controversy. Essential study on Christ's pre-incarnate appearances in Scripture.
 ---
 ![Archangel Michael](https://cdn.midjourney.com/8c56f1e6-6ade-4cfe-8057-8d8c98fd200e/0_0.png "Artistic imagination of Archangel Michael. No connection with reality, whatsoever!")
 ## Introduction
@@ -94,7 +96,7 @@ Lucifer was the "*covering cherub*" that fell from his exalted position. The des
 
 ![The ark of the covenant](https://content.api.news/v3/images/bin/7f8775fdfd01b2d3c8a127122402db1b "The ark of the covenant")
 
-There are two covering cherubs standing in the presence of God. The first one was Lucifer, and the second was angel Gabriel. Since Lucifer rebelled, the strongest angel in God's army is Gabriel, and he occupied the position of Lucifer. For this reason, Gabriel is the one who is bringing the crucial messages to Daniel and to Mary. In such data we can recognize [[The Order of Heaven - By the Bible|the order in Heaven]].
+There are two covering cherubs standing in the presence of God. The first one was Lucifer, and the second was angel Gabriel. Since Lucifer rebelled, the strongest angel in God's army is Gabriel, and he occupied the position of Lucifer. For this reason, Gabriel is the one who is bringing the crucial messages to Daniel and to Mary. In such data we can recognize [[the-order-of-heaven-by-the-bible|the order in Heaven]].
 
 Satan is stronger than angel Gabriel, but not stronger than archangel Michael. The question is, who is this archangel Michael then, if Lucifer (or Satan) was the highest of angels? Could it be that archangel Michael is not actually an angelic being after all? Let's add new characteristics of archangel Michael:
 
@@ -137,7 +139,7 @@ Good and faithful angels are prohibited to receive worship from men. They always
 
 ![Angel of the Lord](https://cdn.midjourney.com/8c56f1e6-6ade-4cfe-8057-8d8c98fd200e/0_1.png "The angel of the Lord meeting Joshua. Disclaimer: This is artistic representation and it has no ground in reality, whatsoever!")
 
-In [Joshua 5:13-14](https://www.biblegateway.com/passage/?search=Joshua+5.13-14&version=KJV) we have [[The battle for Jericho|an encounter between Joshua]] and "*the captain of the host of the LORD*", which so far we know is the archangel Michael:
+In [Joshua 5:13-14](https://www.biblegateway.com/passage/?search=Joshua+5.13-14&version=KJV) we have [[battle-for-jericho|an encounter between Joshua]] and "*the captain of the host of the LORD*", which so far we know is the archangel Michael:
 
 > [!bible] [Joshua 5:13-14 - KJV](https://www.biblegateway.com/passage/?search=Joshua+5:13-14&version=kjv)
 > 13. And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, **there stood a man** over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, Art thou for us, or for our adversaries?

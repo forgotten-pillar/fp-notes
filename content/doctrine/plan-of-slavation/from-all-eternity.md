@@ -64,4 +64,4 @@ Christ had the glory from the Father, from all eternity:
 > See [[the-beginning-problem|The Beginning Problem]] for more data that Christ is eternal yet has a beginning. *TLDR*: [[Incomprehensible Mysteries#Mystery of the Sonship of Christ|it is a mistery]]!
 
 > [!example]- Further study
-> See [[The Order of Heaven - By the Bible]] study to examine the glory of Christ as the only begotten of the Father.
+> See [[the-order-of-heaven-by-the-bible|The Order of Heaven - By the Bible]] study to examine the glory of Christ as the only begotten of the Father.

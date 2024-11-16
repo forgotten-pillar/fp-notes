@@ -3,6 +3,8 @@ publish: true
 tags:
   - greatControversy
 permalink: order-of-heaven
+title: The Order of Heaven - By the Bible
+description: Explore the biblical evidence for the divine order in Heaven through an analysis of Hebrews 1 and related scriptures. Learn how Christ received His glory from the Father, His position above the angels, and His inheritance as the only begotten Son. Discover key insights about Christ's pre-existence, His glorification after resurrection, and the fullness of divinity He received from God the Father. Essential reading for understanding the Heaven's order and Christ's unique position in it.
 ---
 The following study is the examination of the Scriptures in regards to the Order of Heaven. This order has been strongly emphasized within the writings of Ellen White, and many think that Ellen White is not being Scriptural. Check out the following video on the Great Controversy and the Sonship of Christ: 
 
@@ -311,4 +313,4 @@ It should be kept in mind that God is the head of Christ, as the Father is to th
 This structure that we have studied was the Law in Heaven against which Satan rebelled, because he wanted to be equal with God. This Law is unchangeable! Today it is the same as it was when Satan rebelled, and that same order will remain so for all eternity.
 
 ***
-How can we know the order of Heaven in the relationship with Satan? The Bible shows this in the Controversy between Satan and archangel Michael. Check out [[Who is Archangel Michael]].
+How can we know the order of Heaven in the relationship with Satan? The Bible shows this in the Controversy between Satan and archangel Michael. Check out [[archangel-michael]].
