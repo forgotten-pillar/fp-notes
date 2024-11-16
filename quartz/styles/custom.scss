@@ -399,3 +399,32 @@ footer.footer {
     margin: 0 .9rem 0 .5rem;
   }
 }
+
+div:has(>.overflow) {
+  flex-direction: column;
+}
+
+@media all and ($mobile) {
+  .hamburder-menu {
+    cursor: pointer;
+  }
+
+  .show-explorer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 20;
+    background: var(--light);
+
+    .explorer-wrapper {
+      padding: 2rem;
+    }
+  }
+
+  .explorer-header {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
