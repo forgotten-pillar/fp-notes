@@ -2,7 +2,11 @@ const toggleExplorer = () => {
     const explorerEl = document.getElementById('explorer-el');
     if (explorerEl) {
         explorerEl.classList.toggle('desktop-only');
-        explorerEl.classList.toggle('show-explorer');
+    }
+
+    const articleEl = document.getElementById('center-content');
+    if(articleEl) {
+        articleEl.classList.toggle('desktop-only');
     }
 }
 

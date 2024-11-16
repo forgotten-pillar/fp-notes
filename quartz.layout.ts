@@ -43,8 +43,8 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.Search(),
+    Component.MobileOnly(Component.HamburgerMenu()),
     Component.DesktopOnly(Component.Explorer()),
-    Component.MobileOnly(Component.HamburgerMenu())
   ],
   right: [
     Component.ShareButtons(),

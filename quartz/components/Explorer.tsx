@@ -86,46 +86,37 @@ export default ((userOpts?: Partial<Options>) => {
 
     return (
       <div id="explorer-el" class={classNames(displayClass, "explorer")}>
-        <div class='explorer-wrapper'>
-          <div class='explorer-header mobile-only'>
-            <div id='close-explorer'>
-              <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
-            </div>
-          </div>
-          <div className="explorer-body">
-            <button
-              type="button"
-              id="explorer"
-              data-behavior={opts.folderClickBehavior}
-              data-collapsed={opts.folderDefaultState}
-              data-savestate={opts.useSavedState}
-              data-tree={jsonTree}
-              aria-controls="explorer-content"
-              aria-expanded={opts.folderDefaultState === "open"}
-            >
-              <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="14"
-                height="14"
-                viewBox="5 8 14 8"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                class="fold"
-              >
-                <polyline points="6 9 12 15 18 9"></polyline>
-              </svg>
-            </button>
-            <div id="explorer-content" class="overflow">
-              <ul class="overflow" id="explorer-ul">
-                <ExplorerNode node={fileTree} opts={opts} fileData={fileData} />
-                <li id="explorer-end" />
-              </ul>
-            </div>
-          </div>
+        <button
+          type="button"
+          id="explorer"
+          data-behavior={opts.folderClickBehavior}
+          data-collapsed={opts.folderDefaultState}
+          data-savestate={opts.useSavedState}
+          data-tree={jsonTree}
+          aria-controls="explorer-content"
+          aria-expanded={opts.folderDefaultState === "open"}
+        >
+          <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="14"
+            height="14"
+            viewBox="5 8 14 8"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="fold"
+          >
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </button>
+        <div id="explorer-content">
+          <ul class="overflow" id="explorer-ul">
+            <ExplorerNode node={fileTree} opts={opts} fileData={fileData} />
+            <li id="explorer-end" />
+          </ul>
         </div>
       </div>
     )
