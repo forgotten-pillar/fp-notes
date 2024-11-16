@@ -364,3 +364,21 @@ footer.footer {
       padding: 0 !important;
   }
 }
+
+.meta-item {
+  display: inline-flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.search>.search-button {
+  background-color: var(--highlight);
+  padding: 19px 3px;
+  font-size: .88em;
+  border-radius: 7px; 
+
+  svg {
+    min-width: 18px;
+    margin: 0 .9rem 0 .5rem;
+  }
+}
