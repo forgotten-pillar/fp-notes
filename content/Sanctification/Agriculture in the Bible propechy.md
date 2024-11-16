@@ -3,6 +3,8 @@ publish: false
 tags:
   - trueEducation
   - agriculture
+title: Agriculture in the Bible propechy
+description:
 ---
 2nd Annual Advent UNconference, session by Raquel Vasilache
 
@@ -172,6 +174,3 @@ The way how God is dealing with the heart, we can deal with the seed
 > 9. Then shalt thou call, and the LORD shall answer; thou shalt cry, and he shall say, Here I am. If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking vanity;
 > 10. And if thou draw out thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness be as the noonday:
 > 11. And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.
-
-
-

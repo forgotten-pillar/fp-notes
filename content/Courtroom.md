@@ -1,7 +1,7 @@
 > [!bible] [Deuteronomy 26:15 - KJV](https://www.biblegateway.com/passage/?search=Deuteronomy+26:15&version=kjv)
 > 15. Look down from thy holy habitation, from heaven, and bless thy people Israel, and the land which thou hast given us, as thou swarest unto our fathers, a land that floweth with milk and honey.
 
-
+[]()
 
 > [!bible] [Isaiah 66:1 - KJV](https://www.biblegateway.com/passage/?search=Isaiah+66:1&version=kjv)
 > 1. Thus saith the LORD, The heaven is my throne, and the earth is my footstool: where is the house that ye build unto me? and where is the place of my rest?
