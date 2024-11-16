@@ -109,7 +109,7 @@ a {
 .desktop-only {
   display: initial;
   @media all and ($mobile) {
-    display: none;
+    display: none !important;
   }
 }
 

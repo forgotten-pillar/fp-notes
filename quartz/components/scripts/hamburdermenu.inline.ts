@@ -9,6 +9,11 @@ const toggleExplorer = () => {
         articleEl.classList.toggle('desktop-only');
     }
 
+    const shareButtonsEl = document.getElementById('share-buttons');
+    if(shareButtonsEl) {
+        shareButtonsEl.classList.toggle('desktop-only')
+    }
+
     // Toggle the icons
     const menuIcon = document.getElementById('menu-icon');
     const closeIcon = document.getElementById('close-icon');
