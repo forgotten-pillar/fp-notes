@@ -22,6 +22,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import ShareButtons from "./ShareButtons"
 import Subscriebe from "./Subscriebe"
+import HamburgerMenu from "./HamburgerMenu"
 
 export {
   ArticleTitle,
@@ -47,5 +48,6 @@ export {
   Breadcrumbs,
   Comments,
   ShareButtons,
-  Subscriebe
+  Subscriebe,
+  HamburgerMenu
 }

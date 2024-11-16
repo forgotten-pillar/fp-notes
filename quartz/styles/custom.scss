@@ -363,6 +363,23 @@ footer.footer {
       width: 100%;
       padding: 0 !important;
   }
+
+  .search {
+    flex-grow: 1;
+  }
+
+  .page>#quartz-body .sidebar.left {
+    justify-content: space-between;
+    gap: 1rem
+  }
+
+  .page-title a svg {
+    width: 4rem;
+  }
+}
+
+.search {
+  max-width: 30rem;
 }
 
 .meta-item {

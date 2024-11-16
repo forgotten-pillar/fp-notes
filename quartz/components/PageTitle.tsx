@@ -45,7 +45,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
               <rect width="194.3" height="201.21" fill="white"/>
             </clipPath>
           </defs>
-          <div xmlns="" id="divScriptsUsed" style="display: none"/><script xmlns="" id="globalVarsDetection" src="chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/wrs_env.js"/></svg>
+          <div id="divScriptsUsed" style="display: none"/><script id="globalVarsDetection" src="chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/wrs_env.js"/></svg>
       </a>
     </h2>
   )
