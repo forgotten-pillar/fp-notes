@@ -419,3 +419,9 @@ footer.footer {
     flex-basis: 100%; /* Forces this div to start on a new row */
   }
 }
+
+@media not (min-width: 1200px) {
+  .backlinks>.overflow {
+      height: auto;
+  }
+}
