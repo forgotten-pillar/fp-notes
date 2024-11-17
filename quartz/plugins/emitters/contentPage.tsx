@@ -9,7 +9,7 @@ import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
 import { Argv } from "../../util/ctx"
-import { FilePath, isRelativeURL, joinSegments, pathToRoot } from "../../util/path"
+import { FilePath, FullSlug, isRelativeURL, joinSegments, pathToRoot } from "../../util/path"
 import { defaultContentPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { Content } from "../../components"
 import chalk from "chalk"
@@ -106,7 +106,9 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
           containsIndex = true
         }
 
-        const externalResources = pageResources(pathToRoot(slug), resources)
+        const externalResources = pageResources('/' as FullSlug, resources)
+        // const externalResources = pageResources(pathToRoot(slug), resources) // original
+      
         const componentData: QuartzComponentProps = {
           ctx,
           fileData: file.data,
