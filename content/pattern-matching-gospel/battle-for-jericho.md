@@ -31,17 +31,3 @@ And it is an exceedingly interesting fact to those who keep "*the commandments o
 
 ![Jericho](https://cdn.midjourney.com/c43f22bc-18a9-4a92-ae6c-5c360534a631/0_3.png "Fallen Jericho")
 
-Some connection to another note like [[archangel-michael| Archange Michael]], which is an internal link.
-
-> [!bible] [Revelation 12:6 - KJV](https://www.biblegateway.com/passage/?search=Revelation+12:6&version=kjv)
-> 6. And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred and  threescore days.
-
-[revelation 14:7](https://www.biblegateway.com/passage/?search=revelation+14.7&version=KJV) and i Got to link
-
-
-> [!egw] Ellen White quote
-> Some quotation
-
-
-> [!important] IMportnat callout
-> SOm content
