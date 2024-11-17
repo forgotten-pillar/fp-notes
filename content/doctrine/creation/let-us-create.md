@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Let US create
+description: Explore compelling evidence from the Bible and the Spirit of Prophecy that reveals the meaning of 'Let us create' as a conversation between God the Father and His Son, Jesus Christ, in the act of creation.
 ---
 In Heaven, long before the earth was created:
-
 
 > [!egw] [{EGW; EW 145.1; 1882}](https://legacy.egwwritings.org/?ref=en_EW.145.1&para=28.787)
 > “Satan was once an honored angel in heaven, next to Christ. His countenance, like those of the other angels, was mild and expressive of happiness. His forehead was high and broad, showing great intelligence. His form was perfect; his bearing noble and majestic. **But when God said to His Son**, ‘*Let us make man in our image*,’ Satan was jealous of Jesus. He wished to be consulted concerning the formation of man, and because he was not, he was filled with envy, jealousy, and hatred. He desired to receive the highest honors in heaven next to God.” 

@@ -15,6 +15,9 @@ description: Discover why Jesus Christ is called 'The everlasting Father' in Isa
 > [!bible] [Isaiah 9:6 - KJV](https://www.biblegateway.com/passage/?search=Isaiah+9:6&version=kjv)
 > 6. For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, **The everlasting Father**, The Prince of Peace.
 
+> [!info]- TLDR
+> Christ is the father, not to Himself, or to His Father, rather He is the father to us, for He said: "Behold, I and **the children whom the LORD hath given me**" [Isaiah 8:18](https://www.biblegateway.com/passage/?search=Isaiah+8.18&version=KJV); [Hebrews 2:13](https://www.biblegateway.com/passage/?search=Hebrews+2.13&version=KJV)
+
 Here Christ is said to be called "*The everlasting Father*." This confuses some people and has led others to wrong conclusions. This quote can be better and more easily understood through Abraham, as Abraham is a type of Christ. No prophet or other biblical figure is a perfect representative of Christ, but they are [[Types and Antitypes | types of Christ]] in some details, some more and some less. Let's examine how [[Abraham - type of Christ|Abraham is a type of Christ]] and how God, speaking to Abraham, is actually speaking to and about Christ, revealing to us [[The Covenant between the Father and the Son|the Covenant that exists between Him and His Son]].
 
 Abraham was told: 
