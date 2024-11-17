@@ -106,8 +106,8 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
           containsIndex = true
         }
 
-        const externalResources = pageResources('/' as FullSlug, resources)
-        // const externalResources = pageResources(pathToRoot(slug), resources) // original
+        // const externalResources = pageResources('/' as FullSlug, resources) // mittigation of the trailing slashes, but fixed by vercel.json
+        const externalResources = pageResources(pathToRoot(slug), resources) // original
       
         const componentData: QuartzComponentProps = {
           ctx,
