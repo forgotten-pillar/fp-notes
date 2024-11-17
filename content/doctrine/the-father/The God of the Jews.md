@@ -47,3 +47,7 @@ Jesus pointed to the Father.
 
 > [!TODO]
 > Contninue
+
+
+> [!egw] [21LtMs, Ms38, 1906](https://egwwritings.org/read?panels=p14071.9662048&index=0)
+> Some are to depart from the faith. Where are they? Who are they? Who is departing from the faith laid down, **the very foundation that we were on a whole century ago**? We are on the **very same foundation**; we have the same evidence, and **we worked on it day and night**, to know in regard to the sanctuary question, **and in regard to the personality of God, and of Christ, and of all these subjects**.
