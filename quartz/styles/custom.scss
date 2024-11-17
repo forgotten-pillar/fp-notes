@@ -490,3 +490,9 @@ body {
 ::-webkit-scrollbar {
   display: none; /* Hides scrollbar in webkit-based browsers */
 }
+
+#explorer-content li a {
+  line-height: 1.45rem;
+  display: inline-block;
+  margin-bottom: 5px;
+}
