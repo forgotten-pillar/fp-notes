@@ -382,12 +382,12 @@ footer.footer {
 }
 .graph>#global-graph-icon {
   opacity: 1;
+  color: var(--darkgray)
 }
 
 .share-panel {
   display: flex;
   gap: 1em;
-  color: var(--darkgray)
 }
 
 #copy-link {
