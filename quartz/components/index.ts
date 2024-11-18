@@ -23,6 +23,7 @@ import Comments from "./Comments"
 import ShareButtons from "./ShareButtons"
 import Subscriebe from "./Subscriebe"
 import HamburgerMenu from "./HamburgerMenu"
+import GraphMini from "./GraphMini"
 
 export {
   ArticleTitle,
@@ -49,5 +50,6 @@ export {
   Comments,
   ShareButtons,
   Subscriebe,
-  HamburgerMenu
+  HamburgerMenu,
+  GraphMini
 }

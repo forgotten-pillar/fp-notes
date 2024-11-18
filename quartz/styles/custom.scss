@@ -366,10 +366,22 @@ footer.footer {
     align-items: flex-start;
   }
 
-  .darkmode-toggle {
+  .footer-components {
     align-self: flex-end;
     margin-top: 2em;
   }
+}
+
+.footer-components {
+  display: flex;
+  align-items: center;
+
+  button.darkmode {
+    opacity: .7;
+  }
+}
+.graph>#global-graph-icon {
+  opacity: 1;
 }
 
 .share-panel {

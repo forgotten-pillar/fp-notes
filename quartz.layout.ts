@@ -29,6 +29,7 @@ export const sharedPageComponents: SharedLayout = {
       Contribute: "/contribute",
       RSS: "/index.xml",
     },
+    components: [Component.GraphMini(), Component.Darkmode()]
   }),
 }
 
@@ -50,7 +51,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ShareButtons(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    // Component.Graph(),
+    // Component.GraphMini(),
   ],
 }
 
@@ -59,10 +60,11 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    Component.MobileOnly(Component.HamburgerMenu()),
     Component.DesktopOnly(Component.Explorer()),
+    // Component.Darkmode(),
+    // Component.GraphMini()
   ],
   right: [],
 }

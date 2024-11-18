@@ -13,7 +13,7 @@ import {
   pathToRoot,
 } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
-import { TagContent } from "../../components"
+import { Darkmode, GraphMini, TagContent } from "../../components"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
 import DepGraph from "../../depgraph"
@@ -37,6 +37,9 @@ export const TagPage: QuartzEmitterPlugin<Partial<TagPageOptions>> = (userOpts) 
   return {
     name: "TagPage",
     getQuartzComponents() {
+      const DarkModeComponent = Darkmode();
+      const GraphMiniComponent = GraphMini();
+
       return [
         Head,
         Header,
@@ -48,6 +51,8 @@ export const TagPage: QuartzEmitterPlugin<Partial<TagPageOptions>> = (userOpts) 
         ...left,
         ...right,
         Footer,
+        DarkModeComponent,
+        GraphMiniComponent
       ]
     },
     async getDependencyGraph(ctx, content, _resources) {

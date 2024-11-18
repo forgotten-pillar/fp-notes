@@ -2,10 +2,10 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import style from "./styles/footer.scss"
 import { version } from "../../package.json"
 import { i18n } from "../i18n"
-import { Darkmode } from "../components"
 
 interface Options {
-  links: Record<string, string>
+  links: Record<string, string>,
+  components?: QuartzComponent[]
 }
 
 export default ((opts?: Options) => {
@@ -13,7 +13,7 @@ export default ((opts?: Options) => {
     const { displayClass, cfg } = componentData;
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
-    const DarkModeComponent = Darkmode();
+
     return (
       <footer class={`${displayClass ?? ""} footer`}>
         <div class="links">
@@ -29,8 +29,8 @@ export default ((opts?: Options) => {
             ))}
           </ul>
         </div>
-        <div class="darkmode-toggle">
-            <DarkModeComponent {...componentData} />
+        <div class="footer-components">
+          {opts?.components && opts?.components.map((FooterComponent) => <FooterComponent {...componentData} />)}
         </div>
       </footer>
     )
