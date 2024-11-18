@@ -510,8 +510,8 @@ body {
   margin-bottom: 5px;
 }
 
-#toc-content ul>li>a {
-  line-height: 1.3rem;
+#toc-content ul>li>a, .backlinks>ul>li>a {
+  line-height: 1.4rem;
   display: inline-block;
   margin-bottom: 6px;
 }
