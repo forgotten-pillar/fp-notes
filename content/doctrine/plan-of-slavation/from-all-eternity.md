@@ -23,7 +23,7 @@ permalink: from-all-eternity
 
 
 > [!important] Important
-> Just because the Plan of Redemption is eternal [^1], it doesn't mean it was never devised. To conclude that, it would be contrary to the testimony. Regardless that it seems contradicting, the Testimonies have authority. It says that there was a time before time commenced.
+> Just because the Plan of Redemption is eternal, it doesn't mean it was never devised. To conclude that, it would be contrary to the testimony. Regardless that it seems contradicting, the Testimonies have authority. It says that there was a time before time commenced.
 
 
 > [!egw] [7LtMs, Lt 27, 1892, par. 20](https://egwwritings.org/read?panels=p14057.5156026&index=0)
@@ -75,4 +75,3 @@ Christ had the glory from the Father, from all eternity:
 > [!example]- Further study
 > See [[the-order-of-heaven-by-the-bible|The Order of Heaven - By the Bible]] study to examine the glory of Christ as the only begotten of the Father.
 
-[^1]: [[Human Rites]] p80
