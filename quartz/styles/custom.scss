@@ -550,6 +550,11 @@ ul.tags a.tag-link {
   .callout.is-collapsible.is-collapsed {
       max-height: none !important; /* Override collapsed max-height */
   }
+
+  .callout .callout-icon{
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
 }
 
 @page {
