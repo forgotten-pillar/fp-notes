@@ -589,3 +589,15 @@ p.print-meta {
   font-size: 3rem;
   padding-bottom: 1rem;
 }
+
+.forward-link {
+  color: var(--secondary);
+  font-weight: 600;
+  text-decoration: none;
+  transition: color .2s;
+  background-color: var(--highlight);
+  border-radius: 5px;
+  padding: 0 .1rem;
+  line-height: 1.4rem;
+  text-decoration: none;
+}
