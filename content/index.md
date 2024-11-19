@@ -6,6 +6,8 @@ description: Join the Forgotten Pillar project's journey to rediscover Adventist
 
 ***Attention**: these notes are work in progress*
 
+## About
+
 > [!bible] [1 Peter 3:15 - KJV](https://www.biblegateway.com/passage/?search=1+Peter+3:15&version=kjv)
 > 15. ... **be ready** always to **give an answer to every man** *that asketh* you **a reason of the hope that is in you** with meekness and fear
 
@@ -17,6 +19,7 @@ Blessings,
 > [!bible] [Revelation 12:11 - KJV](https://www.biblegateway.com/passage/?search=Revelation+12:11&version=kjv)
 > 11. And they overcame him [*the great dragon, that old serpent, called the Devil*] by the blood of the Lamb, and **by the word of their testimony**; ...
 
+***
 ## How to Use This Site?
 
 One note represents one idea, providing data for that specific idea. The notes should be about data, and not opinions. At the beginning of the note, there might be *an abstract* expressing the idea, but beneath should be data. But wait, there is a hierarchy of thoughts! Ideas are interconnected with each other. For this reason, notes are linked between each other.
