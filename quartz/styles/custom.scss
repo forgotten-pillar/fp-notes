@@ -533,7 +533,8 @@ ul.tags a.tag-link {
   }
 
   h1 {
-    margin-top: 0 !important
+    margin-top: 0 !important;
+    font-size: 2.5rem;
   }
 
   /* Ensure all collapsible callouts are fully expanded */
@@ -572,4 +573,10 @@ p.print-meta {
 .print-button {
   padding-right: 9px;
   cursor: pointer;
+}
+
+/* Make first title big */
+.popover-hint > h1:first-child {
+  font-size: 3rem;
+  padding-bottom: 1rem;
 }

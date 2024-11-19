@@ -4,8 +4,7 @@ title: Welcome to the Forgotten Pillar Notes
 description: Join the Forgotten Pillar project's journey to rediscover Adventist identity through interconnected Bible study notes. Explore detailed theological research that examines our spiritual heritage and Biblical foundations.
 ---
 
-> [!attention]
-> These notes are work in progress
+***Attention**: these notes are work in progress*
 
 > [!bible] [1 Peter 3:15 - KJV](https://www.biblegateway.com/passage/?search=1+Peter+3:15&version=kjv)
 > 15. ... **be ready** always to **give an answer to every man** *that asketh* you **a reason of the hope that is in you** with meekness and fear
