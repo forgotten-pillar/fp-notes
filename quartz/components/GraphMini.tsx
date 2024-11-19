@@ -61,7 +61,7 @@ export default ((opts?: GraphOptions) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
-      <div class={classNames(displayClass, "graph")}>
+      <div class={classNames(displayClass, "graph")} id="graph-mini">
         <button id="global-graph-icon" aria-label="Global Graph">
             <svg
               version="1.1"
