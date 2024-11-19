@@ -556,6 +556,15 @@ ul.tags a.tag-link {
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
   }
+
+  .center-container p > img {
+    padding: 0 10%;
+    border-right: #448aff05 solid 1px;
+  }
+
+  .center-container p img {
+    width: 80%;
+  }
 }
 
 @page {

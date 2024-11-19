@@ -22,7 +22,7 @@ Blessings,
 ***
 ## How to Use This Site?
 
-One note represents one idea, providing data for that specific idea. The notes should be about data, and not opinions. At the beginning of the note, there might be *an abstract* expressing the idea, but beneath should be data. But wait, there is a hierarchy of thoughts! Ideas are interconnected with each other. For this reason, notes are linked between each other.
+This is *a knowledge management* tool. One note represents one idea, providing data for that specific idea. The notes should be about data, and not opinions. At the beginning of the note, there might be *an abstract* expressing the idea, but beneath should be data. But wait, there is a hierarchy of thoughts! Ideas are interconnected with each other. For this reason, notes are linked between each other.
 
 ### Forward Links and Backlinks
 
