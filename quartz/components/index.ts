@@ -24,6 +24,8 @@ import ShareButtons from "./ShareButtons"
 import Subscriebe from "./Subscriebe"
 import HamburgerMenu from "./HamburgerMenu"
 import GraphMini from "./GraphMini"
+import PrintMeta from "./PrintMeta"
+import PrintButton from "./PrintButton"
 
 export {
   ArticleTitle,
@@ -51,5 +53,7 @@ export {
   ShareButtons,
   Subscriebe,
   HamburgerMenu,
-  GraphMini
+  GraphMini,
+  PrintMeta,
+  PrintButton,
 }

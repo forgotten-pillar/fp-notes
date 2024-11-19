@@ -203,7 +203,7 @@ export function renderPage(
   const Body = BodyConstructor()
 
   const LeftComponent = (
-    <div class="left sidebar">
+    <div class="left sidebar no-print">
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
@@ -211,7 +211,7 @@ export function renderPage(
   )
 
   const RightComponent = (
-    <div class="right sidebar">
+    <div class="right sidebar no-print">
       {right.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
@@ -245,7 +245,7 @@ export function renderPage(
               <Content {...componentData} />
               {slug === 'recent-notes' && <RecentNotesComponent {...componentData} />}
               <hr />
-              <div class="page-footer">
+              <div class="page-footer no-print">
                 {afterBody.map((BodyComponent) => (
                   <BodyComponent {...componentData} />
                 ))}

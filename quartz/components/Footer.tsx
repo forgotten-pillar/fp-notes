@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
 
     return (
-      <footer class={`${displayClass ?? ""} footer`}>
+      <footer class={`${displayClass ?? ""} footer no-print`}>
         <div class="links">
           <p>
             <a href="https://forgottenpillar.com" target='_blank'>The Forgotten Pillar Project</a>{" | "}
