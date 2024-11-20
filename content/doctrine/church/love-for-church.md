@@ -5,6 +5,7 @@ description: Discover the biblical response to church apostasy through the eyes 
 fp-social-media: "Apostasy in God's church: Your reaction reveals your character."
 tags:
   - apostasy
+permalink: love-for-apostate-church
 ---
 
 > [!abstract]- Abstract
