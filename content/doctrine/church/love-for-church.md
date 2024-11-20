@@ -19,7 +19,7 @@ How should we act when we are being treated wrongly, when we see God's truth bei
 > 15. Who both **killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men**:
 > 16. **Forbidding us to speak to the Gentiles** that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost.
 
-Paul witnessed several aspects of the Jewish church's apostasy:
+The context of Paul's writings is the Jewish church before the destruction of Jerusalem. He mentions several factors of the church's apostasy:
 - Forbidding them to speak
 - Persecuting them
 - Killing their own prophets
