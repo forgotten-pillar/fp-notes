@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Love for the Church while it is in apostasy
+title: Love for the Church While It Is in Apostasy
 description: Discover the biblical response to church apostasy through the eyes of Paul, Moses, and Christ. When leaders fail and truth is compromised, should we judge or show compassion? Learn what characterizes those who receive God's seal in times of church crisis.
 fp-social-media: "Apostasy in God's church: Your reaction reveals your character."
 tags:
