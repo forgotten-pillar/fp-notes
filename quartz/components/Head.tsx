@@ -13,12 +13,13 @@ export default (() => {
       fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description
     const { css, js } = externalResources
 
-    const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
+    const url = new URL(`https://${cfg.baseUrl ?? "notes.forgottenpillar.com"}`)
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = 'https://forgotten-pillar.s3.us-east-2.amazonaws.com/fp-notes-logo.svg'
-
+    const pathForUrl = fileData.frontmatter?.permalink ? fileData.frontmatter.permalink : fileData.slug !== 'index' ? fileData.slug : '';
+    const link = `https://notefp.link/${pathForUrl}`;
     const ogImagePath = fileData?.frontmatter?.title ? `https://forgottenpillar.com/api/og-notes?title=${encodeURIComponent(fileData.frontmatter?.title)}` : 'https://forgotten-pillar.s3.us-east-2.amazonaws.com/og-notes.png'
 
     // Prepare JSON-LD structured data
@@ -63,6 +64,7 @@ export default (() => {
         <meta property="og:width" content="1200" />
         <meta property="og:height" content="675" />
         <meta property="og:type" content="website" />
+        <meta property="og:url" content={link} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
