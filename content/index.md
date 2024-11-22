@@ -54,6 +54,9 @@ Notes are print-ready. Click the <a href="#print-button" aria-label="relative li
 
 By clicking the <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-copy"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg> button, you can get a shortened URL of the note, suitable for sharing on social media.
 
+### Audio Player
+
+Some of the notes on this site include **narration powered by ElevenLabs**. When available, you can use the integrated audio player to listen to the content for a more engaging and accessible experience.
 
 > [!tip] Want to contribute to the notes
 > See [[contribution| the contribution guide]]
