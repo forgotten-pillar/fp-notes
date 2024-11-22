@@ -152,8 +152,12 @@ function replaceWidgetTagWithIframe(): void {
   });
   
   // Calling in case script was loaded after window.load event - useEffect in React or similar
-  replaceWidgetTagWithIframe();
-
+//   replaceWidgetTagWithIframe();
 
 
  // fixing SPA
+document.addEventListener("nav", function(event) {
+    replaceWidgetTagWithIframe();
+  });
+
+
