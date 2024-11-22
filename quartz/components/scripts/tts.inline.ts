@@ -15,32 +15,33 @@ if (audioPlayerContainer != null) {
   audioPlayerContainer.parentNode?.insertBefore(placeholderDiv, audioPlayerContainer.nextSibling);
 
   function handleStickyScroll() {
-
-    if(audioPlayerContainer == null) return;
-
+    if (audioPlayerContainer == null) return;
+  
     const containerRect = audioPlayerContainer.getBoundingClientRect();
     const placeholderRect = placeholderDiv.getBoundingClientRect();
     
-    if(!audioPlayerContainer.parentElement || !audioPlayerContainer.parentElement.offsetWidth) {
+    if (!audioPlayerContainer.parentElement || !audioPlayerContainer.parentElement.offsetWidth) {
       return;
     }
-
+  
     const parentWidth = audioPlayerContainer.parentElement.offsetWidth;
     const isMobileView = window.innerWidth <= 800;
-
+  
+    // Get the footer's position
+    const footer = document.querySelector('footer');
+    const footerRect = footer ? footer.getBoundingClientRect() : null;
+  
     if (containerRect.bottom <= 0 && !isSticky) {
       audioPlayerContainer.classList.add('sticky-audio-player');
       
       if (isMobileView) {
-        // For mobile, set to 100% width and align to page start
         audioPlayerContainer.style.width = '100%';
         audioPlayerContainer.style.left = '0';
       } else {
-        // For desktop, match parent width
         audioPlayerContainer.style.width = `${parentWidth}px`;
         audioPlayerContainer.style.left = 'auto';
       }
-
+  
       placeholderDiv.style.display = 'block';
       isSticky = true;
     } else if (placeholderRect.top >= 0 && isSticky) {
@@ -49,6 +50,16 @@ if (audioPlayerContainer != null) {
       audioPlayerContainer.style.left = 'auto';
       placeholderDiv.style.display = 'none';
       isSticky = false;
+    }
+  
+    // Adjust for footer overlap
+    if (footerRect && isSticky) {
+      const overlap = window.innerHeight - footerRect.top;
+      if (overlap > 0) {
+        audioPlayerContainer.style.transform = `translateY(-${overlap}px)`;
+      } else {
+        audioPlayerContainer.style.transform = 'translateY(0)';
+      }
     }
   }
 
