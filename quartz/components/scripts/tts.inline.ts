@@ -19,7 +19,7 @@ if (audioPlayerContainer != null) {
   
     const containerRect = audioPlayerContainer.getBoundingClientRect();
     const placeholderRect = placeholderDiv.getBoundingClientRect();
-    
+  
     if (!audioPlayerContainer.parentElement || !audioPlayerContainer.parentElement.offsetWidth) {
       return;
     }
@@ -56,9 +56,11 @@ if (audioPlayerContainer != null) {
     if (footerRect && isSticky) {
       const overlap = window.innerHeight - footerRect.top;
       if (overlap > 0) {
-        audioPlayerContainer.style.transform = `translateY(-${overlap}px)`;
+        audioPlayerContainer.style.opacity = '0';
+        audioPlayerContainer.style.pointerEvents = 'none';
       } else {
-        audioPlayerContainer.style.transform = 'translateY(0)';
+        audioPlayerContainer.style.opacity = '1';
+        audioPlayerContainer.style.pointerEvents = 'auto';
       }
     }
   }
