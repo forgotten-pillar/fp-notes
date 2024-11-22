@@ -16,7 +16,12 @@ audioPlayerContainer.parentNode?.insertBefore(placeholderDiv, audioPlayerContain
 function handleStickyScroll() {
   const containerRect = audioPlayerContainer.getBoundingClientRect();
   const placeholderRect = placeholderDiv.getBoundingClientRect();
-  const parentWidth = audioPlayerContainer.parentElement!.offsetWidth;
+  
+  if(!audioPlayerContainer.parentElement) {
+    return;
+  }
+  
+  const parentWidth = audioPlayerContainer.parentElement.offsetWidth;
   const isMobileView = window.innerWidth <= 800;
 
   if (containerRect.bottom <= 0 && !isSticky) {
