@@ -156,27 +156,6 @@ function replaceWidgetTagWithIframe(): void {
 
 
   // fixing SPA
-//   function observeSlugChanges() {
-//     const body = document.body;
-  
-//     // Ensure the <body> exists and has the data-slug attribute
-//     if (body && body.hasAttribute("data-slug")) {
-//       const observer = new MutationObserver((mutationsList) => {
-//         for (const mutation of mutationsList) {
-//           if (
-//             mutation.type === "attributes" &&
-//             mutation.attributeName === "data-slug"
-//           ) {
-//             // Call the function when the slug changes
-//             replaceWidgetTagWithIframe();
-//           }
-//         }
-//       });
-  
-//       // Observe changes to the attributes of <body>
-//       observer.observe(body, { attributes: true });
-//     }
-//   }
-  
-//   // Initialize the observer
-//   observeSlugChanges();
+  document.addEventListener("nav", () => {
+    replaceWidgetTagWithIframe();
+  });
