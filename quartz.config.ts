@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "The Forgotten Pillar Notes",
     pageTitleSuffix: " | The Forgotten Pillar Notes",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: {
       provider: "posthog",
