@@ -6,6 +6,7 @@ tags:
   - righteousnessByFaith
 description: Uncover the divine encounter between Joshua and the mysterious Captain of God's army at Jericho. Learn how the Son of God led invisible heavenly forces to victory. Explore this powerful Biblical account today!
 title: The battle for Jericho
+tts: true
 ---
 ![Joshua](https://cdn.midjourney.com/2462d7fd-1664-4611-8211-a8e1bb6593f1/0_0.png "Artistic imagination of Joshua. Disclaimer: There is no connection to reality, whatsoever!")
 
