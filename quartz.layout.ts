@@ -41,6 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.PrintMeta(),
     Component.TagList(),
+    // Component.MobileOnly(Component.ShareButtons()),
     Component.TTS(),
   ],
   left: [

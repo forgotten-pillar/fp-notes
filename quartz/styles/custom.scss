@@ -601,3 +601,17 @@ p.print-meta {
   line-height: 1.4rem;
   text-decoration: none;
 }
+
+.tts iframe {
+  border-radius: 5px;
+}
+.sticky-audio-player {
+  position: fixed;
+  top: 0;
+  width: 100%; /* or specific width */
+  z-index: 100; /* ensure it's above other content */
+}
+#tts {
+  transition: all 0.3s ease;
+  background-color: white;
+}

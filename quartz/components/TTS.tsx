@@ -1,4 +1,5 @@
-import { pathToRoot, slugTag } from "../util/path"
+// @ts-ignore
+import initTTSObserver from "./scripts/tts.inline"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
@@ -7,7 +8,7 @@ const TTS: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) 
   
   if (tts) {
     return (
-      <div class={classNames(displayClass, "tts")}>
+      <div id="tts" class={classNames(displayClass, "tts")}>
         <div 
             id="elevenlabs-audionative-widget"
             data-height="90"
@@ -26,5 +27,8 @@ const TTS: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) 
     return null
   }
 }
+
+// Make sure the script runs after DOM is loaded
+TTS.afterDOMLoaded = initTTSObserver;
 
 export default (() => TTS) satisfies QuartzComponentConstructor
