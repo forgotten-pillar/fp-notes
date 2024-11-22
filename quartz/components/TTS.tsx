@@ -6,11 +6,14 @@ import { classNames } from "../util/lang"
 const TTS: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const tts = fileData.frontmatter?.tts
   
-//   const lightTheme = document.documentElement.getAttribute('saved-theme') !== 'dark';
+//   const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
+//   const currentTheme = localStorage.getItem("theme") ?? userPref
+//   const lightTheme = currentTheme === 'light'
+// write a script where you will address #elevenlabs-audionative-widget and add data-background
 
   if (tts) {
     return (
-      <div id="tts" class={classNames(displayClass, "tts")}>
+      <div id="tts" class={classNames(displayClass, "tts no-print")}>
         <div 
             id="elevenlabs-audionative-widget"
             data-height="90"
