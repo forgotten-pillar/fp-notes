@@ -1,6 +1,6 @@
 // Check if .tts element exists
 const audioPlayerContainer = document.getElementById('tts');
-if (audioPlayerContainer) {
+if (audioPlayerContainer != null) {
   const placeholderDiv = document.createElement('div');
 
   // Track whether the element is currently sticky
@@ -15,6 +15,9 @@ if (audioPlayerContainer) {
   audioPlayerContainer.parentNode?.insertBefore(placeholderDiv, audioPlayerContainer.nextSibling);
 
   function handleStickyScroll() {
+
+    if(audioPlayerContainer == null) return;
+
     const containerRect = audioPlayerContainer.getBoundingClientRect();
     const placeholderRect = placeholderDiv.getBoundingClientRect();
     
