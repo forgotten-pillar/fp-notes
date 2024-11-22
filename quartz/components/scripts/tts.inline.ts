@@ -37,9 +37,11 @@ if (audioPlayerContainer != null) {
       if (isMobileView) {
         audioPlayerContainer.style.width = '100%';
         audioPlayerContainer.style.left = '0';
+        audioPlayerContainer.style.translate = '0';
       } else {
         audioPlayerContainer.style.width = `${parentWidth}px`;
         audioPlayerContainer.style.left = 'auto';
+        audioPlayerContainer.style.translate = '-12px';
       }
   
       placeholderDiv.style.display = 'block';
