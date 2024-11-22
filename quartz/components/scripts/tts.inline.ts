@@ -14,22 +14,37 @@ placeholderDiv.style.display = 'none';
 audioPlayerContainer.parentNode?.insertBefore(placeholderDiv, audioPlayerContainer.nextSibling);
 
 function handleStickyScroll() {
-    const containerRect = audioPlayerContainer.getBoundingClientRect();
-    const parentWidth = audioPlayerContainer.parentElement!.offsetWidth;
-    const placeholderRect = placeholderDiv.getBoundingClientRect();
-  
-    if (containerRect.bottom <= 0 && !isSticky) {
-      audioPlayerContainer.classList.add('sticky-audio-player');
-      audioPlayerContainer.style.width = `${parentWidth}px`; // Set explicit width
-      placeholderDiv.style.display = 'block';
-      isSticky = true;
-    } else if (placeholderRect.top >= 0 && isSticky) {
-      audioPlayerContainer.classList.remove('sticky-audio-player');
-      audioPlayerContainer.style.width = 'auto'; // Reset to original
-      placeholderDiv.style.display = 'none';
-      isSticky = false;
+  const containerRect = audioPlayerContainer.getBoundingClientRect();
+  const placeholderRect = placeholderDiv.getBoundingClientRect();
+  const parentWidth = audioPlayerContainer.parentElement!.offsetWidth;
+  const isMobileView = window.innerWidth <= 800;
+
+  if (containerRect.bottom <= 0 && !isSticky) {
+    audioPlayerContainer.classList.add('sticky-audio-player');
+    
+    if (isMobileView) {
+      // For mobile, set to 100% width and align to page start
+      audioPlayerContainer.style.width = '100%';
+      audioPlayerContainer.style.left = '0';
+    } else {
+      // For desktop, match parent width
+      audioPlayerContainer.style.width = `${parentWidth}px`;
+      audioPlayerContainer.style.left = 'auto';
     }
+
+    placeholderDiv.style.display = 'block';
+    isSticky = true;
+  } else if (placeholderRect.top >= 0 && isSticky) {
+    audioPlayerContainer.classList.remove('sticky-audio-player');
+    audioPlayerContainer.style.width = 'auto';
+    audioPlayerContainer.style.left = 'auto';
+    placeholderDiv.style.display = 'none';
+    isSticky = false;
   }
+}
+
+// Add resize event listener to handle view changes
+window.addEventListener('resize', handleStickyScroll);
 
 // Add scroll event listener
 window.addEventListener('scroll', handleStickyScroll);
