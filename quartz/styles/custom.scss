@@ -610,7 +610,8 @@ p.print-meta {
   top: 0;
   width: 100%; /* or specific width */
   z-index: 100; /* ensure it's above other content */
-  
+  transition: transform 0.3s ease
+
   iframe {
     border-top-left-radius: 0;
     border-top-right-radius: 0;

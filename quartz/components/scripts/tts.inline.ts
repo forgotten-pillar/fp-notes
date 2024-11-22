@@ -5,6 +5,8 @@ if (audioPlayerContainer != null) {
 
   // Track whether the element is currently sticky
   let isSticky = false;
+  let lastScrollTop = window.pageYOffset || document.documentElement.scrollTop;
+  let isVisible = true;
 
   // Clone dimensions of original container
   placeholderDiv.style.width = `${audioPlayerContainer.offsetWidth}px`;
@@ -15,7 +17,6 @@ if (audioPlayerContainer != null) {
   audioPlayerContainer.parentNode?.insertBefore(placeholderDiv, audioPlayerContainer.nextSibling);
 
   function handleStickyScroll() {
-
     if(audioPlayerContainer == null) return;
 
     const containerRect = audioPlayerContainer.getBoundingClientRect();
@@ -25,30 +26,51 @@ if (audioPlayerContainer != null) {
       return;
     }
 
+    const currentScrollTop = window.pageYOffset || document.documentElement.scrollTop;
     const parentWidth = audioPlayerContainer.parentElement.offsetWidth;
     const isMobileView = window.innerWidth <= 800;
+
+    // Determine scroll direction
+    const isScrollingDown = currentScrollTop > lastScrollTop;
+    lastScrollTop = currentScrollTop;
 
     if (containerRect.bottom <= 0 && !isSticky) {
       audioPlayerContainer.classList.add('sticky-audio-player');
       
       if (isMobileView) {
-        // For mobile, set to 100% width and align to page start
         audioPlayerContainer.style.width = '100%';
         audioPlayerContainer.style.left = '0';
       } else {
-        // For desktop, match parent width
         audioPlayerContainer.style.width = `${parentWidth}px`;
         audioPlayerContainer.style.left = 'auto';
       }
 
       placeholderDiv.style.display = 'block';
       isSticky = true;
-    } else if (placeholderRect.top >= 0 && isSticky) {
+    } 
+    
+    // Handle visibility when sticky
+    if (isSticky) {
+      if (isScrollingDown && isVisible) {
+        // Scroll down: hide
+        audioPlayerContainer.style.transform = 'translateY(-100%)';
+        isVisible = false;
+      } else if (!isScrollingDown && !isVisible) {
+        // Scroll up: show
+        audioPlayerContainer.style.transform = 'translateY(0)';
+        isVisible = true;
+      }
+    }
+
+    // Reset to original state
+    if (placeholderRect.top >= 0 && isSticky) {
       audioPlayerContainer.classList.remove('sticky-audio-player');
       audioPlayerContainer.style.width = 'auto';
       audioPlayerContainer.style.left = 'auto';
+      audioPlayerContainer.style.transform = 'translateY(0)';
       placeholderDiv.style.display = 'none';
       isSticky = false;
+      isVisible = true;
     }
   }
 
