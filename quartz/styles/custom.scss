@@ -607,10 +607,15 @@ p.print-meta {
 }
 .sticky-audio-player {
   position: fixed;
-  bottom: -5px;
+  bottom: -5px; /* Adjust as needed for the initial position */
   z-index: 100;
-  transition: transform 0.3s ease;
+  transition: bottom 0.3s ease, opacity 0.3s ease; /* Smooth transition */
+  opacity: 1; /* Fully visible by default */
 
+  &.hidden {
+    bottom: -50px; /* Moves the player down when hidden */
+    opacity: 0; /* Makes it transparent */
+  }
 
   iframe {
     border-bottom-left-radius: 0;
