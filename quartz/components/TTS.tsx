@@ -28,7 +28,7 @@ const TTS: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) 
         >
             Loading the Audio Player... Please reload the page...
         </div>
-        <script src="https://elevenlabs.io/player/audioNativeHelper.js" type="text/javascript"></script>
+        {/* <script src="https://elevenlabs.io/player/audioNativeHelper.js" type="text/javascript"></script> */}
       </div>
     )
   } else {
