@@ -18,7 +18,7 @@ const TTS: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) 
             data-publicuserid="433d229fa1db09ffe64719ac56b9de8d83b026ef56baec5e177d3675d7fd6057"
             data-playerurl="https://elevenlabs.io/player/index.html"
         >
-            Loading the <a href="https://elevenlabs.io/text-to-speech" target="_blank" rel="noopener">Elevenlabs Text to Speech</a> AudioNative Player...
+            Loading the Audio Player... Please reload the page...
         </div>
         <script src="https://elevenlabs.io/player/audioNativeHelper.js" type="text/javascript"></script>
       </div>
