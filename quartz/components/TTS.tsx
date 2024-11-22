@@ -6,7 +6,7 @@ import { classNames } from "../util/lang"
 const TTS: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const tts = fileData.frontmatter?.tts
   
-  const lightTheme = document.documentElement.getAttribute('saved-theme') !== 'dark';
+//   const lightTheme = document.documentElement.getAttribute('saved-theme') !== 'dark';
 
   if (tts) {
     return (
@@ -20,8 +20,8 @@ const TTS: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) 
             data-publicuserid="433d229fa1db09ffe64719ac56b9de8d83b026ef56baec5e177d3675d7fd6057"
             data-playerurl="https://elevenlabs.io/player/index.html"
             data-small="True"
-            data-backgroundcolor={lightTheme ? '#fff' : '#1d2535'}
-            data-color={lightTheme ? '#106a8f' : '#ebebec'}
+            // data-backgroundcolor={lightTheme ? '#fff' : '#1d2535'}
+            // data-color={lightTheme ? '#106a8f' : '#ebebec'}
         >
             Loading the Audio Player... Please reload the page...
         </div>
