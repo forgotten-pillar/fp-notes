@@ -157,15 +157,3 @@ function replaceWidgetTagWithIframe(): void {
 
 
  // fixing SPA
-
-function initializeReplaceWidget(): void {
-replaceWidgetTagWithIframe();
-}
-
-document.addEventListener("nav", () => {
-initializeReplaceWidget();
-});
- 
-//   document.addEventListener("nav", () => {
-//     replaceWidgetTagWithIframe();
-//   });
