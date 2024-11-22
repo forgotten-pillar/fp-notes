@@ -156,6 +156,6 @@ function replaceWidgetTagWithIframe(): void {
 
 
   // fixing SPA
-  document.addEventListener("nav", () => {
-    replaceWidgetTagWithIframe();
-  });
+//   document.addEventListener("nav", () => {
+//     replaceWidgetTagWithIframe();
+//   });
