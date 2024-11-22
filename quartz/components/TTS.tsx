@@ -1,0 +1,30 @@
+import { pathToRoot, slugTag } from "../util/path"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { classNames } from "../util/lang"
+
+const TTS: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+  const tts = fileData.frontmatter?.tts
+  
+  if (tts) {
+    return (
+      <div class={classNames(displayClass, "tts")}>
+        <div 
+            id="elevenlabs-audionative-widget"
+            data-height="90"
+            data-width="100%"
+            data-frameborder="no"
+            data-scrolling="no"
+            data-publicuserid="433d229fa1db09ffe64719ac56b9de8d83b026ef56baec5e177d3675d7fd6057"
+            data-playerurl="https://elevenlabs.io/player/index.html"
+        >
+            Loading the <a href="https://elevenlabs.io/text-to-speech" target="_blank" rel="noopener">Elevenlabs Text to Speech</a> AudioNative Player...
+        </div>
+        <script src="https://elevenlabs.io/player/audioNativeHelper.js" type="text/javascript"></script>
+      </div>
+    )
+  } else {
+    return null
+  }
+}
+
+export default (() => TTS) satisfies QuartzComponentConstructor

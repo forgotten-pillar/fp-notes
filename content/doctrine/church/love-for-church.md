@@ -6,9 +6,10 @@ fp-social-media: "Apostasy in God's church: Your reaction reveals your character
 tags:
   - apostasy
 permalink: love-for-apostate-church
+tts: true
 ---
 
-> [!abstract]- Abstract
+> [!abstract] Abstract
 > The Bible presents a clear pattern for how faithful believers should relate to an apostate church and its members. Through the examples of Paul, Moses, Jeremiah, Amos, and ultimately Christ Himself, Scripture reveals a consistent spirit of deep sorrow, continued love, and earnest intercession rather than judgment or revenge. These biblical cases, particularly relevant to today's Seventh-day Adventist Church, demonstrate that God's faithful people are characterized not by criticism or rejection of erring brethren, but by heartfelt grief over apostasy while maintaining tireless efforts for their salvation. The sealing of God's people is directly connected to this spirit of Christ-like compassion toward the erring church.
 
 How should we act when we are being treated wrongly, when we see God's truth being trampled, and when persecution begins against true brethren and sisters? Let us examine Biblical examples to understand the proper spirit we should manifest.

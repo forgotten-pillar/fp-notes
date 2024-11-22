@@ -26,6 +26,7 @@ import HamburgerMenu from "./HamburgerMenu"
 import GraphMini from "./GraphMini"
 import PrintMeta from "./PrintMeta"
 import PrintButton from "./PrintButton"
+import TTS from "./TTS"
 
 export {
   ArticleTitle,
@@ -56,4 +57,5 @@ export {
   GraphMini,
   PrintMeta,
   PrintButton,
+  TTS
 }
