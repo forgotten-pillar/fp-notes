@@ -612,16 +612,16 @@ p.print-meta {
   transition: bottom 0.3s ease, opacity 0.3s ease; /* Smooth transition */
   opacity: 1; /* Fully visible by default */
 
-  &.hidden {
-    bottom: -50px; /* Moves the player down when hidden */
-    opacity: 0; /* Makes it transparent */
-  }
-
   iframe {
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
   }
 }
+.sticky-audio-player.hidden {
+  bottom: -50px; /* Moves the player down when hidden */
+  opacity: 0; /* Makes it transparent */
+}
+
 #tts {
   transition: all 0.3s ease;
 }
