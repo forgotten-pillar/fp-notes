@@ -33,7 +33,6 @@ if (audioPlayerContainer != null) {
   
     if (containerRect.bottom <= 0 && !isSticky) {
       audioPlayerContainer.classList.add('sticky-audio-player');
-      audioPlayerContainer.classList.remove('hidden'); // Ensure visibility
       
       if (isMobileView) {
         audioPlayerContainer.style.width = '100%';
@@ -47,7 +46,8 @@ if (audioPlayerContainer != null) {
       isSticky = true;
     } else if (placeholderRect.top >= 0 && isSticky) {
       audioPlayerContainer.classList.remove('sticky-audio-player');
-      audioPlayerContainer.classList.add('hidden'); // Trigger hide animation
+      audioPlayerContainer.style.width = 'auto';
+      audioPlayerContainer.style.left = 'auto';
       placeholderDiv.style.display = 'none';
       isSticky = false;
     }
