@@ -29,7 +29,7 @@ export const sharedPageComponents: SharedLayout = {
       Contribute: "/contribute",
       RSS: "/index.xml",
     },
-    components: [Component.PrintButton(), Component.GraphMini(), Component.Darkmode()]
+    components: [Component.TranslateButton(), Component.PrintButton(), Component.GraphMini(), Component.Darkmode()]
   }),
 }
 

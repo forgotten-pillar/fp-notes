@@ -27,6 +27,7 @@ import GraphMini from "./GraphMini"
 import PrintMeta from "./PrintMeta"
 import PrintButton from "./PrintButton"
 import TTS from "./TTS"
+import TranslateButton from "./TranslateButton"
 
 export {
   ArticleTitle,
@@ -57,5 +58,6 @@ export {
   GraphMini,
   PrintMeta,
   PrintButton,
-  TTS
+  TTS,
+  TranslateButton,
 }
