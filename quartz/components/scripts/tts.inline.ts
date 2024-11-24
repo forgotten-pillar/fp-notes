@@ -41,112 +41,102 @@ function initializeStickyPlayer() {
 }
 
 function handleStickyScroll() {
-  if (!audioPlayerContainer || !placeholderDiv) return;
-
-  const containerRect = audioPlayerContainer.getBoundingClientRect();
-  const placeholderRect = placeholderDiv.getBoundingClientRect();
-
-  if (!audioPlayerContainer.parentElement?.offsetWidth) return;
-
-  const parentWidth = audioPlayerContainer.parentElement.offsetWidth;
-  const isMobileView = window.innerWidth <= 800;
-
-  // Get the footer's position
-  const footer = document.querySelector('footer');
-  const footerRect = footer?.getBoundingClientRect();
-
-  // Determine scroll direction and distance
-  const currentScrollY = window.scrollY;
-  const scrollDelta = currentScrollY - lastScrollY;
-  const isScrollingDown = scrollDelta > 0;
+    if (!audioPlayerContainer || !placeholderDiv) return;
   
-  // Accumulate scroll distance
-  scrollDistance += scrollDelta;
+    const containerRect = audioPlayerContainer.getBoundingClientRect();
+    const placeholderRect = placeholderDiv.getBoundingClientRect();
   
-  // Reset scroll accumulation after timeout
-  if (scrollTimeout) {
-    window.clearTimeout(scrollTimeout);
-  }
-  scrollTimeout = window.setTimeout(() => {
-    scrollDistance = 0;
-  }, SCROLL_RESET_TIMEOUT);
+    if (!audioPlayerContainer.parentElement?.offsetWidth) return;
   
-  lastScrollY = currentScrollY;
-
-  // Check if we should make it sticky
-  const shouldBeSticky = containerRect.bottom <= 0 && !isSticky;
-  const shouldNotBeSticky = placeholderRect.top > 0 && isSticky;
-
-  if (shouldBeSticky) {
-    // First show placeholder to prevent content jump
-    placeholderDiv.style.display = 'block';
+    const parentWidth = audioPlayerContainer.parentElement.offsetWidth;
+    const isMobileView = window.innerWidth <= 800;
+  
+    // Get the footer's position
+    const footer = document.querySelector('footer');
+    const footerRect = footer?.getBoundingClientRect();
+  
+    // Determine scroll direction and distance
+    const currentScrollY = window.scrollY;
+    const scrollDelta = currentScrollY - lastScrollY;
+    const isScrollingDown = scrollDelta > 0;
     
-    // Then make the player sticky
-    audioPlayerContainer.classList.add('sticky-audio-player');
-    
-    if (isMobileView) {
-      audioPlayerContainer.style.width = '100%';
-      audioPlayerContainer.style.left = '0';
-    } else {
-      audioPlayerContainer.style.width = `${parentWidth}px`;
-      audioPlayerContainer.style.left = 'auto';
+    // Update lastScrollY after calculating scrollDelta
+    lastScrollY = currentScrollY;
+  
+    // Handle scroll accumulation logic
+    if ((isScrollingDown && scrollDistance < 0) || (!isScrollingDown && scrollDistance > 0)) {
+      // Reset scroll distance if direction changes significantly
+      scrollDistance = 0;
     }
-    
-    // Set initial visibility based on scroll direction
-    isPlayerVisible = !isScrollingDown;
-    
-    // Set initial opacity without transition for instant effect
-    audioPlayerContainer.style.transition = 'none';
-    audioPlayerContainer.style.opacity = isPlayerVisible ? '1' : '0';
-    audioPlayerContainer.style.pointerEvents = isPlayerVisible ? 'auto' : 'none';
-    
-    // Re-enable transitions after initial state is set
-    setTimeout(() => {
-      if (audioPlayerContainer) {
-        audioPlayerContainer.style.transition = 'opacity 0.3s ease-in-out';
+    scrollDistance += scrollDelta;
+  
+    // Reset scroll accumulation after timeout
+    if (scrollTimeout) {
+      window.clearTimeout(scrollTimeout);
+    }
+    scrollTimeout = window.setTimeout(() => {
+      scrollDistance = 0;
+    }, SCROLL_RESET_TIMEOUT);
+  
+    // Sticky state management
+    const shouldBeSticky = containerRect.bottom <= 0 && !isSticky;
+    const shouldNotBeSticky = placeholderRect.top > 0 && isSticky;
+  
+    if (shouldBeSticky) {
+      placeholderDiv.style.display = 'block';
+      audioPlayerContainer.classList.add('sticky-audio-player');
+  
+      if (isMobileView) {
+        audioPlayerContainer.style.width = '100%';
+        audioPlayerContainer.style.left = '0';
+      } else {
+        audioPlayerContainer.style.width = `${parentWidth}px`;
+        audioPlayerContainer.style.left = 'auto';
       }
-    }, 0);
-    
-    isSticky = true;
-  } else if (shouldNotBeSticky) {
-    audioPlayerContainer.classList.remove('sticky-audio-player');
-    audioPlayerContainer.style.width = 'auto';
-    audioPlayerContainer.style.left = 'auto';
-    audioPlayerContainer.style.opacity = '1';
-    audioPlayerContainer.style.pointerEvents = 'auto';
-    placeholderDiv.style.display = 'none';
-    isSticky = false;
-    isPlayerVisible = true;
-    scrollDistance = 0; // Reset scroll distance when not sticky
-  }
-
-  // Handle player visibility based on scroll direction and threshold when sticky
-  if (isSticky) {
-    if (isScrollingDown) {
-      // Only hide when scrolled down enough
-      if (scrollDistance > SCROLL_THRESHOLD && isPlayerVisible) {
+  
+      isPlayerVisible = !isScrollingDown;
+      audioPlayerContainer.style.transition = 'none';
+      audioPlayerContainer.style.opacity = isPlayerVisible ? '1' : '0';
+      audioPlayerContainer.style.pointerEvents = isPlayerVisible ? 'auto' : 'none';
+  
+      setTimeout(() => {
+        if (audioPlayerContainer) {
+          audioPlayerContainer.style.transition = 'opacity 0.3s ease-in-out';
+        }
+      }, 0);
+  
+      isSticky = true;
+    } else if (shouldNotBeSticky) {
+      audioPlayerContainer.classList.remove('sticky-audio-player');
+      audioPlayerContainer.style.width = 'auto';
+      audioPlayerContainer.style.left = 'auto';
+      audioPlayerContainer.style.opacity = '1';
+      audioPlayerContainer.style.pointerEvents = 'auto';
+      placeholderDiv.style.display = 'none';
+      isSticky = false;
+      isPlayerVisible = true;
+      scrollDistance = 0; // Reset scroll distance when not sticky
+    }
+  
+    // Handle visibility toggle when sticky
+    if (isSticky) {
+      if (isScrollingDown && scrollDistance > SCROLL_THRESHOLD && isPlayerVisible) {
         isPlayerVisible = false;
         scrollDistance = 0; // Reset after state change
-      }
-    } else {
-      // Only show when scrolled up enough
-      if (scrollDistance < -SCROLL_THRESHOLD && !isPlayerVisible) {
+      } else if (!isScrollingDown && scrollDistance < -SCROLL_THRESHOLD && !isPlayerVisible) {
         isPlayerVisible = true;
         scrollDistance = 0; // Reset after state change
       }
+  
+      // Handle footer overlap
+      const hasFooterOverlap = footerRect && (window.innerHeight - footerRect.top) > 0;
+  
+      const shouldBeVisible = isPlayerVisible && !hasFooterOverlap;
+  
+      audioPlayerContainer.style.opacity = shouldBeVisible ? '1' : '0';
+      audioPlayerContainer.style.pointerEvents = shouldBeVisible ? 'auto' : 'none';
     }
-
-    // Handle footer overlap
-    const hasFooterOverlap = footerRect && (window.innerHeight - footerRect.top) > 0;
-    
-    // Set visibility based on both scroll direction and footer overlap
-    const shouldBeVisible = isPlayerVisible && !hasFooterOverlap;
-    
-    // Apply visibility changes
-    audioPlayerContainer.style.opacity = shouldBeVisible ? '1' : '0';
-    audioPlayerContainer.style.pointerEvents = shouldBeVisible ? 'auto' : 'none';
   }
-}
 
 function cleanup() {
   window.removeEventListener('resize', handleStickyScroll);
