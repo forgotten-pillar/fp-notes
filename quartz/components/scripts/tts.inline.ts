@@ -2,6 +2,8 @@
 let audioPlayerContainer: HTMLElement | null = null;
 let placeholderDiv: HTMLDivElement | null = null;
 let isSticky = false;
+let lastScrollY = window.scrollY;
+let isPlayerVisible = true;
 
 // Initialize sticky player
 function initializeStickyPlayer() {
@@ -21,6 +23,9 @@ function initializeStickyPlayer() {
   
   // Insert placeholder
   audioPlayerContainer.parentNode?.insertBefore(placeholderDiv, audioPlayerContainer.nextSibling);
+  
+  // Initialize last scroll position
+  lastScrollY = window.scrollY;
   
   // Add event listeners
   window.addEventListener('resize', handleStickyScroll);
@@ -42,20 +47,16 @@ function handleStickyScroll() {
   const footer = document.querySelector('footer');
   const footerRect = footer?.getBoundingClientRect();
 
-  console.log({
-    containerBottom: containerRect.bottom,
-    placeholderTop: placeholderRect.top,
-    isSticky,
-    windowHeight: window.innerHeight,
-    scrollY: window.scrollY
-  });
+  // Determine scroll direction
+  const currentScrollY = window.scrollY;
+  const isScrollingDown = currentScrollY > lastScrollY;
+  lastScrollY = currentScrollY;
 
   // Check if we should make it sticky
   const shouldBeSticky = containerRect.bottom <= 0 && !isSticky;
   const shouldNotBeSticky = placeholderRect.top > 0 && isSticky;
 
   if (shouldBeSticky) {
-    console.log('Making sticky');
     audioPlayerContainer.classList.add('sticky-audio-player');
     
     if (isMobileView) {
@@ -69,19 +70,35 @@ function handleStickyScroll() {
     placeholderDiv.style.display = 'block';
     isSticky = true;
   } else if (shouldNotBeSticky) {
-    console.log('Removing sticky');
     audioPlayerContainer.classList.remove('sticky-audio-player');
     audioPlayerContainer.style.width = 'auto';
     audioPlayerContainer.style.left = 'auto';
     placeholderDiv.style.display = 'none';
     isSticky = false;
+    // Reset visibility when no longer sticky
+    isPlayerVisible = true;
   }
 
-  // Handle footer overlap
-  if (footerRect && isSticky) {
-    const overlap = window.innerHeight - footerRect.top;
-    audioPlayerContainer.style.opacity = overlap > 0 ? '0' : '1';
-    audioPlayerContainer.style.pointerEvents = overlap > 0 ? 'none' : 'auto';
+  // Handle player visibility based on scroll direction when sticky
+  if (isSticky) {
+    if (isScrollingDown) {
+      // Hide player when scrolling down
+      isPlayerVisible = false;
+    } else {
+      // Show player when scrolling up
+      isPlayerVisible = true;
+    }
+
+    // Handle footer overlap
+    const hasFooterOverlap = footerRect && (window.innerHeight - footerRect.top) > 0;
+    
+    // Set visibility based on both scroll direction and footer overlap
+    const shouldBeVisible = isPlayerVisible && !hasFooterOverlap;
+    
+    // Apply visibility changes with a small transition delay for smoothness
+    audioPlayerContainer.style.transition = 'opacity 0.3s ease-in-out';
+    audioPlayerContainer.style.opacity = shouldBeVisible ? '1' : '0';
+    audioPlayerContainer.style.pointerEvents = shouldBeVisible ? 'auto' : 'none';
   }
 }
 
@@ -96,6 +113,7 @@ function cleanup() {
   audioPlayerContainer = null;
   placeholderDiv = null;
   isSticky = false;
+  isPlayerVisible = true;
 }
 
 // Initialize on page load
@@ -104,6 +122,8 @@ window.addEventListener('load', initializeStickyPlayer);
 // Re-initialize when navigation occurs
 document.addEventListener('nav', initializeStickyPlayer);
 
+
+// ElevenLabs Script
 function replaceWidgetTagWithIframe(): void {
   const divs = document.querySelectorAll<HTMLDivElement>("#elevenlabs-audionative-widget");
 
