@@ -30,8 +30,6 @@ function initializeStickyPlayer() {
 function handleStickyScroll() {
   if (!audioPlayerContainer || !placeholderDiv) return;
 
-  const containerRect = audioPlayerContainer.getBoundingClientRect();
-
   if (!audioPlayerContainer.parentElement?.offsetWidth) return;
 
   const parentWidth = audioPlayerContainer.parentElement.offsetWidth;
@@ -41,12 +39,14 @@ function handleStickyScroll() {
   const footer = document.querySelector('footer');
   const footerRect = footer?.getBoundingClientRect();
 
-  // Check if the original player is out of view
-  const shouldBeSticky = containerRect.bottom <= 0;
+  // Check if we should make it sticky based on placeholder position
+  const placeholderTop = placeholderDiv.getBoundingClientRect().top;
+  const shouldBeSticky = placeholderTop < 0;
 
   // Only update DOM if state actually changes
   if (shouldBeSticky !== isSticky) {
     if (shouldBeSticky) {
+      placeholderDiv.style.display = 'block';
       audioPlayerContainer.classList.add('sticky-audio-player');
       
       if (isMobileView) {
@@ -56,8 +56,6 @@ function handleStickyScroll() {
         audioPlayerContainer.style.width = `${parentWidth}px`;
         audioPlayerContainer.style.left = 'auto';
       }
-    
-      placeholderDiv.style.display = 'block';
     } else {
       audioPlayerContainer.classList.remove('sticky-audio-player');
       audioPlayerContainer.style.width = 'auto';
