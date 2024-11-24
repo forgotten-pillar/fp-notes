@@ -8,7 +8,7 @@ const TTS: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) 
 
   if (tts) {
     return (
-      <div id="tts" class={classNames(displayClass, "tts no-print")}>
+      <div id="tts" class={classNames(displayClass, "tts no-print")} style={{height: '95px'}}>
         <div 
             id="elevenlabs-audionative-widget"
             data-height="90"

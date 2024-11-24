@@ -31,7 +31,7 @@ function initializeStickyPlayer() {
   
     // Clone dimensions of the original container
     placeholderDiv.style.width = `${audioPlayerContainer.offsetWidth}px`;
-    placeholderDiv.style.height = audioPlayerContainer.offsetHeight ? `${audioPlayerContainer.offsetHeight}px` : '90px';
+    placeholderDiv.style.height = audioPlayerContainer.offsetHeight ? `${audioPlayerContainer.offsetHeight}px` : '95px';
     placeholderDiv.style.display = 'none';
     placeholderDiv.classList.add('no-print');
   
