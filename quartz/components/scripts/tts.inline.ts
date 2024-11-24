@@ -34,9 +34,55 @@ function initializeStickyPlayer() {
   // Initialize last scroll position
   lastScrollY = window.scrollY;
   
+  // Check if we need to initialize in sticky state
+  checkInitialStickyState();
+  
   // Add event listeners
   window.addEventListener('resize', handleStickyScroll);
   window.addEventListener('scroll', handleStickyScroll);
+}
+
+function checkInitialStickyState() {
+  if (!audioPlayerContainer || !placeholderDiv) return;
+
+  // Get initial position
+  const containerRect = audioPlayerContainer.getBoundingClientRect();
+  const shouldBeSticky = containerRect.bottom <= 0;
+
+  if (shouldBeSticky) {
+    // Show placeholder immediately to prevent layout shift
+    placeholderDiv.style.display = 'block';
+    
+    // Make the player sticky
+    audioPlayerContainer.classList.add('sticky-audio-player');
+    
+    const parentWidth = audioPlayerContainer.parentElement?.offsetWidth || '100%';
+    const isMobileView = window.innerWidth <= 800;
+    
+    if (isMobileView) {
+      audioPlayerContainer.style.width = '100%';
+      audioPlayerContainer.style.left = '0';
+    } else {
+      audioPlayerContainer.style.width = `${parentWidth}px`;
+      audioPlayerContainer.style.left = 'auto';
+    }
+    
+    // Set initial visibility without animation
+    audioPlayerContainer.style.transition = 'none';
+    // When navigation occurs, assume we want the player visible initially
+    isPlayerVisible = true;
+    audioPlayerContainer.style.opacity = '1';
+    audioPlayerContainer.style.pointerEvents = 'auto';
+    
+    // Re-enable transitions after initial state is set
+    setTimeout(() => {
+      if (audioPlayerContainer) {
+        audioPlayerContainer.style.transition = 'opacity 0.3s ease-in-out';
+      }
+    }, 0);
+    
+    isSticky = true;
+  }
 }
 
 function handleStickyScroll() {
