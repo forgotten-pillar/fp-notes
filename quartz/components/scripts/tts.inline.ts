@@ -30,6 +30,9 @@ function initializeStickyPlayer() {
 function handleStickyScroll() {
   if (!audioPlayerContainer || !placeholderDiv) return;
 
+  const containerRect = audioPlayerContainer.getBoundingClientRect();
+  const placeholderRect = placeholderDiv.getBoundingClientRect();
+
   if (!audioPlayerContainer.parentElement?.offsetWidth) return;
 
   const parentWidth = audioPlayerContainer.parentElement.offsetWidth;
@@ -39,31 +42,39 @@ function handleStickyScroll() {
   const footer = document.querySelector('footer');
   const footerRect = footer?.getBoundingClientRect();
 
-  // Check if we should make it sticky based on placeholder position
-  const placeholderTop = placeholderDiv.getBoundingClientRect().top;
-  const shouldBeSticky = placeholderTop < 0;
+  console.log({
+    containerBottom: containerRect.bottom,
+    placeholderTop: placeholderRect.top,
+    isSticky,
+    windowHeight: window.innerHeight,
+    scrollY: window.scrollY
+  });
 
-  // Only update DOM if state actually changes
-  if (shouldBeSticky !== isSticky) {
-    if (shouldBeSticky) {
-      placeholderDiv.style.display = 'block';
-      audioPlayerContainer.classList.add('sticky-audio-player');
-      
-      if (isMobileView) {
-        audioPlayerContainer.style.width = '100%';
-        audioPlayerContainer.style.left = '0';
-      } else {
-        audioPlayerContainer.style.width = `${parentWidth}px`;
-        audioPlayerContainer.style.left = 'auto';
-      }
-    } else {
-      audioPlayerContainer.classList.remove('sticky-audio-player');
-      audioPlayerContainer.style.width = 'auto';
-      audioPlayerContainer.style.left = 'auto';
-      placeholderDiv.style.display = 'none';
-    }
+  // Check if we should make it sticky
+  const shouldBeSticky = containerRect.bottom <= 0 && !isSticky;
+  const shouldNotBeSticky = placeholderRect.top > 0 && isSticky;
+
+  if (shouldBeSticky) {
+    console.log('Making sticky');
+    audioPlayerContainer.classList.add('sticky-audio-player');
     
-    isSticky = shouldBeSticky;
+    if (isMobileView) {
+      audioPlayerContainer.style.width = '100%';
+      audioPlayerContainer.style.left = '0';
+    } else {
+      audioPlayerContainer.style.width = `${parentWidth}px`;
+      audioPlayerContainer.style.left = 'auto';
+    }
+  
+    placeholderDiv.style.display = 'block';
+    isSticky = true;
+  } else if (shouldNotBeSticky) {
+    console.log('Removing sticky');
+    audioPlayerContainer.classList.remove('sticky-audio-player');
+    audioPlayerContainer.style.width = 'auto';
+    audioPlayerContainer.style.left = 'auto';
+    placeholderDiv.style.display = 'none';
+    isSticky = false;
   }
 
   // Handle footer overlap
