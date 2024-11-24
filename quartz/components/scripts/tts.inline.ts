@@ -7,38 +7,33 @@ let isPlayerVisible = true;
 let scrollDistance = 0;
 
 // Configure scroll threshold (in pixels)
-const SCROLL_THRESHOLD = 150;
+const SCROLL_THRESHOLD = 100;
 // Reset scroll accumulation after this timeout (ms)
 const SCROLL_RESET_TIMEOUT = 150;
 let scrollTimeout: number | null = null;
 
 // Initialize sticky player
 function initializeStickyPlayer() {
-  // Reset previous state
-  cleanup();
+    cleanup();
   
-  audioPlayerContainer = document.getElementById('tts');
-  if (!audioPlayerContainer) return;
-
-  // Create new placeholder
-  placeholderDiv = document.createElement('div');
+    audioPlayerContainer = document.getElementById('tts');
+    if (!audioPlayerContainer) return;
   
-  // Clone dimensions of original container
-  placeholderDiv.style.width = `${audioPlayerContainer.offsetWidth}px`;
-  placeholderDiv.style.height = audioPlayerContainer.offsetHeight ? `${audioPlayerContainer.offsetHeight}px` : '90px';
-  placeholderDiv.style.display = 'none';
-  placeholderDiv.classList.add('no-print');
+    placeholderDiv = document.createElement('div');
+    placeholderDiv.style.width = `${audioPlayerContainer.offsetWidth}px`;
+    placeholderDiv.style.height = audioPlayerContainer.offsetHeight ? `${audioPlayerContainer.offsetHeight}px` : '90px';
+    placeholderDiv.style.display = 'none';
+    placeholderDiv.classList.add('no-print');
   
-  // Insert placeholder
-  audioPlayerContainer.parentNode?.insertBefore(placeholderDiv, audioPlayerContainer.nextSibling);
+    audioPlayerContainer.parentNode?.insertBefore(placeholderDiv, audioPlayerContainer.nextSibling);
   
-  // Initialize last scroll position
-  lastScrollY = window.scrollY;
+    lastScrollY = window.scrollY;
   
-  // Add event listeners
-  window.addEventListener('resize', handleStickyScroll);
-  window.addEventListener('scroll', handleStickyScroll);
-}
+    handleStickyScroll(); // Evaluate sticky state immediately
+  
+    window.addEventListener('resize', handleStickyScroll);
+    window.addEventListener('scroll', handleStickyScroll);
+  }
 
 function handleStickyScroll() {
     if (!audioPlayerContainer || !placeholderDiv) return;
@@ -138,37 +133,36 @@ function handleStickyScroll() {
     }
   }
 
-function cleanup() {
-  window.removeEventListener('resize', handleStickyScroll);
-  window.removeEventListener('scroll', handleStickyScroll);
+  function cleanup() {
+    window.removeEventListener('resize', handleStickyScroll);
+    window.removeEventListener('scroll', handleStickyScroll);
   
-  // Clean up old placeholder if it exists
-  placeholderDiv?.remove();
+    placeholderDiv?.remove();
   
-  // Clean up timeout
-  if (scrollTimeout) {
-    window.clearTimeout(scrollTimeout);
-    scrollTimeout = null;
+    if (scrollTimeout) {
+      window.clearTimeout(scrollTimeout);
+      scrollTimeout = null;
+    }
+  
+    audioPlayerContainer = null;
+    placeholderDiv = null;
+    isSticky = false;
+    isPlayerVisible = true;
+    scrollDistance = 0;
   }
+
+// Reinitialize sticky player on navigation
+document.addEventListener('nav', () => {
+    initializeStickyPlayer();
+  });
   
-  // Reset state
-  audioPlayerContainer = null;
-  placeholderDiv = null;
-  isSticky = false;
-  isPlayerVisible = true;
-  scrollDistance = 0;
-}
-
-// Initialize on page load
-window.addEventListener('load', initializeStickyPlayer);
-
-// Re-initialize when navigation occurs
-document.addEventListener('nav', initializeStickyPlayer);
+  // Initialize on page load
+  window.addEventListener('load', initializeStickyPlayer);
 
 // BUG 1: IF IT IS reloaded in the middle of the page, then there is no effect of hiding and showing based on scroll
 // neither when you come to the top of the page that there is a replacement of sticky element
 
-// BUG 2: when you change your navigation, you loose the placeholder div
+// BUG 2: when you change your navigation (nav event), you loose the placeholder div
 
 
 
