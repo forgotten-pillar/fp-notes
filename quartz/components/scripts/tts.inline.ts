@@ -2,7 +2,7 @@
 let audioPlayerContainer: HTMLElement | null = null;
 let placeholderDiv: HTMLDivElement | null = null;
 let isSticky = false;
-let lastScrollY = window.scrollY;
+let lastScrollYSticky = window.scrollY;
 let isPlayerVisible = true;
 let scrollDistance = 0;
 
