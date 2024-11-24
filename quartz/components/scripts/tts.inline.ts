@@ -31,7 +31,6 @@ function handleStickyScroll() {
   if (!audioPlayerContainer || !placeholderDiv) return;
 
   const containerRect = audioPlayerContainer.getBoundingClientRect();
-  const placeholderRect = placeholderDiv.getBoundingClientRect();
 
   if (!audioPlayerContainer.parentElement?.offsetWidth) return;
 
@@ -42,8 +41,8 @@ function handleStickyScroll() {
   const footer = document.querySelector('footer');
   const footerRect = footer?.getBoundingClientRect();
 
-  // Check if we should make it sticky
-  const shouldBeSticky = placeholderRect.top <= 0;
+  // Check if the original player is out of view
+  const shouldBeSticky = containerRect.bottom <= 0;
 
   // Only update DOM if state actually changes
   if (shouldBeSticky !== isSticky) {
