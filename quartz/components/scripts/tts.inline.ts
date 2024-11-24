@@ -7,7 +7,7 @@ let isPlayerVisible = true;
 let scrollDistance = 0;
 
 // Configure scroll threshold (in pixels)
-const SCROLL_THRESHOLD = 10;
+const SCROLL_THRESHOLD = 150;
 // Reset scroll accumulation after this timeout (ms)
 const SCROLL_RESET_TIMEOUT = 150;
 let scrollTimeout: number | null = null;
