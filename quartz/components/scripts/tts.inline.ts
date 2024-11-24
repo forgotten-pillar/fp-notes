@@ -4,10 +4,10 @@ let placeholderDiv: HTMLDivElement | null = null;
 let isSticky = false;
 let lastScrollY = window.scrollY;
 let isPlayerVisible = true;
-let scrollDistance = 0;
+let upScrollDistance = 0;
 
 // Configure scroll threshold (in pixels)
-const SCROLL_THRESHOLD = 50;
+const UP_SCROLL_THRESHOLD = 50;
 // Reset scroll accumulation after this timeout (ms)
 const SCROLL_RESET_TIMEOUT = 150;
 let scrollTimeout: number | null = null;
@@ -59,16 +59,21 @@ function handleStickyScroll() {
   const scrollDelta = currentScrollY - lastScrollY;
   const isScrollingDown = scrollDelta > 0;
   
-  // Accumulate scroll distance
-  scrollDistance += scrollDelta;
-  
-  // Reset scroll accumulation after timeout
-  if (scrollTimeout) {
-    window.clearTimeout(scrollTimeout);
+  // Only accumulate upward scroll
+  if (!isScrollingDown) {
+    upScrollDistance -= scrollDelta;
+    
+    // Reset upward scroll accumulation after timeout
+    if (scrollTimeout) {
+      window.clearTimeout(scrollTimeout);
+    }
+    scrollTimeout = window.setTimeout(() => {
+      upScrollDistance = 0;
+    }, SCROLL_RESET_TIMEOUT);
+  } else {
+    // Reset upward scroll accumulation immediately when scrolling down
+    upScrollDistance = 0;
   }
-  scrollTimeout = window.setTimeout(() => {
-    scrollDistance = 0;
-  }, SCROLL_RESET_TIMEOUT);
   
   lastScrollY = currentScrollY;
 
@@ -116,22 +121,19 @@ function handleStickyScroll() {
     placeholderDiv.style.display = 'none';
     isSticky = false;
     isPlayerVisible = true;
-    scrollDistance = 0; // Reset scroll distance when not sticky
+    upScrollDistance = 0;
   }
 
-  // Handle player visibility based on scroll direction and threshold when sticky
+  // Handle player visibility based on scroll direction when sticky
   if (isSticky) {
     if (isScrollingDown) {
-      // Only hide when scrolled down enough
-      if (scrollDistance > SCROLL_THRESHOLD && isPlayerVisible) {
-        isPlayerVisible = false;
-        scrollDistance = 0; // Reset after state change
-      }
+      // Hide immediately when scrolling down
+      isPlayerVisible = false;
     } else {
       // Only show when scrolled up enough
-      if (scrollDistance < -SCROLL_THRESHOLD && !isPlayerVisible) {
+      if (upScrollDistance > UP_SCROLL_THRESHOLD && !isPlayerVisible) {
         isPlayerVisible = true;
-        scrollDistance = 0; // Reset after state change
+        upScrollDistance = 0; // Reset after showing
       }
     }
 
@@ -165,7 +167,7 @@ function cleanup() {
   placeholderDiv = null;
   isSticky = false;
   isPlayerVisible = true;
-  scrollDistance = 0;
+  upScrollDistance = 0;
 }
 
 // Initialize on page load
@@ -173,6 +175,9 @@ window.addEventListener('load', initializeStickyPlayer);
 
 // Re-initialize when navigation occurs
 document.addEventListener('nav', initializeStickyPlayer);
+
+
+
 
 
 // ElevenLabs Script
