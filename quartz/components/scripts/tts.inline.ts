@@ -41,7 +41,7 @@ function initializeStickyPlayer() {
     }
   
     // Initialize last scroll position
-    lastScrollY = window.scrollY;
+    lastScrollYSticky = window.scrollY;
   
     // Add event listeners
     window.addEventListener('resize', handleStickyScroll);
@@ -65,11 +65,11 @@ function handleStickyScroll() {
   
     // Determine scroll direction and distance
     const currentScrollY = window.scrollY;
-    const scrollDelta = currentScrollY - lastScrollY;
+    const scrollDelta = currentScrollY - lastScrollYSticky;
     const isScrollingDown = scrollDelta > 0;
     
     // Update lastScrollY after calculating scrollDelta
-    lastScrollY = currentScrollY;
+    lastScrollYSticky = currentScrollY;
   
     // Handle scroll accumulation logic
     if ((isScrollingDown && scrollDistance < 0) || (!isScrollingDown && scrollDistance > 0)) {
