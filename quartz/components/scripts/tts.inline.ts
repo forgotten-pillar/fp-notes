@@ -57,6 +57,10 @@ function handleStickyScroll() {
   const shouldNotBeSticky = placeholderRect.top > 0 && isSticky;
 
   if (shouldBeSticky) {
+    // First show placeholder to prevent content jump
+    placeholderDiv.style.display = 'block';
+    
+    // Then make the player sticky
     audioPlayerContainer.classList.add('sticky-audio-player');
     
     if (isMobileView) {
@@ -66,16 +70,31 @@ function handleStickyScroll() {
       audioPlayerContainer.style.width = `${parentWidth}px`;
       audioPlayerContainer.style.left = 'auto';
     }
-  
-    placeholderDiv.style.display = 'block';
+    
+    // Set initial visibility based on scroll direction
+    isPlayerVisible = !isScrollingDown;
+    
+    // Set initial opacity without transition for instant effect
+    audioPlayerContainer.style.transition = 'none';
+    audioPlayerContainer.style.opacity = isPlayerVisible ? '1' : '0';
+    audioPlayerContainer.style.pointerEvents = isPlayerVisible ? 'auto' : 'none';
+    
+    // Re-enable transitions after initial state is set
+    setTimeout(() => {
+      if (audioPlayerContainer) {
+        audioPlayerContainer.style.transition = 'opacity 0.3s ease-in-out';
+      }
+    }, 0);
+    
     isSticky = true;
   } else if (shouldNotBeSticky) {
     audioPlayerContainer.classList.remove('sticky-audio-player');
     audioPlayerContainer.style.width = 'auto';
     audioPlayerContainer.style.left = 'auto';
+    audioPlayerContainer.style.opacity = '1';
+    audioPlayerContainer.style.pointerEvents = 'auto';
     placeholderDiv.style.display = 'none';
     isSticky = false;
-    // Reset visibility when no longer sticky
     isPlayerVisible = true;
   }
 
@@ -95,8 +114,7 @@ function handleStickyScroll() {
     // Set visibility based on both scroll direction and footer overlap
     const shouldBeVisible = isPlayerVisible && !hasFooterOverlap;
     
-    // Apply visibility changes with a small transition delay for smoothness
-    audioPlayerContainer.style.transition = 'opacity 0.3s ease-in-out';
+    // Apply visibility changes
     audioPlayerContainer.style.opacity = shouldBeVisible ? '1' : '0';
     audioPlayerContainer.style.pointerEvents = shouldBeVisible ? 'auto' : 'none';
   }
