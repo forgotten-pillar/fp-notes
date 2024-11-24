@@ -178,8 +178,6 @@ document.addEventListener('nav', initializeStickyPlayer);
 
 
 
-
-
 // ElevenLabs Script
 function replaceWidgetTagWithIframe(): void {
   const divs = document.querySelectorAll<HTMLDivElement>("#elevenlabs-audionative-widget");

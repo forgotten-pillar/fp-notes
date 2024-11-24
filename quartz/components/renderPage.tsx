@@ -203,7 +203,7 @@ export function renderPage(
   const Body = BodyConstructor()
 
   const LeftComponent = (
-    <div class="left sidebar no-print">
+    <div id="mobile-header" class="left sidebar no-print">
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
