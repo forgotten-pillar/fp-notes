@@ -4,6 +4,13 @@ let placeholderDiv: HTMLDivElement | null = null;
 let isSticky = false;
 let lastScrollY = window.scrollY;
 let isPlayerVisible = true;
+let scrollDistance = 0;
+
+// Configure scroll threshold (in pixels)
+const SCROLL_THRESHOLD = 50;
+// Reset scroll accumulation after this timeout (ms)
+const SCROLL_RESET_TIMEOUT = 150;
+let scrollTimeout: number | null = null;
 
 // Initialize sticky player
 function initializeStickyPlayer() {
@@ -47,9 +54,22 @@ function handleStickyScroll() {
   const footer = document.querySelector('footer');
   const footerRect = footer?.getBoundingClientRect();
 
-  // Determine scroll direction
+  // Determine scroll direction and distance
   const currentScrollY = window.scrollY;
-  const isScrollingDown = currentScrollY > lastScrollY;
+  const scrollDelta = currentScrollY - lastScrollY;
+  const isScrollingDown = scrollDelta > 0;
+  
+  // Accumulate scroll distance
+  scrollDistance += scrollDelta;
+  
+  // Reset scroll accumulation after timeout
+  if (scrollTimeout) {
+    window.clearTimeout(scrollTimeout);
+  }
+  scrollTimeout = window.setTimeout(() => {
+    scrollDistance = 0;
+  }, SCROLL_RESET_TIMEOUT);
+  
   lastScrollY = currentScrollY;
 
   // Check if we should make it sticky
@@ -96,16 +116,23 @@ function handleStickyScroll() {
     placeholderDiv.style.display = 'none';
     isSticky = false;
     isPlayerVisible = true;
+    scrollDistance = 0; // Reset scroll distance when not sticky
   }
 
-  // Handle player visibility based on scroll direction when sticky
+  // Handle player visibility based on scroll direction and threshold when sticky
   if (isSticky) {
     if (isScrollingDown) {
-      // Hide player when scrolling down
-      isPlayerVisible = false;
+      // Only hide when scrolled down enough
+      if (scrollDistance > SCROLL_THRESHOLD && isPlayerVisible) {
+        isPlayerVisible = false;
+        scrollDistance = 0; // Reset after state change
+      }
     } else {
-      // Show player when scrolling up
-      isPlayerVisible = true;
+      // Only show when scrolled up enough
+      if (scrollDistance < -SCROLL_THRESHOLD && !isPlayerVisible) {
+        isPlayerVisible = true;
+        scrollDistance = 0; // Reset after state change
+      }
     }
 
     // Handle footer overlap
@@ -127,11 +154,18 @@ function cleanup() {
   // Clean up old placeholder if it exists
   placeholderDiv?.remove();
   
+  // Clean up timeout
+  if (scrollTimeout) {
+    window.clearTimeout(scrollTimeout);
+    scrollTimeout = null;
+  }
+  
   // Reset state
   audioPlayerContainer = null;
   placeholderDiv = null;
   isSticky = false;
   isPlayerVisible = true;
+  scrollDistance = 0;
 }
 
 // Initialize on page load
