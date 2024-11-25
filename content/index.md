@@ -42,6 +42,9 @@ Within text, internal links <span class="forward-link">are bolded and highlighte
 
 Notes are also grouped by tags. Tags represent different topics. At the header, there is a list of tags representing the topics of the note, while in the text where a tag appears, it is referencing the topic. By clicking on tags, you can see the list of all notes about this tag.
 
+### Reading Mode
+
+On desktop, reading mode toggles the site layout to remove distractions, focusing just on the text. Toggle it on/of by clicking <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-book-open"><path d="M12 7v14"/><path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/></svg> button on the top right corner, or `CMD/CTRL + J` on your keyboard.
 ### Search
 
 Notes are searchable. Invoke search by clicking the search bar at the top or left, or pressing `CMD/CTRL + K`  on your keyboard.
