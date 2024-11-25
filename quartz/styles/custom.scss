@@ -236,6 +236,7 @@ h2 {
 
   .page>#quartz-body .sidebar.right {
     overflow-y: auto;
+    padding-bottom: 5rem;
   }
 }
 
@@ -429,6 +430,7 @@ footer.footer {
 
   .page-title a svg {
     width: 4rem;
+    transition: all 0.3s ease;
   }
 }
 
@@ -713,4 +715,15 @@ html[saved-theme="dark"] {
 
 .sidebar {
   transition: all 0.3s ease;
+}
+
+html.reading-mode {
+  .page-title {
+    a {
+      svg {
+        scale: .5;
+        transition: all 0.3s ease;
+      }
+    }
+  }
 }
