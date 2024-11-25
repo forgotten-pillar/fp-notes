@@ -716,14 +716,3 @@ html[saved-theme="dark"] {
 .sidebar {
   transition: all 0.3s ease;
 }
-
-html.reading-mode {
-  .page-title {
-    a {
-      svg {
-        scale: .5;
-        transition: all 0.3s ease;
-      }
-    }
-  }
-}

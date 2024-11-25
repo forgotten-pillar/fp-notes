@@ -7,7 +7,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   return (
-    <h2 class={classNames(displayClass, "page-title reading-mode-visible")}>
+    <h2 class={classNames(displayClass, "page-title")}>
       {/*<a href={baseDir}>{title}</a>*/}
       <a href={baseDir} aria-label="Forgotten Pillar Notes Logo">
         {/*<img src='https://forgotten-pillar.s3.us-east-2.amazonaws.com/fp-logo.svg' alt='logo' width="80"/>*/}
