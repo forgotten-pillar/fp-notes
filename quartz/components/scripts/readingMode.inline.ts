@@ -324,75 +324,84 @@ declare global {
   
       const sidebars = document.querySelectorAll('.sidebar') as NodeListOf<HTMLElement>
       const leftSidebar = document.querySelector('.left.sidebar') as HTMLElement
-      const toc = document.querySelector('.toc') as HTMLElement | null
+    //   const toc = document.querySelector('.toc') as HTMLElement | null
   
       // Clean up existing clone TOC
-      const existingTocClone = document.querySelector('.toc-clone')
-      if (existingTocClone) {
-          existingTocClone.remove()
-      }
+    //   const existingTocClone = document.querySelector('.toc-clone')
+    //   if (existingTocClone) {
+    //       existingTocClone.remove()
+    //   }
   
       if (active) {
           createWelcomeMessage()
           
           // Make sure the left sidebar is visible
-          if (leftSidebar) {
-              leftSidebar.classList.add('reading-mode-active')
+        //   if (leftSidebar) {
+            //   leftSidebar.classList.add('reading-mode-active')
               
               // Copy and move the TOC
-              if (toc) {
-                //   console.log('Moving TOC to left sidebar')
-                  const tocClone = toc.cloneNode(true) as HTMLElement
-                  originalTocPosition = {
-                      parent: toc.parentElement as HTMLElement,
-                      element: toc
-                  }
+            //   if (toc) {
+            //     //   console.log('Moving TOC to left sidebar')
+            //       const tocClone = toc.cloneNode(true) as HTMLElement
+            //       originalTocPosition = {
+            //           parent: toc.parentElement as HTMLElement,
+            //           element: toc
+            //       }
   
-                  // Hide original TOC
-                  toc.style.display = 'none'
+            //       // Hide original TOC
+            //       toc.style.display = 'none'
                   
-                  // Add cloned TOC
-                  tocClone.classList.add('toc-clone')
-                  leftSidebar.appendChild(tocClone)
+            //       // Add cloned TOC
+            //       tocClone.classList.add('toc-clone')
+            //       leftSidebar.appendChild(tocClone)
                   
-                  // Rebind events for cloned TOC
-                  const links = tocClone.querySelectorAll('a')
-                  links.forEach(link => {
-                      link.addEventListener('click', (e) => {
-                          e.preventDefault()
-                          const href = link.getAttribute('href')
-                          if (href) {
-                              const target = document.querySelector(href)
-                              if (target) {
-                                  target.scrollIntoView({ behavior: 'smooth' })
-                              }
-                          }
-                      })
-                  })
+            //       // Rebind events for cloned TOC
+            //       const links = tocClone.querySelectorAll('a')
+            //       links.forEach(link => {
+            //           link.addEventListener('click', (e) => {
+            //               e.preventDefault()
+            //               const href = link.getAttribute('href')
+            //               if (href) {
+            //                   const target = document.querySelector(href)
+            //                   if (target) {
+            //                       target.scrollIntoView({ behavior: 'smooth' })
+            //                   }
+            //               }
+            //           })
+            //       })
   
-                  // Delay adding visibility classes to ensure transition animations take effect
-                  requestAnimationFrame(() => {
-                      tocClone.classList.add('visible')
-                  })
+            //       // Delay adding visibility classes to ensure transition animations take effect
+            //       requestAnimationFrame(() => {
+            //           tocClone.classList.add('visible')
+            //       })
                   
-                //   console.log('TOC cloned and moved')
-              }
+            //     //   console.log('TOC cloned and moved')
+            //   }
   
               // Delay the ESC prompt to avoid overlapping with TOC
-              setTimeout(createReadingModeHint, 300)
-          }
+            //   setTimeout(createReadingModeHint, 300)
+        //   }
+
+            sidebars.forEach(sidebar => sidebar.classList.add('reading-mode-active'))
+          setTimeout(createReadingModeHint, 300)
+
   
           // Hide other elements
           requestAnimationFrame(() => {
               sidebars.forEach(sidebar => {
                   if (sidebar.classList.contains('left')) {
                       Array.from(sidebar.children).forEach(child => {
-                          if ((!child.classList.contains('reading-mode-visible') && !child.classList.contains('toc-clone')) && child instanceof HTMLElement) {
+                          if (!child.classList.contains('reading-mode-visible') && child instanceof HTMLElement) {
                               child.classList.add('hidden-in-reading-mode')
                           }
                       })
                   } else {
-                      sidebar.classList.add('hidden-in-reading-mode')
+                    console.log(sidebar.children)
+                    Array.from(sidebar.children).forEach(child => {
+                        if(!child.classList.contains('reading-mode-visible') && child instanceof HTMLElement) {
+                            child.classList.add('hidden-in-reading-mode')
+                        }
+                    })
                   }
               })
           })
@@ -401,23 +410,26 @@ declare global {
       } else {
           cleanup()
           
-          // Restore visibility of all elements
-          sidebars.forEach(sidebar => {
-              sidebar.classList.remove('hidden-in-reading-mode', 'reading-mode-active')
-              if (sidebar.classList.contains('left')) {
-                  Array.from(sidebar.children).forEach(child => {
-                      if (child instanceof HTMLElement) {
-                          child.classList.remove('hidden-in-reading-mode')
-                      }
-                  })
-              }
+          requestAnimationFrame(() => {
+            // Restore visibility of all elements
+            sidebars.forEach(sidebar => {
+                sidebar.classList.remove('hidden-in-reading-mode', 'reading-mode-active')
+                if (sidebar.classList.contains('left')) {
+                    Array.from(sidebar.children).forEach(child => {
+                        if (child instanceof HTMLElement) {
+                            child.classList.remove('hidden-in-reading-mode')
+                        }
+                    })
+                }
+            })
           })
+          
   
-          // Restore TOC
-          if (originalTocPosition?.element) {
-              originalTocPosition.element.style.display = ''
-              originalTocPosition = null
-          }
+        //   // Restore TOC
+        //   if (originalTocPosition?.element) {
+        //       originalTocPosition.element.style.display = ''
+        //       originalTocPosition = null
+        //   }
   
           // Removal Tips
           const hint = document.querySelector('.reading-mode-hint')

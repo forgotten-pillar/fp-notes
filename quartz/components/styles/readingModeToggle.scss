@@ -1,23 +1,29 @@
 // 阅读模式按钮
 button.reading-mode-toggle {
     border: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--gray);
     border-radius: 4px;
-    width: 2rem;
-    height: 2rem;
+    width: 3rem;
+    height: 3rem;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
     transition: all 0.2s ease;
     padding: 0;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     line-height: 1;
     color: var(--dark);
-    background: var(--lightgray);
+    background: var(--light);
+
   
     &:hover {
       background: var(--hover);
       transform: none;
+      background: var(--lightgray);
+
     }
   
     &.active {
@@ -112,23 +118,19 @@ button.reading-mode-toggle {
   
   // 阅读模式下的样式
   html.reading-mode {
-    .page-title {
-      opacity: 0;
-      transition: opacity 0.3s ease-in-out;
-    }
   
     .sidebar {
       transition: all 0.3s ease-in-out;
   
       &.hidden-in-reading-mode {
         opacity: 0;
-        transform: translateX(100%);
+        // transform: translateX(100%);
         pointer-events: none;
       }
   
       &.reading-mode-active {
-        display: block !important;
-        visibility: visible !important;
+        // display: block !important;
+        // visibility: visible !important;
         opacity: 1 !important;
         transform: none !important;
   
@@ -165,8 +167,8 @@ button.reading-mode-toggle {
   
         > *:not(.toc-clone).hidden-in-reading-mode {
           opacity: 0;
-          transform: translateX(-20px);
-          visibility: hidden;
+        //   transform: translateX(-20px);
+        //   visibility: hidden;
           pointer-events: none;
           transition: all 0.3s ease-in-out;
         }
@@ -183,11 +185,11 @@ button.reading-mode-toggle {
   // 阅读模式提示
   .reading-mode-hint {
     position: fixed;
-    top: 20px;
-    left: 20px;
+    top: 4.7rem;
+    right: 7.8rem;
     transform: none;
-    background: var(--tertiary);
-    color: var(--light);
+    // background: var(--tertiary);
+    color: var(--dark);
     border-radius: 6px;
     padding: 8px 16px;
     font-size: 14px;

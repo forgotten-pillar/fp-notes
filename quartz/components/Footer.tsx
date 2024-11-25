@@ -36,6 +36,14 @@ export default ((opts?: Options) => {
     )
   }
 
+  // there is a bug somewhere so I am not using this
+  // const beforeDOMLoaded = opts?.components ? opts.components.map(component => component.beforeDOMLoaded).join('\n\n') : ''
+  // const afterDOMLoaded = opts?.components ? opts.components.map(component => component.afterDOMLoaded).join('\n\n') : ''
+  // const componentStyles = opts?.components ? opts.components.map(component => component.css).join('\n\n') : ''
+
   Footer.css = style
+  // Footer.css = style + '\n\n' + componentStyles
+  // Footer.beforeDOMLoaded = beforeDOMLoaded
+  // Footer.afterDOMLoaded = afterDOMLoaded
   return Footer
 }) satisfies QuartzComponentConstructor

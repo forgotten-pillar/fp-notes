@@ -31,6 +31,8 @@ import TranslateButton from "./TranslateButton"
 import RelatedVideos from "./RelatedVideos"
 import RelatedRead from "./RelatedRead"
 import ReadingModeToggle from "./ReadingModeToggle"
+import ColFlex from "./ColFlex"
+import RowFlex from "./RowFlex"
 
 export {
   ArticleTitle,
@@ -66,4 +68,6 @@ export {
   RelatedVideos,
   RelatedRead,
   ReadingModeToggle,
+  ColFlex,
+  RowFlex,
 }

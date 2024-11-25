@@ -10,14 +10,11 @@ function getFirstForeignLanguage() {
 
 function setupLanguage() {
     const linkElement = document.getElementById('google-translate') as HTMLAnchorElement
-    console.log('hallo', linkElement)
     if (linkElement) {
         const userForeignLanguage = getFirstForeignLanguage();
 
         // Replace the 'TARGET' in the href attribute with the user's foreign language
         linkElement.href = linkElement.href.replace('TARGET', userForeignLanguage);
-
-        console.log(`Updated link: ${linkElement.href}`);
     } else {
         console.error('Element with ID "google-translate" not found.');
     }

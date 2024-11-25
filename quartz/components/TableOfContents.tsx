@@ -25,7 +25,7 @@ const TableOfContents: QuartzComponent = ({
   }
 
   return (
-    <div class={classNames(displayClass, "toc")}>
+    <div class={classNames(displayClass, "toc reading-mode-visible")}>
       <button
         type="button"
         id="toc"

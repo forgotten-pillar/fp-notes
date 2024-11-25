@@ -41,18 +41,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.PrintMeta(),
     Component.TagList(),
-    // Component.MobileOnly(Component.ShareButtons()),
     Component.TTS(),
   ],
   left: [
     Component.PageTitle(),
     Component.Search(),
-    // Component.ReadingModeToggle(),
     Component.MobileOnly(Component.HamburgerMenu()),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.ShareButtons(),
+    Component.RowFlex([Component.DesktopOnly(Component.ReadingModeToggle()), Component.ShareButtons()]),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.RelatedVideos(),
@@ -68,8 +66,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.MobileOnly(Component.HamburgerMenu()),
     Component.DesktopOnly(Component.Explorer()),
-    // Component.Darkmode(),
-    // Component.GraphMini()
   ],
   right: [],
 }
