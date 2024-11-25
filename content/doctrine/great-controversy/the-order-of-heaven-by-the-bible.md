@@ -314,4 +314,4 @@ It should be kept in mind that God is the head of Christ, as the Father is to th
 This structure that we have studied was the Law in Heaven against which Satan rebelled, because he wanted to be equal with God. This Law is unchangeable! Today it is the same as it was when Satan rebelled, and that same order will remain so for all eternity.
 
 ***
-How can we know the order of Heaven in the relationship with Satan? The Bible shows this in the Controversy between Satan and archangel Michael. Check out [[archangel-michael]].
+How can we know the order of Heaven in the relationship with Satan? The Bible shows this in the Controversy between Satan and archangel Michael. Check out [[archangel-michael|Order of Heaven - by Bible]].
