@@ -23,7 +23,7 @@ function RelatedRead({ displayClass, fileData }: QuartzComponentProps) {
         <h3>Related Read{urls.length > 1 ? 's' : ''}</h3>
         <div class='list'>
             {allowedReads.map((read, index) => (
-                <a href={`https://forgottenpillar.com/book/${read}`} aria-label={`related read ${read}`} target='_blank'>
+                <a href={`https://forgottenpillar.com/book/${read}`} aria-label={`related read ${read}`} target='_blank' class='read-target' data-target={read}>
                     <img src={allowedReadsMap.get(read)} alt={`${read} cover`} /></a>
             ))}
         </div>

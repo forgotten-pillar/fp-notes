@@ -667,11 +667,28 @@ p.print-meta {
         width: 100%;
         height: 100%;
         background-color: rgba(0, 0, 0, 0.3); /* 30% black overlay */
+        opacity: 0;
         transition: opacity 0.3s ease;
       }
 
       &:hover::after {
-        opacity: 0;
+        opacity: 1;
+      }
+    }
+  }
+}
+
+html[saved-theme="dark"] {
+  .related-videos, .related-read {
+    .list {
+      a {
+        &::after {
+          opacity: 1;
+        }
+    
+        &:hover::after {
+          opacity: 0;
+        }
       }
     }
   }

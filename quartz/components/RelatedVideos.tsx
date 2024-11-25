@@ -33,7 +33,7 @@ function RecentVideos({ displayClass, fileData }: QuartzComponentProps) {
         <h3>Related Video{videoThumbnails.length > 1 ? 's' : ''}</h3>
         <div class='list'>
             {videoThumbnails.map((thumbnail, index) => (
-                <a href={urls.at(index)} aria-label={`related video ${index + 1}`} target='_blank'>
+                <a href={urls.at(index)} aria-label={`related video ${index + 1}`} target='_blank' class="video-target" data-target={urls.at(index)}>
                     <img src={thumbnail} alt={`video thumbnail ${index + 1}`} /></a>
             ))}
         </div>
