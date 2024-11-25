@@ -3,6 +3,8 @@ publish: true
 tags:
   - eternalLife
   - son
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 
 > [!important] Observation

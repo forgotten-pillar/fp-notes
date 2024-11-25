@@ -9,6 +9,8 @@ description: Explore the divine mystery of Christ's eternal existence and begott
 fpRelatedVideos:
   - https://www.youtube.com/watch?v=HtPcp-_lPwU
   - https://www.youtube.com/watch?v=o_QKBMRlG48
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 ## *Begotten* in the express image
 

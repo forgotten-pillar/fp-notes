@@ -2,6 +2,8 @@
 publish: true
 tags:
   - underived
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 
 > [!note] "In Him was life... underived"

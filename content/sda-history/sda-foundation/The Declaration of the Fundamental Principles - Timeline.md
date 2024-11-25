@@ -3,6 +3,8 @@ publish: true
 tags:
   - fundamentalPrinciples
   - adventistHistory
+fpRelatedReads:
+  - the-forgotten-pillar
 ---
 
 > [!important] The importance of booklets and publications

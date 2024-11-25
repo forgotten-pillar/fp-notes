@@ -1,5 +1,7 @@
 ---
 publish: true
+fpRelatedReads:
+  - the-forgotten-pillar
 ---
 
 > [!todo] TODO

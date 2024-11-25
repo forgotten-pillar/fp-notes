@@ -3,6 +3,8 @@ publish: true
 tags:
   - fundamentalPrinciples
   - revival
+fpRelatedReads:
+  - the-forgotten-pillar
 ---
 The following is the compilation of Ellen White quotations about the revival of the fundamental principles in these last days.
 

@@ -6,6 +6,8 @@ tags:
   - personalityOfGod
   - tangible
   - hermeneutics
+fpRelatedReads:
+  - the-forgotten-pillar
 ---
 ## James White
 

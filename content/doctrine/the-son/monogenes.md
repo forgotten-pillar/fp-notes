@@ -6,6 +6,8 @@ tags:
 title: Monogenes
 permalink: monogenes
 description: Explore the Biblical meaning of 'only begotten' (monogenes) through key Bible examples, including Isaac and Christ. Discover how Scripture defines Jesus as God's truly begotten Son, challenging modern theological interpretations.
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 > [!bible] [John 3:16 - KJV](https://www.biblegateway.com/passage/?search=John+3:16&version=kjv)
 > 16. For God so loved the world, that he gave his **only begotten** (*monogenes*) Son, that whosoever believeth in him should not perish, but have everlasting life.

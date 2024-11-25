@@ -1,5 +1,7 @@
 ---
 publish: true
+fpRelatedReads:
+  - the-forgotten-pillar
 ---
 ### The omega will be of a most startling nature
 
