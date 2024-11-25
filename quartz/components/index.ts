@@ -30,6 +30,7 @@ import TTS from "./TTS"
 import TranslateButton from "./TranslateButton"
 import RelatedVideos from "./RelatedVideos"
 import RelatedRead from "./RelatedRead"
+import ReadingModeToggle from "./ReadingModeToggle"
 
 export {
   ArticleTitle,
@@ -64,4 +65,5 @@ export {
   TranslateButton,
   RelatedVideos,
   RelatedRead,
+  ReadingModeToggle,
 }

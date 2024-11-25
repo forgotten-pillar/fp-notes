@@ -17,7 +17,7 @@ function initializeStickyPlayer() {
     // Preserve previous placeholder dimensions before cleanup
     let previousPlaceholderDiv: HTMLDivElement | null = placeholderDiv;
   
-    cleanup();
+    cleanupTTS();
   
     audioPlayerContainer = document.getElementById('tts');
     if (!audioPlayerContainer) return;
@@ -146,7 +146,7 @@ function handleStickyScroll() {
     }
   }
 
-function cleanup() {
+function cleanupTTS() {
   window.removeEventListener('resize', handleStickyScroll);
   window.removeEventListener('scroll', handleStickyScroll);
   
