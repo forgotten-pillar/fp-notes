@@ -2,7 +2,7 @@
 let audioPlayerContainer: HTMLElement | null = null;
 let placeholderDiv: HTMLDivElement | null = null;
 let isSticky = false;
-let lastScrollYSticky = window.scrollY;
+let lastScrollY = window.scrollY;
 let isPlayerVisible = true;
 let scrollDistance = 0;
 
@@ -41,7 +41,7 @@ function initializeStickyPlayer() {
     }
   
     // Initialize last scroll position
-    lastScrollYSticky = window.scrollY;
+    lastScrollY = window.scrollY;
   
     // Add event listeners
     window.addEventListener('resize', handleStickyScroll);
@@ -65,11 +65,11 @@ function handleStickyScroll() {
   
     // Determine scroll direction and distance
     const currentScrollY = window.scrollY;
-    const scrollDelta = currentScrollY - lastScrollYSticky;
+    const scrollDelta = currentScrollY - lastScrollY;
     const isScrollingDown = scrollDelta > 0;
     
     // Update lastScrollY after calculating scrollDelta
-    lastScrollYSticky = currentScrollY;
+    lastScrollY = currentScrollY;
   
     // Handle scroll accumulation logic
     if ((isScrollingDown && scrollDistance < 0) || (!isScrollingDown && scrollDistance > 0)) {

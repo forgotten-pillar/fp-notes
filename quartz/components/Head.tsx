@@ -42,7 +42,8 @@ export default (() => {
         }
       },
       "datePublished": fileData.dates?.created || new Date().toISOString(),
-      "dateModified": fileData.dates?.modified || new Date().toISOString()
+      "dateModified": fileData.dates?.modified || new Date().toISOString(),
+      "mainEntityOfPage": `https://${cfg.baseUrl!}/${fileData.slug!}`
     }
 
     return (
@@ -79,6 +80,7 @@ export default (() => {
         
         {/* JSON-LD script - output raw JSON */}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+        <meta name="google-site-verification" content="VNplcD2JGpi5cKkzCp2MY7RJ7klWEfrcUo8KwcSyIO8" />
       </head>
     )
   }
