@@ -33,6 +33,7 @@ import RelatedRead from "./RelatedRead"
 import ReadingModeToggle from "./ReadingModeToggle"
 import ColFlex from "./ColFlex"
 import RowFlex from "./RowFlex"
+import DesktopFullOnly from "./DesktopFullOnly"
 
 export {
   ArticleTitle,
@@ -70,4 +71,5 @@ export {
   ReadingModeToggle,
   ColFlex,
   RowFlex,
+  DesktopFullOnly,
 }

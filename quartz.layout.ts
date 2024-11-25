@@ -50,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.RowFlex([Component.DesktopOnly(Component.ReadingModeToggle()), Component.ShareButtons()]),
+    Component.RowFlex([Component.DesktopFullOnly(Component.ReadingModeToggle()), Component.ShareButtons()]),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.RelatedVideos(),

@@ -113,6 +113,16 @@ a {
   }
 }
 
+.desktop-full-only {
+  display: initial;
+  @media all and ($mobile) {
+    display: none !important;
+  }
+  @media all and ($tablet) {
+    display: none !important;
+  }
+}
+
 .mobile-only {
   display: none;
   @media all and ($mobile) {
