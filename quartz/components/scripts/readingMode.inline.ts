@@ -279,6 +279,10 @@ declare global {
           e.preventDefault()
           // @ts-ignore
           window.toggleReadingMode(false)
+          // @ts-ignore
+          window.saveState(false)
+          // @ts-ignore
+          window.readingMode = false
           // Remove focus from a button
           const button = document.querySelector('.reading-mode-toggle')
           if (button instanceof HTMLElement) {
@@ -469,6 +473,11 @@ declare global {
               toggleReadingMode(false)
               saveState(false)
           }
+          // Detect CTRL or COMMAND + J
+        if ((e.ctrlKey || e.metaKey) && e.key === 'j') {
+            e.preventDefault(); // Prevent default browser action, if needed
+            handleClick();
+        }
       }
       document.addEventListener('keydown', handleKeydown)
       window.addCleanup(() => document.removeEventListener('keydown', handleKeydown))

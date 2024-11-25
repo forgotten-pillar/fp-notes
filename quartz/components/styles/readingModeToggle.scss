@@ -115,6 +115,7 @@ button.reading-mode-toggle {
     font-size: 14px;
     animation: tipFade 1s ease-in-out forwards;
   }
+
   
   // 阅读模式下的样式
   html.reading-mode {
@@ -131,7 +132,7 @@ button.reading-mode-toggle {
   
       &.reading-mode-active {
         // display: block !important;
-        // visibility: visible !important;
+        visibility: visible !important;
         opacity: 1 !important;
         transform: none !important;
   
@@ -166,14 +167,22 @@ button.reading-mode-toggle {
           }
         }
   
-        > *:not(.toc-clone).hidden-in-reading-mode {
-          opacity: 0;
-        //   transform: translateX(-20px);
-        //   visibility: hidden;
-          filter: blur(10px);
-
-          pointer-events: none;
-          transition: all 0.3s ease-in-out;
+        > *:not(.toc-clone) {
+          &.hidden-in-reading-mode {
+            opacity: 0;
+            visibility: hidden;
+            filter: blur(10px);
+            pointer-events: none;
+            transition: all 0.3s ease-in-out;
+          }
+        
+          &:not(.hidden-in-reading-mode) {
+            opacity: 1;
+            visibility: visible;
+            filter: blur(0);
+            pointer-events: auto;
+            transition: all 0.3s ease-in-out;
+          }
         }
       }
     }
