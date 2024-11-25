@@ -101,10 +101,10 @@ h2 {
       column-gap: #{map-get($desktopGrid, columnGap)};
       row-gap: #{map-get($desktopGrid, rowGap)};
 
-      grid-template:
-      "grid-sidebar-left grid-header grid-sidebar-right"
-      "grid-sidebar-left grid-center grid-sidebar-right"
-      "grid-sidebar-left grid-footer grid-sidebar-right" / 320px auto 370px;
+          grid-template:
+        "grid-sidebar-left grid-header grid-sidebar-right"
+        "grid-sidebar-left grid-center grid-sidebar-right"
+        "grid-sidebar-left grid-footer grid-sidebar-right" / 320px auto 370px;
 
       & .sidebar {
         gap: 2rem * $spacing-scale;
@@ -656,7 +656,7 @@ p.print-meta {
     display: inline-flex;
     flex-direction: column;
     gap: .5rem;
-    padding: 1rem;
+    padding: 1rem 0;
 
     a {
       position: relative;
@@ -708,6 +708,9 @@ html[saved-theme="dark"] {
   .list {
     @media all and ($mobile) {
       padding: 1rem 3rem;
+    }
+    @media all and ($desktop) {
+      padding: 1rem;
     }
   }
 }
