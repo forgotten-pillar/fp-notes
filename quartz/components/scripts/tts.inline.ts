@@ -105,11 +105,12 @@ function handleStickyScroll() {
       isPlayerVisible = !isScrollingDown;
       audioPlayerContainer.style.transition = 'none';
       audioPlayerContainer.style.opacity = isPlayerVisible ? '1' : '0';
+      audioPlayerContainer.style.filter = isPlayerVisible ? 'blur(0)' : 'blur(10px)'
       audioPlayerContainer.style.pointerEvents = isPlayerVisible ? 'auto' : 'none';
   
       setTimeout(() => {
         if (audioPlayerContainer) {
-          audioPlayerContainer.style.transition = 'opacity 0.3s ease-in-out';
+          audioPlayerContainer.style.transition = 'all 0.3s ease-in-out';
         }
       }, 0);
   
@@ -119,6 +120,7 @@ function handleStickyScroll() {
       audioPlayerContainer.style.width = 'auto';
       audioPlayerContainer.style.left = 'auto';
       audioPlayerContainer.style.opacity = '1';
+      audioPlayerContainer.style.filter = 'blur(0px)';
       audioPlayerContainer.style.pointerEvents = 'auto';
       placeholderDiv.style.display = 'none';
       isSticky = false;
@@ -142,6 +144,7 @@ function handleStickyScroll() {
       const shouldBeVisible = isPlayerVisible && !hasFooterOverlap;
   
       audioPlayerContainer.style.opacity = shouldBeVisible ? '1' : '0';
+      audioPlayerContainer.style.filter = shouldBeVisible ? 'blur(0)' : 'blur(10px)'
       audioPlayerContainer.style.pointerEvents = shouldBeVisible ? 'auto' : 'none';
     }
   }
