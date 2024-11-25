@@ -387,7 +387,7 @@ declare global {
               sidebars.forEach(sidebar => {
                   if (sidebar.classList.contains('left')) {
                       Array.from(sidebar.children).forEach(child => {
-                          if (!child.classList.contains('toc-clone') && child instanceof HTMLElement) {
+                          if ((!child.classList.contains('reading-mode-visible') && !child.classList.contains('toc-clone')) && child instanceof HTMLElement) {
                               child.classList.add('hidden-in-reading-mode')
                           }
                       })
