@@ -101,6 +101,11 @@ h2 {
       column-gap: #{map-get($desktopGrid, columnGap)};
       row-gap: #{map-get($desktopGrid, rowGap)};
 
+      grid-template:
+      "grid-sidebar-left grid-header grid-sidebar-right"
+      "grid-sidebar-left grid-center grid-sidebar-right"
+      "grid-sidebar-left grid-footer grid-sidebar-right" / 320px auto 370px;
+
       & .sidebar {
         gap: 2rem * $spacing-scale;
         padding: $topSpacing * $spacing-scale 2rem * $spacing-scale 2rem * $spacing-scale 2rem * $spacing-scale;
@@ -111,6 +116,7 @@ h2 {
         margin-top: 1rem * $spacing-scale;
       }
     }
+
   }
 
   .recent-li .section .tags {
@@ -226,6 +232,10 @@ h2 {
     ul {
       padding-left: 1rem * $spacing-scale;
     }
+  }
+
+  .page>#quartz-body .sidebar.right {
+    overflow-y: auto;
   }
 }
 
@@ -690,6 +700,14 @@ html[saved-theme="dark"] {
           opacity: 0;
         }
       }
+    }
+  }
+}
+
+.related-read {
+  .list {
+    @media all and ($mobile) {
+      padding: 1rem 3rem;
     }
   }
 }
