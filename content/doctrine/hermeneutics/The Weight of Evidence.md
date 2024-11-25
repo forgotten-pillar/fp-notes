@@ -2,6 +2,8 @@
 publish: true
 tags:
   - hermeneutics
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 ## Those who desire to doubt will have plenty of room
 

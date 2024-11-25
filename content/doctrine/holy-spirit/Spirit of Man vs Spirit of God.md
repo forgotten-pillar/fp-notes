@@ -2,6 +2,8 @@
 publish: true
 tags:
   - holySpirit
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 Since we are created in the image of God, are there any similarities between the spirit of man, with the spirit of God? Let's examine some of the characteristics:
 

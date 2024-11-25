@@ -3,6 +3,8 @@ publish: true
 tags:
   - hermeneutics
   - elohim
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 **Chat GPT-4o**
 ***

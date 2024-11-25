@@ -2,6 +2,8 @@
 publish: true
 tags:
   - father
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 Who is God of the Jews? All records from the Scriptures points to God the Father. Let's start with Jesus' own testimony. As a Jew He said to the Samaritan woman:
 

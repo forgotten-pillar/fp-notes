@@ -29,6 +29,7 @@ import PrintButton from "./PrintButton"
 import TTS from "./TTS"
 import TranslateButton from "./TranslateButton"
 import RelatedVideos from "./RelatedVideos"
+import RelatedRead from "./RelatedRead"
 
 export {
   ArticleTitle,
@@ -62,4 +63,5 @@ export {
   TTS,
   TranslateButton,
   RelatedVideos,
+  RelatedRead,
 }

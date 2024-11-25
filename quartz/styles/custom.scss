@@ -636,11 +636,17 @@ p.print-meta {
 }
 
 // related videos
-.related-videos {
+.related-videos, .related-read {
+  h3 {
+    font-size: 1rem;
+    margin: 0;
+  }
+
   .list {
     display: inline-flex;
     flex-direction: column;
     gap: .5rem;
+    padding: 1rem 0;
 
     a {
       position: relative;

@@ -2,6 +2,8 @@
 publish: true
 tags:
   - hermeneutics
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 > **My brethren,** let the word of God stand **just as it is.** Let not human wisdom presume to **lessen the force of one statement of the Scriptures**. 5T 711.2
 

@@ -2,6 +2,8 @@
 publish: true
 tags:
   - holySpirit
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 The visible glory of God given to His Son
 

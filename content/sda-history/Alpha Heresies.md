@@ -3,6 +3,8 @@ publish: true
 tags:
   - alphaHeresy
   - livingTemple
+fpRelatedReads:
+  - the-forgotten-pillar
 ---
 The Living Temple contains the alpha of deadly heresies:
 

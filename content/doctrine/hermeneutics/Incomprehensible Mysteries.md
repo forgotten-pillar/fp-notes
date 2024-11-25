@@ -3,6 +3,8 @@ publish: true
 tags:
   - hermeneutics
   - mystery
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 
 > Many things are above **finite comprehension**. Truths are to be received that are **not within the reach of our reason, and not for us to explain**. [10LtMs, Lt 8, 1895, par. 21](https://legacy.egwwritings.org/?ref=en_Lt8-1895&para=6474.27)

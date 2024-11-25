@@ -2,6 +2,8 @@
 publish: true
 title: Let US create
 description: Explore compelling evidence from the Bible and the Spirit of Prophecy that reveals the meaning of 'Let us create' as a conversation between God the Father and His Son, Jesus Christ, in the act of creation.
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 In Heaven, long before the earth was created:
 

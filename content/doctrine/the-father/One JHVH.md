@@ -2,6 +2,8 @@
 publish: true
 tags:
   - father
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 > [!bible] [Deuteronomy 6:4-5 - KJV](https://www.biblegateway.com/passage/?search=Deuteronomy+6:4-5&version=kjv)
 > 4. Hear, O Israel: **The LORD our God is one LORD**:

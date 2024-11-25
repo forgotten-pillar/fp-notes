@@ -8,6 +8,8 @@ description: Explore the profound mystery of the Plan of Redemption's eternal na
 permalink: from-all-eternity
 fpRelatedVideos:
   - https://www.youtube.com/watch?v=o_QKBMRlG48
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 ## When was the plan of redemption devised?
 
