@@ -6,6 +6,9 @@ tags:
 title: The Beginning Problem
 permalink: beginning-problem
 description: Explore the divine mystery of Christ's eternal existence and begotten nature. Discover how Scripture reconciles Jesus as both eternal God and the begotten Son, examining key Bible texts and Spirit of Prophecy insights.
+fpRelatedVideos:
+  - https://www.youtube.com/watch?v=HtPcp-_lPwU
+  - https://www.youtube.com/watch?v=o_QKBMRlG48
 ---
 ## *Begotten* in the express image
 

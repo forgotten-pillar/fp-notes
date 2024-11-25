@@ -6,11 +6,11 @@ permalink: order-of-heaven
 title: The Order of Heaven - By the Bible
 description: Explore the biblical evidence for the divine order in Heaven through an analysis of Hebrews 1 and related scriptures. Learn how Christ received His glory from the Father, His position above the angels, and His inheritance as the only begotten Son. Discover key insights about Christ's pre-existence, His glorification after resurrection, and the fullness of divinity He received from God the Father. Essential reading for understanding the Heaven's order and Christ's unique position in it.
 tts: true
+fpRelatedVideos:
+  - https://youtu.be/o_QKBMRlG48?si=UJ9mvbAvVgDcdPCM
+  - https://www.youtube.com/watch?v=aFC4rwSeMRY
 ---
-The following study is the examination of the Scriptures in regards to the Order of Heaven. This order has been strongly emphasized within the writings of Ellen White, and many think that Ellen White is not being Scriptural. Check out the following video on the Great Controversy and the Sonship of Christ: 
-
-![The Great Controversy and Sonship of Christ - the common ground series part 6 - the Forgotten Pillar Project](https://youtu.be/o_QKBMRlG48?si=1FVAyq5nceIjkhfh)
-
+The following study is the examination of the Scriptures in regards to the Order of Heaven. This order has been strongly emphasized within the writings of Ellen White, and many think that Ellen White is not being Scriptural. Check out the following video on the Great Controversy and the Sonship of Christ: [The Great Controversy and Sonship of Christ](https://www.youtube.com/watch?v=o_QKBMRlG48)
 ## Terminology
 In the bible there is a term denoting the angels - *principalities* and *powers* 
 

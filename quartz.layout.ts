@@ -54,7 +54,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ShareButtons(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    // Component.GraphMini(),
+    Component.RelatedVideos(),
   ],
 }
 

@@ -28,6 +28,7 @@ import PrintMeta from "./PrintMeta"
 import PrintButton from "./PrintButton"
 import TTS from "./TTS"
 import TranslateButton from "./TranslateButton"
+import RelatedVideos from "./RelatedVideos"
 
 export {
   ArticleTitle,
@@ -60,4 +61,5 @@ export {
   PrintButton,
   TTS,
   TranslateButton,
+  RelatedVideos,
 }

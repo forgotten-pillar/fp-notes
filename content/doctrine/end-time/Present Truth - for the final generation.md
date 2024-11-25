@@ -6,6 +6,8 @@ tags:
   - investigativeJudgment
   - 144k
   - finalGeneration
+fpRelatedVideos:
+  - https://www.youtube.com/watch?v=UVs99Y3hT-w
 ---
 
 

@@ -6,6 +6,8 @@ tags:
 title: From All Eternity
 description: Explore the profound mystery of the Plan of Redemption's eternal nature and Christ's divine sonship. Learn how faith reconciles Christ being both eternal and begotten, according to Scripture and Spirit of Prophecy.
 permalink: from-all-eternity
+fpRelatedVideos:
+  - https://www.youtube.com/watch?v=o_QKBMRlG48
 ---
 ## When was the plan of redemption devised?
 

@@ -6,6 +6,8 @@ description: This article compiles quotations from Ellen G. White that illustrat
 tags:
   - greatControversy
   - son
+fpRelatedVideos:
+  - https://www.youtube.com/watch?v=o_QKBMRlG48
 ---
 > The One **who was exalted** above all others in the heavenly courts, as the Son of the Highest, is the One whose hands were nailed to the cross of Calvary. [NPUGleaner April 6, 1910, par. 6](https://egwwritings.org/read?panels=p511.224&index=0)
 
