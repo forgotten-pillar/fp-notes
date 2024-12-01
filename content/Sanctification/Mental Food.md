@@ -12,6 +12,11 @@ What does it means to keep our hearts? In biblical terms, the "heart" often refe
 
 ## Guard your mind / thoughts
 
+> [!bible] [1 Peter 1:13 - KJV](https://www.biblegateway.com/passage/?search=1+Peter+1:13&version=kjv)
+> 13. **Wherefore gird up the loins of your mind**, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;
+
+Gird up the loins of your mind means to guard your thoughts. This our Christian duty.
+
 > [!bible] [Romans 12:2 - KJV](https://www.biblegateway.com/passage/?search=Romans+12:2&version=kjv)
 > 2. And be not conformed to this world: **but be ye transformed by *the renewing of your mind***, that ye may prove what is that good, and acceptable, and perfect, will of God.
 
