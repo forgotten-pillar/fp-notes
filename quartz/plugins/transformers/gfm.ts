@@ -34,6 +34,7 @@ export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> =
                 ariaHidden: true,
                 tabIndex: -1,
                 "data-no-popover": true,
+                "data-extra-class": 'heading-link',
               },
               content: {
                 type: "element",
