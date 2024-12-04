@@ -5,6 +5,7 @@ tags:
   - adventistHistory
 fpRelatedReads:
   - the-forgotten-pillar
+title: The Declaration of the Fundamental Principles - Timeline
 ---
 
 > [!important] The importance of booklets and publications

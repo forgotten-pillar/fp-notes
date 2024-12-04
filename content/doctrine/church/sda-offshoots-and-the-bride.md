@@ -111,7 +111,7 @@ The bride of Christ hears His voice and follows Him wherever He goes. It is perf
 
 In order to be God's bride, the SDA Church must not have a creed, besides the Bible. Why? Because faithfulness is tested by God's commandments, not by churches' maxims, rules of faith, and creeds. Everyone's conscience has to be subjected to the Word of God, not to something nor someone else.
 
-When our pioneers published the [[The Declaration of the Fundamental Principles - Timeline|Declaration of the Fundamental Principles]] as a public synopsis of our faith, they clearly emphasized that this list of statements representing the SDA faith is not a creed nor a rule of faith.
+When our pioneers published the [[fp-declaration-timeline|Declaration of the Fundamental Principles]] as a public synopsis of our faith, they clearly emphasized that this list of statements representing the SDA faith is not a creed nor a rule of faith.
 
 > **In presenting to the public this synopsis of our faith**, we wish to have it **distinctly understood that we have no articles of faith, creed, or discipline, aside from the Bible**. **We do not put forth this as having any authority with our people, nor is it designed to secure uniformity among them, as a system of faith, but is a brief statement of what is, and has been, with great unanimity, held by them**. We often find it necessary to meet inquiries on this subject, and sometimes to correct false statements circulated against us, and to remove erroneous impressions which have obtained with those who have not had an opportunity to become acquainted with our faith and practice. Our only object is to meet this necessity. [{FP1872 3.1}](https://egwwritings.org/read?panels=p928.8&index=0)
 

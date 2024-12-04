@@ -1,0 +1,122 @@
+---
+publish: true
+title: Validity of the Declaration
+description: Uncover the hidden history of the Seventh-day Adventist Declaration of Fundamental Principles, exploring how this pivotal document has been systematically marginalized by modern historians seeking to reframe church doctrine.
+fp-social-media: "Discover the explosive truth behind Adventist history: How one forgotten document challenges everything you thought you knew about church doctrine! 🔍📜"
+permalink: validity-of-declaration
+tags:
+  - adventistHistory
+  - fundamentalPrinciples
+  - trinity
+---
+
+> [!abstract] Abstract
+> The Seventh-day Adventist Church's 1872 Declaration of Fundamental Principles has been systematically undermined by contemporary historians seeking to reframe the church's doctrinal evolution. This document, authored by key pioneers like James White and Uriah Smith, represents a critical snapshot of early Adventist beliefs. Despite claims of being unauthorized or representing merely personal opinions, the declaration was consistently published for decades and supported by church leadership, including Ellen White. Its marginalization serves a narrative of doctrinal progression, particularly regarding theological interpretations like the doctrine of God.
+
+There is an effort by Adventist historians to undermine the importance of the Declaration of the Fundamental Principles, and for this reason, this declaration has not been taken into account when the history of the Seventh-day Adventist Church is being discussed. Let's address a few claims.
+## The Declaration is not the same thing as the "fundamental principles"
+
+It is true that in the writings of Ellen White, the term "fundamental principles" denotes wider aspects than the declaration itself. It refers to the pillars of our faith, or way-marks:
+
+> **We are God's commandment-keeping people**. For the past fifty years every phase of heresy has been brought to bear upon us, to becloud our minds regarding the teaching of the word,—especially concerning **the ministration of Christ in the heavenly sanctuary**, and **the message of heaven for these last days, as given by the angels of the fourteenth chapter of Revelation**. Messages of every order and kind have been urged upon Seventh-day Adventists, to take the place of the truth which, **point by point**, has been **sought out by prayerful study, and testified to by the miracle-working power of the Lord**. **But the way-marks which have made us what we are, are to be preserved, and they will be preserved**, as God has signified through His word and the testimony of His Spirit. **He calls upon us to hold firmly, with the grip of faith, to *the fundamental principles* that are based upon unquestionable authority**. [{EGW; SpTB02 59.1; 1903}](https://egwwritings.org/read?panels=p417.296(417.299)&index=0)
+
+How will the _way-marks_ be preserved? By adhering to God's call to hold firmly to _the fundamental principles_. We see that both terms denote the same thing: teaching of the word concerning "_the ministration of Christ in the heavenly sanctuary_", three angels' messages, etc. These were the truths which made us Seventh-day Adventists. These truths define what Seventh-day Adventists believe. These truths were the results of a prayerful study by our pioneers at the beginning of our work.
+
+The Declaration of the Fundamental Principles by its claims, and the historic setting, matches all the given criteria:
+### The historic document which publicly declared what were these fundamental principles
+
+"[The Declaration of the Fundamental Principles Taught and Practiced by Seventh-day Adventists](https://adventistdigitallibrary.org/islandora/object/adl:366607?link_only=true)" [\*](https://forgotten-pillar.s3.us-east-2.amazonaws.com/A+declaration+of+the+fundamental+principles+taught+and+practiced+by+the+Seventh-day+Adventists++.pdf) is a document asserting exactly what it claims - to be a declaration of the fundamental principles (a broad term). It asserts itself as "*a brief statement of what is, and has been, with great unanimity, held by*"[^1] Seventh-day Adventists. The very purpose why this document was issued under the SDA General Conference jurisdiction was to meet inquiries, "_and sometimes to correct false statements circulated against_" the church's beliefs and practices[^1].
+
+In order to discard this declaration, we need to assert a claim that this declaration is falsely representing the Seventh-day Adventists' beliefs. How much sense would that make when the document claims to protect against false statements circulated against Seventh-day Adventists' beliefs? If the declaration is misleading, then there should be historical evidence of a controversy within the Seventh-day Adventist Church correcting the false claims of this declaration. We are not aware of any such controversy[^2].
+
+## It was a personal opinion of a few men
+
+One way to discredit the *Declaration* is to assert that it represents only the personal opinions of a few individuals.
+
+> “It is true that in 1872 a ‘Declaration of the Fundamental Principles Taught and Practiced by Seventhday Adventists’ was printed, but it was never adopted by the denomination and therefore cannot be considered official. **Evidently** a small group, perhaps even one or two, endeavored to put into words **what they thought were the views of the entire church**…” [^2]
+
+The Ministry Magazine wrote that **evidently** a small group endeavored to put into words what they thought were the views of the entire church, as if insinuating that this declaration is falsely representing the Seventh-day Adventists' beliefs as a whole. Let's for a moment accept this assumption that Seventh-day Adventists' beliefs are being misrepresented by a few individuals who "*endeavored to put into words what they thought were the views of the entire church*". Who are those individuals?
+
+### James White
+James White is the first candidate who could be responsible for putting into words what he thought the entire church believed. The evidence is seen in [ST June 4, 1874, p.3.](https://adventistdigitallibrary.org/adl-364148/signs-times-june-4-1874) [\*](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Signs+of+the+Times+_+June+4%2C+1874++.pdf) where he published this declaration as an editor of The Signs of the Times periodical. Richard Lewis wrote:
+
+> "The formulation of principle doctrines of the Seventh-day Adventist Church here presented was constructed earlier [1872] than the indicated publication date in the Signs [1874]. **Though there is no assurance that James White was the only author, he no doubt had a large part in its composition**."[^3]
+
+Let's assume that James White wrote only his personal views of what the SDA Church believed at the time, but in doing so, he misrepresented the true view. James White died on August 6, 1881. When we look at [[fp-declaration-timeline|the timeline of reprinting of the declaration]], we see that the declaration was last printed in the Adventist Yearbook in December 1914. Why are James White's "misrepresentations" of the SDA viewpoint being consistently issued in public as the official SDA standpoint even 33 years after his death? It doesn't make sense.
+
+Most likely, James White did author the declaration, and the declaration was not his own personal opinion misrepresenting the church's standpoint.
+
+When Ellen White recalled the experiences of how the fundamental principles (broad term) were established, she specifically mentioned her husband James White as one of the figures involved in establishing the fundamental principles - see [{EGW, SpTB02 56.4; 1904}](https://egwwritings.org/?ref=en_SpTB02.56.4&para=417.288). It is mischievous to insinuate that James White had misrepresented the SDA standpoint.
+## Uriah Smith
+Uriah Smith is another person of whom we certainly know he had a role in authoring the declaration of the fundamental principles. We know this by having his initials written at the end of the Declaration in  [RH November 24, 1874, p.171](https://documents.adventistarchives.org/Periodicals/RH/RH18741124-V44-22.pdf) [\*](https://forgotten-pillar.s3.us-east-2.amazonaws.com/RH18741124-V44-22.pdf) and  [PT18880816](https://adventistdigitallibrary.org/adl-402854/present-truth-august-16-1888?view_only=true&solr_nav%5Bid%5D=ff4d7f3f77b9bdf9e9ac&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=13) edition. Also, he was behind additional three points in the 1889 and onwards editions. Sometimes when the declaration would be printed in a subheader, it would be noted "_by Uriah Smith_" or "_by the late Uriah Smith_". See [Gospel Sickle, April 1, 1888](https://adventistdigitallibrary.org/adl-410336/gospel-sickle-april-1-1888?view_only=true&solr_nav%5Bid%5D=ff4d7f3f77b9bdf9e9ac&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=6), [YB1908](https://documents.adventistarchives.org/Yearbooks/YB1908.pdf#search=Yearbook%201906) [\*](https://forgotten-pillar.s3.us-east-2.amazonaws.com/YB1908.pdf).
+
+It is evident that Uriah Smith was one of the people who composed the declaration, but is it true that the declaration was misrepresenting the views of Seventh-day Adventist beliefs? If so, he would have been misrepresenting the views of the church from 1872 until 1903, when he died, and no one ever protested against his supposed misrepresentations. Not only that, but more than a decade later, the same supposed misrepresentations were regularly printed under the official standpoint of the Seventh-day Adventists' beliefs. Therefore, the allegations that the declaration was a misrepresentation of the church's view are not valid.
+
+Moreover, we have an interesting testimony of Ellen White in regards to Uriah Smith:
+
+> “**Brother Smith was with us in the rise of this work**. He understands how we—***my husband and myself***—have carried the work forward and upward step by step and have borne the hardships, the poverty, and the want of means. With us were those early workers. **Elder Smith, especially, was one with my husband in his early manhood**. ...” [{EGW, Ms54-1890.6; 1890}](https://egwwritings.org/?ref=en_Ms54-1890.6&para=7213.15)
+> “***We* have stood shoulder to shoulder with Elder Smith in this work while the Lord was laying the foundation principles**. We had to work constantly against one-idea men...” [{EGW, Ms54-1890.7; 1890}](https://egwwritings.org/?ref=en_Ms54-1890.7&para=7213.16)
+
+> [!question] Who laid the foundation principles?
+> It was the Lord! But it was through agency of Uriah Smith, James White and Ellen White. "_My husband and **myself** - have carried the work forward ... **We** have stood shoulder to shoulder with Elder Smith in this work while **the Lord** was laying the foundation principles_"
+
+This quotation is showing us several important things:
+- Mentioning Uriah Smith in the context of foundation principles shows us that Ellen White did refer to the Declaration of the Fundamental Principles when speaking about the "_foundation principles_".
+- Ellen White, together with her husband James White, were with Uriah Smith in the work of laying down the foundation principles.
+- The Lord was laying down the foundation principles, and the official document which was the declaration of those fundamental principles, was an accurate statement of the Lord's work.
+
+> [!important] Interesting correlation
+> The last time the Declaration was seen in print in the Adventist Yearbook was December 1914 ( [YB1914](https://documents.adventistarchives.org/Yearbooks/YB1914.pdf#search=Yearbook%201914) [\*](https://forgotten-pillar.s3.us-east-2.amazonaws.com/YB1914.pdf)). Ellen White passed away in July 1915. This is evidence that Ellen White supported the Declaration during her life, not only with her own writings but she never raised her voice against it.
+
+## "They have no authority"
+
+Another way by which scholars are trying to discredit the Declaration is by claiming that this statement of beliefs held no authority.
+
+> 1872 "DECLARATION" WITHOUT "AUTHORITY."—Apparently the first comprehensive "Declaration" of Seventh-day Adventist "Fundamental Principles" ever attempted appeared in 1872. It was in the form of a 14-page leaflet titled "A Declaration of the Fundamental Principles of the Seventh-Day Adventists." It was a somewhat formal statement. *Though appearing anonymously, it was actually composed by Smith*. In the Declaration, his introductory paragraph reads:
+> 
+>> "*In presenting to the public this synopsis of our faith, we wish to have it distinctly understood that **we have no articles of faith, creed, or discipline, aside from the Bible. We do not put forth this as having any authority with our people, nor is it designed to secure uniformity among them, as a system of faith**, but is a brief statement of what is, and has been, with great unanimity, held by them*." (A Declaration of Fundamental Principles, 1872, p. 3.)
+>
+> It is to be particularly noted that by the author's own statement it was not put forth as having any "*authority*," nor to secure "*uniformity*" of belief. But it clearly had less "*unanimity*" than he averred. [{MOD, p.160, 161, LeRoy Edwin Froom}](https://documents.adventistarchives.org/books/mod1971.pdf)
+
+It is clearly pointed out in the preamble of the Declaration that this declaration has no authority with Seventh-day Adventists, neither is designed to secure uniformity among them. We ask, is this so because this document is irrelevant, or because this document is not a creed, rather a "brief statement of what is, and has been, with great unanimity, held by" Seventh-day Adventists?
+
+> [!quote]- "But it clearly had less '*unanimity*' than he averred"
+> Obviously this is Froom's misrepresentation. The declaration has been [[fp-declaration-timeline|consistently reprinted over 4 decades]] with the claim "The following propositions may be taken as a summary of the principal features of their religious faith, **upon which there is, so far as we know, entire unanimity throughout the body**". Who knew better what Seventh-day Adventists believed in 1872? The authors of the declaration or LeRoy Froom writing 99 years later?
+
+Many interpret the preamble statement of having no authority upon our people as irrelevant.
+
+For instance, Joel Ridgeway in his presentation used "having no authority" statement as a proof that SDA doctrine was in development, because it is clearly stated that this document was not binding[^5].
+
+But they all fail to see the obvious. If the Declaration was binding, then this document would be our creed. The declaration was not binding, not because our doctrine was not mature nor defined, or because it was allegedly a private opinion of a few men, but rather because we as people did not want to have anything else binding our conscience save the Holy Scripture.
+
+Can we make an argument that if SDAs were to test their faith by that document, and not the Bible alone, that this document would have authority, and therefore consider it as relevant? That would be the wrong course of action in regards to our creed being only and exclusively the Bible. Unfortunately, our history is marred by the practice of this, rightfully expressed as apostate, reasoning. Canright recalled this practice:
+
+> "[speaking of the Declaration] A line is added at the close saying that these articles are not a rule of their faith or practice. I positively know *to the contrary*. I myself expelled a prominent Advent minister from the church for refusing to abide by one of these articles. In recent years both ministers and laymen, many of them, *have been expelled for simply disagreeing with one or two of these articles*. Whole churches have been disbanded by conference officials for the same reason..."  [The Christian Worker’s Magazine, October 1915](https://archive.org/details/sim_moody_1915-10_16_2/page/85/mode/1up?view=theater)
+
+The practice of expelling the members because of not adhering to the wording in the Declaration is a wrong course of action, which would prove, contrary to the statement, that Adventists **do** have a creed aside from the Bible - the Declaration of the Fundamental Principles, which is designed to have authority and secure uniformity among Seventh-day Adventists.
+
+Nevertheless, despite the wrong practices contrary to the statement itself, the Declaration served the purpose to simply put forth as "_a brief statement of what is, and has been, with great unanimity, held by_" Seventh-day Adventists. This document is relevant, valid, and an important piece of evidence when discussing Adventist history and the progress, or regress, of our doctrine.
+## Why Do Adventist Historians Ignore the Relevance of the Declaration?
+
+The Fundamental Principles generally do not receive attention by Adventist historians. This is even admitted by scholars themselves. In 2020, Stefan Höschele wrote an article on the significance of Fundamental Principles, admitting to be the first article discussing the significance of the Fundamental Principle statement.
+
+> "Needless to say, this is not a full interpretive treatment of each section found in the Fundamental Principles; however, **since little is available so far in terms of in-depth discussions on these Adventist statements of faith**, the article may serve as a basis for further debate." [{The 1872 Declaration of Fundamental Principles On the Contextual-Theological Significance of Adventism’s First Statement of Beliefs, Stefan Höschele, Friedensau Adventist University, 2020}](https://forgotten-pillar.s3.us-east-2.amazonaws.com/04-hoeschele-fb-1872-speschr-31_2.pdf.pdf)
+
+Growing up as an Adventist, I personally never heard of Fundamental Principles from my pastors nor teachers in my Adventist education. My understanding of their importance came by investigating Ellen White's writings on them (see "[The Way He Led Us](https://forgottenpillar.com/book/the-way-he-led-us)" compilation).
+
+**The question is why?**
+
+The obvious answer is that if the Fundamental Principles were to be accounted as relevant as they truly are in our history, then the current narrative of progress of Adventist beliefs would prove to be false.
+
+Today, in defense of the Trinity doctrine, Adventist historians boldly claim that when our pioneers were studying Adventist truths such as the sanctuary, investigative judgment, the Sabbath, and other doctrines, they "_did not study the subject of the doctrine of God_"[^6]. These Adventist historians falsely claim that the doctrine of God "_was not the question that they dealt with at that time_"[^6]. Following this false claim, they present historical data on how Adventist doctrine gradually moved toward Trinitarian understanding. The truth is, there are some instances early on when the Trinity doctrine is mentioned in a positive light in our literature. But when you consider the fact that the Adventist church did have its positive position on the subject of the doctrine of God, as it was expressed in the Fundamental Principles, these instances cannot be interpreted as progressiveness in understanding, but rather an intrusion of the Trinity doctrine into the Seventh-day Adventist Church.
+
+## Conclusion
+The deliberate neglect of the 1872 Declaration of Fundamental Principles reveals a strategic effort to rewrite Seventh-day Adventist historical theological understanding. By dismissing this document, historians can more easily construct a narrative of gradual doctrinal development, particularly concerning complex theological concepts. However, the declaration stands as a testament to the church's original unified theological stance, challenging contemporary revisionist interpretations of Adventist doctrinal history.
+
+[^1]: The preface of "A Declaration of the Fundamental Principles Taught and Practiced by Seventh-day Adventist" from 1872 ([original scan](https://adventistdigitallibrary.org/islandora/object/adl:366607?link_only=true), [\*](https://forgotten-pillar.s3.us-east-2.amazonaws.com/A+declaration+of+the+fundamental+principles+taught+and+practiced+by+the+Seventh-day+Adventists++.pdf)).
+[^2]: Someone may point to the M. C. Wilcox claim regarding SDA beliefs, when he did a damage control in 1891 concerning D. M. Canright’s book _Seventh-day Adventism Renounced_ (1889) and his claims that the SDA Church does not believe in the Trinity or the divinity of Christ. In _Signs of the Times_ [ST, December 7, 1891](https://adl.b2.adventistdigitallibrary.org/concern/published_works/38018548_signs_of_the_times), Wilcox published an article titled “*The Bible Doctrine of the Trinity*” by non-Adventist Samuel T. Spear. When questioned about Canright’s claims, Wilcox pointed to Spear’s article as evidence that Seventh-day Adventists believe in the Trinity. He then wrote, “*The best way to understand just what Seventh-day Adventists believe is to read just what they have to say. All of the great fundamental Scriptural views of the denomination are given each year in the SIGNS OF THE TIMES, and these are taught as the editors understand the Bible to teach them*.” [ST, April 8, 1913](https://adl.b2.adventistdigitallibrary.org/concern/published_works/20112353_signs_of_the_times_april_8_1913?parent_query=Signs%20of%20the%20Times,%20April%208,%201913&highlight=true). The problem with Wilcox’s claim is that he completely ignored the _Declaration of the Fundamental Principles,_ which was clearly non-Trinitarian. In response to a similar claim by Elder Wheeler, Canright himself pointed to the _Fundamental Principles_ as the basis for his assertion that the SDA Church does not accept the doctrine of the Trinity. See [The Christian Worker’s Magazine, October 1915](https://archive.org/details/sim_moody_1915-10_16_2/page/85/mode/1up?view=theater). For this reason we cannot take Wilcox's representation of SDA beliefs as an opposition to the Declaration, simply because his claims by the standard of that time were not validly supported, rather they were the result of damage control against Canright's claims. For more information see [“The Unaccounted Factor: How Criticism Motivated The Adoption of Trinitarian Theology Within Seventh-day Adventism”](https://asitreads.com/s/The-Unaccounted-Factor.pdf) by Jason Smith.
+[^3]: [Ministry Magazine “Our Declaration of Fundamental Beliefs”, January 1958](https://www.ministrymagazine.org/archive/1958/01/our-declaration-of-fundamental-beliefs), Roy Anderson, J. Arthur Buckwalter, Louise Kleuser, Earl Cleveland and Walter Schubert
+[^4]: The Living Witness by Richard Lewis, 1959, Pacific Press Publishing Association, pages 1, 2. ([source](https://gospelsoundersministry.org/wp-content/uploads/2019/12/The-Alpha-and-Omega-of-Deadly-Heresies.pdf), [\*](https://forgotten-pillar.s3.us-east-2.amazonaws.com/The+Living+Witness+-+Select+Signs+Articles+-+Richard+Lewis+(1959).pdf))
+[^5]: Revealer Media. The Godhead Joel's Journey - The Pioneers and the Alpha and Omega of Deadly Heresies. Youtube, (19 Mar. 2018). https://youtu.be/jBTPimb6358
+[^6]: Antonio Bernard. (2018, June 27). “From Anti trinitarianism to Trinitarianism - The Adventist Story” by Dr  Denis Kaiser. [Video]. Youtube. https://youtu.be/sxLA1gGQCwo [20:40 mark]
+[^7]: The earliest mention of the Trinity doctrine, in a positive sense, was when M.C. Wilcox reprinted a non-Adventist article by Samuel Spear in [Signs of the Times, December 7th, 1891](https://adl.b2.adventistdigitallibrary.org/concern/published_works/38018548_signs_of_the_times) and [December 14th, 1891](https://adl.b2.adventistdigitallibrary.org/concern/published_works/38018550_signs_of_the_times)
