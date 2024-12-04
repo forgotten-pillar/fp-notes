@@ -8,6 +8,9 @@ tags:
   - adventistHistory
   - fundamentalPrinciples
   - trinity
+fpRelatedReads:
+  - the-way-he-led-us
+  - the-forgotten-pillar
 ---
 
 > [!abstract] Abstract
