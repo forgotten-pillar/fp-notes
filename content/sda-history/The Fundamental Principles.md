@@ -2,6 +2,7 @@
 publish: true
 fpRelatedReads:
   - the-forgotten-pillar
+  - the-way-he-led-us
 ---
 
 > [!todo] TODO
