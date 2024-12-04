@@ -45,6 +45,12 @@ window.addCleanup = (fn) => cleanupFns.add(fn)
 let p: DOMParser
 async function navigate(url: URL, isBack: boolean = false) {
   p = p || new DOMParser()
+  
+  // More robust View Transition method checking
+  const startViewTransition = document.startViewTransition 
+    ? document.startViewTransition.bind(document) 
+    : null
+
   const contents = await fetch(`${url}`)
     .then((res) => {
       const contentType = res.headers.get("content-type")
@@ -60,53 +66,87 @@ async function navigate(url: URL, isBack: boolean = false) {
 
   if (!contents) return
 
-  // cleanup old
-  cleanupFns.forEach((fn) => fn())
-  cleanupFns.clear()
+  // Wrap navigation in View Transition if supported
+  const performNavigation = async () => {
+    // cleanup old
+    cleanupFns.forEach((fn) => fn())
+    cleanupFns.clear()
 
-  const html = p.parseFromString(contents, "text/html")
-  normalizeRelativeURLs(html, url)
+    const html = p.parseFromString(contents, "text/html")
+    normalizeRelativeURLs(html, url)
 
-  let title = html.querySelector("title")?.textContent
-  if (title) {
-    document.title = title
-  } else {
-    const h1 = document.querySelector("h1")
-    title = h1?.innerText ?? h1?.textContent ?? url.pathname
-  }
-  if (announcer.textContent !== title) {
-    announcer.textContent = title
-  }
-  announcer.dataset.persist = ""
-  html.body.appendChild(announcer)
-
-  // morph body
-  micromorph(document.body, html.body)
-
-  // scroll into place and add history
-  if (!isBack) {
-    if (url.hash) {
-      const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
-      el?.scrollIntoView()
+    let title = html.querySelector("title")?.textContent
+    if (title) {
+      document.title = title
     } else {
-      window.scrollTo({ top: 0 })
+      const h1 = document.querySelector("h1")
+      title = h1?.innerText ?? h1?.textContent ?? url.pathname
+    }
+    if (announcer.textContent !== title) {
+      announcer.textContent = title
+    }
+    announcer.dataset.persist = ""
+    html.body.appendChild(announcer)
+
+    // morph body
+    micromorph(document.body, html.body)
+
+    // scroll into place and add history
+    if (!isBack) {
+      if (url.hash) {
+        const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
+        el?.scrollIntoView()
+      } else {
+        window.scrollTo({ top: 0 })
+      }
+    }
+
+    // now, patch head
+    const elementsToRemove = document.head.querySelectorAll(":not([spa-preserve])")
+    elementsToRemove.forEach((el) => el.remove())
+    const elementsToAdd = html.head.querySelectorAll(":not([spa-preserve])")
+    elementsToAdd.forEach((el) => document.head.appendChild(el))
+
+    // delay setting the url until now
+    if (!isBack) {
+      history.pushState({}, "", url)
+    }
+    notifyNav(getFullSlug(window))
+    delete announcer.dataset.persist
+  }
+
+  // Use View Transition if available
+  if (startViewTransition) {
+    try {
+      await startViewTransition(() => performNavigation())
+    } catch (error) {
+      console.warn('View Transition failed, falling back to normal navigation:', error)
+      await performNavigation()
+    }
+  } else {
+    await performNavigation()
+  }
+}
+
+// Debugging helper
+function attachViewTransitionDebugger() {
+  if (document.startViewTransition) {
+    const originalStartViewTransition = document.startViewTransition.bind(document)
+    
+    document.startViewTransition = function(...args) {
+      console.log('View Transition Started', { thisValue: this, args })
+      try {
+        return originalStartViewTransition(...args)
+      } catch (error) {
+        console.error('View Transition Error:', error)
+        throw error
+      }
     }
   }
-
-  // now, patch head
-  const elementsToRemove = document.head.querySelectorAll(":not([spa-preserve])")
-  elementsToRemove.forEach((el) => el.remove())
-  const elementsToAdd = html.head.querySelectorAll(":not([spa-preserve])")
-  elementsToAdd.forEach((el) => document.head.appendChild(el))
-
-  // delay setting the url until now
-  // at this point everything is loaded so changing the url should resolve to the correct addresses
-  if (!isBack) {
-    history.pushState({}, "", url)
-  }
-  notifyNav(getFullSlug(window))
-  delete announcer.dataset.persist
 }
+
+// Call this early in your initialization
+// attachViewTransitionDebugger()
 
 window.spaNavigate = navigate
 
@@ -185,3 +225,47 @@ if (!customElements.get("route-announcer")) {
     },
   )
 }
+
+
+function addViewTransitionStyles() {
+  const style = document.createElement('style')
+  style.textContent = `
+    ::view-transition-old(root),
+    ::view-transition-new(root) {
+      animation: none;
+      mix-blend-mode: normal;
+    }
+
+    ::view-transition-old(root) {
+      z-index: 1;
+    }
+
+    ::view-transition-new(root) {
+      z-index: 2;
+    }
+
+    .page {
+      view-transition-name: page;
+    }
+
+    @keyframes fade-in {
+      from { opacity: 0; }
+    }
+
+    @keyframes fade-out {
+      to { opacity: 0; }
+    }
+
+    ::view-transition-old(page),
+    ::view-transition-new(page) {
+      animation: 300ms cubic-bezier(0.4, 0, 0.2, 1) both fade-in;
+      animation-name: fade-in, fade-out;
+    }
+  `
+  document.head.appendChild(style)
+}
+
+// Rest of the existing code remains the same...
+
+// Call this function to add View Transition styles
+addViewTransitionStyles()
