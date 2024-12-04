@@ -166,7 +166,7 @@ declare global {
       notesContainer.style.cssText = `
           position: fixed;
           top: 0;
-          left: ${articleReact.right + 80}px;
+          right: ${articleReact.right + 80}px;
           width: 300px;
           height: 100vh;
           pointer-events: none;
