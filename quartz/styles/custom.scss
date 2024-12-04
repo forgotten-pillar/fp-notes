@@ -716,3 +716,8 @@ html[saved-theme="dark"] {
 .sidebar {
   transition: all 0.3s ease;
 }
+
+.backlinks {
+  flex-shrink: 0;
+  max-height: 300px !important;
+}
