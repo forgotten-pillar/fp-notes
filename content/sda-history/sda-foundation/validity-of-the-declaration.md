@@ -33,12 +33,13 @@ In order to discard this declaration, we need to assert a claim that this declar
 
 ## It was a personal opinion of a few men
 
-One way to discredit the *Declaration* is to assert that it represents only the personal opinions of a few individuals.
+One way to discredit the _Declaration_ is to assert that it represents only the personal opinions of a few individuals.
 
 > “It is true that in 1872 a ‘Declaration of the Fundamental Principles Taught and Practiced by Seventhday Adventists’ was printed, but it was never adopted by the denomination and therefore cannot be considered official. **Evidently** a small group, perhaps even one or two, endeavored to put into words **what they thought were the views of the entire church**…” [^3]
 
-The Ministry Magazine wrote that **evidently** a small group endeavored to put into words what they thought were the views of the entire church, as if insinuating that this declaration is falsely representing the Seventh-day Adventists' beliefs as a whole. Let's for a moment accept this assumption that Seventh-day Adventists' beliefs are being misrepresented by a few individuals who "*endeavored to put into words what they thought were the views of the entire church*". Who are those individuals?
+It is difficult to find out the reasoning of why the Ministry Magazine in 1958 is discrediting the Fundamental Principles as "_unofficial_" and "_never adopted_" by the Church. The Declaration itself claims to be an official document of the church, as "_a brief statement of what is, and has been, with great unanimity, held by_" Seventh-day Adventists at that time. And its adoption is demonstrated by reprinting it throughout four decades (throughout the entire life of Ellen White) under the same official banner, without stirring global church controversy, like the one we have today. Clearly this is a revision of history by our Adventist historians.
 
+The support of their false reasoning is found in the claim that **evidently** a small group endeavored to put into words what they thought were the views of the entire church. Coupled with their false claim that the Declaration was not adopted, nor was it official, they are insinuating that this declaration is falsely representing the Seventh-day Adventists' beliefs as a whole. Let's for a moment accept this assumption that Seventh-day Adventists' beliefs are being misrepresented by a few individuals who "_endeavored to put into words what they thought were the views of the entire church_". Who are those individuals?
 ### James White
 James White is the first candidate who could be responsible for putting into words what he thought the entire church believed. The evidence is seen in [ST June 4, 1874, p.3.](https://adventistdigitallibrary.org/adl-364148/signs-times-june-4-1874) [\*](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Signs+of+the+Times+_+June+4%2C+1874++.pdf) where he published this declaration as an editor of The Signs of the Times periodical. Richard Lewis wrote:
 
