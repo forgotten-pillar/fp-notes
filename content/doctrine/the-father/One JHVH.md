@@ -55,3 +55,5 @@ Obviously Jesus is referring to one person only, and exclusively. That is His Fa
 > [!bible] [Ephesians 4:6 - KJV](https://www.biblegateway.com/passage/?search=Ephesians+4:6&version=kjv)
 > 6. **One God and Father of all**, who is above all, and through all, and in you all.
 
+> Let the brightest example the world has yet seen be your example, rather than the greatest and most learned men of this age, who know not God, nor Jesus Christ whom He has sent. **Jehovah, our Father, and His Son Jesus Christ are alone to be exalted**. *The knowledge of God is eternal life* to those who receive it. His holy banner is to stand elevated above all the greatness of the greatest men, above all the honor and glory of the world. [{EGW; 13LtMs, Ms 11, 1898, par. 11}](https://egwwritings.org/read?panels=p14063.6926016&index=0)
+
