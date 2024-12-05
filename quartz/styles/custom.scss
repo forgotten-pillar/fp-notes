@@ -407,17 +407,7 @@ footer.footer {
 }
 
 #copied-popup {
-  position: absolute; /* Important for dynamic positioning */
-  background-color: rgba(0, 0, 0, 0.8);
-  color: white;
-  padding: 8px 12px;
-  border-radius: 4px;
-  font-size: 14px;
-  white-space: nowrap; /* Prevent text wrapping */
-  display: none; /* Hidden by default */
-  z-index: 1000; /* Ensure it appears on top of other elements */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transform: translate(-50%, 0); /* Adjust for centering */
+  display: none;
 }
 
 @media all and ($mobile) {
