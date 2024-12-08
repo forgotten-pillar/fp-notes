@@ -1,6 +1,8 @@
 ---
 publish: true
 title: The Principle of God's revelation
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 
 > [!bible] [Revelation 1:1 - KJV](https://www.biblegateway.com/passage/?search=Revelation+1:1&version=kjv)
@@ -170,4 +172,9 @@ We see that the Angel of the LORD was Christ, who spoke LORD's Words, just as it
 In the New Testament Christ is represented by the Word of God.
 
 > **Who is Christ**?—**He is the only begotten Son of the living God**. **He is to the Father as a word that expresses the thought**,—***as a thought made audible***. **Christ is the word of God**. Christ said to Philip, “He that hath seen me, hath seen the Father.” **His words were the echo of God's words**. Christ was **the likeness of God**, the brightness of his glory, the express image of his person. [{EGW; YI June 28, 1894, par. 9}](https://egwwritings.org/read?panels=p469.1512&index=0)
+
+
+> [!todo] TODO
+> Finish the new testament, and harmonize the revelation with the Holy Spirit, and angels
+
 
