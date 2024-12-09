@@ -8,7 +8,8 @@ fpRelatedReads:
 > [!bible] [Revelation 1:1 - KJV](https://www.biblegateway.com/passage/?search=Revelation+1:1&version=kjv)
 > 1. The Revelation of Jesus Christ, **which God gave unto him**, to **shew unto his servants** things which must shortly come to pass; and **he sent and signified it by his angel unto his servant John**:
 
-Here is revealed the Principle of God's revelation
+The principle of God's revelation is shown as follows:
+
 First is God who is the source of all revelation. He gives the revelation to Christ, and Christ gives it to His prophets, through the agency of His angels, and His prophets give that revelation to us. This is a universal principle revelaed throughout the scripture. Let's see several examples
 
 ## Jacob's vision
@@ -53,12 +54,7 @@ The Spirit of Prophecy confirms:
 
 > **Through Christ the communication is opened between God and man**. Angels may pass from Heaven to earth with messages of love to fallen man, and to minister unto those who shall be heirs of salvation. **It is through Christ *alone* that the heavenly messengers minister to men**. [{EGW; RH August 18, 1874, par. 14}](https://egwwritings.org/read?panels=p821.1815&index=0)
 
-
-## Christ as the Word of God
-
-What does it means that Christ is the Word of God? As we are going to see, it means that God is **the revelation of God**. This is equaly visible in Old Testament and the New.
-
-### The Old Testament - the Angel of the LORD
+## The Angel of the LORD
 
 In the following passage pay close attention who is speaking in the text.
 
@@ -113,7 +109,7 @@ The Angel of the LORD is Christ. He is not an angelic being, but the only begott
 > The LORD (JHVH - the Father) was speaking in the Old Testament through the voice of His Son - known as the Angel of the LORD
 
 By Christ (by the angel of the LORD), the Father (the LORD - JHVH) took Israel out of Egypt. In the same way God communicated with fallen man. The Father (JHVH) was speaking through the voice of His Son (angel of the LORD), and He gave revelation to His prophets (Moses and Aaron), and His prophets gave this revelation to His people.
-#### The Angel of His Presence
+### The Angel of His Presence
 
 Not only did the Angel of the LORD (Christ) represented the Father (JHVH) is speech, but also He represented Him in presence. Take a look at the following text:
 
@@ -160,13 +156,13 @@ The Spirit of Prophecy confirms:
 
 We see that the Angel of the LORD was Christ, who spoke LORD's Words, just as it is written that the LORD (JHVH) redeemed by the hand of the Angel. That Angel was Christ, or the Angel of His (JHVH's) presence. The Angel in whom LORD's name was. The LORD (JHVH), or the Father, never directly communicated with humans, but all communication went through His Son, from the beginning of human fall into sin.
 
-#### The voice of Christ in the Old Testament
+### The voice of Christ in the Old Testament
 
 > In all these **revelations of the divine presence the glory of God was manifested through Christ**. Not alone at the Saviour's advent, **but through *all the ages* after the Fall and the promise of redemption**, “God was in Christ, reconciling the world unto Himself.” [2 Corinthians 5:19](https://www.biblegateway.com/passage/?search=2+Corinthians+5.19&version=KJV). Christ was the foundation and center of the sacrificial system in both the patriarchal and the Jewish age. **Since the sin of our first parents there has been no direct communication between God and man**. The Father has given the world into the hands of Christ, that through His **mediatorial** work He may redeem man and vindicate the authority and holiness of the law of God. **All the communion between heaven and the fallen race has been through Christ**. It was the Son of God that gave to our first parents the promise of redemption. **It was He who revealed Himself to the patriarchs**. Adam, Noah, Abraham, Isaac, Jacob, and Moses understood the gospel. They looked for salvation through man's Substitute and Surety. These holy men of old **held communion with the Saviour** who was to come to our world in human flesh; and some of them **talked with Christ and heavenly angels face to face**. [{EGW; PP 366.1; 1890}](https://egwwritings.org/read?panels=p84.1647&index=0)
 > Christ was not only **the leader of the Hebrews in the wilderness—the Angel in whom was the name of Jehovah, and who, veiled in the cloudy pillar, went before the host**—but it was **He who gave the law to Israel**. Amid the awful glory of Sinai, **Christ declared in the hearing of all the people the ten precepts of His Father's law**. It was He who gave to Moses the law engraved upon the tables of stone. [{EGW; PP 366.2; 1890}](https://egwwritings.org/read?panels=p84.1648&index=0)
 > **It was Christ that spoke to His people through the prophets**. The apostle Peter, writing to the Christian church, says that the prophets “prophesied of the grace that should come unto you: searching what, or what manner of time **the _Spirit of Christ_ which was in them** did signify, when it testified beforehand the sufferings of Christ and the glory that should follow.” 1 Peter 1:10, 11. **It is the voice of Christ that speaks to us through the Old Testament**. “The testimony of Jesus is the spirit of prophecy.” Revelation 19:10. [{EGW; PP 366.3; 1890}](https://egwwritings.org/read?panels=p84.1649&index=0)
 
-### The New Testament - the Word
+## Christ as the Word of God
 
 > [!bible] [John 1:14 - KJV](https://www.biblegateway.com/passage/?search=John+1:14&version=kjv)
 > 14. And **the Word was made flesh**, and dwelt among us, (and we beheld his glory, **the glory as of the only begotten of the Father**,) full of grace and truth.
