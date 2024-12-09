@@ -13,14 +13,11 @@ First is God who is the source of all revelation. He gives the revelation to Chr
 
 ## Jacob's vision
 
-> [!bible] [Genesis 28:11-17 - KJV](https://www.biblegateway.com/passage/?search=Genesis+28:11-17&version=kjv)
-> 11. And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put them for his pillows, and lay down in that place to sleep.
+Read full vision in [Genesis 28:11-17](https://www.biblegateway.com/passage/?search=Genesis+28.11-17&version=KJV). The relevant part in our case are verses 12 and 13:
+
+> [!bible] [Genesis 28:12-13 - KJV](https://www.biblegateway.com/passage/?search=Genesis+28:11-17&version=kjv)
 > 12. And he dreamed, and behold **a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it**.
 > 13. And, behold, **the LORD stood above** it, and said, **I am the LORD God of Abraham thy father, and the God of Isaac**: the land whereon thou liest, to thee will I give it, and to thy seed;
-> 14. And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and **in thy seed shall all the families of the earth be blessed**.
-> 15. And, behold, **I am with thee**, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of.
-> 16. And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not.
-> 17. And he was afraid, and said, **How dreadful is this place**! this is none other but **the house of God, and this is the gate of heaven**.
 
 Jesus interprets the given vision:
 
@@ -76,7 +73,7 @@ In the following passage pay close attention who is speaking in the text.
 > 11. And Moses said unto God, Who am I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?
 > 12. And he said, Certainly **I will be with thee**; and this shall be  a token unto thee, that I have sent thee: When thou hast brought forth the people out of Egypt, **ye shall serve God** upon this mountain.
 
-Initially it says that the angel of the LORD appeared to Moses. But evidently the one who is addressing Moses is the LORD (JHVH), the God of our father, "*the God of Abraham, the God of Isaac, and the God of Jacob*". In [Acts 3:13](https://www.biblegateway.com/passage/?search=Acts+3.13&version=KJV) we have seen that this is God the Father. But, here is a plot twist: The voice of the one who was speaking to Moses was Christ Himself. This we know from the sermon of Stephen.
+Initially it says that the Angel of the LORD appeared to Moses, but the conversation is held between Moses and the LORD (JHVH) Himself. When Stephan was recalling this conversation he emphasized the role of this Angel.
 
 > [!bible] [Acts 7:30-38 - KJV](https://www.biblegateway.com/passage/?search=Acts+7:30-38&version=kjv)
 > 30. And when forty years were expired, **there appeared to him** in the wilderness of mount Sina **an angel of the Lord** in a flame of fire in a bush.
@@ -84,39 +81,17 @@ Initially it says that the angel of the LORD appeared to Moses. But evidently th
 > 32. Saying, **I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob**. Then Moses trembled, and durst not behold.
 > 33. Then said **the Lord to him**, Put off thy shoes from thy feet: for the place where thou standest is holy ground.
 > 34. **I have seen, I have seen** the affliction of my people which is in Egypt, and **I have heard** their groaning, and **am come down** to deliver them. And now come, **I will send thee** into Egypt.
-> 35. This Moses whom they refused, saying, Who made thee a ruler and a judge? **the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush**.
+> 35. This Moses whom they refused, saying, Who made thee a ruler and a judge? **the same did God send to be a ruler and a deliverer *by the hand of the angel* which appeared to him in the bush**.
 > 36. He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.
 > 37. This is that Moses, which said unto the children of Israel, **A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.**
-> 38. This is he, that was in the church **in the wilderness with the angel which spake to him in the mount Sina**, and with our fathers: who received the lively oracles to give unto us:
+> 38. This is he, that was in the church **in the wilderness with *the angel which spake* to him in the mount Sina**, and with our fathers: who received the lively oracles to give unto us:
 
-According to the text, with whom was Moses speaking with in the wilderness? It is the angel of the LORD, and this was Christ. Christ was speaking the words of His Father in the first person. The Angel of the LORD (Christ), and the LORD Himself (JHVH - the Father) are two distinct persons. The LORD (JHVH - the Father) have sent His Son to deliver His people out Egypt.
+Stephan recalled the events accurately. His emphasis on role of this Angel of the LORD bore a significant message. Not only did this Angel appeared to Moses in the burning bush, but God made Moses a ruler and a deliverer *by the hand of this Angel*. This Angel was leading Moses and Israelites out of the land of Egypt, and at mount Sina Moses spoke with that Angel. Obviously the Angel of the LORD and the LORD Himself are two distinct personages:
 
 > [!bible] [Numbers 20:14-16 - KJV](https://www.biblegateway.com/passage/?search=Numbers+20:14-16&version=kjv)
-> 14. And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:
-> 15. How our fathers went down into Egypt, **and we have dwelt in Egypt** a long time; and the Egyptians vexed us, and our fathers:
-> 16. And when **we cried unto the LORD**, he heard our voice, **and sent an angel**, and hath brought us forth out of Egypt: and, behold, we are in Kadesh, a city in the uttermost of thy border:
+> 16. [Moses recalling the deliverance] And when **we cried unto the LORD**, he heard our voice, **and sent an angel**, and hath brought us forth out of Egypt: and, behold, we are in Kadesh, a city in the uttermost of thy border:
 
-This Angel whom The LORD (JHVH - the Father) had send to bring Israelites out of Egypt was Christ.
-
-Pay close attention to who is taking Israelites out of Egypt:
-
-> [!bible] [Exodus 13:21 - KJV](https://www.biblegateway.com/passage/?search=Exodus+13:21&version=kjv)
-> 21. And **the LORD went before them** by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:
-
-> [!bible] [1 Corinthians 10:4 - KJV](https://www.biblegateway.com/passage/?search=1+Corinthians+10:4&version=kjv)
-> 4. And did all drink the same spiritual drink: for they drank of **that spiritual Rock that followed them: and *that Rock was Christ***.
-
-It says that the LORD went before them in the pillar of cloud and fire, and also it clearly says that the One in the pillar of cloud and fire was Christ.
-
-If one would not account the principle of God's revelation, it would be easy to conclude that the LORD (JHVH) and Christ are one and the same persons. But we already saw that Christ is the Angel of the LORD, representing His Father, speaking the words of the Father in the first person. They are two distinct personages. This is further reveled in the following text. Who was taking Israel out of Egypt:
-
-> [!bible] [Exodus 33:2-3 - KJV](https://www.biblegateway.com/passage/?search=Exodus+33:2-3&version=kjv)
-> 2. **And I** [JHVH speaking] **will send an angel before thee**; and **I will drive out** the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:
-> 3. Unto a land flowing with milk and honey: for **I will not go up in the midst of thee**; for thou art a stiffnecked people: lest I consume thee in the way.
-
-So the LORD (JHVH - the Father) had sent and angel ([Numbers 20:16](https://www.biblegateway.com/passage/?search=Numbers+20.16&version=KJV)) to take Israel out of the land of Egypt, but the LORD Himself (JHVH - the Father) did "*not go up in the midst of*" them ([Exodus 33:2-3](https://www.biblegateway.com/passage/?search=Exodus+33.2-3&version=KJV)).
-
-If someone is still confused, let the [Exodus 23:20-23](https://www.biblegateway.com/passage/?search=Exodus+23.20-23&version=KJV) clear all difficulties, by understanding the principle of God's revelation.
+Evidently this Angel was the instrument by which the LORD took Israelites out of Egypt. But we see that when this Angel speaks, He speaks as if the LORD Himself speaks. The question is, who is this Angel of the LORD, and how to harmonize discrepancy of the LORD's speech? Let [Exodus 23:20-23](https://www.biblegateway.com/passage/?search=Exodus+23.20-23&version=KJV) remove every difficulty:
 
 > [!bible] [Exodus 23:20-23 - KJV](https://www.biblegateway.com/passage/?search=Exodus+23:20-23&version=kjv)
 > 20. Behold, **I** [JHVH speaking] **send an Angel before thee**, to keep thee in the way, and to bring thee into the place which I have prepared.
@@ -124,31 +99,58 @@ If someone is still confused, let the [Exodus 23:20-23](https://www.biblegateway
 > 22. But if thou shalt indeed **obey his voice**, and **do all that I speak**; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries.
 > 23. For **mine Angel shall go before thee**, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, and the Hivites, and the Jebusites: and I will cut them off.
 
-
 > [!important] The principle of God's revelation
-> The LORD (JHVH - the Father) is speaking through the voice of His Angel. His instruction was: "*obey His voice, and do all that I speak*". Two distinct and separate personages. The Father speaks through the voice of His Son.
+> The LORD (JHVH - the Father) is speaking through the voice of His Angel. His instruction was: "*obey His voice, and do all that I speak*". Two distinct and separate personages. The LORD (JHVH) speaks through the voice of this Angel.
 
 Only Christ the Son of God is suiting the given description having the name of the LORD. "*For my name is in Him*":
 
 > [!bible] [Hebrews 1:4 - KJV](https://www.biblegateway.com/passage/?search=Hebrews+1:4&version=kjv)
 > 4. [the Son] Being made so much better than the angels, as **he hath *by inheritance* obtained a more excellent name than they**.
 
+The Angel of the LORD is Christ. He is not an angelic being, but the only begotten of Son of Jehovah. By inheritance Christ obtained more excellent name that they - the angelic beings. Also Christ is know as the [[archangel-michael|Archangel Michael]]. 
+
+> [!abstract] Conclusion
+> The LORD (JHVH - the Father) was speaking in the Old Testament through the voice of His Son - known as the Angel of the LORD
+
+By Christ (by the angel of the LORD), the Father (the LORD - JHVH) took Israel out of Egypt. In the same way God communicated with fallen man. The Father (JHVH) was speaking through the voice of His Son (angel of the LORD), and He gave revelation to His prophets (Moses and Aaron), and His prophets gave this revelation to His people.
 #### The Angel of His Presence
 
-Christ the Angel of the LORD is the angel of LORD's presence:
+Not only did the Angel of the LORD (Christ) represented the Father (JHVH) is speech, but also He represented Him in presence. Take a look at the following text:
+
+> [!bible] [Exodus 33:2-3 - KJV](https://www.biblegateway.com/passage/?search=Exodus+33:2-3&version=kjv)
+> 2. **And I** [JHVH speaking] **will send an angel before thee**; and **I will drive out** the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:
+> 3. Unto a land flowing with milk and honey: for **I will not go up in the midst of thee**; for thou art a stiffnecked people: lest I consume thee in the way.
+
+So the LORD (JHVH - the Father) had sent and angel ([Numbers 20:16](https://www.biblegateway.com/passage/?search=Numbers+20.16&version=KJV)) to take Israel out of the land of Egypt, but the LORD Himself (JHVH - the Father) did "*not go up in the midst of*" them ([Exodus 33:2-3](https://www.biblegateway.com/passage/?search=Exodus+33.2-3&version=KJV)). The one who was physically dwelling with Israelites was the Angel of the LORD, and not the LORD Himself.
 
 > [!bible] [Exodus 32:34 - KJV](https://www.biblegateway.com/passage/?search=Exodus+32:34&version=kjv)
 > 34. Therefore now go, lead the people unto the place of which I [JHVH] have spoken unto thee: behold, **mine Angel shall go before thee**: nevertheless in the day when I visit I will visit their sin upon them.
+
+Bu the presence of the Angel of the LORD was as if the Father Himself was present with them:
 
 > [!bible] [Exodus 33:14-16 - KJV](https://www.biblegateway.com/passage/?search=Exodus+33:14-16&version=kjv)
 > 14. And he said, **My presence shall go with thee**, and I will give thee rest.
 > 15. And he said unto him, **If thy presence go not with me**, carry us not up hence.
 > 16. For wherein shall it be known here that I and thy people have found grace in thy sight? is it not in that **thou goest with us**? so shall we be separated, I and thy people, from all the people that are  upon the face of the earth.
 
-We see here that the presence of the Angel of the LORD is represents the presence of the LORD Himself. The presence of Christ was as the presence of the Father (JHVH's presence). For this reason the Father had said "*my presence shall go with thee*", while speaking about His Angel - Christ. Isaiah understood it well:
+The prophet Isaiah, recalling these events accurately portrayed this phenomenon:
 
 > [!bible] [Isaiah 63:9 - KJV](https://www.biblegateway.com/passage/?search=Isaiah+63:9&version=kjv)
 > 9. In all their affliction he was afflicted, and **the angel of his presence saved them**: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.
+
+We see here that the presence of the Angel of the LORD is represents the presence of the LORD Himself. The presence of Christ was as the presence of the Father (JHVH's presence). For this reason the Father had said "*my presence shall go with thee*", while speaking about His Angel - Christ.
+
+This is the reason why the text can say that the LORD took Israel out of Egypt:
+
+> [!bible] [Exodus 13:21 - KJV](https://www.biblegateway.com/passage/?search=Exodus+13:21&version=kjv)
+> 21. And **the LORD went before them** by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:
+
+And yet we clearly know that this was Jesus:
+
+> [!bible] [1 Corinthians 10:4 - KJV](https://www.biblegateway.com/passage/?search=1+Corinthians+10:4&version=kjv)
+> 4. And did all drink the same spiritual drink: for they drank of **that spiritual Rock that followed them: and *that Rock was Christ***.
+
+It is not that Christ (the Angel of the LORD) and the LORD Himself are one and the same person, rather Christ as the Angel of the LORD is representing His Father, in speech, presence and actions.
 
 The Spirit of Prophecy confirms:
 
