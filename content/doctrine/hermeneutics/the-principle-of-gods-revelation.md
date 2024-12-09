@@ -106,7 +106,7 @@ Only Christ the Son of God is suiting the given description having the name of t
 The Angel of the LORD is Christ. He is not an angelic being, but the only begotten of Son of Jehovah. By inheritance Christ obtained more excellent name that they - the angelic beings. Also Christ is know as the [[archangel-michael|Archangel Michael]]. 
 
 > [!abstract] Conclusion
-> The LORD (JHVH - the Father) was speaking in the Old Testament through the voice of His Son - known as the Angel of the LORD
+> The LORD (JHVH - the Father) was speaking in the Old Testament through the voice of His Son - known as the Angel of the LORD. And Christ was speaking in the first person of the LORD (the Father) Himself.
 
 By Christ (by the angel of the LORD), the Father (the LORD - JHVH) took Israel out of Egypt. In the same way God communicated with fallen man. The Father (JHVH) was speaking through the voice of His Son (angel of the LORD), and He gave revelation to His prophets (Moses and Aaron), and His prophets gave this revelation to His people.
 ### The Angel of His Presence
@@ -132,7 +132,7 @@ Bu the presence of the Angel of the LORD was as if the Father Himself was presen
 The prophet Isaiah, recalling these events accurately portrayed this phenomenon:
 
 > [!bible] [Isaiah 63:9 - KJV](https://www.biblegateway.com/passage/?search=Isaiah+63:9&version=kjv)
-> 9. In all their affliction he was afflicted, and **the angel of his presence saved them**: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.
+> 9. In all their affliction he was afflicted, and **the angel of his presence saved them**: ...
 
 We see here that the presence of the Angel of the LORD is represents the presence of the LORD Himself. The presence of Christ was as the presence of the Father (JHVH's presence). For this reason the Father had said "*my presence shall go with thee*", while speaking about His Angel - Christ.
 
@@ -150,7 +150,7 @@ It is not that Christ (the Angel of the LORD) and the LORD Himself are one and t
 
 The Spirit of Prophecy confirms:
 
-> The Son was seated on the throne with the Father, and the heavenly throng of holy angels was gathered around them. The Father then made known that it was ordained by himself that Christ, his Son, should be equal with himself; so that wherever was the presence of his Son, it was as his own presence. [{EGW; 1SP 17.2; 1870}](https://egwwritings.org/read?panels=p141.59&index=0)
+> The Son was seated on the throne with the Father, and the heavenly throng of holy angels was gathered around them. The Father then made known that it was ordained by himself that Christ, his Son, should be equal with himself; **so that wherever was the presence of his Son, it was as his own presence**. [{EGW; 1SP 17.2; 1870}](https://egwwritings.org/read?panels=p141.59&index=0)
 
 > After the fall, Christ became Adam's instructor. **He acted in God's stead toward humanity**, saving the race from immediate death. He took upon Him the work of **mediator** between God and man. [{EGW; ST May 29, 1901, par. 11}](https://egwwritings.org/read?panels=p820.17375&index=0)
 
@@ -171,8 +171,84 @@ In the New Testament Christ is represented by the Word of God.
 
 > **Who is Christ**?—**He is the only begotten Son of the living God**. **He is to the Father as a word that expresses the thought**,—***as a thought made audible***. **Christ is the word of God**. Christ said to Philip, “He that hath seen me, hath seen the Father.” **His words were the echo of God's words**. Christ was **the likeness of God**, the brightness of his glory, the express image of his person. [{EGW; YI June 28, 1894, par. 9}](https://egwwritings.org/read?panels=p469.1512&index=0)
 
+> By coming to dwell with us, Jesus was to reveal God both to men and to angels. **He was the Word of God**,—**God's thought made audible**. [{EGW; DA 19.2; 1898}](https://egwwritings.org/read?panels=p130.23&index=0)
 
-> [!todo] TODO
-> Finish the new testament, and harmonize the revelation with the Holy Spirit, and angels
+> **As speech is to thought, so is Christ to the invisible God. He is the manifestation of the Father, and is called the Word of God**. [{EGW; ST November 15, 1899, par. 2}](https://egwwritings.org/read?panels=p820.16246&index=0)
 
+When Christ spoke, He spoke the words of the Father:
+
+> [!bible] [Deuteronomy 18:18-19 - KJV](https://www.biblegateway.com/passage/?search=Deuteronomy+18:18-19&version=kjv)
+> 18. I will raise them up a **Prophet** from among their brethren, like unto thee, **and will put my words in *his* mouth; and he shall speak unto them all that *I* shall command him**.
+> 19. And it shall come to pass, that whosoever will not hearken unto **my words** which **he shall speak in my name**, I will require it  of him.
+
+The fulfillment of the prophecy was in Jesus:
+
+> [!bible] [John 12:49-50 - KJV](https://www.biblegateway.com/passage/?search=John+12:49-50&version=kjv)
+> 49. **For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak**.
+> 50. And I know that his commandment is life everlasting: **whatsoever I speak therefore, even as the Father said unto me, so I speak**.
+
+> [!bible] [John 14:10, 31 - KJV](https://www.biblegateway.com/passage/?search=John+14:10-31&version=kjv)
+> 10. ...**the words that I speak unto you I speak not of myself: but the Father that dwelleth in me**, he doeth the works....
+> 31. But that the world may know that I love the Father; **and as the Father gave me commandment, even so I do**. ...
+
+> [!bible] [Hebrews 1:1-2 - KJV](https://www.biblegateway.com/passage/?search=Hebrews+1:1-2&version=kjv)
+> 1. **God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets**,
+> 2. **Hath in these last days spoken unto us by his Son**, whom he hath appointed heir of all things, by whom also he made the worlds;
+
+The Spirit of Prophecy confirms the principle of God's revelation:
+
+> **The whole Bible is a revelation; for all revelation to men comes through Christ**, and all centers in Him. **God has spoken unto us by His Son**, whose we are by creation and by redemption. [{EGW; 20LtMs, Ms 129, 1905, par. 2}](https://egwwritings.org/read?panels=p14070.9797009&index=0)
+
+> Tell our people: “Be not anxious to bring in something not revealed in the Word. Keep close to Christ.” Remember His words, “Teaching them to observe all things whatsoever I have commanded you; and, lo, I am with you alway, even unto the end of the world.” [Verse 20.] He is with us as we teach the words **He spoke in the Old Testament as well as in the New**. **He who gave commandment in the New Testament is the One also who gave the instruction contained in the Old Testament**. The Old and the New Testaments are both sacred, **for they both contain the words of Christ**. **All communication from heaven to earth since Adam’s fall has come through Christ**. He who believes the instruction contained in the New Testament and in the Old, doing those things which Christ has commanded therein, **has the Saviour always with him**. [{EGW; 15LtMs, Lt 105, 1900, par. 5}](https://egwwritings.org/read?panels=p14065.9039011&index=0)
+
+> The sin of Adam and Eve caused a fearful separation between God and man. And here **Christ steps in between fallen man and God**, and says to man, **You may yet come to the Father**; there is a plan devised through which God can be reconciled to man, and man to God; **and through a mediator you can approach God**. And here he stands to mediate for you. He is the great High Priest who is pleading in your behalf; and it is for you to come and **present your case to the Father through Jesus Christ.** Thus you can find access to God; and if you sin your case is not hopeless. “If any man sin, we have an advocate with the Father, Jesus Christ the righteous.” [{EGW; 2T 591.1; 1885}](https://egwwritings.org/read?panels=p120.2545&index=0)
+
+## The Holy Spirit vs. Christ
+
+Did we put ourselves in a contradiction when we concluded by the Scriptures and the Spirit of Prophecy that the revelation of God goes ONLY through Christ? What about the Holy Spirit?
+
+> [!bible] [2 Peter 1:19-21 - KJV](https://www.biblegateway.com/passage/?search=2+Peter+1:19-21&version=kjv)
+> 19. We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and **the day star** arise in your hearts:
+> 20. Knowing this first, that no prophecy of the scripture is of any private interpretation.
+> 21. For the prophecy came not in old time by the will of man: but holy men of God spake **as they were moved *by the Holy Ghost***.
+
+Let the Scriptures be their own interpreter, and remove every difficulty:
+
+> [!bible] [1 Peter 1:10-11 - KJV](https://www.biblegateway.com/passage/?search=1+Peter+1:10-11&version=kjv)
+> 10. Of which salvation **the prophets have enquired and searched diligently**, who prophesied of the grace that should come unto you:
+> 11. Searching what, or what manner of time ***the Spirit of Christ* which was in them did signify**, when it testified beforehand the sufferings of Christ, and the glory that should follow.
+
+The one who was inspiring prophets of God was Christ, but more specifically it was the Spirit of Christ, or the Holy Spirit. The difference is in technicality rather than in identity: all communication between God and men goes through Christ. Sometimes Christ was present physically with His people, like it was the case with Moses and Israelites, or when Jesus was living His human life with us. But when He was physically dwelling at the right hand of God, still the presence of Christ was manifested through His Spirit.
+
+> **The Saviour had spoken through all the prophets**. “**The Spirit of Christ** which was in them” “testified beforehand the sufferings of Christ, and the glory that should follow.” 1 Peter 1:11. [{EGW; DA 234.1; 1898}](https://egwwritings.org/read?panels=p130.1067&index=0)
+
+> **It was the Spirit of Christ that spoke through Enoch**; that Spirit is manifested, not alone in utterances of love, compassion, and entreaty; it is not smooth things only that are spoken by holy men. God puts into the heart and lips of His messengers truths to utter that are keen and cutting as a two-edged sword. [{EGW; PP 86.2; 1890}](https://egwwritings.org/read?panels=p84.321&index=0)
+
+
+> [!important] Caution
+> We must bear in mind that we do not know *what* the Holy Spirit is. We don't know its nature, but certainly we should know *who* the Holy Spirit is. Often in the Scripture and the Spirit of Prophecy, the Holy Spirit is revealed as Christ or the Father, divested from their physical presence. But the Scriptures give us some clue on *how* God's transcended presence is manifested. It is through the agency of His angels. Remember the principle of God's revelation?
+
+## The Angels
+
+The holy angels have a special role within the revelation of God:
+
+> [!bible] [Revelation 22:16 - KJV](https://www.biblegateway.com/passage/?search=Revelation+22:16&version=kjv)
+> 16. **I Jesus have sent mine angel to testify unto you these things in the churches**. I am the root and the offspring of David, and the bright and morning star.
+
+Remember the principle of God's revelation. God gives the revelation to His Son, and Christ gives it to to angels, and angels give it to his prophets, and to His people. Does this mechanism has anything to do with the technical aspect we discussed about the Holy Spirit? Pay close attention to the following quotations:
+
+> The heavenly angels do not undertake the work of preaching the gospel. **Through the ministration of angels God sends light to His people**, and through His people this light is to be given to the world. **The Holy Spirit will guide and instruct men and women** if they will show themselves willing to be guided by placing themselves in positions where they can communicate the light received. [{EGW; BEcho December 10, 1900, par. 12}](https://egwwritings.org/read?panels=p459.1745&index=0)
+
+> **Angels of glory wait to communicate through you heaven's light and power to souls that are ready to perish**. Shall the human agent fail of accomplishing his appointed work? Oh, then to that degree is the world robbed of **the promised influence of the Holy Spirit**! [{EGW; MB 40.2; 1896}](https://egwwritings.org/read?panels=p150.218&index=0)
+
+> **Christ is the ladder that Jacob saw**, whose base is upon the earth, and whose topmost round reaches the throne of God. Down this ladder streams the glory of God, and **on it ascend and descend the angels of heaven to communicate the light and the glory of God**, whose train fills the temple, to the lost children of earth. **Through Christ heavenly intelligences may communicate with human agents**. [{EGW; ST April 11, 1895, par. 3}](https://egwwritings.org/read?panels=p820.12811&index=0)
+
+> [!example]- The Holy Spirit as the Glory of God
+> There is a coleration between the Glory of God and the Holy Spirit. See [[The Holy Spirit like a dove|The Holy Spirit like a dove]] study.
+
+> A measure of **the Spirit** is given to every man to profit withal. ***Through the ministry of the angels the Holy Spirit is enabled* to work upon the mind and heart of the human agent**, and draw him to Christ who has paid the ransom money for his soul, that the sinner may be rescued from the slavery of sin and Satan. [{EGW; 8LtMs, Lt 71, 1893, par. 10}](https://egwwritings.org/read?panels=p14058.6086016&index=0)
+
+
+> [!quote] "*Through the ministry of the angels the Holy Spirit is ENABLED TO WORK*"
+> "*The secret things belong unto the LORD our God: but those things which are revealed belong unto us*" [Deuteronomy 29:29](https://www.biblegateway.com/passage/?search=Deuteronomy+29.29&version=KJV). Some people shy away from the revelation that the work of the Holy Spirit is enabled by holy angels. But this technical aspect is not a mystery nor secret, rather it has been revealed to us. And it is in harmony with the principle of God' revelation. For more data on the connection between the Holy Spirit and the angels, see [[The Connection between Holy Angels and the Holy Spirit]]
 
