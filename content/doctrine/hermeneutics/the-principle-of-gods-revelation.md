@@ -3,6 +3,12 @@ publish: true
 title: The Principle of God's revelation
 fpRelatedReads:
   - rediscovering-the-pillar
+description: Explore the principle of God's revelation through this in-depth study, uncovering how the Father communicates with humanity solely through His Son, Jesus Christ, known as the Angel of the Lord in the Old Testament, and how this divine communication is facilitated by angels.
+fp-social-media: This study opened my mind to the Scriptures, revealing Christ's presence throughout the Old Testament. Discover how the Angel of the Lord is none other than Jesus Himself!
+tags:
+  - JesusOT
+  - michael
+permalink: principle-of-revelation
 ---
 
 > [!bible] [Revelation 1:1 - KJV](https://www.biblegateway.com/passage/?search=Revelation+1:1&version=kjv)
@@ -10,11 +16,11 @@ fpRelatedReads:
 
 The principle of God's revelation is shown as follows:
 
-First is God who is the source of all revelation. He gives the revelation to Christ, and Christ gives it to His prophets, through the agency of His angels, and His prophets give that revelation to us. This is a universal principle revelaed throughout the scripture. Let's see several examples
+First, God is the source of all revelation. He gives the revelation to Christ, and Christ gives it to His prophets through the agency of His angels, and His prophets then give that revelation to us. This is a universal principle revealed throughout Scripture.
 
 ## Jacob's vision
 
-Read full vision in [Genesis 28:11-17](https://www.biblegateway.com/passage/?search=Genesis+28.11-17&version=KJV). The relevant part in our case are verses 12 and 13:
+The entire vision is described in [Genesis 28:11-17](https://www.biblegateway.com/passage/?search=Genesis+28.11-17&version=KJV). The principle of God’s revelation is outlined as follows:
 
 > [!bible] [Genesis 28:12-13 - KJV](https://www.biblegateway.com/passage/?search=Genesis+28:11-17&version=kjv)
 > 12. And he dreamed, and behold **a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it**.
@@ -25,15 +31,15 @@ Jesus interprets the given vision:
 > [!bible] [John 1:51 - KJV](https://www.biblegateway.com/passage/?search=John+1:51&version=kjv)
 > 51. And he saith unto him, Verily, verily, I say unto you, **Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man**.
 
-Jesus is represented by the ladder. At the top of the ladder is the LORD (JHVH) - [[The God of the Jews|the God of Abraham, Isac and Jakob]]. The Scripture is very clear who is represented by this figure:
+Jesus is represented by the ladder. At the top of the ladder is the LORD (JHVH) - [[The God of the Jews|the God of Abraham, Isaac, and Jacob]]. The Scripture is very clear who is represented by this figure:
 
 > [!bible] [Acts 3:13 - KJV](https://www.biblegateway.com/passage/?search=Acts+3:13&version=kjv)
 > 13. **The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified *his* Son Jesus**; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go.
 
 > [!quote] "God of Abraham, and of Isac, and of Jacob"
-> This is the Father, who is at the top of the ladder in Jacob's vision, the One who "*glorified His Son Jesus*...". See [[The God of the Jews|God of the Jews]]
+> This is the Father, who is at the top of the ladder in Jacob's vision, the One who "_glorified His Son Jesus_...". See [[The God of the Jews|God of the Jews]]
 
-And angels of God are descending and ascending upon that ladders. The linkage between Heaven and Earth is Christ.
+And angels of God are descending and ascending upon that ladder. The linkage between Heaven and Earth is Christ.
 
 > [!bible] [1 Timothy 2:5 - KJV](https://www.biblegateway.com/passage/?search=1+Timothy+2:5&version=kjv)
 > 5. For there is **one God**, and **one mediator between God and men**, the man **Christ Jesus**;
@@ -56,7 +62,7 @@ The Spirit of Prophecy confirms:
 
 ## The Angel of the LORD
 
-In the following passage pay close attention who is speaking in the text.
+In the following passage, pay close attention to who is speaking in the text.
 
 > [!bible] [Exodus 3:2-12 - KJV](https://www.biblegateway.com/passage/?search=Exodus+3:2-12&version=kjv)
 > 2. And **the angel of the LORD appeared unto him** in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.
@@ -69,7 +75,7 @@ In the following passage pay close attention who is speaking in the text.
 > 11. And Moses said unto God, Who am I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?
 > 12. And he said, Certainly **I will be with thee**; and this shall be  a token unto thee, that I have sent thee: When thou hast brought forth the people out of Egypt, **ye shall serve God** upon this mountain.
 
-Initially it says that the Angel of the LORD appeared to Moses, but the conversation is held between Moses and the LORD (JHVH) Himself. When Stephan was recalling this conversation he emphasized the role of this Angel.
+Initially, it says that the Angel of the LORD appeared to Moses, but the conversation is held between Moses and the LORD (JHVH) Himself. When Stephen was recalling this conversation, he emphasized the role of this Angel.
 
 > [!bible] [Acts 7:30-38 - KJV](https://www.biblegateway.com/passage/?search=Acts+7:30-38&version=kjv)
 > 30. And when forty years were expired, **there appeared to him** in the wilderness of mount Sina **an angel of the Lord** in a flame of fire in a bush.
@@ -82,12 +88,12 @@ Initially it says that the Angel of the LORD appeared to Moses, but the conversa
 > 37. This is that Moses, which said unto the children of Israel, **A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.**
 > 38. This is he, that was in the church **in the wilderness with *the angel which spake* to him in the mount Sina**, and with our fathers: who received the lively oracles to give unto us:
 
-Stephan recalled the events accurately. His emphasis on role of this Angel of the LORD bore a significant message. Not only did this Angel appeared to Moses in the burning bush, but God made Moses a ruler and a deliverer *by the hand of this Angel*. This Angel was leading Moses and Israelites out of the land of Egypt, and at mount Sina Moses spoke with that Angel. Obviously the Angel of the LORD and the LORD Himself are two distinct personages:
+Stephen recalled the events accurately. His emphasis on the role of this Angel of the LORD bore a significant message. Not only did this Angel appear to Moses in the burning bush, but God made Moses a ruler and a deliverer _by the hand of this Angel_. This Angel was leading Moses and the Israelites out of the land of Egypt, and at mount Sina, Moses spoke with that Angel. Obviously, the Angel of the LORD and the LORD Himself are two distinct personages:
 
 > [!bible] [Numbers 20:14-16 - KJV](https://www.biblegateway.com/passage/?search=Numbers+20:14-16&version=kjv)
 > 16. [Moses recalling the deliverance] And when **we cried unto the LORD**, he heard our voice, **and sent an angel**, and hath brought us forth out of Egypt: and, behold, we are in Kadesh, a city in the uttermost of thy border:
 
-Evidently this Angel was the instrument by which the LORD took Israelites out of Egypt. But we see that when this Angel speaks, He speaks as if the LORD Himself speaks. The question is, who is this Angel of the LORD, and how to harmonize discrepancy of the LORD's speech? Let [Exodus 23:20-23](https://www.biblegateway.com/passage/?search=Exodus+23.20-23&version=KJV) remove every difficulty:
+Evidently, this Angel was the instrument by which the LORD took the Israelites out of Egypt. But we see that when this Angel speaks, He speaks as if the LORD Himself speaks. The question is, who is this Angel of the LORD, and how to harmonize the discrepancy of the LORD's speech? Let [Exodus 23:20-23](https://www.biblegateway.com/passage/?search=Exodus+23.20-23&version=KJV) remove every difficulty:
 
 > [!bible] [Exodus 23:20-23 - KJV](https://www.biblegateway.com/passage/?search=Exodus+23:20-23&version=kjv)
 > 20. Behold, **I** [JHVH speaking] **send an Angel before thee**, to keep thee in the way, and to bring thee into the place which I have prepared.
@@ -96,45 +102,45 @@ Evidently this Angel was the instrument by which the LORD took Israelites out of
 > 23. For **mine Angel shall go before thee**, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, and the Hivites, and the Jebusites: and I will cut them off.
 
 > [!important] The principle of God's revelation
-> The LORD (JHVH - the Father) is speaking through the voice of His Angel. His instruction was: "*obey His voice, and do all that I speak*". Two distinct and separate personages. The LORD (JHVH) speaks through the voice of this Angel.
+> The LORD (JHVH - the Father) is speaking through the voice of His Angel. His instruction was: "_obey His voice, and do all that I speak_". Two distinct and separate personages. The LORD (JHVH) speaks through the voice of this Angel.
 
-Only Christ the Son of God is suiting the given description having the name of the LORD. "*For my name is in Him*":
+Only Christ the Son of God suits the given description, having the name of the LORD. "_For my name is in Him_":
 
 > [!bible] [Hebrews 1:4 - KJV](https://www.biblegateway.com/passage/?search=Hebrews+1:4&version=kjv)
 > 4. [the Son] Being made so much better than the angels, as **he hath *by inheritance* obtained a more excellent name than they**.
 
-The Angel of the LORD is Christ. He is not an angelic being, but the only begotten of Son of Jehovah. By inheritance Christ obtained more excellent name that they - the angelic beings. Also Christ is know as the [[archangel-michael|Archangel Michael]]. 
+The Angel of the LORD is Christ. He is not an angelic being, but the only begotten Son of Jehovah. By inheritance, Christ obtained a more excellent name than the angelic beings. Also, Christ is known as the [[archangel-michael|Archangel Michael]].
 
 > [!abstract] Conclusion
 > The LORD (JHVH - the Father) was speaking in the Old Testament through the voice of His Son - known as the Angel of the LORD. And Christ was speaking in the first person of the LORD (the Father) Himself.
 
-By Christ (by the angel of the LORD), the Father (the LORD - JHVH) took Israel out of Egypt. In the same way God communicated with fallen man. The Father (JHVH) was speaking through the voice of His Son (angel of the LORD), and He gave revelation to His prophets (Moses and Aaron), and His prophets gave this revelation to His people.
+By Christ (by the angel of the LORD), the Father (the LORD - JHVH) took Israel out of Egypt. In the same way, God communicated with fallen man. The Father (JHVH) was speaking through the voice of His Son (angel of the LORD), and He gave revelation to His prophets (Moses and Aaron), and His prophets gave this revelation to His people.
 ### The Angel of His Presence
 
-Not only did the Angel of the LORD (Christ) represented the Father (JHVH) is speech, but also He represented Him in presence. Take a look at the following text:
+Not only did the Angel of the LORD (Christ) represent the Father (JHVH) in speech, but also He represented Him in presence. Take a look at the following text:
 
 > [!bible] [Exodus 33:2-3 - KJV](https://www.biblegateway.com/passage/?search=Exodus+33:2-3&version=kjv)
 > 2. **And I** [JHVH speaking] **will send an angel before thee**; and **I will drive out** the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:
 > 3. Unto a land flowing with milk and honey: for **I will not go up in the midst of thee**; for thou art a stiffnecked people: lest I consume thee in the way.
 
-So the LORD (JHVH - the Father) had sent and angel ([Numbers 20:16](https://www.biblegateway.com/passage/?search=Numbers+20.16&version=KJV)) to take Israel out of the land of Egypt, but the LORD Himself (JHVH - the Father) did "*not go up in the midst of*" them ([Exodus 33:2-3](https://www.biblegateway.com/passage/?search=Exodus+33.2-3&version=KJV)). The one who was physically dwelling with Israelites was the Angel of the LORD, and not the LORD Himself.
+So the LORD (JHVH - the Father) had sent an angel ([Numbers 20:16](https://www.biblegateway.com/passage/?search=Numbers+20.16&version=KJV)) to take Israel out of the land of Egypt, but the LORD Himself (JHVH - the Father) did "*not go up in the midst of*" them ([Exodus 33:2-3](https://www.biblegateway.com/passage/?search=Exodus+33.2-3&version=KJV)). The one who was *physically* dwelling with the Israelites was the Angel of the LORD, and not the LORD Himself.
 
 > [!bible] [Exodus 32:34 - KJV](https://www.biblegateway.com/passage/?search=Exodus+32:34&version=kjv)
 > 34. Therefore now go, lead the people unto the place of which I [JHVH] have spoken unto thee: behold, **mine Angel shall go before thee**: nevertheless in the day when I visit I will visit their sin upon them.
 
-Bu the presence of the Angel of the LORD was as if the Father Himself was present with them:
+But the presence of the Angel of the LORD was as if the Father Himself was present with them:
 
 > [!bible] [Exodus 33:14-16 - KJV](https://www.biblegateway.com/passage/?search=Exodus+33:14-16&version=kjv)
 > 14. And he said, **My presence shall go with thee**, and I will give thee rest.
 > 15. And he said unto him, **If thy presence go not with me**, carry us not up hence.
 > 16. For wherein shall it be known here that I and thy people have found grace in thy sight? is it not in that **thou goest with us**? so shall we be separated, I and thy people, from all the people that are  upon the face of the earth.
 
-The prophet Isaiah, recalling these events accurately portrayed this phenomenon:
+The prophet Isaiah, recalling these events, accurately portrayed this phenomenon:
 
 > [!bible] [Isaiah 63:9 - KJV](https://www.biblegateway.com/passage/?search=Isaiah+63:9&version=kjv)
 > 9. In all their affliction he was afflicted, and **the angel of his presence saved them**: ...
 
-We see here that the presence of the Angel of the LORD is represents the presence of the LORD Himself. The presence of Christ was as the presence of the Father (JHVH's presence). For this reason the Father had said "*my presence shall go with thee*", while speaking about His Angel - Christ.
+We see here that the presence of the Angel of the LORD represents the presence of the LORD Himself. The presence of Christ was as the presence of the Father (JHVH's presence). For this reason, the Father had said "my presence shall go with thee", while speaking about His Angel - Christ.
 
 This is the reason why the text can say that the LORD took Israel out of Egypt:
 
@@ -146,7 +152,7 @@ And yet we clearly know that this was Jesus:
 > [!bible] [1 Corinthians 10:4 - KJV](https://www.biblegateway.com/passage/?search=1+Corinthians+10:4&version=kjv)
 > 4. And did all drink the same spiritual drink: for they drank of **that spiritual Rock that followed them: and *that Rock was Christ***.
 
-It is not that Christ (the Angel of the LORD) and the LORD Himself are one and the same person, rather Christ as the Angel of the LORD is representing His Father, in speech, presence and actions.
+It is not that Christ (the Angel of the LORD) and the LORD Himself are one and the same person; rather, Christ as the Angel of the LORD represents His Father in speech, presence, and actions.
 
 The Spirit of Prophecy confirms:
 
@@ -154,7 +160,7 @@ The Spirit of Prophecy confirms:
 
 > After the fall, Christ became Adam's instructor. **He acted in God's stead toward humanity**, saving the race from immediate death. He took upon Him the work of **mediator** between God and man. [{EGW; ST May 29, 1901, par. 11}](https://egwwritings.org/read?panels=p820.17375&index=0)
 
-We see that the Angel of the LORD was Christ, who spoke LORD's Words, just as it is written that the LORD (JHVH) redeemed by the hand of the Angel. That Angel was Christ, or the Angel of His (JHVH's) presence. The Angel in whom LORD's name was. The LORD (JHVH), or the Father, never directly communicated with humans, but all communication went through His Son, from the beginning of human fall into sin.
+We see that the Angel of the LORD was Christ, who spoke the LORD's Words, just as it is written that the LORD (JHVH) redeemed by the hand of the Angel. That Angel was Christ, or the Angel of His (JHVH's) presence. The Angel in whom the LORD's name was. The LORD (JHVH), or the Father, never directly communicated with humans, but all communication went through His Son, from the beginning of human fall into sin.
 
 ### The voice of Christ in the Old Testament
 
@@ -205,7 +211,7 @@ The Spirit of Prophecy confirms the principle of God's revelation:
 
 ## The Holy Spirit vs. Christ
 
-Did we put ourselves in a contradiction when we concluded by the Scriptures and the Spirit of Prophecy that the revelation of God goes ONLY through Christ? What about the Holy Spirit?
+Did we put ourselves in a contradiction when we conclude by the Scriptures and the Spirit of Prophecy that the revelation of God goes ONLY through Christ? What about the Holy Spirit?
 
 > [!bible] [2 Peter 1:19-21 - KJV](https://www.biblegateway.com/passage/?search=2+Peter+1:19-21&version=kjv)
 > 19. We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and **the day star** arise in your hearts:
@@ -218,7 +224,7 @@ Let the Scriptures be their own interpreter, and remove every difficulty:
 > 10. Of which salvation **the prophets have enquired and searched diligently**, who prophesied of the grace that should come unto you:
 > 11. Searching what, or what manner of time ***the Spirit of Christ* which was in them did signify**, when it testified beforehand the sufferings of Christ, and the glory that should follow.
 
-The one who was inspiring prophets of God was Christ, but more specifically it was the Spirit of Christ, or the Holy Spirit. The difference is in technicality rather than in identity: all communication between God and men goes through Christ. Sometimes Christ was present physically with His people, like it was the case with Moses and Israelites, or when Jesus was living His human life with us. But when He was physically dwelling at the right hand of God, still the presence of Christ was manifested through His Spirit.
+The one who was inspiring the prophets of God was Christ, but more specifically, it was the Spirit of Christ, or the Holy Spirit. The difference is in technicality rather than in identity: all communication between God and men goes through Christ. Sometimes Christ was present physically with His people, as it was the case with Moses and the Israelites, or when Jesus was living His human life with us. But when He was physically dwelling at the right hand of God, still the presence of Christ was manifested through His Spirit.
 
 > **The Saviour had spoken through all the prophets**. “**The Spirit of Christ** which was in them” “testified beforehand the sufferings of Christ, and the glory that should follow.” 1 Peter 1:11. [{EGW; DA 234.1; 1898}](https://egwwritings.org/read?panels=p130.1067&index=0)
 
@@ -226,7 +232,7 @@ The one who was inspiring prophets of God was Christ, but more specifically it w
 
 
 > [!important] Caution
-> We must bear in mind that we do not know *what* the Holy Spirit is. We don't know its nature, but certainly we should know *who* the Holy Spirit is. Often in the Scripture and the Spirit of Prophecy, the Holy Spirit is revealed as Christ or the Father, divested from their physical presence. But the Scriptures give us some clue on *how* God's transcended presence is manifested. It is through the agency of His angels. Remember the principle of God's revelation?
+> We must bear in mind that we do not know *what* the Holy Spirit is. We don't know its nature, but certainly, we should know who the Holy Spirit is. Often in Scripture and the Spirit of Prophecy, the Holy Spirit is revealed as Christ or the Father, divested from their physical presence. But the Scriptures give us some clues on how God's transcended presence is manifested. It is through the agency of His angels. Remember the principle of God's revelation?
 
 ## The Angels
 
@@ -235,7 +241,7 @@ The holy angels have a special role within the revelation of God:
 > [!bible] [Revelation 22:16 - KJV](https://www.biblegateway.com/passage/?search=Revelation+22:16&version=kjv)
 > 16. **I Jesus have sent mine angel to testify unto you these things in the churches**. I am the root and the offspring of David, and the bright and morning star.
 
-Remember the principle of God's revelation. God gives the revelation to His Son, and Christ gives it to to angels, and angels give it to his prophets, and to His people. Does this mechanism has anything to do with the technical aspect we discussed about the Holy Spirit? Pay close attention to the following quotations:
+Remember the principle of God's revelation. God gives the revelation to His Son, and Christ gives it to angels, and angels give it to His prophets, and to His people. Does this mechanism have anything to do with the technical aspect we discussed about the Holy Spirit? Pay close attention to the following quotations:
 
 > The heavenly angels do not undertake the work of preaching the gospel. **Through the ministration of angels God sends light to His people**, and through His people this light is to be given to the world. **The Holy Spirit will guide and instruct men and women** if they will show themselves willing to be guided by placing themselves in positions where they can communicate the light received. [{EGW; BEcho December 10, 1900, par. 12}](https://egwwritings.org/read?panels=p459.1745&index=0)
 
@@ -244,11 +250,9 @@ Remember the principle of God's revelation. God gives the revelation to His Son,
 > **Christ is the ladder that Jacob saw**, whose base is upon the earth, and whose topmost round reaches the throne of God. Down this ladder streams the glory of God, and **on it ascend and descend the angels of heaven to communicate the light and the glory of God**, whose train fills the temple, to the lost children of earth. **Through Christ heavenly intelligences may communicate with human agents**. [{EGW; ST April 11, 1895, par. 3}](https://egwwritings.org/read?panels=p820.12811&index=0)
 
 > [!example]- The Holy Spirit as the Glory of God
-> There is a coleration between the Glory of God and the Holy Spirit. See [[The Holy Spirit like a dove|The Holy Spirit like a dove]] study.
+> There is a correlation between the Glory of God and the Holy Spirit. See [[The Holy Spirit like a dove|The Holy Spirit like a dove]] study.
 
 > A measure of **the Spirit** is given to every man to profit withal. ***Through the ministry of the angels the Holy Spirit is enabled* to work upon the mind and heart of the human agent**, and draw him to Christ who has paid the ransom money for his soul, that the sinner may be rescued from the slavery of sin and Satan. [{EGW; 8LtMs, Lt 71, 1893, par. 10}](https://egwwritings.org/read?panels=p14058.6086016&index=0)
 
-
 > [!quote] "*Through the ministry of the angels the Holy Spirit is ENABLED TO WORK*"
-> "*The secret things belong unto the LORD our God: but those things which are revealed belong unto us*" [Deuteronomy 29:29](https://www.biblegateway.com/passage/?search=Deuteronomy+29.29&version=KJV). Some people shy away from the revelation that the work of the Holy Spirit is enabled by holy angels. But this technical aspect is not a mystery nor secret, rather it has been revealed to us. And it is in harmony with the principle of God' revelation. For more data on the connection between the Holy Spirit and the angels, see [[The Connection between Holy Angels and the Holy Spirit]]
-
+> "*The secret things belong unto the LORD our God: but those things which are revealed belong unto us*" [Deuteronomy 29:29](https://www.biblegateway.com/passage/?search=Deuteronomy+29.29&version=KJV). Some people shy away from the revelation that the work of the Holy Spirit is enabled by holy angels. But this technical aspect is not a mystery nor secret; rather, it has been revealed to us. And it is in harmony with the principle of God's revelation. For more data on the connection between the Holy Spirit and the angels, see [[The Connection between Holy Angels and the Holy Spirit]]
