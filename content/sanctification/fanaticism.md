@@ -2,7 +2,7 @@
 publish: true
 title: Fanaticism
 description: Explore the delicate balance between spiritual passion and fanaticism. Uncover strategies to maintain authentic faith, avoid destructive extremes, and cultivate unity, mercy, and individual spiritual growth.
-fp-social-media: Are you walking the line between zealous faith and toxic rigidity? Discover how to keep your spiritual journey authentic, compassionate, and true. 🙏✨
+fp-social-media: People throw this label around often, but when you read this article, read it the spirit of self reflection, and not reflecting upon others. We need to guard ourselves against fanaticism
 tags:
 ---
 ## "Beware of fanaticism"
