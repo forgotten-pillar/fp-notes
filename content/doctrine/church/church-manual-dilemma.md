@@ -6,6 +6,8 @@ fp-social-media: "The Church Manual: From Spiritual Freedom to Doctrinal Cage? A
 permalink: church-manual
 tags:
   - apostasy
+fpRelatedReads:
+  - the-way-he-led-us
 ---
 
 > [!abstract]
