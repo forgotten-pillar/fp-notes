@@ -69,7 +69,7 @@ This quotation is showing us several important things:
 - The Lord was laying down the foundation principles, and the official document which was the declaration of those fundamental principles, was an accurate statement of the Lord's work.
 
 > [!important] Interesting correlation
-> The last time the Declaration was seen in print in the Adventist Yearbook was December 1914 ( [YB1914](https://documents.adventistarchives.org/Yearbooks/YB1914.pdf#search=Yearbook%201914) [\*](https://forgotten-pillar.s3.us-east-2.amazonaws.com/YB1914.pdf)). Ellen White passed away in July 1915. This is evidence that Ellen White supported the Declaration during her life, not only with her own writings but she never raised her voice against it.
+> Printing of the Declaration did not stop by the death of James White, neither by the death of Uriah Smith, but actually stopped by the death of Ellen White. The last time the Declaration was seen in print in the Adventist Yearbook was December 1914 ([YB1914](https://documents.adventistarchives.org/Yearbooks/YB1914.pdf#search=Yearbook%201914) [\*](https://forgotten-pillar.s3.us-east-2.amazonaws.com/YB1914.pdf)). Ellen White passed away in July 1915. If there was a personal agenda of a few individuals to "misrepresent" the Seventh-day Adventist position, then certainly this was the agenda of Ellen White. [ironically speaking]
 
 ## "They have no authority"
 
