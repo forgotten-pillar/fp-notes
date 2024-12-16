@@ -27,33 +27,33 @@ After the statement was submitted to the Conference for discussion, a unanimous 
 
 ## The Current Dilemma
 
-Are these given principles applicable to today's church manual? Is our current Church Manual regulating anything in regards to the faith and discipline? On Page 67 of our Manual, the following reason for the discipline is written:
+Are these given principles applicable to today's church manual? Is our current Church Manual regulating anything in regards to faith and discipline? On Page 67 of our Manual, the following reason for discipline is written:
 
 > Denial of faith in the fundamentals of the gospel and in the Fundamental Beliefs of the Church or teaching doctrines contrary to the same. [{SDA Church Manual, 20th edition, Revised 2022, p. 67}](https://www.adventist.org/wp-content/uploads/2023/07/2022-Seventh-day-Adventist-Church-Manual.pdf)
 
-Does our current Church Manual violets the our protestant rule that Bible is our only rule of faith and discipline? It is matter of interpretation of this point. What is referenced by "*fundamentals of the gospel*" and "*the Fundamental Beliefs of the Church*"? Is it the Bible or some other source than the Bible? It seems like when they capitalized "*Fundamental Beliefs of the Church*" they were referencing official document [the Fundamental Beliefs](https://www.adventist.org/wp-content/uploads/2020/06/ADV-28Beliefs2020.pdf). If this is the case, then we as Seventh-day Adventists do not have the Bible as our only rule of faith and discipline. Because The Fundamental Beliefs is not the Bible itself, rather it is a particular theological synthesis of what is generally thought the Bible teaches. Therefore, the beliefs and the faith of its own members are not judged against the rule of Scriptures, rather against the rule of particular theological synthesis.
+Does our current Church Manual violate our Protestant rule that the Bible is our only rule of faith and discipline? It is a matter of interpretation of this point. What is referenced by "_fundamentals of the gospel_" and "_the Fundamental Beliefs of the Church_"? Is it the Bible or some other source than the Bible? It seems like when they capitalized "_Fundamental Beliefs of the Church_" they were referencing the official document [the Fundamental Beliefs](https://www.adventist.org/wp-content/uploads/2020/06/ADV-28Beliefs2020.pdf). If this is the case, then we as Seventh-day Adventists do not have the Bible as our only rule of faith and discipline. Because the Fundamental Beliefs is not the Bible itself, rather it is a particular theological synthesis of what is generally thought the Bible teaches. Therefore, the beliefs and faith of its own members are not judged against the rule of Scriptures, rather against the rule of a particular theological synthesis.
 
-In other hand, if the "*fundamental beliefs of the Church*" refer to the basic foundational teaching of the Scriptures, then it is reasonable that our members should be disciplined against the rule of those basic foundational teaching of the Scriptures. Meaning, if someone's faith is not meeting the plain "thus saith the Lord", and is teaching contrary to it, the Bible should hold a rule discipline.
+On the other hand, if the "_fundamental beliefs of the Church_" refer to the basic foundational teaching of the Scriptures, then it is reasonable that our members should be disciplined against the rule of those basic foundational teachings of the Scriptures. Meaning, if someone's faith is not meeting the plain "thus saith the Lord", and is teaching contrary to it, the Bible should hold rule of discipline.
 
 ## Historical Development
 
-The need for a church manual was recognized as the church grew rapidly in the early 20th century. In 1931, the General Conference Committee voted to publish a Church Manual, which was prepared by J. L. McElhany and officially published in 1932. This manual aimed to set forth and preserve the denominational practices and governance structures that had developed over the years, reflecting the church’s increasing complexity and growth [^spectrum][^adventistToday][^encyclopedia][^gc]
+The need for a church manual was recognized as the church grew rapidly in the early 20th century. In 1931, the General Conference Committee voted to publish a Church Manual, which was prepared by J. L. McElhany and officially published in 1932. This manual aimed to set forth and preserve the denominational practices and governance structures that had developed over the years, reflecting the church’s increasing complexity and growth. [^spectrum][^adventistToday][^encyclopedia][^gc]
 
 The reason for which the members may be disfellowshipped, stated as following:
 
 > Loss of faith in the fundamentals of the gospel and the cardinal teachings of the church, or teaching doctrines contrary to the same. [{SDA Church Manual, 1932, p. 99}](https://documents.adventistarchives.org/resources/churchmanuals/cm1932.pdf)
 
-Clearly, they are referencing the basic foundational teaching of the Scriptures. The given clause was in the manual all the way until 20210, when it was changed to the following:
+Clearly, the statement references the foundational teachings of the Scriptures. The clause in question remained in the manual until 2010, when it was revised to read as follows:
 
 > Denial of faith in the fundamentals of the gospel and in the fundamental beliefs of the Church or teaching doctrines contrary to the same. [{SDA Church Manual, 2010, p. 61}](https://documents.adventistarchives.org/resources/churchmanuals/cm2010.pdf)
 
-Again the wording of "the fundamental beliefs" is subjected to interpretation. Is it referring to the broad basic fundamental beliefs of the Scriptures, or is now referring to the document [the Fundamental Beliefs we have had in 2010](https://www.adventistarchives.org/fundamental-beliefs-of-seventh-day-adventists.pdf).
+Once again, the phrase “the fundamental beliefs” [lower case] is open to interpretation. Does it refer to the broad, basic foundational teachings of the Scriptures, or does it now point to the document titled [_Fundamental Beliefs_ as adopted in 2010](https://www.adventistarchives.org/fundamental-beliefs-of-seventh-day-adventists.pdf)?
 
-The latest current edition of Church Manual has capitalized "*Fundamental Beliefs of the Church*". This is a subtle change, which in practice has tremendous implications. Here is how one of our pioneers put it into words:
+The most recent edition [2022] of the _Church Manual_ capitalizes “_Fundamental Beliefs of the Church_.” This subtle change has significant implications in practice. One of our pioneers captured this idea well in the following words:
 
 > The first *step of apostasy* is to get up a creed, telling us what we shall believe. The second is to **make that creed a test of fellowship**. The third is to **try members by that creed**. The fourth is to **denounce as heretics those who do not believe that creed**. And fifth, **to commence persecution against such**. I plead that we are not patterning after the churches in any unwarrantable sense in the step proposed. [{John N. Loughborough, Review and Herald, Oct. 8, 1861}](https://egwwritings.org/?ref=en_ARSH.October.8.1861.p.149.7&para=1685.5326)
 
-If our current rule of faith is not the plain "thus saith the LORD", but rather a specific theological synthesis we hold as "*the Fundamental Beliefs*", then our pioneers would plead with us "*not to pattern after the churches in any unwarrantable sense in the steps* [to apostasy] *proposed*".
+If our current rule of faith is no longer the plain “Thus saith the LORD” but rather a specific theological synthesis defined as “_the Fundamental Beliefs_,” then our pioneers would urge us “_not to pattern after the churches in any unwarrantable sense in the steps [to apostasy] proposed_.”
 ****
 ### Reference to some edition of Church Manuals
 - [1931 (p. 99)](https://documents.adventistarchives.org/resources/churchmanuals/cm1932.pdf)
