@@ -25,6 +25,8 @@ After the statement was submitted to the Conference for discussion, a unanimous 
 
 > **The Bible contains our creed and discipline**. It thoroughly furnishes the man of God unto all good works. What it has not revealed relative to church organization and management, the duties of officers and ministers, and kindred subjects, should not be *strictly* defined and drawn out into minute specifications **for the sake of uniformity**, but rather be left to **individual judgment under the guidance of the Holy Spirit**. Had it been best to have a book of directions of this sort, the Spirit would doubtless have gone further, *and left one on record with the stamp of inspiration upon it*. [{RH Nov. 27. 1883, str. 745}](http://documents.adventistarchives.org/Periodicals/RH/RH18831127-V60-47.pdf)
 
+## The Current Dilemma
+
 Are these given principles applicable to today's church manual? Is our current Church Manual regulating anything in regards to the faith and discipline? On Page 67 of our Manual, the following reason for the discipline is written:
 
 > Denial of faith in the fundamentals of the gospel and in the Fundamental Beliefs of the Church or teaching doctrines contrary to the same. [{SDA Church Manual, 20th edition, Revised 2022, p. 67}](https://www.adventist.org/wp-content/uploads/2023/07/2022-Seventh-day-Adventist-Church-Manual.pdf)
