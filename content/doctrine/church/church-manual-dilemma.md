@@ -66,6 +66,9 @@ If our current rule of faith is not the plain "thus saith the LORD", but rather 
 - [2015, 19th Edition (p. 62)](https://documents.adventistarchives.org/resources/churchmanuals/cm2015.pdf)
 - [2022, 20th Edition (p. 67)](https://documents.adventistarchives.org/resources/churchmanuals/cm2022.pdf)
 
+## Further Read
+Some people believe that the General Conference is a voice of God in regards to the questions of faith and conscience. This false perception originates in the misrepresenting Ellen White's quotation in regards to the authority of General Conference General Assembly. See [[sda-offshoots-and-the-bride#The SDA General Conference is the voice of God in regards to my faith|the SDA General Conference as the voice of God]]. TLDR: The quote is referring to the authority of planning "the prosperity and advancement of God's work", and not about the faith. God has His voice in regards to the faith - it is the Bible.
+
 [^spectrum]: [Adventist Pioneers and the Problem of Policy Non-Compliance, Spectrum Magazine, June 27, 2018](https://spectrummagazine.org/news/adventist-pioneers-and-problem-policy-non-compliance/) (accessed: Dec 16, 2024)
 [^adventistToday]: [The Church Manual in Crisis, Adventist Today, June 2, 2020](https://atoday.org/the-church-manual-in-crisis/) commentary by Alvin Masarira, (accessed: Dec 16, 2024)
 [^encyclopedia]: [Seventh-day Adventist Church Manual, Encyclopedia of Seventh-day Adventists, November 28, 2020](https://encyclopedia.adventist.org/article?id=BB25), by Mario Veloso, (accessed: Dec 16, 2024)
