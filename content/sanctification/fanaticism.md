@@ -5,11 +5,10 @@ description: Explore the delicate balance between spiritual passion and fanatici
 fp-social-media: People throw this label around often, but when you read this article, read it the spirit of self reflection, and not reflecting upon others. We need to guard ourselves against fanaticism
 tags:
 ---
-## "Beware of fanaticism"
-
 
 > [!abstract] Abstract
 > Spiritual fanaticism is a complex phenomenon that can manifest in two ways: mischaracterizing genuine spiritual zeal as fanaticism, and creating destructive extremism within religious communities. The key is maintaining balance through humility, mercy, and a focus on core spiritual principles while avoiding rigid, narrow interpretations of faith.
+## "Beware of fanaticism"
 
 > The baptism of the Holy Ghost as on the day of Pentecost will lead to a **revival of true religion** and to the performance of many wonderful works. Heavenly intelligences will come among us, and men will speak as they are moved upon by the Holy Spirit of God. But should the Lord work upon men as He did on and after the day of Pentecost, many who now claim to believe the truth would know so very little of the operation of the Holy Spirit that they would cry, “**Beware of fanaticism**.” They would say of those **who were filled with the Spirit**, “These men are full of new wine.” [{EGW; 2SM 57.1; 1958}](https://egwwritings.org/read?panels=p99.314&index=0)
 
