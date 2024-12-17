@@ -53,6 +53,9 @@ Notes are searchable. Invoke search by clicking the search bar at the top or lef
 
 Notes are print-ready. Click the <a href="#print-button" aria-label="relative link to printing icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-printer"><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><path d="M6 9V3a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v6"/><rect x="6" y="14" width="12" height="8" rx="1"/></svg></a> icon or press `CMD/CTRL + P`, which will prompt the printing window. You can also store it as *PDF* from there.
 
+> [!tip]- Video
+> ![video](https://www.youtube.com/watch?v=Ztw575rERag)
+
 ### Sharing
 
 By clicking the <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-copy"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg> button, you can get a shortened URL of the note, suitable for sharing on social media.
