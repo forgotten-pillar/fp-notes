@@ -5,6 +5,8 @@ import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
+// @ts-ignore
+// import script from './scripts/contentMeta.inline'
 
 interface ContentMetaOptions {
   /**
@@ -63,6 +65,12 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(editIcon)
       }
 
+      // display counter
+      if(fileData.relativePath && false) {
+        const viewIcon = (<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-eye"><path d="M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0"/><circle cx="12" cy="12" r="3"/></svg>)
+        segments.push(<>{viewIcon}<span id='page-view-counter'>-</span> views</>)
+      }
+
       const segmentsElements = segments.map((segment) => <span class='meta-item'>{segment}</span>)
 
       return (
@@ -76,6 +84,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   }
 
   ContentMetadata.css = style
+  // ContentMetadata.beforeDOMLoaded = script
 
   return ContentMetadata
 }) satisfies QuartzComponentConstructor
