@@ -186,7 +186,7 @@ The context was in 1843. By 1843 the Gospel was preached nearly all over the wor
 
 We are living in the antitypical day of Atonement, which started from 1844. In order to answer what is the "present truth" for this time, we have to ask what is the truth specially applicable for our time, and what is our test?
 
-> In a special sense Seventh-day Adventists have been set in the world **as watchmen and light bearers**. To them has been entrusted **the last warning for a perishing world**. On them is shining wonderful light from the word of God. They have been given a work of **the most solemn import**—***the proclamation of the first, second, and third angels’ messages***. There is no other work of so great importance. They are to allow nothing else to absorb their attention. [9T 19.1](https://egwwritings.org/read?panels=p115.93&index=0)
+> In a special sense Seventh-day Adventists have been set in the world **as watchmen and light bearers**. To them has been entrusted **the last warning for a perishing world**. On them is shining wonderful light from the word of God. They have been given a work of **the most solemn import**—***the proclamation of the first, second, and third angels’ messages***. There is no other work of so great importance. They are to allow nothing else to absorb their attention. [{EGW; 9T 19.1; 1905}](https://egwwritings.org/read?panels=p115.93&index=0)
 
 Giving to the world [[Three Angels Messages|three angels messages]] is the most important work for our current time.
 

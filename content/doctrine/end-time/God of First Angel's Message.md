@@ -7,12 +7,20 @@ This question is important since [Revelation 13](https://www.biblegateway.com/pa
 
 Revelation 14:7 is giving us several clues:
 - Contextually, He is God described in book of Revelation
-- He is the Creator
 - He is God whose judgment has come
+- He is the Creator
 
 Let's explore all three clues.
 
-## God the Creator in the book of Revelation
+## "His Judgment has Come"
+
+This judgment is timely set. If we can know which judgment is spoken of in the First Angel's Message, it will be easier for us to understand whose judgment is it? Because in the Scriptures we have multiple judgments. This one particular is referring to the investigative judgment which commenced in 1844. This was prophesied in [Daniel 8:14](https://www.biblegateway.com/passage/?search=Daniel+8.14&version=KJV):
+
+> [!bible] [Daniel 8:14 - KJV](https://www.biblegateway.com/passage/?search=Daniel+8:14&version=kjv)
+> 14. And he said unto me, **Unto two thousand and three hundred days; then shall *the sanctuary be cleansed***.
+
+
+## "Who Created..."
 
 The book of Revelation gives us the answer who is God the Creator:
 
