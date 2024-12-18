@@ -4,6 +4,8 @@ title: 1844 as a Test
 tags:
   - adventistHistory
   - fundamentalPrinciples
+fpRelatedReads:
+  - the-way-he-led-us
 ---
 1844 marks a year of a [Great Disappointment](https://www.wikiwand.com/en/articles/Great_Disappointment) for Advent people. They were waiting Christ to return on October 22, but Christ did not come, as it was anticipated. The date was set by correct prophetic time setting, from [Daniel 8:14](https://www.biblegateway.com/passage/?search=Daniel+8.14&version=KJV), yet false application of "*cleansing of the sanctuary*". Nevertheless, the Millerite movement has fulfilled the God's purpose giving the first and the second Angel's message. Ellen White who was an eye witness of the Great Disappointment explains the events in hain sight. 
 
