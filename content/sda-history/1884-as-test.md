@@ -80,7 +80,7 @@ As a people, we should not depart from the foundation of our faith and the purpo
 
 
 > [!important] The current challenge of SDA church
-> The Seventh-day Adventist Church has undergone a process of reorganization in terms of their beliefs. See [[principles-vs-beliefs|Fundamental Principles vs. Fundamental Beliefs]]. This transformation influences our understanding of the First Angel's Message. Who is God from the First Angel's message? See [[God of First Angel's Message|God of First Angel's Message]]
+> The Seventh-day Adventist Church has undergone a process of reorganization in terms of their beliefs. See [[principles-vs-beliefs|Fundamental Principles vs. Fundamental Beliefs]]. This transformation influences our understanding of the First Angel's Message. Who is God from the First Angel's message? See [[god-of-first-angels-message|God of First Angel's Message]]
 
 ## Appendix: What Happened to William Miller?
 

@@ -9,7 +9,7 @@ publish: true
 permalink: god-of-1am
 ---
 
-> [!abstract] Abstract
+> [!abstract]- Abstract
 > The First Angel's Message in [Revelation 14:7](https://www.biblegateway.com/passage/?search=Revelation+14.7&version=KJV) calls us to worship God, who is identified as the Father through three key aspects: He is the one whose judgment has come (as seen in [Daniel 7](https://www.biblegateway.com/passage/?search=Daniel+7&version=KJV) where Christ comes to the Ancient of Days), He is the Creator of heaven and earth (consistently identified as the Father throughout Scripture), and He is the God whom all heavenly beings worship in the book of Revelation. Scripture consistently shows that while Christ was the medium through whom all things were created, the Father is the source and ultimate Creator whom we are called to worship in the First Angel's Message.
 
 > [!bible] [Revelation 14:7 - KJV](https://www.biblegateway.com/passage/?search=Revelation+14:7&version=kjv)
@@ -37,10 +37,10 @@ The cleansing of the sanctuary in the typical sanctuary service was the final ac
 
 > [!bible] [Daniel 7:13-14 - KJV](https://www.biblegateway.com/passage/?search=Daniel+7:13-14&version=kjv)
 > 13. I saw in the night visions, and, behold, **one like the Son of man came with the clouds of heaven, and came to *the Ancient of days***, and they brought him near before him.
-> 14. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, **should serve him**: his dominion is  an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
+> 14. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, **should serve him**...
 
 > [!bible] [Daniel 7:9-10 - KJV](https://www.biblegateway.com/passage/?search=Daniel+7:9-10&version=kjv)
-> 9. I beheld till the thrones were cast down, **and the Ancient of days did sit**, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and  his wheels as burning fire.
+> 9. I beheld till the thrones were cast down, **and *the Ancient of days* did sit**, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and  his wheels as burning fire.
 > 10. A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: **the judgment was set, and the books were opened**.
 
 The Ancient of Days is God the Father. His judgment began at the conclusion of the 2300-day prophecy from [Daniel 8:14](https://www.biblegateway.com/passage/?search=Daniel+8.14&version=KJV), which the First Angel's Message references.
@@ -94,6 +94,9 @@ This passage reveals that the Lord God, who made heaven, earth, sea, and everyth
 ### Christ as Creator
 
 Several passages, including [Ephesians 3:8](https://www.biblegateway.com/passage/?search=Ephesians+3.8&version=KJV), [Hebrews 1:2](https://www.biblegateway.com/passage/?search=Hebrews+1.2&version=KJV), [John 1:3](https://www.biblegateway.com/passage/?search=John+1.3&version=KJV), and [Colossians 1:16-17](https://www.biblegateway.com/passage/?search=Colossians+1.16-17&version=KJV), testify that everything was made "*by*" or "*through*" Christ. How does this harmonize with the previous passages that identify our Heavenly Father as the Creator of all things? The explanation lies in understanding that God the Father created everything *through* or *by* Christ, as indicated in these verses. Christ served as the *medium* ***through*** whom God created everything, since all things were made *for* Christ, and He is the heir of all things ([Colossians 1:16](https://www.biblegateway.com/passage/?search=Colossians+1.16&version=KJV) and [Hebrews 1:2,4](https://www.biblegateway.com/passage/?search=Hebrews+1.2-4&version=KJV)). However, the Bible attributes creation itself to the Father, as He is [[Father the Source of All Things|the source of all things]]. See [[Everything was Create through Christ]].
+
+> [!caution]- The Holy Spirit as the Creator?
+> It is often suggested that the Holy Spirit is the Creator. However, such claims lack direct biblical support and are derived more from theological reasoning than from concrete scriptural evidence. The primary text used to support this claim is [Genesis 1:2](https://www.biblegateway.com/passage/?search=Genesis+1.2&version=KJV), which states that “*the Spirit of God moved upon the face of the waters*.” However, the God to whom this Spirit belongs is the Father. This Spirit was breathed into Adam so that he became a living soul, as described in [Genesis 2:7](https://www.biblegateway.com/passage/?search=Genesis+2.7&version=KJV), [Job 33:4](https://www.biblegateway.com/passage/?search=Job+33.4&version=KJV), and [Psalm 104:30](https://www.biblegateway.com/passage/?search=Psalm+104.30&version=KJV).
 ## God from the book of Revelation
 
 As we examine the context of the First Angel's Message regarding who we ought to worship, let's look at the book of Revelation to see whom the angels of God, the saved people, and all creation worship and refer to as "*their God*." Throughout Revelation, we consistently see that all references point to God the Father.
