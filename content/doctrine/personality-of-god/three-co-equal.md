@@ -91,7 +91,7 @@ Does this negate the fact that the Holy Spirit is a person? No! It just means th
 
 ## Conclusion
 
-The inspired evidence demonstrates that the Father, Son, and Holy Spirit are not three co-equal persons as commonly taught. While they are all divine and personal beings, their personhood manifests differently. The Father and Son share the quality of physical form and bodily presence, while the Holy Spirit, though fully divine and personal in function, exists as a spirit without physical form. This fundamental distinction in their nature reveals that traditional trinitarian concepts of three co-equal persons cannot be supported by Scripture.
+The inspired evidence demonstrates that the Father, Son, and Holy Spirit are not three co-equal persons as commonly taught. While they are all being persons, their personhood/personalities manifests differently. The Father and Son share the quality of physical form and bodily presence, while the Holy Spirit, though fully divine and personal in function, exists as a spirit without physical form. This fundamental distinction in their nature reveals that traditional trinitarian concepts of three co-equal persons cannot be supported by Scripture.
 
 
 
