@@ -10,6 +10,9 @@ tags:
   - son
   - trinity
 permalink: three-co-equal
+fpRelatedReads:
+  - rediscovering-the-pillar
+  - the-forgotten-pillar
 ---
 
 
