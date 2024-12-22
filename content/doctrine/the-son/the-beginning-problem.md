@@ -96,7 +96,7 @@ From the given text, we cannot deny that Christ is eternal, but neither can we d
 Christ's goings forth are from old from everlasting. Christ came forth from everlasting.
 
 > [!error]-
-> Catholic theology claims that going**s** (plural) forth are representing eternal generation of the Son. This is a false depiction of the Son of God. The reason why the going**s** is in plural, is '*[[Majestic Plural|pluralis majestatis]]*', indicating the significance, grandeur of this event.
+> Catholic theology claims that going**s** (plural) forth are representing eternal generation of the Son. This is a false depiction of the Son of God. The reason why the going**s** is in plural, is '*[[majestic-plural|pluralis majestatis]]*', indicating the significance, grandeur of this event.
 
 ## How to harmonize?
 
@@ -111,7 +111,7 @@ How can we harmonize the contradiction that Christ is eternal, yet has a beginni
 
 Just because we cannot comprehend the idea that Jesus is eternal, yet having a beginning, does not prove the the point that Christ is **not** eternal, or that He does **not** have a beginning. It is not one or the other. If the revelation inclusively uses both testimonies, we should accept both on the basis of the Authority of God.
 
-The revelation applies the same concept [[from-all-eternity|of eternal existence and beginning to the Plan of Salvation]]. Such notion is not a strange biblical concept. We cannot explain it, because they are [[Incomprehensible Mysteries|incomprehensible mysteries]]. We should [[Take the Bible as it Reads|take the bible as it reads]] and not doubt it.
+The revelation applies the same concept [[from-all-eternity|of eternal existence and beginning to the Plan of Salvation]]. Such notion is not a strange biblical concept. We cannot explain it, because they are [[incomprehensible-mysteries|incomprehensible mysteries]]. We should [[as-it-reads|take the bible as it reads]] and not doubt it.
 
 ***
 

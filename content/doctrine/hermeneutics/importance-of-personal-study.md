@@ -1,5 +1,11 @@
 ---
 publish: true
+title: Importance of Personal Study
+description: Ellen G. White quotations on the importance of the personal study
+fpRelatedReads:
+  - rediscovering-the-pillar
+createdDate: 2024-09-02T15:22:16.073+02:00
+modifiedDate: 2024-12-22T19:50:40+01:00
 ---
 > The truth and the glory of God are inseparable; it is impossible for us, with the Bible within our reach, to honor God by erroneous opinions. **It is the first and highest duty of every rational being to learn from the Scriptures what is truth**, and then to walk in the light, and encourage others to follow his example. Ignorance of God's word is sin, when every provision has been made that we may become wise. We should day by day study the Bible diligently, weighing every thought, and comparing scripture with scripture. With divine help, **we are to form our opinions for ourselves, as we are to answer for ourselves before God**. [4SP 416.2](https://egwwritings.org/read?panels=p140.1658&index=0)
   

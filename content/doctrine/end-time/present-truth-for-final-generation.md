@@ -8,6 +8,9 @@ tags:
   - finalGeneration
 fpRelatedVideos:
   - https://www.youtube.com/watch?v=UVs99Y3hT-w
+createdDate: 2024-08-29T07:34:26.320+02:00
+title: Present Truth - for the final generation
+modifiedDate: 2024-12-22T19:44:15+01:00
 ---
 
 
@@ -74,7 +77,7 @@ In the final generation, Satan will deceive the entire world.
 > 2. Do not allow the mind to be filled with other things
 > 3. Develop a personal relationship with Jesus
 
-When the intercession in the Most Holy place is finished, Jesus will place the sins of the world upon Satan (scapegoat) and it will be lead into the wilderness by a [[The Fitman - Our Ultimate Role|fit man]]. This fit men is pattern antitypical people which will stand before God without the intercesor, which would be #144k.  See details: [[The Fitman - Our Ultimate Role]]
+When the intercession in the Most Holy place is finished, Jesus will place the sins of the world upon Satan (scapegoat) and it will be lead into the wilderness by a fit man.
 
 ![The Plan of Redemption](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Advent+Truths+-+Present+Truth+(4).jpg)
 

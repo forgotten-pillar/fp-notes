@@ -4,6 +4,8 @@ tags:
   - presentTruth
   - video
 title: Present Truth
+createdDate: 2024-08-29T08:36:59.479+02:00
+modifiedDate: 2024-12-22T19:41:27+01:00
 ---
 > [!bible]+ [2 Peter 1:12 - KJV](https://www.biblegateway.com/passage/?search=2+Peter+1:12&version=kjv)
 > 12. Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and **be established in the present truth**.
@@ -215,4 +217,4 @@ When Jesus finishes in the Most Holy Place His work, then there is a short time 
 
 
 > [!importnat] The Present Truth for the FINAL generation
-> See [[Present Truth - for the final generation]]
+> See [[present-truth-for-final-generation]]

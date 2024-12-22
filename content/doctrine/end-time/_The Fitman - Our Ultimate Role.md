@@ -1,5 +1,7 @@
 ---
-publish: true
+publish: false
+modifiedDate: 2024-12-22T19:42:35+01:00
+createdDate: 2024-08-28T19:10:24.219+02:00
 ---
 > [!bible]+ [Leviticus 16:21 - KJV](https://www.biblegateway.com/passage/?search=Leviticus+16:21&version=kjv)
 > 21. And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, **putting them upon the head of the goat**, and shall send him away by the hand of ***a fit man*** into **the wilderness**:
@@ -30,7 +32,7 @@ The purification of the fit man highlights the need for us to be *spiritually pu
 > Those who are living upon the earth when the intercession of Christ shall cease in the sanctuary above, are **to stand in the sight of a holy God without a mediator**. **Their robes must be spotless, their characters must be purified from sin by the blood of sprinkling**. Through the grace of God and their **own diligent effort**, they must be conquerors in the battle with evil. [GC88 425.1](https://egwwritings.org/read?panels=p133.1938&index=0) #victoryOverSin #finalGeneration
 
 > [!info] Tangent
-> For more information on standing in the sight of God without a mediator, and state of the final generation or #144k see [[Present Truth - for the final generation]]
+> For more information on standing in the sight of God without a mediator, and state of the final generation or #144k see [[present-truth-for-final-generation]]
 
 >  And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body **be preserved blameless unto the coming of our Lord Jesus Christ**. **1Th 5:23**
 

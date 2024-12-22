@@ -5,6 +5,9 @@ tags:
   - elohim
 fpRelatedReads:
   - rediscovering-the-pillar
+title: Majestic Plural
+createdDate: 2024-09-11T08:39:17.638+02:00
+modifiedDate: 2024-12-22T19:58:17+01:00
 ---
 **Chat GPT-4o**
 ***

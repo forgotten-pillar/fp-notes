@@ -7,7 +7,9 @@ tags:
   - apostasy
 permalink: love-for-apostate-church
 tts: true
-published: 2025-11-05T14:16:21.423+01:00
+createdDate: 2024-11-05T14:16:21.423+01:00
+publishDate: 2024-11-06T14:16:21.423+01:00
+modifiedDate: 2024-12-22T19:36:25+01:00
 ---
 
 > [!abstract] Abstract

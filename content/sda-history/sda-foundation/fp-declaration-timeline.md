@@ -6,6 +6,7 @@ tags:
 fpRelatedReads:
   - the-forgotten-pillar
 title: The Declaration of the Fundamental Principles - Timeline
+modifiedDate: 2024-12-22T19:38:46+01:00
 ---
 
 > [!important] The importance of booklets and publications

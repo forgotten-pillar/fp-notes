@@ -3,6 +3,8 @@ publish: true
 tags:
   - greatDisapointment
 title: Little Book
+createdDate: 2024-08-29T09:55:36.228+02:00
+modifiedDate: 2024-12-22T19:44:59+01:00
 ---
 
 > [!bible] [Revelation 10:1-2 - KJV](https://www.biblegateway.com/passage/?search=Revelation+10:1-2&version=kjv)
@@ -24,7 +26,7 @@ This little book was the book of Daniel, which is the "sealed book" [Daniel 12:4
 > 8. And the voice which I heard from heaven spake unto me again, and said, Go and take **the little book which is open** in the hand of the angel which standeth upon the sea and upon the earth.
 > 9. And I went unto the angel, and said unto him, **Give me the little book**. And he said unto me, **Take it, and eat it up**; and it shall **make thy belly bitter**, but it shall be in thy **mouth sweet as honey**.
 
-The little book which is now open refers to the book of Daniel. While [Daniel 8:14](https://www.biblegateway.com/passage/?search=Daniel+8.14&version=KJV) points to the fulfillment of the 2300 days prophecy, terminated in 1844, which resulted in [[The Great Disappointment|the Great Disappointment]] experience depicted by bitterness in the belly.
+The little book which is now open refers to the book of Daniel. While [Daniel 8:14](https://www.biblegateway.com/passage/?search=Daniel+8.14&version=KJV) points to the fulfillment of the 2300 days prophecy, terminated in 1844, which resulted in [[1884-as-test|the Great Disappointment]] experience depicted by bitterness in the belly.
 
 
 > [!todo] 

@@ -4,6 +4,9 @@ tags:
   - hermeneutics
 fpRelatedReads:
   - rediscovering-the-pillar
+title: The Weight of Evidence
+createdDate: 2024-09-03T09:05:04.160+02:00
+modifiedDate: 2024-12-22T20:05:47+01:00
 ---
 ## Those who desire to doubt will have plenty of room
 
@@ -36,4 +39,4 @@ What is the weight of evidence? It should be the Bible, and the Testimonies of J
 
 >  The Lord desires that every soul who claims to believe the truth shall have an **intelligent knowledge** of what is **truth**. **False prophets will arise and will deceive many**. Everything is to be shaken that can be shaken. Then does it not become everyone to **understand the reasons of our faith**? **In place of having so many sermons there should be a more close searching of the Word of God, opening the Scriptures, text by text, and searching for the** **strong evidences** that sustain the **fundamental doctrines** that have brought us where we now are, upon the **platform of eternal truth**. [2SM, 392](https://egwwritings.org/read?panels=p99.2402&index=0)
 
-Sermons, and presentations are not the weight of evidence. [[Importance of Personal Study|A personal study of the Scriptures]] is the source of the weight of evidence.
+Sermons, and presentations are not the weight of evidence. [[importance-of-personal-study|A personal study of the Scriptures]] is the source of the weight of evidence.

@@ -94,6 +94,7 @@ declare module "vfile" {
         enableToc: string
         cssclasses: string[]
         comments: boolean | string
+        publishDate: string
       }>
   }
 }

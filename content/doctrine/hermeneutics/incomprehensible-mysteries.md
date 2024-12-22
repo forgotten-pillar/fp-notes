@@ -5,7 +5,27 @@ tags:
   - mystery
 fpRelatedReads:
   - rediscovering-the-pillar
+createdDate: 2024-09-12T20:55:37.970+02:00
+title: Incomprehensible Mysteries
+description: Which theological truths are we to accept by faith while avoiding deceptive speculation?
+modifiedDate: 2024-12-22T19:56:40+01:00
 ---
+
+> [!abstract]-
+> Some theological truths, while essential for salvation, lie beyond human comprehension and reasoning. These include:
+> - God's nature and existence
+> - Christ's divinity and incarnation 
+> - The entrance of sin
+> - Regeneration and resurrection
+> - The union of divine and human in Christ
+> - The plan of redemption
+> - God's love in sacrificing His Son
+> - Christ's eternal Sonship with the Father
+>
+> While these mysteries cannot be fully grasped by human intellect, they should be accepted based on Biblical authority. All necessary knowledge about God comes through Christ's revealed character. To prevent deception, doctrines should only be formed from explicitly revealed truths, not speculation about unrevealed matters.
+>
+> The mysteries of Christ's eternal Sonship are particularly significant - being both eternal yet "*brought forth*," one with the Father yet distinct. This paradox explains other otherwise inexplicable truths, though it remains incomprehensible to human understanding.
+
 
 > Many things are above **finite comprehension**. Truths are to be received that are **not within the reach of our reason, and not for us to explain**. [10LtMs, Lt 8, 1895, par. 21](https://legacy.egwwritings.org/?ref=en_Lt8-1895&para=6474.27)
 

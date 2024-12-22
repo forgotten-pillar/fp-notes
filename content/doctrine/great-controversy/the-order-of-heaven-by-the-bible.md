@@ -11,6 +11,8 @@ fpRelatedVideos:
   - https://www.youtube.com/watch?v=aFC4rwSeMRY
 fpRelatedReads:
   - sonship-of-christ-controversy
+createdDate: 2024-09-11T08:31:15.304+02:00
+modifiedDate: 2024-12-22T19:48:08+01:00
 ---
 The following study is the examination of the Scriptures in regards to the Order of Heaven. This order has been strongly emphasized within [the writings of Ellen White](https://forgottenpillar.com/book/sonship-of-christ-controversy), and many think that Ellen White is not being Scriptural. Check out the following video on the Great Controversy and the Sonship of Christ: [The Great Controversy and Sonship of Christ](https://www.youtube.com/watch?v=o_QKBMRlG48)
 ## Terminology

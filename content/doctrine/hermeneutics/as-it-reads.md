@@ -4,6 +4,9 @@ tags:
   - hermeneutics
 fpRelatedReads:
   - rediscovering-the-pillar
+modifiedDate: 2024-12-22T20:01:17+01:00
+title: Take the Bible as it Reads
+createdDate: 2024-08-28T22:43:43.635+02:00
 ---
 > **My brethren,** let the word of God stand **just as it is.** Let not human wisdom presume to **lessen the force of one statement of the Scriptures**. 5T 711.2
 
@@ -23,7 +26,7 @@ fpRelatedReads:
 
 > The language of the Bible should be explained according to its **obvious meaning**, unless a symbol or figure is employed. GC 598.3 (1911)
 
-This principle is very oposite to the [[Jesuit's principle of interpretation|principles of interpretations proposed by Jesuits]]
+This principle is very opposite to the [[_Jesuit's principle of interpretation|principles of interpretations proposed by Jesuits]]
 
 > [!todo] TODO
 > Get the links

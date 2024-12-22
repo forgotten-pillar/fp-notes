@@ -3,6 +3,8 @@ publish: true
 title: Make straight the way of the Lord
 tags:
   - devotional
+createdDate: 2024-10-25T08:58:55.228+02:00
+modifiedDate: 2024-12-22T19:39:47+01:00
 ---
 Before Jesus' first coming there was a voice in the wilderness with a special mission - to make straight the way of the Lord. This voice was the prophet John the Baptist. He is a significant figure, since he represents the work which the last generation before the Second Coming of Christ will do. What was the mission of John?
 
