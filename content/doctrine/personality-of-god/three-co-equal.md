@@ -19,7 +19,7 @@ fpRelatedReads:
 > [!abstract] 
 > Scripture and Spirit of Prophecy reveal distinct differences in **how** the Father, Son, and Holy Spirit are persons. While all three bear witness, only the Father and Son possess physical form and personhood in the bodily sense. The Holy Spirit, though a divine person in terms of bearing witness and searching the mind of God, exists fundamentally differently - as a spirit without flesh and bones. This biblical evidence challenges the common assertion of three co-equal persons.
 
-Often it is stated that the Father, the Son, and the Holy Spirit are three *co-equal* persons. Let's explore inspired data to examine that claim.
+Often it is stated that the Father, the Son, and the Holy Spirit are three *co-equal* persons[^fb]. Let's explore inspired data to examine that claim.
 
 ## What do you mean by the term 'person'?
 
@@ -92,3 +92,7 @@ Does this negate the fact that the Holy Spirit is a person? No! It just means th
 ## Conclusion
 
 The inspired evidence demonstrates that the Father, Son, and Holy Spirit are not three co-equal persons as commonly taught. While they are all divine and personal beings, their personhood manifests differently. The Father and Son share the quality of physical form and bodily presence, while the Holy Spirit, though fully divine and personal in function, exists as a spirit without physical form. This fundamental distinction in their nature reveals that traditional trinitarian concepts of three co-equal persons cannot be supported by Scripture.
+
+
+
+[^fb]: not explicitly, but implicitly stated by the Fundamental Beliefs. See [[principles-vs-beliefs|Fundamental Principles vs. Fundamental Beliefs]]
