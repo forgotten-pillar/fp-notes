@@ -21,7 +21,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "notes.forgottenpillar.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
