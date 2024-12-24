@@ -6,7 +6,7 @@ tags:
 title: Alabaster Box
 description: Explore the profound symbolism of Mary’s act of anointing Christ with precious spikenard. As the alabaster box was broken, its fragrance filled the house—a reflection of Christ’s sacrifice, His broken body, and the sweet aroma of redemption that fills the earth.
 createdDate: 2024-12-24T16:28:33+01:00
-modifiedDate: 2024-12-24T16:38:53+01:00
+modifiedDate: 2024-12-24T19:20:29+01:00
 ---
 ![Alabaster Box](https://cdn.midjourney.com/38d99c25-e61f-4375-8b02-77a882f7c75f/0_0.png)
 
@@ -24,14 +24,5 @@ modifiedDate: 2024-12-24T16:38:53+01:00
 > [!bible] [Ephesians 5:2 - KJV](https://www.biblegateway.com/passage/?search=Ephesians+5:2&version=kjv)
 > 2. And walk in love, as Christ also hath loved us, and hath **given himself for us** *an offering* and *a sacrifice* to God for **a sweetsmelling savour**.
 
-> [!example] Poem
-> In alabaster poured, a prophecy untold,
-> Mary's act of love, more precious than gold.  
-> Broken like the flask, His body shall be, 
-> Yet from death's grasp, He'll rise, set us free.
-> 
-> Fragrance fills the air, His sacrifice divine,  
-> Christ's eternal love, through ages will shine.  
-> For us, He gave all, a sweet-smelling savor,  
-> His life, a gift, in His grace, we favor.
+> [!example] Poem [[broken-alabaster-tale-of-sacrifice|Alabaster Box]]
 

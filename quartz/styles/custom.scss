@@ -723,7 +723,7 @@ html[saved-theme="dark"] {
 }
 
 article.poetry > :not(blockquote.callout) {
-  @media all and ($desktop) {
+  @media all and (min-width: #{map-get($breakpoints, mobile)}) {
     font-size: larger;
     
     p {
@@ -735,6 +735,6 @@ article.poetry > :not(blockquote.callout) {
   text-align: center;
 }
 
-article.poetry blockquote.callout {
-  margin-bottom: 2.5rem;
+article.poetry blockquote.callout:last-of-type + p {
+  margin-top: 2.5rem;
 }
