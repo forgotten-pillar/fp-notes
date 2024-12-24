@@ -257,7 +257,7 @@ How can we know that Jesus is explaining His position with the Father, even befo
 > [!important] [John 5:26 - KJV](https://www.biblegateway.com/passage/?search=John+5:26&version=kjv)
 > 26. For as the Father hath life in himself; so hath he given to the Son to have life in himself;
 
-The life which is in the Father Himself, is not a human life. His life is [[Original, Unborrowed, Underived Life|the original, unborrowed and underived life]]. This life was given to His Son, so the Son also has original, unborrowed and underived life. Christ did not receive such life in His incarnation, but He had received it when He was [[the-beginning-problem|begotten]] from [[from-all-eternity#Christ from all eternity|all eternity]]
+The life which is in the Father Himself, is not a human life. His life is [[original-unborrowed-underived-life|the original, unborrowed and underived life]]. This life was given to His Son, so the Son also has original, unborrowed and underived life. Christ did not receive such life in His incarnation, but He had received it when He was [[the-beginning-problem|begotten]] from [[from-all-eternity#Christ from all eternity|all eternity]]
 
 In this context, we see that Christ's description of His relationship with the Father is what He had even before He became human. Evidence for this can be found in the text itself.
 

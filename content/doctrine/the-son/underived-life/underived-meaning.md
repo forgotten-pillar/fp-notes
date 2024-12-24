@@ -4,10 +4,16 @@ tags:
   - underived
 fpRelatedReads:
   - rediscovering-the-pillar
+createdDate: 2024-08-30T14:13:06.404+02:00
+title: "'Underived' - meaning"
+description: Examine the historical meaning of 'underived life' in Ellen White's writings and how it reveals Christ's unique self-perpetuating life versus humanity's continuous dependence on God.
+modifiedDate: 2024-12-24T16:03:53+01:00
 ---
+> [!abstract]-
+> The term "underived life" in Ellen White's writings refers not to life without an origin, but to life that doesn't require continuous dependence on a source. While humans' life is like a stream constantly depending on its fountain, Christ's life is self-perpetuating, though originally received from the Father. This interpretation aligns with 1828 Webster's Dictionary definitions and contextual usage in Ellen White's works.
 
 > [!note] "In Him was life... underived"
-> Ellen White said that in Christ was life underived. From the meaning of this word, many conclude that prior to Christ's incarnation, Jesus could not receive life from God. See [[Original, Unborrowed, Underived Life]]
+> Ellen White said that in Christ was life underived. From the meaning of this word, many conclude that prior to Christ's incarnation, Jesus could not receive life from God. See [[original-unborrowed-underived-life|Original, Unborrowed and Underived Life]].
 
 Word '*derive*' in Ellen White's day carried a nuanced meaning that modern readers tend to overlook. According to [1828 Webster's Dictionary](https://webstersdictionary1828.com/Dictionary/derive), we find the following definitions:
 
@@ -21,7 +27,7 @@ These definitions are similar, but their implications differ significantly. Whil
 
 Most Adventist Trinitarians use the second definition to explain Ellen White’s “underived” statements. They interpret it to mean receiving something "*from a source or origin*," and thus conclude that "underived" means having life without a source or origin. However, "derive" can also mean "*to draw from a regular course or channel; to receive from a source by a regular conveyance*."
 
-The first definition of "*derive*" [[Implication of - continual dependance|implies]] "**continual dependence**". Therefore, "UN-derived" would mean *not having to continuously depend on a source*.
+The first definition of "*derive*" [[implication-of-continual-dependance|implies]] "**continual dependence**". Therefore, "UN-derived" would mean *not having to continuously depend on a source*.
 
 Such nuanced meaning is recognized in use and context of Ellen White's quotation “*In Him is life, that is original, unborrowed, underived life*”:
 
@@ -32,4 +38,4 @@ Such nuanced meaning is recognized in use and context of Ellen White's quotation
 Did you catch it? In Jesus our life is derived. Why? Because we are like **_“a streamlet from the fountain of life.”_** Thus our life is something we receive that the Giver takes back again unto Himself (if the Giver so chooses). We are **_“wholly dependent on Him”_** and the second that stops we no longer exist. This is just like a stream derived from a fountain. Our life is drawn from the life of God, receiving from a source by a regular conveyance. The Son of God, however, is actually a fountain unto Himself. Thus He is not derived but actually has self-perpetuating life in Himself.
 
 > [!important] However
-> The fact that Christ's life does not depends, nor it streams from the Father, does not negate the fact that Christ originally received it from His Father. See [[Original, Unborrowed, Underived Life]]
+> The fact that Christ's life does not depends, nor it streams from the Father, does not negate the fact that Christ originally received it from His Father. See [[original-unborrowed-underived-life]]
