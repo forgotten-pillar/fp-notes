@@ -5,7 +5,7 @@ title: Unwanted Children
 description: Discover biblical evidence showing how 'unplanned' children are part of God's divine plan, featuring examples from Jesus's lineage including Solomon and Phares. Learn why every child has God-ordained purpose.
 permalink: unwanted-children
 createdDate: 2024-09-14T09:21:14.504+02:00
-modifiedDate: 2024-12-24T15:19:38+01:00
+modifiedDate: 2024-12-24T16:39:17+01:00
 ---
 
 > [!abstract]
@@ -53,8 +53,7 @@ This passage further affirms that God calls individuals and assigns them specifi
 
 Paul’s calling as an apostle was part of God’s individual plan for him, even before he was born. This further supports the idea that God gives individual people specific purposes in life.
 
-
-> [!important] Individual purpose was assigned by God, not their parents
+> [!important] Individual purpose was assigned by God, not by their parents
 > The individual purposes and plans God had assigned to the Paul, prophets like Isaiah and Jeremiah, they were not assigned by their parents, rather they were assigned by God. These were the good works "*which God hath **before** ordained that we* (they) *should walk in them*" [Ephesians 2:10](https://www.biblegateway.com/passage/?search=Ephesians+2.10&version=KJV)
 
 Jesus emphasizes that God’s attention to detail extends to even the smallest aspects of *individual* lives.

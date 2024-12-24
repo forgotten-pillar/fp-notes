@@ -6,7 +6,7 @@ tags:
 title: Alabaster Box
 description: Explore the profound symbolism of Mary’s act of anointing Christ with precious spikenard. As the alabaster box was broken, its fragrance filled the house—a reflection of Christ’s sacrifice, His broken body, and the sweet aroma of redemption that fills the earth.
 createdDate: 2024-12-24T16:28:33+01:00
-modifiedDate: 2024-12-24T16:28:33+01:00
+modifiedDate: 2024-12-24T16:38:53+01:00
 ---
 ![Alabaster Box](https://cdn.midjourney.com/38d99c25-e61f-4375-8b02-77a882f7c75f/0_0.png)
 

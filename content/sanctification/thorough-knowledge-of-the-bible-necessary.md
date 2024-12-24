@@ -2,6 +2,11 @@
 publish: true
 tags:
   - sanctification
+  - devotional
+modifiedDate: 2024-12-24T16:52:17+01:00
+title: Thorough Knowledge of the Bible Necessary
+description: Man shall not live by bread alone, but by every word of God. Learn the importance of daily spiritual nourishment and how God’s Word sustains and equips us to overcome life’s challenges.
+createdDate: 2024-09-04T17:48:05.457+02:00
 ---
 > [!bible] [Matthew 4:4 - KJV](https://www.biblegateway.com/passage/?search=Matthew+4:4&version=kjv)
 > 4. But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.

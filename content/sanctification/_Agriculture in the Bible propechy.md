@@ -4,7 +4,9 @@ tags:
   - trueEducation
   - agriculture
 title: Agriculture in the Bible propechy
-description:
+description: 
+createdDate: 2024-10-14T08:28:02.528+02:00
+modifiedDate: 2024-12-24T16:49:22+01:00
 ---
 2nd Annual Advent UNconference, session by Raquel Vasilache
 

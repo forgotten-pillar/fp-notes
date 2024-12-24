@@ -4,6 +4,9 @@ title: Fanaticism
 description: Explore the delicate balance between spiritual passion and fanaticism. Uncover strategies to maintain authentic faith, avoid destructive extremes, and cultivate unity, mercy, and individual spiritual growth.
 fp-social-media: People throw this label around often, but when you read this article, read it the spirit of self reflection, and not reflecting upon others. We need to guard ourselves against fanaticism
 tags:
+  - revival
+createdDate: 2024-12-10T07:40:38.173+02:00
+modifiedDate: 2024-12-24T16:40:19+01:00
 ---
 
 > [!abstract] Abstract

@@ -2,9 +2,10 @@
 publish: true
 tags:
   - sanctification
+  - devotional
 title: Battle for Our Time
 createdDate: 2024-08-28T18:49:55.305+02:00
-modifiedDate: 2024-12-24T16:30:36+01:00
+modifiedDate: 2024-12-24T16:48:52+01:00
 ---
 > Time has continued a few years longer than they expected; therefore they think it may continue a few years more, and in this way their **minds are being led from present truth**, out after the world. In these things I saw great danger; for if the mind is filled with other things, **present truth is shut out**, and there is no place in our foreheads for the seal of the living God. **I saw that the time for Jesus to be in the most holy place was nearly finished and that time can last but a very little longer.** What leisure time we have should be spent in searching the Bible, which is to judge us in the last day. [EW 58.1](https://egwwritings.org/read?panels=p28.406&index=0)
 

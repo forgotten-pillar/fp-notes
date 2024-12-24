@@ -2,7 +2,16 @@
 publish: true
 tags:
   - sanctification
+  - devotional
+title: Mental Food
+description: Discover the biblical call to “keep thy heart with all diligence” and learn how to guard your thoughts, eyes, and words for a Christ-centered life. Explore practical insights from scripture on renewing your mind, finding perfect peace, and aligning with God’s will.
+createdDate: 2024-09-04T15:19:39.294+02:00
+modifiedDate: 2024-12-24T16:48:46+01:00
 ---
+
+> [!abstract]
+> Keeping the heart with diligence involves guarding thoughts, emotions, and actions, as they shape character and life’s direction. Scripture calls for renewing the mind, focusing on godly virtues, and aligning with God’s will. Guarding the eyes and tongue prevents darkness from corrupting the soul and ensures speech reflects a pure heart. Perfect peace is promised to those whose minds are fixed on God.
+
 ## Heart keeping
 
 > [!bible] [Proverbs 4:23 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+4:23&version=kjv)
