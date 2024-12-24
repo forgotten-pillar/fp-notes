@@ -1,8 +1,8 @@
 ---
 createdDate: 2024-12-24T19:35:45+01:00
-modifiedDate: 2024-12-24T19:36:13+01:00
+modifiedDate: 2024-12-24T19:46:57+01:00
 title: Echoes of the Barren Tree
-description: 
+description: Poem based on Mark 11:11-14, 20, 21; Matthew 21:17-19 illustrates the emptiness of false claims of faith, urging a life rich in love and meaningful deeds over hollow pretensions.
 publish: true
 poetry: true
 ---
