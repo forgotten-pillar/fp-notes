@@ -11,7 +11,12 @@ fpRelatedVideos:
   - https://www.youtube.com/watch?v=o_QKBMRlG48
 fpRelatedReads:
   - rediscovering-the-pillar
+createdDate: 2024-09-14T09:17:50.488+02:00
+modifiedDate: 2024-12-24T16:09:59+01:00
 ---
+
+> [!abstract]
+> Jesus Christ, as the begotten Son of God, reflects the express image and majesty of the Father. He existed prior to His incarnation, embodying the fullness of the Godhead. Scripture and inspired writings reveal Christ’s eternal nature while affirming His origin as begotten by the Father. [Proverbs 8](https://www.biblegateway.com/passage/?search=Proverbs+8&version=KJV) and [Micah 5:2](https://www.biblegateway.com/passage/?search=Micah+5.2&version=KJV) portray Him as existing “*from everlasting*” yet “*brought forth*”. Human finite mind fails to harmonize this paradoxical truths of His eternal coexistence with the Father and His begotten status. The mystery of Christ’s eternal sonship underscores the incomprehensible nature of divine revelation, which calls for faith in its profound truths.
 ## *Begotten* in the express image
 
 > “A complete offering has been made; for ‘God so loved the world, that he gave his only-begotten Son,’-- **not a son by creation, as were the angels, nor a son by adoption, as is the forgiven sinner,** **but a Son begotten in the express image of the Father's person**, **and in all the brightness of his majesty and glory, one equal with God in authority, dignity, and divine perfection.** In him dwelt all the fullness of the Godhead bodily.” [{EGW, ST May 30, 1895, par. 3; 1895}](https://egwwritings.org/?ref=enST.May.30.1895.par.3&para=820.12891)
@@ -115,5 +120,5 @@ The revelation applies the same concept [[from-all-eternity|of eternal existence
 
 ***
 
-> [!tldr]- Video
+> [!tldr] Video
 > ![Answer to Sabbath School Lesson](https://youtu.be/8huM1U8b_bw?si=Ecr9lTlLYZMuk2MV)

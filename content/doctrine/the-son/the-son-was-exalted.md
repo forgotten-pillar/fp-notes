@@ -8,6 +8,8 @@ tags:
   - son
 fpRelatedVideos:
   - https://www.youtube.com/watch?v=o_QKBMRlG48
+createdDate: 2024-09-14T09:17:50.488+02:00
+modifiedDate: 2024-12-24T16:18:01+01:00
 ---
 > The One **who was exalted** above all others in the heavenly courts, as the Son of the Highest, is the One whose hands were nailed to the cross of Calvary. [NPUGleaner April 6, 1910, par. 6](https://egwwritings.org/read?panels=p511.224&index=0)
 

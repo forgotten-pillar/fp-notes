@@ -5,6 +5,9 @@ tags:
   - son
 fpRelatedReads:
   - rediscovering-the-pillar
+title: Eternal Life through the name of the Son
+createdDate: 2024-08-28T07:40:38.173+02:00
+modifiedDate: 2024-12-24T16:07:10+01:00
 ---
 
 > [!important] Observation

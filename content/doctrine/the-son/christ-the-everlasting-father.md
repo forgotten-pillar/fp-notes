@@ -9,6 +9,8 @@ permalink: christ-everlasting-father
 description: Discover why Jesus Christ is called 'The everlasting Father' in Isaiah 9:6. Through the biblical parallel of Abraham as a type of Christ, learn how God made Jesus the Father of many nations and gave Him children as an eternal inheritance. Understand this profound biblical concept through key verses from Genesis, John, and Hebrews, supported by Ellen White's insights from The Desire of Ages. A clear explanation of Christ's unique role as both Son of God and Father to the faithful.
 fpRelatedReads:
   - rediscovering-the-pillar
+createdDate: 2024-11-02T13:35:24.799+01:00
+modifiedDate: 2024-12-24T16:05:08+01:00
 ---
 ![Artistic illustration of patriarch Abraham](https://www.wisdomonline.org/images/r/july-2021-hth-1/c960x540g0-6-1655-937/july-2021-hth-1.jpg)
 
@@ -17,7 +19,7 @@ fpRelatedReads:
 > [!bible] [Isaiah 9:6 - KJV](https://www.biblegateway.com/passage/?search=Isaiah+9:6&version=kjv)
 > 6. For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, **The everlasting Father**, The Prince of Peace.
 
-> [!info]- TLDR
+> [!abstract]-
 > Christ is the father, not to Himself, or to His Father, rather He is the father to us, for He said: "Behold, I and **the children whom the LORD hath given me**" [Isaiah 8:18](https://www.biblegateway.com/passage/?search=Isaiah+8.18&version=KJV); [Hebrews 2:13](https://www.biblegateway.com/passage/?search=Hebrews+2.13&version=KJV)
 
 Here Christ is said to be called "*The everlasting Father*." This confuses some people and has led others to wrong conclusions. This quote can be better and more easily understood through Abraham, as Abraham is a type of Christ. No prophet or other biblical figure is a perfect representative of Christ, but they are [[Types and Antitypes | types of Christ]] in some details, some more and some less. Let's examine how [[Abraham - type of Christ|Abraham is a type of Christ]] and how God, speaking to Abraham, is actually speaking to and about Christ, revealing to us [[The Covenant between the Father and the Son|the Covenant that exists between Him and His Son]].

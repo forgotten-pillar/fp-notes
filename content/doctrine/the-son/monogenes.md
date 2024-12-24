@@ -5,10 +5,15 @@ tags:
   - begotten
 title: Monogenes
 permalink: monogenes
-description: Explore the Biblical meaning of 'only begotten' (monogenes) through key Bible examples, including Isaac and Christ. Discover how Scripture defines Jesus as God's truly begotten Son, challenging modern theological interpretations.
+description: Explore how the biblical term 'monogenes' consistently refers to literal offspring, revealing the true nature of Christ's divine Sonship and the depth of God's sacrifice.
 fpRelatedReads:
   - rediscovering-the-pillar
+createdDate: 2024-09-02T20:04:23.298+02:00
+modifiedDate: 2024-12-24T16:09:43+01:00
 ---
+> [!abstract]
+> The biblical term '*monogenes*' (only begotten), appearing nine times in the New Testament, consistently refers to literal offspring in its biblical usage. Through examples of the widow's son, Jairus' daughter, a possessed child, and particularly Isaac, Scripture demonstrates that this term denotes genuine parent-child relationships. When applied to Jesus as God's '*monogenes*' Son, it therefore indicates Christ's true divine Sonship, emphasizing the magnitude of God's sacrifice in giving His own begotten Son.
+
 > [!bible] [John 3:16 - KJV](https://www.biblegateway.com/passage/?search=John+3:16&version=kjv)
 > 16. For God so loved the world, that he gave his **only begotten** (*monogenes*) Son, that whosoever believeth in him should not perish, but have everlasting life.
 
