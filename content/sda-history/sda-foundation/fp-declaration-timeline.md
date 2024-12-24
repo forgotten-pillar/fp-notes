@@ -6,7 +6,9 @@ tags:
 fpRelatedReads:
   - the-forgotten-pillar
 title: The Declaration of the Fundamental Principles - Timeline
-modifiedDate: 2024-12-22T19:38:46+01:00
+modifiedDate: 2024-12-24T16:59:57+01:00
+createdDate: 2024-10-31T14:18:59.784+01:00
+description: Explore the timeline of the printing and publishing the Declaration of the Fundamental Principles
 ---
 
 > [!important] The importance of booklets and publications

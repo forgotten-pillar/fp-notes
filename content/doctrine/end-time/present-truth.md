@@ -199,7 +199,7 @@ Seventh-day Adventist church was specially appointed to proclaim the present tru
 
 
 > [!important] Principles of the present truth
-> The principles of the present truth that has made us Seventh-day Adventists, refer to [[The Fundamental Principles|the fundamental principles of the Seventh-day Adventist church]]. She is warning us not to move away from them. In fact she is prophesying that in the last days we shall come back to them. For more information see [[The Great Apostasy in SDA]].
+> The principles of the present truth that has made us Seventh-day Adventists, refer to [[fundamental-principles|the fundamental principles of the Seventh-day Adventist church]]. She is warning us not to move away from them. In fact she is prophesying that in the last days we shall come back to them. For more information see [[The Great Apostasy in SDA]].
 
 ### The purpose of the message of the third angel
 

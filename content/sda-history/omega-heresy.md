@@ -2,6 +2,9 @@
 publish: true
 fpRelatedReads:
   - the-forgotten-pillar
+title: Omega Heresy
+createdDate: 2024-08-26T20:03:08.362+02:00
+modifiedDate: 2024-12-24T17:07:12+01:00
 ---
 ### The omega will be of a most startling nature
 
@@ -10,14 +13,14 @@ fpRelatedReads:
 - how much is 'many' when she said "many will depart from the faith"?
 - is more than 50% of the church *startling*?
 - many will depart from faith - what faith is he referring to?
-	- she is referring to SDA faith [[The Foundation of our Faith]] represented by the [[The Fundamental Principles]]
+	- she is referring to SDA faith [[The Foundation of our Faith]] represented by the [[fundamental-principles]]
 
 ### Great change will take place
 
 > “I tell you now, that when I am laid to rest, **great changes will take place**." [{Ms 1, 1915, par. 2}](https://egwwritings.org/read?panels=p14075.10771009&index=0)
 
 - how big of change is a "great changes"
-	- after her death the change happened in [[The Fundamental Principles|official beliefs of SDA church]]
+	- after her death the change happened in [[fundamental-principles|official beliefs of SDA church]]
 
 > [!warning] Caution, warning
 > Instead of focusing to the error, we should focus on the truth. The problem with deception is that we can be deceived thinking we are not deceived. We can be fully convinced that we are not deceived, while being deceived.

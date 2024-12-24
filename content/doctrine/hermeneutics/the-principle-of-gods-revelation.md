@@ -9,6 +9,8 @@ tags:
   - JesusOT
   - michael
 permalink: principle-of-revelation
+createdDate: 2024-12-09T20:04:23.298+02:00
+modifiedDate: 2024-12-24T17:03:32+01:00
 ---
 
 > [!bible] [Revelation 1:1 - KJV](https://www.biblegateway.com/passage/?search=Revelation+1:1&version=kjv)

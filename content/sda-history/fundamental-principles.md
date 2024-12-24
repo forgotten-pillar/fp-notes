@@ -3,6 +3,9 @@ publish: true
 fpRelatedReads:
   - the-forgotten-pillar
   - the-way-he-led-us
+createdDate: 2024-08-26T18:38:15.881+02:00
+title: The Fundamental Principles
+modifiedDate: 2024-12-24T17:07:41+01:00
 ---
 
 > [!todo] TODO

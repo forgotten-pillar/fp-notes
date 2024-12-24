@@ -2,6 +2,8 @@
 publish: true
 title: The Forgotten Pillar Notes
 description: Join the Forgotten Pillar project's journey to rediscover Adventist identity through interconnected Bible study notes. Explore detailed theological research that examines our spiritual heritage and Biblical foundations.
+createdDate: 2024-08-02T20:04:23.298+02:00
+modifiedDate: 2024-12-24T16:57:12+01:00
 ---
 
 ***Attention**: these notes are work in progress*

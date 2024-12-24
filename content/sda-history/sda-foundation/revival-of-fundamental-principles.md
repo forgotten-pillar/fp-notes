@@ -5,6 +5,10 @@ tags:
   - revival
 fpRelatedReads:
   - the-forgotten-pillar
+title: Revival of the Fundamental Principles
+description: Explore the data on the prophetic insight of Ellen White, giving us assurance of the revival of the Fundamental Principles
+createdDate: 2024-11-05T14:01:04.303+01:00
+modifiedDate: 2024-12-24T17:02:26+01:00
 ---
 The following is the compilation of Ellen White quotations about the revival of the fundamental principles in these last days.
 

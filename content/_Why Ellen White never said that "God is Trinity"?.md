@@ -6,11 +6,11 @@ This begs the question, of why? The following quote gives us the reason:
 
 In this quote, she is dealing with the personality of God, which is dealing with our perception of God. It is the question of who, and what God is. And let us say "God is X". According to the quote, if the X is not expressed "*in the language of the Word which represents His personality*" we ought not to venture to express. If we substitute X with "trinity", most assuredly, this word is not not in the language of the Word.
 
-But neither does the "trinity" express the concept of God's personality, rather it violate it. This is visible within her own writings. See [[Ellen White and the Trinity]], as well [[Adventist Pioneers on the Trinity]].
+But neither does the "trinity" express the concept of God's personality, rather it violate it. This is visible within her own writings. See [[Ellen White and the Trinity]], as well [[adventist-pioneers-on-trinity]].
 
 ## Conclusion
 If one would forbid you to say "God is Trinity", how could that one believe in the trinity in the first place?
 
 
 > [!TODO] TODO
-> Join the note with [[EGW and Trinity]]
+> Join the note with [[_EGW and Trinity]]

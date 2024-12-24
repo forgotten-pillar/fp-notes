@@ -8,6 +8,8 @@ title: Fundamental Principles vs. Fundamental Beliefs
 permalink: principles-vs-beliefs
 fpRelatedReads:
   - the-forgotten-pillar
+createdDate: 2024-10-31T13:29:46.685+01:00
+modifiedDate: 2024-12-24T17:00:31+01:00
 ---
 The following is the comparison between the Fundamental Principles and Fundamental Beliefs on their teachings on God, His Son and the Holy Spirit.
 
