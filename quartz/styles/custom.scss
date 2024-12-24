@@ -722,11 +722,16 @@ html[saved-theme="dark"] {
   max-height: 300px !important;
 }
 
-article.poetry {
+article.poetry > :not(blockquote.callout) {
   font-size: larger;
   font-style: italic;
+  text-align: center;
 
   p {
     line-height: 1.5em;
   }
+}
+
+article.poetry blockquote.callout {
+  margin-bottom: 2.5rem;
 }

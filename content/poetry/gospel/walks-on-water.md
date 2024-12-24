@@ -1,12 +1,27 @@
 ---
 createdDate: 2024-12-24T17:12:21+01:00
-modifiedDate: 2024-12-24T17:19:43+01:00
+modifiedDate: 2024-12-24T18:11:35+01:00
 publish: true
 title: Walks on Water
 description: Poem based on Matthew 14:22-33
 poetry: true
 ---
-Based upon: [Matthew 14:22-33](https://www.biblegateway.com/passage/?search=Matthew+14.22-33&version=KJV)
+
+![Jesus walking on water](https://cdn.midjourney.com/08c2f75c-bcd1-4a49-9136-6884ff846b34/0_3.png)
+
+> [!bible]- [Matthew 14:22-33 - KJV](https://www.biblegateway.com/passage/?search=Matthew+14:22-33&version=kjv)
+> 22. And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away.
+> 23. And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.
+> 24. But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary.
+> 25. And in the fourth watch of the night Jesus went unto them, walking on the sea.
+> 26. And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear.
+> 27. But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid.
+> 28. And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water.
+> 29. And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus.
+> 30. But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.
+> 31. And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?
+> 32. And when they were come into the ship, the wind ceased.
+> 33. Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God.
 
 In storms, we're Peter on the sea,  
 Eyes fixed on waves, not on Thee. 
