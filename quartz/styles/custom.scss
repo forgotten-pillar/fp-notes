@@ -723,13 +723,16 @@ html[saved-theme="dark"] {
 }
 
 article.poetry > :not(blockquote.callout) {
-  font-size: larger;
+  @media all and ($desktop) {
+    font-size: larger;
+    
+    p {
+      line-height: 1.5em;
+    }
+  }
+  
   font-style: italic;
   text-align: center;
-
-  p {
-    line-height: 1.5em;
-  }
 }
 
 article.poetry blockquote.callout {

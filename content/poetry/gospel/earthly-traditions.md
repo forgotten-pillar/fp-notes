@@ -1,6 +1,6 @@
 ---
 createdDate: 2024-12-24T18:11:36+01:00
-modifiedDate: 2024-12-24T18:15:15+01:00
+modifiedDate: 2024-12-24T18:18:37+01:00
 title: Earthly Traditions
 publish: true
 description: A striking image of faith versus tradition, where divine light overpowers earthly customs and man’s creations, symbolizing the eternal truth of God’s word. Witness the power of divine guidance as it stands firm against the fleeting nature of human-made traditions.
