@@ -13,6 +13,8 @@ permalink: three-co-equal
 fpRelatedReads:
   - rediscovering-the-pillar
   - the-forgotten-pillar
+createdDate: 2024-12-22T10:06:16.613+02:00
+modifiedDate: 2024-12-24T15:12:26+01:00
 ---
 
 
@@ -87,7 +89,7 @@ Does this negate the fact that the Holy Spirit is a person? No! It just means th
 > > [!bible] [Luke 3:22 - KJV](https://www.biblegateway.com/passage/?search=Luke+3:22&version=kjv)
 > > 22. And the Holy Ghost descended in **a bodily shape** like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.
 > 
-> See also [Acts 2:3](https://www.biblegateway.com/passage/?search=Acts+2.3&version=KJV). In the given verses, it is revealed that the Holy Spirit appeared in a bodily shape of a dove or tongues of fire. But this is not sufficient reasoning that the bodily form of a dove makes the Holy Spirit a person - because it would make Him a dove. When talking about the Father and the Son, we are talking about a *bodily form* of a ***person***. Also, the bodily shape of a dove seen at Christ's baptism was an emblem of God's glory which came from the throne of God. See [[The Holy Spirit like a dove|The Holy Spirit like a dove]] for detailed information.
+> See also [Acts 2:3](https://www.biblegateway.com/passage/?search=Acts+2.3&version=KJV). In the given verses, it is revealed that the Holy Spirit appeared in a bodily shape of a dove or tongues of fire. But this is not sufficient reasoning that the bodily form of a dove makes the Holy Spirit a person - because it would make Him a dove. When talking about the Father and the Son, we are talking about a *bodily form* of a ***person***. Also, the bodily shape of a dove seen at Christ's baptism was an emblem of God's glory which came from the throne of God. See [[holy-spirit-like-dove|holy-spirit-like-dove]] for detailed information.
 
 ## Conclusion
 

@@ -4,9 +4,17 @@ tags:
   - holySpirit
 fpRelatedReads:
   - rediscovering-the-pillar
+title: Spirit of Man vs Spirit of God
+description: "Discover the biblical parallels between human and divine spirits: mind, life, presence, character, and emotions. Explore how man's spirit reflects God's Spirit through detailed Scripture analysis and practical insights."
+fp-social-media: We might not understand the nature of the Holy Spirit, but in the creation of man, God had given us some parallels which give away something of the Spirit of God. Explore the parallels in the following article.
+createdDate: 2024-09-20T10:06:16.613+02:00
+modifiedDate: 2024-12-24T15:09:19+01:00
 ---
-Since we are created in the image of God, are there any similarities between the spirit of man, with the spirit of God? Let's examine some of the characteristics:
 
+> [!abstract]-
+> The spirit of man shares fundamental characteristics with the Spirit of God, reflecting humanity's creation in God's image. These parallels manifest in five key areas: mind, life/breath, presence, character, and emotions. Like a photograph captures the essence but not the fullness of its subject, the human spirit mirrors divine attributes while remaining distinct from God's Spirit. Scripture demonstrates this Spirit-to-spirit relationship through which God interacts with humanity.
+
+Since we are created in the image of God, are there any similarities between the spirit of man, with the spirit of God? Let's examine some of the characteristics:
 ## Mind
 ### In man
 > [!bible] [Job 20:3 - KJV](https://www.biblegateway.com/passage/?search=Job+20:3&version=kjv)

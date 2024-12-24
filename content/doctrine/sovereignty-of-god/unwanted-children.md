@@ -4,7 +4,13 @@ tags:
 title: Unwanted Children
 description: Discover biblical evidence showing how 'unplanned' children are part of God's divine plan, featuring examples from Jesus's lineage including Solomon and Phares. Learn why every child has God-ordained purpose.
 permalink: unwanted-children
+createdDate: 2024-09-14T09:21:14.504+02:00
+modifiedDate: 2024-12-24T15:19:38+01:00
 ---
+
+> [!abstract]
+> Every human life is divinely planned, regardless of circumstances surrounding conception or birth. God ordains specific purposes for each individual before birth, as evidenced by biblical figures like Jeremiah, Isaiah, and Paul. Christ's lineage, including figures born from complex circumstances like Phares, Boaz, and Solomon, demonstrates that God's purpose transcends human planning. Biblical texts show God's intimate involvement in human formation and individual destiny, from conception through life.
+
 "Unwanted" or unplanned children are not unplanned neither unwanted by God.
 
 Why did God created us? What is our #purpose?

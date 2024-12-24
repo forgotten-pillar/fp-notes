@@ -10,9 +10,14 @@ fpRelatedVideos:
   - https://www.youtube.com/watch?v=o_QKBMRlG48
 fpRelatedReads:
   - rediscovering-the-pillar
+createdDate: 2024-08-30T08:59:07.097+02:00
+modifiedDate: 2024-12-24T15:16:57+01:00
 ---
-## When was the plan of redemption devised?
 
+> [!abstract]
+> The plan of redemption was devised from eternity and before time commenced, presenting an apparent paradox. Similarly, Christ exists as both eternal and begotten, maintaining eternal unity with God while receiving glory from the Father. These theological mysteries transcend human logic and must be accepted by faith rather than rational explanation, as their incomprehensibility stems from the limitations of human understanding.
+
+## When was the plan of redemption devised?
 
 > [!egw] [ST February 5, 1894, par. 6](https://egwwritings.org/read?panels=p820.12032&index=0)
 > All our thoughts and imaginations will not alter in the least any part of the plan of redemption **devised from all eternity**.

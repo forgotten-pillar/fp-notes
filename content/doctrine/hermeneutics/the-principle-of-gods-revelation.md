@@ -31,13 +31,13 @@ Jesus interprets the given vision:
 > [!bible] [John 1:51 - KJV](https://www.biblegateway.com/passage/?search=John+1:51&version=kjv)
 > 51. And he saith unto him, Verily, verily, I say unto you, **Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man**.
 
-Jesus is represented by the ladder. At the top of the ladder is the LORD (JHVH) - [[The God of the Jews|the God of Abraham, Isaac, and Jacob]]. The Scripture is very clear who is represented by this figure:
+Jesus is represented by the ladder. At the top of the ladder is the LORD (JHVH) - [[god-of-jews|the God of Abraham, Isaac, and Jacob]]. The Scripture is very clear who is represented by this figure:
 
 > [!bible] [Acts 3:13 - KJV](https://www.biblegateway.com/passage/?search=Acts+3:13&version=kjv)
 > 13. **The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified *his* Son Jesus**; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go.
 
 > [!quote] "God of Abraham, and of Isac, and of Jacob"
-> This is the Father, who is at the top of the ladder in Jacob's vision, the One who "_glorified His Son Jesus_...". See [[The God of the Jews|God of the Jews]]
+> This is the Father, who is at the top of the ladder in Jacob's vision, the One who "_glorified His Son Jesus_...". See [[god-of-jews|God of the Jews]]
 
 And angels of God are descending and ascending upon that ladder. The linkage between Heaven and Earth is Christ.
 
@@ -250,9 +250,9 @@ Remember the principle of God's revelation. God gives the revelation to His Son,
 > **Christ is the ladder that Jacob saw**, whose base is upon the earth, and whose topmost round reaches the throne of God. Down this ladder streams the glory of God, and **on it ascend and descend the angels of heaven to communicate the light and the glory of God**, whose train fills the temple, to the lost children of earth. **Through Christ heavenly intelligences may communicate with human agents**. [{EGW; ST April 11, 1895, par. 3}](https://egwwritings.org/read?panels=p820.12811&index=0)
 
 > [!example]- The Holy Spirit as the Glory of God
-> There is a correlation between the Glory of God and the Holy Spirit. See [[The Holy Spirit like a dove|The Holy Spirit like a dove]] study.
+> There is a correlation between the Glory of God and the Holy Spirit. See [[holy-spirit-like-dove|holy-spirit-like-dove]] study.
 
 > A measure of **the Spirit** is given to every man to profit withal. ***Through the ministry of the angels the Holy Spirit is enabled* to work upon the mind and heart of the human agent**, and draw him to Christ who has paid the ransom money for his soul, that the sinner may be rescued from the slavery of sin and Satan. [{EGW; 8LtMs, Lt 71, 1893, par. 10}](https://egwwritings.org/read?panels=p14058.6086016&index=0)
 
 > [!quote] "*Through the ministry of the angels the Holy Spirit is ENABLED TO WORK*"
-> "*The secret things belong unto the LORD our God: but those things which are revealed belong unto us*" [Deuteronomy 29:29](https://www.biblegateway.com/passage/?search=Deuteronomy+29.29&version=KJV). Some people shy away from the revelation that the work of the Holy Spirit is enabled by holy angels. But this technical aspect is not a mystery nor secret; rather, it has been revealed to us. And it is in harmony with the principle of God's revelation. For more data on the connection between the Holy Spirit and the angels, see [[The Connection between Holy Angels and the Holy Spirit]]
+> "*The secret things belong unto the LORD our God: but those things which are revealed belong unto us*" [Deuteronomy 29:29](https://www.biblegateway.com/passage/?search=Deuteronomy+29.29&version=KJV). Some people shy away from the revelation that the work of the Holy Spirit is enabled by holy angels. But this technical aspect is not a mystery nor secret; rather, it has been revealed to us. And it is in harmony with the principle of God's revelation. For more data on the connection between the Holy Spirit and the angels, see [[_The Connection between Holy Angels and the Holy Spirit]]
