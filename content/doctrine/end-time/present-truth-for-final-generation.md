@@ -9,8 +9,8 @@ tags:
 fpRelatedVideos:
   - https://www.youtube.com/watch?v=UVs99Y3hT-w
 createdDate: 2024-08-29T07:34:26.320+02:00
-title: Present Truth - for the final generation
-modifiedDate: 2024-12-22T19:44:15+01:00
+title: Present Truth - for the Final Generation
+modifiedDate: 2024-12-24T20:36:30+01:00
 ---
 
 

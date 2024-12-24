@@ -5,9 +5,9 @@ tags:
 fpRelatedReads:
   - rediscovering-the-pillar
 createdDate: 2024-08-30T14:13:06.404+02:00
-title: "'Underived' - meaning"
+title: "'Underived' - Meaning"
 description: Examine the historical meaning of 'underived life' in Ellen White's writings and how it reveals Christ's unique self-perpetuating life versus humanity's continuous dependence on God.
-modifiedDate: 2024-12-24T16:03:53+01:00
+modifiedDate: 2024-12-24T20:38:57+01:00
 ---
 > [!abstract]-
 > The term "underived life" in Ellen White's writings refers not to life without an origin, but to life that doesn't require continuous dependence on a source. While humans' life is like a stream constantly depending on its fountain, Christ's life is self-perpetuating, though originally received from the Father. This interpretation aligns with 1828 Webster's Dictionary definitions and contextual usage in Ellen White's works.

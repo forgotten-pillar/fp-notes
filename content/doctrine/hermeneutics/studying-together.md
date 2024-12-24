@@ -1,8 +1,8 @@
 ---
 publish: true
-title: When studying together
+title: When Studying Together
 createdDate: 2024-09-30T07:10:21.260+02:00
-modifiedDate: 2024-12-22T20:06:31+01:00
+modifiedDate: 2024-12-24T20:38:23+01:00
 ---
 ## Unity Christ prayer about
 

@@ -1,6 +1,6 @@
 ---
 createdDate: 2024-12-24T19:49:04+01:00
-modifiedDate: 2024-12-24T19:49:04+01:00
+modifiedDate: 2024-12-24T20:34:24+01:00
 title: The Rejected Stone
 description: Poem based on Matthew 21:42 and related verses, exploring the symbolism of the rejected cornerstone—Christ, the enduring foundation of faith. The overlooked stone becomes the essential cornerstone, emphasizing divine purpose and resilience.
 publish: true

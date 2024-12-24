@@ -1,10 +1,10 @@
 ---
 publish: true
-title: SDA, offshoots & the bride of Christ
+title: SDA, Offshoots & the Bride of Christ
 description: "Exploring the Bride of Christ: Examining the Seventh-day Adventist Church's Relationship to End-Time Events. This in-depth article delves into the biblical characteristics of the bride of Christ, analyzing whether the Seventh-day Adventist Church and its offshoots fulfill this prophetic role. It examines the historical development of Adventist beliefs, the challenges faced by the modern church, and the importance of adhering to foundational principles. With a focus on scriptural analysis and Ellen White's writings, this comprehensive piece provides valuable insights for Seventh-day Adventists and those interested in end-time prophecy."
 permalink: sda-offshoots
 tts: true
-modifiedDate: 2024-12-22T19:36:51+01:00
+modifiedDate: 2024-12-24T20:35:44+01:00
 createdDate: 2024-11-05T07:03:00.116+01:00
 ---
 Is the Seventh-day Adventist Church the bride of Christ?

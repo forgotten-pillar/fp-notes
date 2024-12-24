@@ -1,6 +1,6 @@
 ---
 publish: true
-title: The Son was exalted
+title: The Son was Exalted
 permalink: exalted-son
 description: This article compiles quotations from Ellen G. White that illustrate the pre-existence and exalted status of Christ in heaven, before the creation of the world. The excerpts highlight Christ’s unique position as equal with God, entrusted with divine authority and reverence by all angels. White emphasizes that Christ’s exalted role stirred envy and rebellion in Lucifer, who sought the honor and power designated for Christ alone. These quotes underscore the divine nature and high command of Christ, portraying Him as the rightful Son, deeply integrated into God’s eternal plan. They serve as insights into the heavenly order and Christ’s supreme, divinely appointed position before His earthly mission and sacrifice.
 tags:
@@ -9,7 +9,7 @@ tags:
 fpRelatedVideos:
   - https://www.youtube.com/watch?v=o_QKBMRlG48
 createdDate: 2024-09-14T09:17:50.488+02:00
-modifiedDate: 2024-12-24T16:18:01+01:00
+modifiedDate: 2024-12-24T20:39:11+01:00
 ---
 > The One **who was exalted** above all others in the heavenly courts, as the Son of the Highest, is the One whose hands were nailed to the cross of Calvary. [NPUGleaner April 6, 1910, par. 6](https://egwwritings.org/read?panels=p511.224&index=0)
 

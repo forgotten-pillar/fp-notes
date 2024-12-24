@@ -2,9 +2,9 @@
 publish: true
 tags:
   - underived
-title: Implication of - continual dependance
+title: Implication of - Continual Dependance
 createdDate: 2024-08-30T14:59:22.984+02:00
-modifiedDate: 2024-12-24T15:57:14+01:00
+modifiedDate: 2024-12-24T20:38:37+01:00
 ---
 ChatGPT-4o
 ****

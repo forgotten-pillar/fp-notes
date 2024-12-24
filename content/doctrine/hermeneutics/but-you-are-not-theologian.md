@@ -1,8 +1,8 @@
 ---
 publish: true
-title: But you are not a theologian
+title: But You Are Not a Theologian
 createdDate: 2024-11-01T08:10:57.213+01:00
-modifiedDate: 2024-12-22T19:49:18+01:00
+modifiedDate: 2024-12-24T20:37:54+01:00
 ---
 
 > [!bible] [1 Corinthians 1:26-31 - KJV](https://www.biblegateway.com/passage/?search=1+Corinthians+1:26-31&version=kjv)
