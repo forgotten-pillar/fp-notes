@@ -4,6 +4,7 @@ modifiedDate: 2024-12-24T17:19:43+01:00
 publish: true
 title: Walks on Water
 description: Poem based on Matthew 14:22-33
+poetry: true
 ---
 Based upon: [Matthew 14:22-33](https://www.biblegateway.com/passage/?search=Matthew+14.22-33&version=KJV)
 
