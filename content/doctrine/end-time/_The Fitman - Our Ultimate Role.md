@@ -55,7 +55,7 @@ The purity required for the fit man to lead the scapegoat into the wilderness mi
 > [!important] The final step to the redemption
 > Every step of the Plan of Salvation needs to be completed. The last step is leading the scapegoat out into the wilderness. But this leading is not done by Christ, but by the *fit man*. What would happen if the scapegoat escapes?
 
-Should the scapegoat escape, not only would the 144,000 fail, but all the saved would lose their lives. The plan of redemption would be for nothing. This is why Satan tries so hard to get us to [[Battle for our time|lose our focus]], forget our identity, and remain asleep.
+Should the scapegoat escape, not only would the 144,000 fail, but all the saved would lose their lives. The plan of redemption would be for nothing. This is why Satan tries so hard to get us to [[battle-for-our-time|lose our focus]], forget our identity, and remain asleep.
 
 God is risking everything on the success of the 144,000. We cannot lose track of our calling as fit men to drag the devil into the wilderness. We cannot let the scapegoat escape; if it does, the Plan of Salvation would be proven insufficient, and Satan’s accusations that the law cannot be kept would be justified.
 

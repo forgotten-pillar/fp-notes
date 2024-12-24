@@ -65,7 +65,7 @@ What happens when Jesus gets out of the Most Holy Place? How does that influence
 
 
 > [!question] What is leading us away from the "Present Truth"?
-> The lack of sanctification, understanding [[Battle for our time|the times we are living]]
+> The lack of sanctification, understanding [[battle-for-our-time|the times we are living]]
 
 In the final generation, Satan will deceive the entire world.
 

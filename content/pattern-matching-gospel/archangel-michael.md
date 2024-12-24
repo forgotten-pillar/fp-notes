@@ -7,6 +7,8 @@ title: Archangel Michael
 description: Explore the biblical evidence revealing how Michael the Archangel is Christ Himself, leading Heaven's armies. Discover compelling scriptural connections through Revelation, Daniel, and New Testament showing Christ as the divine Commander of angelic hosts. Learn why the title 'Archangel' reflects Jesus' position as head of all principalities and powers, and His unique role in the Great Controversy. Essential study on Christ's pre-incarnate appearances in Scripture.
 permalink: archangel-michael
 tts: true
+createdDate: 2024-09-17T08:39:45.326+02:00
+modifiedDate: 2024-12-24T16:20:18+01:00
 ---
 ![Archangel Michael](https://cdn.midjourney.com/8c56f1e6-6ade-4cfe-8057-8d8c98fd200e/0_0.png "Artistic imagination of Archangel Michael. No connection with reality, whatsoever!")
 ## Introduction

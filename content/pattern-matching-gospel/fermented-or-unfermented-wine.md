@@ -7,6 +7,8 @@ description: Was the wine Jesus created at Cana fermented or unfermented? Explor
 title: Fermented or Unfermented Wine
 permalink: fermented-vs-unfermented
 tts: true
+createdDate: 2024-09-02T08:48:07.696+02:00
+modifiedDate: 2024-12-24T16:19:54+01:00
 ---
 ![Fermented vs Unfermented](https://cdn.midjourney.com/7a8b721d-37ea-43e3-8b1a-7dfd9562c586/0_3.png)
 
