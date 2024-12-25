@@ -738,3 +738,7 @@ article.poetry > :not(blockquote.callout) {
 article.poetry blockquote.callout:last-of-type + p {
   margin-top: 2.5rem;
 }
+
+article.poetry blockquote.callout.example { // songs in soundcloud
+  margin-top: 3rem;
+}

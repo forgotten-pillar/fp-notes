@@ -1,6 +1,6 @@
 ---
 createdDate: 2024-12-25T13:14:12+01:00
-modifiedDate: 2024-12-25T13:17:35+01:00
+modifiedDate: 2024-12-25T16:06:40+01:00
 title: Grace in Trials
 description: Poem based on Matthew 5:10-12; Romans 5:3-5. In whispered trials, grace reveals itself, each hardship bearing a trace of divine presence. Despite adversity, there is blessing, as love deepens and the meek find an abundant reward, discovering divine voice amid suffering.
 publish: true
