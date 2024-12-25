@@ -1,10 +1,12 @@
 ---
 createdDate: 2024-12-25T13:42:50+01:00
-modifiedDate: 2024-12-25T15:24:46+01:00
+modifiedDate: 2024-12-25T15:36:08+01:00
 title: Tears of Gethsemane
 description: Poem based on John 18:28. Under the watch of the moon, trees in Gethsemane comforted Jesus, witnessing His sorrow as sweat like blood wept from His brow, while angels tread quietly around Him.
 publish: true
 poetry: true
+tags:
+  - suno
 ---
 ![Jesus in Gethsemane](https://cdn.midjourney.com/3fdd0216-ada5-4961-9019-8c2fb76cd26e/0_3.png)
 
@@ -33,5 +35,6 @@ For none but us, the trees could see
 The burden of the One, the Holy, the Free.
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1994217155&color=%231974a3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+> [!example]- Song 🎵🎶
+> <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1994217155&color=%231974a3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 

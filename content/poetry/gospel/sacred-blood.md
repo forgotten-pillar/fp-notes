@@ -1,10 +1,12 @@
 ---
 createdDate: 2024-12-25T14:30:27+01:00
-modifiedDate: 2024-12-25T15:23:25+01:00
+modifiedDate: 2024-12-25T15:36:47+01:00
 title: Sacred Blood
 description: Poem based on Matthew 27:27-31; Isaiah 53:5-7. In the face of scorn, the Savior embraces His fate, offering His blood for salvation. His divine majesty remains, concealed yet profound, as He submits to God's will.
 publish: true
 poetry: true
+tags:
+  - suno
 ---
 ![Jesus at the judgment](https://cdn.midjourney.com/a7c875a8-017d-4f41-ad07-c4f0ad4ad590/0_0.png)
 
@@ -30,4 +32,5 @@ Perfect submission to God's will revealed.
 Through thorns and scorn, His sacred head crowned,
 The Lamb of God, His glory profound.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1994215299&color=%231974a3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+> [!example]- Song 🎵🎶
+> <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1994215299&color=%231974a3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

@@ -5,6 +5,8 @@ title: A Stranger's Cross
 description: Poem based on Matthew 27:32, Mark 15:21, Luke 23:26. Simon of Cyrene, initially a reluctant participant, finds strength and purpose in carrying Jesus' cross, transforming a burden into a blessing as he embraces the path of faith and willingness.
 publish: true
 poetry: true
+tags:
+  - suno
 ---
 ![Simon Cyrene caries Jesus' cross](https://cdn.midjourney.com/aa7cdb51-875d-4e89-87cd-13b53809aa74/0_3.png)
 
@@ -45,5 +47,6 @@ And in its shadow, find reason to rejoice.
 Now forever marked by that hallowed day,
 Under His cross, gladly I’ll ever stay.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1994213275&color=%231974a3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+> [!example]- Song 🎵🎶
+> <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1994213275&color=%231974a3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 

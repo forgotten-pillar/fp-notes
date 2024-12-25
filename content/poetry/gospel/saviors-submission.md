@@ -1,10 +1,12 @@
 ---
 createdDate: 2024-12-25T14:40:17+01:00
-modifiedDate: 2024-12-25T15:25:48+01:00
+modifiedDate: 2024-12-25T15:35:37+01:00
 title: A Savior's Submission
 description: Poem based on Matthew 27:33-44, Luke 23:33-38, Isaiah 53:5-7. On Golgotha's hill, amidst scorn and blasphemy, the divine majesty of Jesus stands unyielding, embodying grace and redemption, each drop of His blood a promise, His submission an act of divine love.
 publish: true
 poetry: true
+tags:
+  - suno
 ---
 ![Jesus on the cross](https://cdn.midjourney.com/3b22a66a-5c20-48a1-9b37-4b46bbfcc087/0_2.png)
 
@@ -61,5 +63,5 @@ The Lamb, unbroken by hate or by rod,
 In perfect submission, the will of God.
 
 
-> [!example]- Song
+> [!example]- Song 🎵🎶
 > <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1994218339&color=%231974a3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
