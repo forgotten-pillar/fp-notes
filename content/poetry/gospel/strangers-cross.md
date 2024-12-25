@@ -10,8 +10,8 @@ tags:
 ---
 ![Simon Cyrene caries Jesus' cross](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Simon+caring+the+cross+of+Jesus.png)
 
-> [!bible]- [Matthew 27:3 - KJV](https://www.biblegateway.com/passage/?search=Matthew+27:3&version=kjv)
-> 3. Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,
+> [!bible]- [Matthew 27:32 - KJV](https://www.biblegateway.com/passage/?search=Matthew+27:32&version=kjv)
+> 32. And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.
 
 > [!bible]- [Mark 15:21 - KJV](https://www.biblegateway.com/passage/?search=Mark+15:21&version=kjv)
 > 21. And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.
