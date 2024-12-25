@@ -6,7 +6,7 @@ description: Poem based on Matthew 27:27-31; Isaiah 53:5-7. In the face of scorn
 publish: true
 poetry: true
 ---
-![Jesus at the judgment](https://cdn.midjourney.com/fa94aaea-907b-464e-b43b-ae6cbb9d0b71/0_2.png)
+![Jesus at the judgment](https://cdn.midjourney.com/a7c875a8-017d-4f41-ad07-c4f0ad4ad590/0_0.png)
 
 > [!bible]- [Matthew 27:27-31 - KJV](https://www.biblegateway.com/passage/?search=Matthew+27:27-31&version=kjv)
 > 27. Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers.
@@ -32,3 +32,5 @@ The Lamb of God, His glory profound.
 
 > [!attention] Music
 > The given poem was made into the song by [Suno](https://suno.com/song/1ceb434a-1961-44ec-9c5c-ee95a2f1ef3f)
+
+![sound](https://soundcloud.com/droserose/lets-meet?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)

@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-25T13:31:16+01:00
-modifiedDate: 2024-12-25T13:42:41+01:00
+modifiedDate: 2024-12-25T15:03:18+01:00
 title: Long Forbearing
 description: Poem based on John 13:10,11; 21-26; Luke 22:19-20. Christ's compassion shines through as He washes Judas' feet, sharing grace with bread and wine, even as Judas' heart strays. A reflection on the patient love that calls back the lost.
 publish: true
 poetry: true
 ---
-![Jesus washing feet to disciples](https://cdn.midjourney.com/039470f1-386f-4aca-b7b3-11fa41cf63ac/0_2.png)
+![Jesus washing feet to disciples](https://cdn.midjourney.com/ba48fd68-c7ea-4928-a01f-9f4f83411c4d/0_1.png)
 
 > [!bible]- [John 13:10-11; 21-26 - KJV](https://www.biblegateway.com/passage/?search=John+13:10-26&version=kjv)
 > 10. Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all.

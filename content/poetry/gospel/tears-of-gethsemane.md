@@ -1,6 +1,6 @@
 ---
 createdDate: 2024-12-25T13:42:50+01:00
-modifiedDate: 2024-12-25T14:24:10+01:00
+modifiedDate: 2024-12-25T15:02:48+01:00
 title: Tears of Gethsemane
 description: Poem based on John 18:28. Under the watch of the moon, trees in Gethsemane comforted Jesus, witnessing His sorrow as sweat like blood wept from His brow, while angels tread quietly around Him.
 publish: true
@@ -34,5 +34,5 @@ The burden of the One, the Holy, the Free.
 
 
 > [!attention] Music
-> The given poem was made into the song by [Suno](https://suno.com/song/a33f7928-b531-4f49-afc0-f4763335fb80)
+> The given poem was made into the song by [Suno](https://suno.com/song/8bf05cd1-23e5-4e4a-84fe-2ee1a71c5c86)
 
