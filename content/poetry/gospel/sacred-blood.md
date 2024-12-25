@@ -30,5 +30,4 @@ Perfect submission to God's will revealed.
 Through thorns and scorn, His sacred head crowned,
 The Lamb of God, His glory profound.
 
-> [!attention] Music
-> The given poem was made into the song by [Suno](https://suno.com/song/1ceb434a-1961-44ec-9c5c-ee95a2f1ef3f)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1994215299&color=%231974a3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

@@ -1,6 +1,6 @@
 ---
 createdDate: 2024-12-25T14:49:18+01:00
-modifiedDate: 2024-12-25T14:58:51+01:00
+modifiedDate: 2024-12-25T15:17:35+01:00
 title: A Stranger's Cross
 description: Poem based on Matthew 27:32, Mark 15:21, Luke 23:26. Simon of Cyrene, initially a reluctant participant, finds strength and purpose in carrying Jesus' cross, transforming a burden into a blessing as he embraces the path of faith and willingness.
 publish: true
@@ -45,8 +45,5 @@ And in its shadow, find reason to rejoice.
 Now forever marked by that hallowed day,
 Under His cross, gladly I’ll ever stay.
 
-> [!attention] Music
-> The given poem was made into the song by [Suno](https://suno.com/song/77d50d9c-1730-4356-b843-eaec1587ca53)
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1994213275&color=%231974a3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-923748188" title="Misko" target="_blank" style="color: #cccccc; text-decoration: none;">Misko</a> · <a href="https://soundcloud.com/user-923748188/sacred-blood" title="Sacred Blood" target="_blank" style="color: #cccccc; text-decoration: none;">Sacred Blood</a></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1994213275&color=%231974a3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
