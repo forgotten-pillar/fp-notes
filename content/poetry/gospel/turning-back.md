@@ -1,6 +1,6 @@
 ---
 createdDate: 2024-12-24T17:14:53+01:00
-modifiedDate: 2024-12-24T18:08:48+01:00
+modifiedDate: 2024-12-25T13:08:22+01:00
 title: Turning Back
 description: John 6 summarized in a poem
 publish: true
@@ -8,7 +8,7 @@ poetry: true
 ---
 ![Jesus Walks Alone](https://cdn.midjourney.com/936f17bb-8385-4d29-b23e-f5fec9672a5f/0_1.png)
 
-> [!bible]- [John 6:1-71 - KJV](https://www.biblegateway.com/passage/?search=John+6:1-71&version=kjv)
+> [!bible]- Summary of [John 6 - KJV](https://www.biblegateway.com/passage/?search=John+6:1-71&version=kjv)
 > 1. After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.
 > 2. And a great multitude followed him, because they saw his miracles which he did on them that were diseased.
 > 3. And Jesus went up into a mountain, and there he sat with his disciples.

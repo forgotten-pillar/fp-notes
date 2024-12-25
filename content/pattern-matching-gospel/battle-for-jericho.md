@@ -8,7 +8,7 @@ description: Uncover the divine encounter between Joshua and the mysterious Capt
 title: The Battle for Jericho
 tts: true
 createdDate: 2024-09-17T22:34:40.403+02:00
-modifiedDate: 2024-12-24T16:20:04+01:00
+modifiedDate: 2024-12-25T13:03:27+01:00
 ---
 ![Joshua](https://cdn.midjourney.com/2462d7fd-1664-4611-8211-a8e1bb6593f1/0_0.png "Artistic imagination of Joshua. Disclaimer: There is no connection to reality, whatsoever!")
 
