@@ -32,5 +32,3 @@ The Lamb of God, His glory profound.
 
 > [!attention] Music
 > The given poem was made into the song by [Suno](https://suno.com/song/1ceb434a-1961-44ec-9c5c-ee95a2f1ef3f)
-
-![sound](https://soundcloud.com/droserose/lets-meet?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
