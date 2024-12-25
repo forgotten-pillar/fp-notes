@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-24T18:45:54+01:00
-modifiedDate: 2024-12-24T18:57:26+01:00
+modifiedDate: 2024-12-25T15:49:10+01:00
 title: A Cry for Faith
 publish: true
 poetry: true
 description: In moments of doubt and pain, find solace in the prayer ‘I believe, Lord; help my unbelief.’ This powerful image reflects the faith that bridges heaven and earth, offering relief and grace, even in our darkest hours.
 ---
-![Help my unbelief](https://cdn.midjourney.com/543a51ec-be28-4534-bb59-4a4c9ff76e73/0_3.png)
+![Help my unbelief](https://forgotten-pillar.s3.us-east-2.amazonaws.com/presecan_remove_text_--ar_169_--v_6.1_589f501f-bfe5-4303-8c2f-417d8623045d_1.png)
 
 > [!bible]- [Mark 9:23-24 - KJV](https://www.biblegateway.com/passage/?search=Mark+9:23-24&version=kjv)
 > 23. Jesus said unto him, If thou canst believe, all things are  possible to him that believeth.

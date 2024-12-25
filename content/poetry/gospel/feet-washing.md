@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-25T13:26:53+01:00
-modifiedDate: 2024-12-25T13:31:14+01:00
+modifiedDate: 2024-12-25T15:52:43+01:00
 title: Feet Washing
 description: Poem based on John 13:1-7, depicting the divine humility of Jesus as He washes His disciples' feet, symbolizing profound love and service.
 publish: true
 poetry: true
 ---
-![Jesus washing feet to His disciples](https://cdn.midjourney.com/4b6efaf5-f104-471a-8e9d-6e9f5eae3b41/0_1.png)
+![Jesus washing feet to His disciples](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Jesus+Washing+feet.png)
 
 > [!bible]- [John 13:1-17 - KJV](https://www.biblegateway.com/passage/?search=John+13:1-17&version=kjv)
 > 1. Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.

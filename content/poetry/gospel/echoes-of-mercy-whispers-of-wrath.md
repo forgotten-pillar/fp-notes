@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-24T19:40:19+01:00
-modifiedDate: 2024-12-24T19:46:38+01:00
+modifiedDate: 2024-12-25T15:51:56+01:00
 title: Echoes of Mercy, Whispers of Wrath
 description: Poem based on Luke 20:1-8, capturing a moment in the temple where Jesus, amidst the hostility of priests and Pharisees, responds with love and endless grace, defusing their plotted traps with wisdom and mercy.
 publish: true
 poetry: true
 ---
-![Jesus in the temple](https://cdn.midjourney.com/fb46711e-5bb9-46d1-91c8-58c33915dd2e/0_2.png)
+![Jesus in the temple](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Jesus+in+the+Temple.png)
 
 > [!bible]- [Luke 20:1-8 - KJV](https://www.biblegateway.com/passage/?search=Luke+20:1-8&version=kjv)
 > 1. And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders,

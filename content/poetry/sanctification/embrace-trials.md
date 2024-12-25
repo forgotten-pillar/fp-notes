@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-25T13:03:32+01:00
-modifiedDate: 2024-12-25T13:06:49+01:00
+modifiedDate: 2024-12-25T16:05:48+01:00
 title: Embrace Trials
 description: Poem based on 1 Peter 4:12,13. In the midst of trials and fears, Christ's presence transforms our suffering into hope and joy, urging us to embrace the refining fire, anticipating future glory.
 publish: true
 poetry: true
 ---
-![embrace trials](https://cdn.midjourney.com/5ea0b51b-b485-43cb-963b-4b94ba231c81/0_1.png)
+![embrace trials](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Follow+Christ.png)
 
 > [!bible]- [1 Peter 4:12-13 - KJV](https://www.biblegateway.com/passage/?search=1+Peter+4:12-13&version=kjv)
 > 12. Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:

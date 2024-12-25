@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-25T13:17:36+01:00
-modifiedDate: 2024-12-25T13:26:52+01:00
+modifiedDate: 2024-12-25T15:46:53+01:00
 title: Cleansed by Christ’s Service
 description: Poem based on John 13:1-17. Jesus, the King of Heaven, humbles Himself by washing His disciples' feet, revealing unrivaled love and service, and teaching profound lessons of grace and humility.
 publish: true
 poetry: true
 ---
-![Jesus washing the feed of His disciples](https://cdn.midjourney.com/adc988d8-009b-4092-9037-99d60ab5536c/0_0.png)
+![Jesus washing the feed of His disciples](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Jesus+Washing+Feet+of+His+Disciples.png)
 
 > [!bible]- [John 13:1-17 - KJV](https://www.biblegateway.com/passage/?search=John+13:1-17&version=kjv)
 > 1. Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.

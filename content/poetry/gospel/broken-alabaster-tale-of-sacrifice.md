@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-24T19:17:42+01:00
-modifiedDate: 2024-12-24T19:35:44+01:00
+modifiedDate: 2024-12-25T15:45:34+01:00
 publish: true
 poetry: true
 title: "Broken Alabaster: A Tale of Sacrifice"
 description: "Poem based on Matthew 26:6-13; Mark 14:3-9; Luke 7:36-50; John 12:1-9: The poem \"Broken Alabaster: A Tale of Sacrifice\" portrays Mary's act of love and the profound symbolism of Jesus' ultimate sacrifice and enduring love."
 ---
-![Alabaster Box](https://cdn.midjourney.com/a856aeb7-358d-4927-afe9-f505f53d8deb/0_3.png)
+![Alabaster Box](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Marry's+Alabastern+Box.png)
 
 > [!bible]- [Matthew 26:6-13 - KJV](https://www.biblegateway.com/passage/?search=Matthew+26:6-13&version=kjv)
 > 6. Now when Jesus was in Bethany, in the house of Simon the leper,

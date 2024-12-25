@@ -6,7 +6,7 @@ description: Poem based on Matthew 5:10-12; Romans 5:3-5. In whispered trials, g
 publish: true
 poetry: true
 ---
-![grace in trials](https://cdn.midjourney.com/c2b90563-47bc-4750-8f86-34a5f039a1b8/0_2.png)
+![grace in trials](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Grace+in+Trials.png)
 
 > [!bible]- [Matthew 5:10-12 - KJV](https://www.biblegateway.com/passage/?search=Matthew+5:10-12&version=kjv)
 > 10. Blessed are they which are persecuted for righteousness sake: for theirs is the kingdom of heaven.

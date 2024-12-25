@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-24T19:35:45+01:00
-modifiedDate: 2024-12-24T19:46:57+01:00
+modifiedDate: 2024-12-25T15:50:54+01:00
 title: Echoes of the Barren Tree
 description: Poem based on Mark 11:11-14, 20, 21; Matthew 21:17-19 illustrates the emptiness of false claims of faith, urging a life rich in love and meaningful deeds over hollow pretensions.
 publish: true
 poetry: true
 ---
-![Barren Fig Tree](https://cdn.midjourney.com/6c7f337d-5b31-4825-a370-074b7ba1de7e/0_0.png)
+![Barren Fig Tree](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Fig+Tree.png)
 
 > [!bible]- [Mark 11:11-14, 20, 21 - KJV](https://www.biblegateway.com/passage/?search=Mark+11:11-21&version=kjv)
 > 11. And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out unto Bethany with the twelve.

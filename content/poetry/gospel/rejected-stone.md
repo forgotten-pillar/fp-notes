@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-24T19:49:04+01:00
-modifiedDate: 2024-12-24T20:34:24+01:00
+modifiedDate: 2024-12-25T16:00:20+01:00
 title: The Rejected Stone
 description: Poem based on Matthew 21:42 and related verses, exploring the symbolism of the rejected cornerstone—Christ, the enduring foundation of faith. The overlooked stone becomes the essential cornerstone, emphasizing divine purpose and resilience.
 publish: true
 poetry: true
 ---
-![Rejected Cornerstone](https://cdn.midjourney.com/a496ccd7-8dbd-49f8-8d63-cf521772f7e9/0_0.png)
+![Rejected Cornerstone](https://forgotten-pillar.s3.us-east-2.amazonaws.com/presecan_Nice_looking_poslished_stone._Small_ware_because_of__7b4dbd5a-d39b-41fe-9ba1-313da9c3189c_0.png)
 
 > [!bible]- [Matthew 21:42 - KJV](https://www.biblegateway.com/passage/?search=Matthew+21:42&version=kjv)
 > 42. Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes?

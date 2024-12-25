@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-24T17:14:53+01:00
-modifiedDate: 2024-12-25T13:08:22+01:00
+modifiedDate: 2024-12-25T16:03:45+01:00
 title: Turning Back
 description: John 6 summarized in a poem
 publish: true
 poetry: true
 ---
-![Jesus Walks Alone](https://cdn.midjourney.com/936f17bb-8385-4d29-b23e-f5fec9672a5f/0_1.png)
+![Jesus Walks Alone](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Crowd+Fed.png)
 
 > [!bible]- Summary of [John 6 - KJV](https://www.biblegateway.com/passage/?search=John+6:1-71&version=kjv)
 > 1. After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.

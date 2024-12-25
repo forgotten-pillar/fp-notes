@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-24T18:18:38+01:00
-modifiedDate: 2024-12-24T18:45:53+01:00
+modifiedDate: 2024-12-25T15:57:28+01:00
 publish: true
 poetry: true
 title: Miracles Unseen
 description: Discover the true sign of transformation – not in grand displays, but in the quiet miracle of a heart reborn in the Savior’s light. This image captures the beauty of a life lived in faith, a true glimpse of heaven on Earth.
 ---
-![Jesus alone](https://cdn.midjourney.com/a8d8b0cd-2ef6-43d9-8cf8-62fc83b8edb2/0_3.png)
+![Jesus alone](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Miracles+Unseen.png)
 
 > [!bible]- [Matthew 16:1-12 - KJV](https://www.biblegateway.com/passage/?search=Matthew+16:1-12&version=kjv)
 > 1. The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.

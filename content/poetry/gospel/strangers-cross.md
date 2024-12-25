@@ -1,6 +1,6 @@
 ---
 createdDate: 2024-12-25T14:49:18+01:00
-modifiedDate: 2024-12-25T15:17:35+01:00
+modifiedDate: 2024-12-25T16:02:28+01:00
 title: A Stranger's Cross
 description: Poem based on Matthew 27:32, Mark 15:21, Luke 23:26. Simon of Cyrene, initially a reluctant participant, finds strength and purpose in carrying Jesus' cross, transforming a burden into a blessing as he embraces the path of faith and willingness.
 publish: true
@@ -8,7 +8,7 @@ poetry: true
 tags:
   - suno
 ---
-![Simon Cyrene caries Jesus' cross](https://cdn.midjourney.com/aa7cdb51-875d-4e89-87cd-13b53809aa74/0_3.png)
+![Simon Cyrene caries Jesus' cross](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Simon+caring+the+cross+of+Jesus.png)
 
 > [!bible]- [Matthew 27:3 - KJV](https://www.biblegateway.com/passage/?search=Matthew+27:3&version=kjv)
 > 3. Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,

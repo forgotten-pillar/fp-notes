@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-25T14:24:12+01:00
-modifiedDate: 2024-12-25T14:30:25+01:00
+modifiedDate: 2024-12-25T15:44:17+01:00
 title: Blind Judges
 description: Poem based on John 18:28-40. In Pilate's hall, rulers bound by their own hypocrisy fail to see the truth of Christ, blinded by their devotion to law over spirit.
 publish: true
 poetry: true
 ---
-![Jesus at Pilat's hall](https://cdn.midjourney.com/3fe94eae-50fa-4fd4-9f54-6ffbde5f065a/0_1.png)
+![Jesus at Pilat's hall](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Jesus+in+front+of+Pilat.png)
 
 > [!bible]- [John 18:28-40 - KJV](https://www.biblegateway.com/passage/?search=John+18:28-40&version=kjv)
 > 28. Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.

@@ -1,6 +1,6 @@
 ---
 createdDate: 2024-12-25T13:42:50+01:00
-modifiedDate: 2024-12-25T15:36:08+01:00
+modifiedDate: 2024-12-25T16:03:09+01:00
 title: Tears of Gethsemane
 description: Poem based on John 18:28. Under the watch of the moon, trees in Gethsemane comforted Jesus, witnessing His sorrow as sweat like blood wept from His brow, while angels tread quietly around Him.
 publish: true
@@ -8,7 +8,7 @@ poetry: true
 tags:
   - suno
 ---
-![Jesus in Gethsemane](https://cdn.midjourney.com/3fdd0216-ada5-4961-9019-8c2fb76cd26e/0_3.png)
+![Jesus in Gethsemane](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Gethsemane.png)
 
 > [!bible]- [John 18:28 - KJV](https://www.biblegateway.com/passage/?search=John+18:28&version=kjv)
 > 28. Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.

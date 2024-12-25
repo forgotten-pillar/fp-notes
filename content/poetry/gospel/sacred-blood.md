@@ -1,6 +1,6 @@
 ---
 createdDate: 2024-12-25T14:30:27+01:00
-modifiedDate: 2024-12-25T15:36:47+01:00
+modifiedDate: 2024-12-25T16:01:13+01:00
 title: Sacred Blood
 description: Poem based on Matthew 27:27-31; Isaiah 53:5-7. In the face of scorn, the Savior embraces His fate, offering His blood for salvation. His divine majesty remains, concealed yet profound, as He submits to God's will.
 publish: true
@@ -8,7 +8,7 @@ poetry: true
 tags:
   - suno
 ---
-![Jesus at the judgment](https://cdn.midjourney.com/a7c875a8-017d-4f41-ad07-c4f0ad4ad590/0_0.png)
+![Jesus at the judgment](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Jesus+at+Pilat.png)
 
 > [!bible]- [Matthew 27:27-31 - KJV](https://www.biblegateway.com/passage/?search=Matthew+27:27-31&version=kjv)
 > 27. Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers.

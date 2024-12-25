@@ -1,13 +1,13 @@
 ---
 createdDate: 2024-12-24T17:12:21+01:00
-modifiedDate: 2024-12-24T18:11:35+01:00
+modifiedDate: 2024-12-25T16:05:05+01:00
 publish: true
 title: Walks on Water
 description: Poem based on Matthew 14:22-33
 poetry: true
 ---
 
-![Jesus walking on water](https://cdn.midjourney.com/08c2f75c-bcd1-4a49-9136-6884ff846b34/0_3.png)
+![Jesus walking on water](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Walking+on+Water.png)
 
 > [!bible]- [Matthew 14:22-33 - KJV](https://www.biblegateway.com/passage/?search=Matthew+14:22-33&version=kjv)
 > 22. And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away.

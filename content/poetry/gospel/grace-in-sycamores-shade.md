@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-24T19:12:07+01:00
-modifiedDate: 2024-12-24T19:17:41+01:00
+modifiedDate: 2024-12-25T15:55:02+01:00
 title: Grace in the Sycamore's Shade
 description: Poem based on Luke 19:1-10. In this powerful moment, Zacchaeus experiences the transforming grace of Jesus, leading to true repentance and a life reformed. This image captures the pivotal moment of change beneath the sycamore tree, symbolizing a new dawn of faith and holiness.
 publish: true
 poetry: true
 ---
-![Zaccheus on the tree](https://cdn.midjourney.com/23a6f7de-2308-4ba2-a00c-cdf8bf038851/0_0.png)
+![Zaccheus on the tree](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Zacchaeus.png)
 
 > [!bible]- [Luke 19:1-10 - KJV](https://www.biblegateway.com/passage/?search=Luke+19:1-10&version=kjv)
 > 1. And Jesus entered and passed through Jericho.

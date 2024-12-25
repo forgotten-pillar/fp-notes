@@ -1,12 +1,12 @@
 ---
 createdDate: 2024-12-24T19:43:07+01:00
-modifiedDate: 2024-12-25T15:26:15+01:00
+modifiedDate: 2024-12-25T15:54:11+01:00
 title: Grace Amidst the Temple's Trials
 description: Poem based on Mark 12:1-12. A vineyard parable reveals Christ's message of love and justice, warning of the fate of those who reject the Son of God and the consequences of a hardened heart.
 publish: true
 poetry: true
 ---
-![parable of the Son](https://cdn.midjourney.com/e29877bc-219d-4e36-b06e-47bfc3f81915/0_3.png)
+![parable of the Son](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Jesus+Teaching.png)
 
 > [!bible]- [Mark 12:1-12 - KJV](https://www.biblegateway.com/passage/?search=Mark+12:1-12&version=kjv)
 > 1. And he began to speak unto them by parables. A certain  man planted a vineyard, and set an hedge about it,  and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country.
