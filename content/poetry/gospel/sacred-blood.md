@@ -1,6 +1,6 @@
 ---
 createdDate: 2024-12-25T14:30:27+01:00
-modifiedDate: 2024-12-25T14:30:27+01:00
+modifiedDate: 2024-12-25T14:40:16+01:00
 title: Sacred Blood
 description: Poem based on Matthew 27:27-31; Isaiah 53:5-7. In the face of scorn, the Savior embraces His fate, offering His blood for salvation. His divine majesty remains, concealed yet profound, as He submits to God's will.
 publish: true
