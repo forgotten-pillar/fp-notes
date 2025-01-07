@@ -12,9 +12,14 @@ fpRelatedVideos:
 fpRelatedReads:
   - sonship-of-christ-controversy
 createdDate: 2024-09-11T08:31:15.304+02:00
-modifiedDate: 2024-12-22T19:48:08+01:00
+modifiedDate: 2025-01-07T06:42:34+01:00
 ---
 The following study is the examination of the Scriptures in regards to the Order of Heaven. This order has been strongly emphasized within [the writings of Ellen White](https://forgottenpillar.com/book/sonship-of-christ-controversy), and many think that Ellen White is not being Scriptural. Check out the following video on the Great Controversy and the Sonship of Christ: [The Great Controversy and Sonship of Christ](https://www.youtube.com/watch?v=o_QKBMRlG48)
+
+
+> [!abstract]
+> The article examines the biblical evidence for a divine hierarchical order in Heaven, focusing on Christ's position in relation to God the Father and the angels. It analyzes key passages from Hebrews 1, John 17, Psalm 2, and other scriptures to demonstrate that Christ, as God's only begotten Son, holds a unique position above angels but subject to the Father. The analysis shows that Christ received His glory, divine nature, and authority through inheritance as the Son, making Him equal with God while maintaining the Father's headship. This order was established before creation, temporarily set aside during Christ's incarnation, and fully restored at His resurrection. The study concludes that this unchangeable heavenly order was the divine law against which Satan rebelled, and it will remain eternally in place even after the final resolution of the Great Controversy.
+
 ## Terminology
 In the bible there is a term denoting the angels - *principalities* and *powers* 
 

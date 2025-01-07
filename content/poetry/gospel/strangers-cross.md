@@ -1,6 +1,6 @@
 ---
 createdDate: 2024-12-25T14:49:18+01:00
-modifiedDate: 2024-12-25T16:02:28+01:00
+modifiedDate: 2024-12-26T13:15:26+01:00
 title: A Stranger's Cross
 description: Poem based on Matthew 27:32, Mark 15:21, Luke 23:26. Simon of Cyrene, initially a reluctant participant, finds strength and purpose in carrying Jesus' cross, transforming a burden into a blessing as he embraces the path of faith and willingness.
 publish: true
