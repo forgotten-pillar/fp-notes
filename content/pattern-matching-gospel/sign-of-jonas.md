@@ -1,11 +1,12 @@
 ---
 createdDate: 2025-01-07T06:42:37+01:00
-modifiedDate: 2025-01-07T06:42:37+01:00
-title: Sign of Jonah
+modifiedDate: 2025-01-07T08:46:57+01:00
+title: The Sign of Jonas
 publish: true
 tags:
   - patternMatching
   - resurrection
+  - devotional
 description: Discover how Jonah's whale experience prophetically mirrors Christ's death and resurrection through parallel prayers, divine signs, and biblical connections between Old and New Testament narratives.
 fp-social-media: "🐋 From whale's belly to empty tomb: How Jonah's ancient prayer perfectly foreshadowed Christ's resurrection. A fascinating biblical parallel that changes everything! #PatternMatchingGospel"
 ---
