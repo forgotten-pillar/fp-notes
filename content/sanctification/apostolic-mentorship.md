@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-07T08:47:01+01:00
-modifiedDate: 2025-01-08T13:07:23+01:00
+modifiedDate: 2025-01-08T13:27:46+01:00
 publish: true
 publishDate: 2025-01-08T11:44:40+01:00
 description: "From failure to restoration: How the biblical accounts of John Mark and Timothy reveal timeless principles of mentoring young ministers through early setbacks to lasting ministry impact."

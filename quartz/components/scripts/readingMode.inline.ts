@@ -269,7 +269,7 @@ declare global {
       if (existingHint) existingHint.remove()
   
       const hint = document.createElement('div')
-      hint.className = 'reading-mode-hint'
+      hint.className = 'reading-mode-hint no-print'
       hint.textContent = 'Press ESC to exit reading mode'
       hint.style.cursor = 'pointer'
       document.body.appendChild(hint)
