@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-07T08:47:01+01:00
-modifiedDate: 2025-01-07T10:07:53+01:00
+modifiedDate: 2025-01-08T10:44:29+01:00
 ---
 ## Introduction to John Mark
 
@@ -37,6 +37,12 @@ What are they going to do? What does the environment look like for doing mission
 > 1. Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
 > 2. As they ministered to the Lord, and fasted, **the Holy Ghost said, Separate me Barnabas and Saul** for the work whereunto I have called them.
 > 3. And when they had fasted and prayed, and laid their hands on them, they sent them away.
-> 4. So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus.
-> 5. And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister.
+> 4. So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to **Cyprus**.
+> 5. And when they were at Salamis, they preached the word of God in the synagogues of the Jews: **and they had also John to their minister**.
+
+The challenges of the pagan world:
+Dangers, poverty, misunderstanding, enmity, intrigues, attacks, uncertainty and others.
+
+> [!bible] [Acts 13:13 - KJV](https://www.biblegateway.com/passage/?search=Acts+13:13&version=kjv)
+> 13. Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem.
 

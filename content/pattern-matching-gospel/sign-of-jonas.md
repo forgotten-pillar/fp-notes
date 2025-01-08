@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-07T06:42:37+01:00
-modifiedDate: 2025-01-07T08:46:57+01:00
+modifiedDate: 2025-01-07T20:31:47+01:00
 title: The Sign of Jonas
 publish: true
 tags:
@@ -46,7 +46,7 @@ Do we have a description of what happened to Jonah during his three days in the 
 > 6. **I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God**.
 > 7. **When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple**.
 > 8. They that observe lying vanities forsake their own mercy.
-> 9. But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.
+> 9. **But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed**. Salvation is of the LORD.
 > 10. And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.
 
 We see the pattern matching. Here, Christ is praying to His Father from the “_belly of hell_”—which is the “_heart of the earth_” or His grave. He is praying to the Father, who has cast Jesus “_into the deep_” because “_it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin_” ([Isaiah 53:10](https://www.biblegateway.com/passage/?search=Isaiah+53.10&version=KJV)). While hanging upon the cross, bearing the sins of the whole world—which separated Him from His Father—He felt that His Father had left Him ([Matthew 27:46](https://www.biblegateway.com/passage/?search=Matthew+27.46&version=KJV)). He said, “_I am cast out of thy sight_,” but by the faith of Christ, He looked unto His Father “_toward thy holy temple_.”
