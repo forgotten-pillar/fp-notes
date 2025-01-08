@@ -1,12 +1,15 @@
 ---
 createdDate: 2025-01-07T08:47:01+01:00
-modifiedDate: 2025-01-08T11:44:40+01:00
+modifiedDate: 2025-01-08T13:07:23+01:00
 publish: true
 publishDate: 2025-01-08T11:44:40+01:00
 description: "From failure to restoration: How the biblical accounts of John Mark and Timothy reveal timeless principles of mentoring young ministers through early setbacks to lasting ministry impact."
 fp-social-media: "He quit his first mission trip. Years later, Paul called him 'profitable for ministry.' Discover how John Mark's stunning comeback story parallels Timothy's faithful journey, revealing secrets of developing young leaders in ministry. #ChurchLeadership #Mentorship"
 title: Apostolic Mentorship
+tags:
+  - devotional
 ---
+![John Mark & Timothy](https://forgotten-pillar.s3.us-east-2.amazonaws.com/presecan_A_dynamic_biblical_scene_split_into_two_contrasting__3d3b67f4-775e-4889-a124-df7663588e4b_3.png)
 
 > [!abstract]
 > The stories of John Mark and Timothy illuminate key principles of youth development in early Christian ministry. Through biblical accounts spanning Acts, epistles, and Peter's writings, we see how different mentoring approaches by Paul and Barnabas shaped these young ministers. The narrative particularly focuses on John Mark's journey from early failure to eventual restoration, contrasted with Timothy's steady growth under Paul's guidance. Their parallel stories demonstrate how mentorship, perseverance, and divine grace transform promising but unprepared youth into effective ministers.
