@@ -55,3 +55,5 @@ Hanging upon the cross, “_peoples, multitudes, and nations_” ([Revelation 17
 
 When crushed under sin, when His soul fainted within Him, He remembered the LORD, His Father, and His prayer came unto Him, into His holy temple. For Christ had sacrificed unto God with the voice of thanksgiving. He paid the ransom for fallen man, fulfilling what He had vowed to the Father. Salvation is of the LORD!
 
+> [!quote] I will pay that that I have vowed
+> The primary meaning of the word 'pay' (shâlam) is "*to be in a covenant of peace, be at peace*" ([BDB definition](https://www.blueletterbible.org/lexicon/h7999/kjv/wlc/0-1/)) #covenantOfPeace 

@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-07T08:47:01+01:00
-modifiedDate: 2025-01-08T10:44:29+01:00
+modifiedDate: 2025-01-08T11:44:40+01:00
 ---
 ## Introduction to John Mark
 
@@ -44,5 +44,5 @@ The challenges of the pagan world:
 Dangers, poverty, misunderstanding, enmity, intrigues, attacks, uncertainty and others.
 
 > [!bible] [Acts 13:13 - KJV](https://www.biblegateway.com/passage/?search=Acts+13:13&version=kjv)
-> 13. Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem.
+> 13. Now when Paul and his company loosed from Paphos, they came to **Perga** in Pamphylia: **and John departing from them returned to Jerusalem**.
 
