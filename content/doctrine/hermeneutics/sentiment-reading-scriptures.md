@@ -9,7 +9,7 @@ tags:
 description: Discover how Scripture reading naturally produces excitement, peace, joy and spiritual growth in believers, and why finding God's Word burdensome might indicate deeper spiritual issues. Biblical evidence for the delight of Bible study.
 fp-social-media: "Is Bible reading a burden or delight? Your answer reveals more than you think. Scripture shows how genuine faith creates hunger for God's Word. Learn what the Bible says about the joy of studying His Word. #BibleStudy #SpiritualGrowth\""
 ---
-![Emmaus Journey](https://forgotten-pillar.s3.us-east-2.amazonaws.com/presecan_Two_travelers_on_the_road_to_Emmaus_at_dusk_their_fa_d19c6730-6636-41dd-942d-02fd23e8a859_0.png)
+![Emmaus Journey](https://forgotten-pillar.s3.us-east-2.amazonaws.com/presecan_Three_travelers_on_the_road_to_Emmaus_at_dusk_their__2131e9eb-3797-497e-8425-937b0799318a_2.png)
 
 
 > [!abstract]
