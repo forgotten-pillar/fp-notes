@@ -1,6 +1,6 @@
 ---
 title: The Sentiment Reading the Scriptures
-modifiedDate: 2025-01-08T13:19:34+01:00
+modifiedDate: 2025-01-08T14:48:47+01:00
 createdDate: 2024-09-08T13:19:34+01:00
 publishDate: 2025-01-08T13:19:34+01:00
 publish: true

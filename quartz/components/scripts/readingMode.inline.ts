@@ -274,7 +274,7 @@ declare global {
       hint.style.cursor = 'pointer'
       document.body.appendChild(hint)
   
-      // 处理点击事件
+      // Exit reading mode
       const exitReadingMode = (e: Event) => {
           e.preventDefault()
           // @ts-ignore
