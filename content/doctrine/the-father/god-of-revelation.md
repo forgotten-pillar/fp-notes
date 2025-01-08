@@ -1,11 +1,20 @@
 ---
 createdDate: 2025-01-08T16:44:18+01:00
-modifiedDate: 2025-01-08T18:02:06+01:00
-title: Who is God in the book of Revelation?
+modifiedDate: 2025-01-08T19:31:45+01:00
+title: Who is the "God" of Revelation?
 tags:
   - godhead
+  - rawStudy
 publish: true
+permalink: god-of-revelation
+description: Analysis of divine titles in Revelation proves "God" refers to the Father, with Jesus as His Son and the Spirit as Christ's own presence, supported by verse-by-verse biblical evidence.
+fp-social-media: '🔍 Who is the "God" of Revelation? Comprehensive biblical analysis reveals a consistent pattern: the Father is God, Jesus is His Son, and the Spirit is Christ Himself. See the evidence verse by verse. #BibleStudy #Revelation #Theology'
 ---
+![Who is the "God" in the book of Revelation?](https://forgotten-pillar.s3.us-east-2.amazonaws.com/presecan_An_artistic_representation_of_a_throne_in_heaven_a_g_ea055517-95e4-4bd7-a132-71cad2654cdf_3.png)
+
+> [!abstract] 
+> A detailed examination of divine references in Revelation demonstrates that "God" consistently refers to the Father, while Jesus Christ is presented as the Son of God. The text shows Christ addressing the Father as "my God," receiving revelation from Him, and sharing His throne. Evidence indicates that the "Spirit" speaking to the churches is Christ Himself. This theological framework remains consistent throughout Revelation, from its opening declaration to its final prophecies.
+
 > [!bible] [Revelation 1:1 - KJV](https://www.biblegateway.com/passage/?search=Revelation+1:1&version=kjv)
 > 1. The Revelation of **Jesus Christ**, which **God gave unto him**, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
 
@@ -23,7 +32,7 @@ God who sits at the throne is the Father. John is speaking in the name of believ
 > [!bible] [Revelation 1:8 - KJV](https://www.biblegateway.com/passage/?search=Revelation+1:8&version=kjv)
 > 8. I am Alpha and Omega, the beginning and the ending, saith the Lord, **which is, and which was, and which is to come, the Almighty**.
 
-Description of "*which is, and which was, and which is to come*" is referencing the Father. See [Revelation 4:9](https://www.biblegateway.com/passage/?search=Revelation+4.9&version=KJV), but it is also important that description of "Alpha and Omega" is description of Christ as well. See [Revelation 1:10-11](https://www.biblegateway.com/passage/?search=Revelation+1.10-11&version=KJV), [17-18](https://www.biblegateway.com/passage/?search=Revelation+1.17-18&version=KJV). Also see [Revelation 11:15-18](https://www.biblegateway.com/passage/?search=Revelation+11.15-18&version=KJV).
+Description of "*which is, and which was, and which is to come*" is referencing the Father. See [Revelation 4:9](https://www.biblegateway.com/passage/?search=Revelation+4.9&version=KJV), but it is also important that description of "Alpha and Omega" is description of Christ as well. See [Revelation 1:10-11](https://www.biblegateway.com/passage/?search=Revelation+1.10-11&version=KJV), [17-18](https://www.biblegateway.com/passage/?search=Revelation+1.17-18&version=KJV). Also see [Revelation 11:15-18](https://www.biblegateway.com/passage/?search=Revelation+11.15-18&version=KJV) and [Revelation 21:5-6](https://www.biblegateway.com/passage/?search=Revelation+21.5-6&version=KJV).
 
 ****
 > [!bible] [Revelation 1:10-11 - KJV](https://www.biblegateway.com/passage/?search=Revelation+1:10-11&version=kjv)
@@ -223,3 +232,100 @@ The "*voice saying unto me*", is the voice speaking to John, which is Christ. Ch
 
 ****
 
+> [!bible] [Revelation 14:19 - KJV](https://www.biblegateway.com/passage/?search=Revelation+14:19&version=kjv)
+> 19. And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of **the wrath of God**.
+
+The wrath of the Father. See [Revelation 15:7](https://www.biblegateway.com/passage/?search=Revelation+15.7&version=KJV).
+
+****
+
+> [!bible] [Revelation 15:3-4, 7-8 - KJV](https://www.biblegateway.com/passage/?search=Revelation+15:3-8&version=kjv)
+> 3. And they sing the song of Moses **the servant of God**, *and* **the song of the Lamb**, saying, Great and marvellous are thy works, **Lord God Almighty**; just and true are thy ways, thou King of saints.
+> 4. Who shall not fear thee, **O Lord**, and glorify thy name? for thou  only art holy: *for all nations shall come and worship before thee*; for thy judgments are made manifest.
+>    ...
+> 7. And one of the four beasts gave unto the seven angels seven golden vials **full of the wrath of God, who liveth for ever and ever**.
+> 8. And the temple was filled with smoke from **the glory of God**, and from **his power**; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.
+
+All nations are coming and worshiping the Father. See [[god-of-first-angels-message|God of the First Angel's Message]]. God who liveth for ever and ever, is the Father. His glory filled the temple.
+
+****
+
+> [!bible] [Revelation 16:5-7 - KJV](https://www.biblegateway.com/passage/?search=Revelation+16:5-7&version=kjv)
+> 5. And I heard the angel of the waters say, Thou art righteous, **O Lord**, **which art, and wast, and shalt be, because thou hast judged thus**.
+> 6. For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy.
+> 7. And I heard another out of the altar say, Even so, **Lord God Almighty**, true and righteous are thy judgments.
+
+> [!bible] [Revelation 16:14 - KJV](https://www.biblegateway.com/passage/?search=Revelation+16:14&version=kjv)
+> 14. For they are the spirits of devils, working miracles, which  go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of **God Almighty**.
+
+The Lord God Almighty, is God the Father.
+
+****
+
+> [!bible] [Revelation 17:14 - KJV](https://www.biblegateway.com/passage/?search=Revelation+17:14&version=kjv)
+> 14. These shall make war with **the Lamb**, and **the Lamb shall overcome them**: for he is **Lord of lords, and King of kings**: and they that are with him are called, and chosen, and faithful.
+
+The Lord of lords, and King of kings is Jesus. See [Revelation 19:16](https://www.biblegateway.com/passage/?search=Revelation+19.16&version=KJV).
+
+****
+
+> [!bible] [Revelation 20:6 - KJV](https://www.biblegateway.com/passage/?search=Revelation+20:6&version=kjv)
+> 6. Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests **of God** *and* **of Christ**, and shall reign with him a thousand years.
+
+God is identified as the Father.
+
+****
+
+> [!bible] [Revelation 21:2-7 - KJV](https://www.biblegateway.com/passage/?search=Revelation+21:2-7&version=kjv)
+> 2. And I John saw the holy city, new Jerusalem, coming down from **God** out of heaven, prepared as a bride adorned for her husband.
+> 3. And I heard a great voice out of heaven saying, Behold, **the tabernacle of God** is with men, and he will dwell with them, and they shall be **his** people, and **God himself** shall be with them, and be **their God**.
+> 4. And **God** shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
+> 5. And **he that sat upon the throne** said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.
+> 6. And **he said unto me**, It is done. **I am Alpha and Omega, the beginning and the end**. I will give unto him that is athirst of the fountain of the water of life freely.
+> 7. He that overcometh shall inherit all things; and **I will be his God**, and he shall be my son.
+
+When the Great Controversy is finished, the One who we will identify as *our* God will be the Father. See [Ezekiel 34:23-24](https://www.biblegateway.com/passage/?search=Ezekiel+34.23-24&version=KJV) and [Ezekiel 37:22-28](https://www.biblegateway.com/passage/?search=Ezekiel+37.22-28&version=KJV).
+
+****
+
+> [!bible] [Revelation 21:10 - KJV](https://www.biblegateway.com/passage/?search=Revelation+21:10&version=kjv)
+> 10. And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven **from God**,
+
+> [!bible] [Revelation 21:22-23 - KJV](https://www.biblegateway.com/passage/?search=Revelation+21:22-23&version=kjv)
+> 22. And I saw no temple therein: **for the Lord God Almighty** *and* **the Lamb** are the temple of it.
+> 23. And the city had no need of the sun, neither of the moon, to shine in it: for **the glory of God** did lighten it, *and* **the Lamb** is the light thereof.
+
+The Lord God Almighty is identified as the Father. From Him the new holy Jerusalem is descending to earth.
+
+****
+
+> [!bible] [Revelation 22:1, 3-6 - KJV](https://www.biblegateway.com/passage/?search=Revelation+22:1-6&version=kjv)
+> 1. And he shewed me a pure river of water of life, clear as crystal, proceeding out of **the throne of God** *and* of **the Lamb**.
+> ...
+> 3. And there shall be no more curse: but **the throne of God** *and* **of the Lamb** shall be in it; and his servants shall serve him:
+> 4. And they shall see **his face**; and **his name** shall be in their foreheads.
+> 5. And there shall be no night there; and they need no candle, neither light of the sun; for **the Lord God** giveth them light: and they shall reign for ever and ever.
+> 6. And he said unto me, These sayings are faithful and true: and **the Lord God** of the holy prophets sent his angel to shew unto his servants the things which must shortly be done.
+
+The identification of God in these verses is the Father.
+
+****
+
+> [!bible] [Revelation 22:12-14 - KJV](https://www.biblegateway.com/passage/?search=Revelation+22:12-14&version=kjv)
+> 12. And, **behold, I come quickly**; and my reward is with me, to give every man according as his work shall be.
+> 13. **I am Alpha and Omega, the beginning and the end, the first and the last.**
+> 14. Blessed are they that do **his commandments**, that they may have right to the tree of life, and may enter in through the gates into the city.
+
+This is Christ speaking about the commandments of His Father.
+
+****
+
+> [!bible] [Revelation 22:16-19 - KJV](https://www.biblegateway.com/passage/?search=Revelation+22:16-19&version=kjv)
+> 16. **I Jesus** have sent mine angel to testify unto you these things in the churches. **I am the root and the offspring of David, and the bright and morning star**.
+> ...
+> 18. For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, **God** shall add unto him the plagues that are written in this book:
+> 19. And if any man shall take away from the words of the book of this prophecy, **God** shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.
+
+## Conclusion
+
+The book of Revelation consistently identifies God as the Father, with Jesus Christ acknowledged as His divine Son. Christ's own references to "*my God*," His reception of revelation from the Father, and descriptions of their shared throne validate this relationship. The Spirit speaking to the churches is revealed to be Christ Himself. This clear theological framework unifies Revelation's message from beginning to end.

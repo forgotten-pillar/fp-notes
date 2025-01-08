@@ -10,7 +10,7 @@ permalink: god-of-1am
 fpRelatedReads:
   - rediscovering-the-pillar
 createdDate: 2024-12-21T09:21:14.504+02:00
-modifiedDate: 2024-12-24T15:20:02+01:00
+modifiedDate: 2025-01-08T18:21:25+01:00
 ---
 
 > [!abstract]- Abstract
@@ -97,13 +97,13 @@ This passage reveals that the Lord God, who made heaven, earth, sea, and everyth
 
 ### Christ as Creator
 
-Several passages, including [Ephesians 3:8](https://www.biblegateway.com/passage/?search=Ephesians+3.8&version=KJV), [Hebrews 1:2](https://www.biblegateway.com/passage/?search=Hebrews+1.2&version=KJV), [John 1:3](https://www.biblegateway.com/passage/?search=John+1.3&version=KJV), and [Colossians 1:16-17](https://www.biblegateway.com/passage/?search=Colossians+1.16-17&version=KJV), testify that everything was made "*by*" or "*through*" Christ. How does this harmonize with the previous passages that identify our Heavenly Father as the Creator of all things? The explanation lies in understanding that God the Father created everything *through* or *by* Christ, as indicated in these verses. Christ served as the *medium* ***through*** whom God created everything, since all things were made *for* Christ, and He is the heir of all things ([Colossians 1:16](https://www.biblegateway.com/passage/?search=Colossians+1.16&version=KJV) and [Hebrews 1:2,4](https://www.biblegateway.com/passage/?search=Hebrews+1.2-4&version=KJV)). However, the Bible attributes creation itself to the Father, as He is [[Father the Source of All Things|the source of all things]]. See [[_Everything was created through Christ]].
+Several passages, including [Ephesians 3:8](https://www.biblegateway.com/passage/?search=Ephesians+3.8&version=KJV), [Hebrews 1:2](https://www.biblegateway.com/passage/?search=Hebrews+1.2&version=KJV), [John 1:3](https://www.biblegateway.com/passage/?search=John+1.3&version=KJV), and [Colossians 1:16-17](https://www.biblegateway.com/passage/?search=Colossians+1.16-17&version=KJV), testify that everything was made "*by*" or "*through*" Christ. How does this harmonize with the previous passages that identify our Heavenly Father as the Creator of all things? The explanation lies in understanding that God the Father created everything *through* or *by* Christ, as indicated in these verses. Christ served as the *medium* ***through*** whom God created everything, since all things were made *for* Christ, and He is the heir of all things ([Colossians 1:16](https://www.biblegateway.com/passage/?search=Colossians+1.16&version=KJV) and [Hebrews 1:2,4](https://www.biblegateway.com/passage/?search=Hebrews+1.2-4&version=KJV)). However, the Bible attributes creation itself to the Father, as He is [[Father the Source of All Things|the source of all things]]. See [[_Everything was created through Christ|Created Through Christ]].
 
 > [!caution]- The Holy Spirit as the Creator?
 > It is often suggested that the Holy Spirit is the Creator. However, such claims lack direct biblical support and are derived more from theological reasoning than from concrete scriptural evidence. The primary text used to support this claim is [Genesis 1:2](https://www.biblegateway.com/passage/?search=Genesis+1.2&version=KJV), which states that “*the Spirit of God moved upon the face of the waters*.” However, the God to whom this Spirit belongs is the Father. This Spirit was breathed into Adam so that he became a living soul, as described in [Genesis 2:7](https://www.biblegateway.com/passage/?search=Genesis+2.7&version=KJV), [Job 33:4](https://www.biblegateway.com/passage/?search=Job+33.4&version=KJV), and [Psalm 104:30](https://www.biblegateway.com/passage/?search=Psalm+104.30&version=KJV).
 ## God from the book of Revelation
 
-As we examine the context of the First Angel's Message regarding who we ought to worship, let's look at the book of Revelation to see whom the angels of God, the saved people, and all creation worship and refer to as "*their God*." Throughout Revelation, we consistently see that all references point to God the Father.
+As we examine the context of the First Angel's Message regarding who we ought to worship, let's look at the book of Revelation to see whom the angels of God, the saved people, and all creation worship and refer to as "*their God*." [[god-of-revelation|Throughout Revelation, we consistently see that all references point to God the Father]].
 
 Pay close attention to Who is God for these 24 elders:
 
