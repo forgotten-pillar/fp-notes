@@ -10,7 +10,7 @@ permalink: god-of-1am
 fpRelatedReads:
   - rediscovering-the-pillar
 createdDate: 2024-12-21T09:21:14.504+02:00
-modifiedDate: 2025-01-08T18:21:25+01:00
+modifiedDate: 2025-01-08T19:35:23+01:00
 ---
 
 > [!abstract]- Abstract
