@@ -15,7 +15,7 @@ description: By examining the Old Testament quotations in the New, we get valuab
 > [!bible] [Isaiah 7:14 - KJV](https://www.biblegateway.com/passage/?search=Isaiah+7:14&version=kjv)
 > 14. Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
 
-# Bethlehem as Birthplace
+## Bethlehem as Birthplace
 
 > [!bible] [Matthew 2:6 - KJV](https://www.biblegateway.com/passage/?search=Matthew+2:6&version=kjv)
 > 6. And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.
@@ -23,7 +23,7 @@ description: By examining the Old Testament quotations in the New, we get valuab
 > [!bible] [Micah 5:2 - KJV](https://www.biblegateway.com/passage/?search=Micah+5:2&version=kjv)
 > 2. But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been  from of old, from everlasting.
 
-# Called Out of Egypt
+## Called Out of Egypt
 
 > [!bible] [Matthew 2:15 - KJV](https://www.biblegateway.com/passage/?search=Matthew+2:15&version=kjv)
 > 15. And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.
@@ -33,7 +33,7 @@ description: By examining the Old Testament quotations in the New, we get valuab
 
 JHVH as Father evident in Hosea's text speaking of calling His son.
 
-# Voice in Wilderness
+## Voice in Wilderness
 
 > [!bible] [Matthew 3:3 - KJV](https://www.biblegateway.com/passage/?search=Matthew+3:3&version=kjv)
 > 3. For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
@@ -43,7 +43,7 @@ JHVH as Father evident in Hosea's text speaking of calling His son.
 > 4. Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:
 > 5. And the glory of the LORD shall be revealed, and all flesh shall see it together: for the mouth of the LORD hath spoken it.
 
-# Living by God's Word
+## Living by God's Word
 
 > [!bible] [Matthew 4:4 - KJV](https://www.biblegateway.com/passage/?search=Matthew+4:4&version=kjv)
 > 4. But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
