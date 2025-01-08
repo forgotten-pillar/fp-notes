@@ -1,7 +1,7 @@
 ---
 createdDate: 2025-01-08T16:44:18+01:00
 modifiedDate: 2025-01-08T19:31:45+01:00
-title: Who is the God of Revelation?
+title: Who is the "God" of Revelation?
 tags:
   - godhead
   - rawStudy
