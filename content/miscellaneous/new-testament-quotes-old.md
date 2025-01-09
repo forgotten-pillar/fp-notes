@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-08T19:48:14+01:00
-modifiedDate: 2025-01-08T21:07:00+01:00
+modifiedDate: 2025-01-09T07:39:00+01:00
 title: The Old Testament Quoted in the New
 publish: true
 tags:

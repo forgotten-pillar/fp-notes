@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-08T16:44:18+01:00
-modifiedDate: 2025-01-08T19:31:45+01:00
+modifiedDate: 2025-01-09T15:38:50+01:00
 title: Who is the "God" of Revelation?
 tags:
   - godhead
@@ -152,7 +152,7 @@ The seal of the living God is the seal of the Father, for the Father's name is w
 ****
 
 > [!bible] [Revelation 7:10-12 - KJV](https://www.biblegateway.com/passage/?search=Revelation+7:10-12&version=kjv)
-> 10. And cried with a loud voice, saying, Salvation to **our God** which **sitteth upon the throne**, *and* **unto the Lamb**.
+> 10. And cried [great multitude] with a loud voice, saying, Salvation to **our God** which **sitteth upon the throne**, *and* **unto the Lamb**.
 > 11. And all the angels stood round about the throne, and about  the elders and the four beasts, and fell before the throne on their faces, and **worshipped God**,
 > 12. Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto **our God** for ever and ever. Amen.
 
