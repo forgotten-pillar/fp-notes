@@ -2,7 +2,7 @@
 tags:
   - adventistHistory
   - firstAngelsMessage
-title: God of the First Angel's Message
+title: The God of the First Angel's Message
 description: Discover why Revelation 14:7 points to God the Father as the Creator we must worship, supported by biblical evidence from both Old and New Testaments.
 fp-social-media: "🤔 Who exactly is the God we're called to worship in Revelation's First Angel's Message? The answer impacts our eternal destiny. Through careful Bible study, we discover a profound truth that challenges common assumptions. Read this eye-opening analysis that follows the evidence through prophecy, creation, and heavenly worship. #BibleTruth #Revelation #PropheticMessage"
 publish: true

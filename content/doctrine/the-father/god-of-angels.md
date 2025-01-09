@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-08T17:47:52+01:00
-modifiedDate: 2025-01-08T17:49:50+01:00
+modifiedDate: 2025-01-09T16:11:12+01:00
 publish: true
 title: The God of Holy Angels
 description: The Biblical record consistently points to the Father as God whom the angels call "our God".
