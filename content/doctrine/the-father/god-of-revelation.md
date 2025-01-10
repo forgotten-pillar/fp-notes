@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-08T16:44:18+01:00
-modifiedDate: 2025-01-09T15:38:50+01:00
+modifiedDate: 2025-01-10T20:08:13+01:00
 title: Who is the "God" of Revelation?
 tags:
   - godhead
@@ -9,6 +9,8 @@ publish: true
 permalink: god-of-revelation
 description: Analysis of divine titles in Revelation proves "God" refers to the Father, with Jesus as His Son and the Spirit as Christ's own presence, supported by verse-by-verse biblical evidence.
 fp-social-media: '🔍 Who is the "God" of Revelation? Comprehensive biblical analysis reveals a consistent pattern: the Father is God, Jesus is His Son, and the Spirit is Christ Himself. See the evidence verse by verse. #BibleStudy #Revelation #Theology'
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 ![Who is the "God" in the book of Revelation?](https://forgotten-pillar.s3.us-east-2.amazonaws.com/presecan_An_artistic_representation_of_a_throne_in_heaven_a_g_ea055517-95e4-4bd7-a132-71cad2654cdf_3.png)
 
