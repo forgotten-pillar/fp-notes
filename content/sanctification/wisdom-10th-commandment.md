@@ -1,10 +1,12 @@
 ---
 createdDate: 2025-01-10T05:40:10+01:00
-modifiedDate: 2025-01-10T20:32:18+01:00
+modifiedDate: 2025-01-11T08:33:50+01:00
 title: The Wisdom and the 10th Commandment
 publish: true
 ---
-In the Proverbs, Solomon is using an interesting phrase "*ḥă·sar- lêḇ*" to describe as well to mitigate the foolish condition of a men. This term would be translated as "*lacks of judgment*" or as "*short sighted*", describing a person which has no ability to see overreaching consequences of his choices. In order to mitigate this problem, Solomon is giving heed to the wisdom, which can give you far reaching sight into life's causalities. This solution is derived from our proper relationship toward God's law and His commandments.
+
+> [!abstract]
+> In the Proverbs, Solomon is using an interesting phrase "*ḥă·sar- lêḇ*" to describe as well to mitigate the foolish condition of a men. This term would be translated as "*lacks of judgment*" or as "*short sighted*", describing a person which has no ability to see overreaching consequences of his choices. In order to mitigate this problem, Solomon is giving heed to the wisdom, which can give you far reaching sight into life's causalities. This solution is derived from our proper relationship toward God's law and His commandments.
 
 > [!cite] Word Study
 > [ḥă·sar-](https://biblehub.com/hebrew/2638.htm.") - *lacking, without, deficient, in need*
@@ -17,7 +19,7 @@ In the Proverbs, Solomon is using an interesting phrase "*ḥă·sar- lêḇ*" t
 > 3. She hath sent forth her maidens: she crieth upon the highest places of the city,
 > 4. Whoso is simple, let him turn in hither: as for him that **wanteth understanding** [ḥă·sar- lêḇ;], she saith to him,
 
-The wisdom hath builded her house, and calls out all the people which lack judgment [ḥă·sar- lêḇ;] to join her banquet. And she calls:
+The wisdom hath builded her house, and calls out all the people which **lack judgment** [ḥă·sar- lêḇ;] to join her banquet. And she calls:
 
 > [!bible] [Proverbs 9:4-6 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+9:4-6&version=kjv)
 > 4. Whoso is simple, let him turn in hither: as for  him that **wanteth understanding** [ḥă·sar- lêḇ;], she saith to him,
@@ -31,16 +33,18 @@ She summarized her banquet as follows:
 > [!bible] [Proverbs 9:10 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+9:10&version=kjv)
 > 10. **The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding**.
 
-Wisdom boldly claims that there is no wisdom without the fear of the LORD. The wisdom the one which gives the understanding of God's law, because it knows the Holy One.
+Wisdom boldly claims that there is no wisdom without the fear of the LORD. The wisdom the one which gives **the understanding of God's law**, *because it knows the Holy One*. It knows the character of God.
 
-Let's explore this phrase [ḥă·sar- lêḇ;] in Proverbs. We see in particular the wisdom is expanding the understanding of the 10th commandment
+By studying Proverbs 8 we recognize Jesus as personifying wisdom (for more information see [[Proverbs 8. and Jesus]]). For this reason, when we are exploring the wisdom in Proverbs, let's keep the perspective that it is Christ who is teaching us depth of God's law.
+
+Let's explore this phrase [ḥă·sar- lêḇ;] in Proverbs. We see in particular the wisdom is expanding the understanding of the 10th commandment.
 
 
 > [!important] 10th commandment
 > > [!bible] [Exodus 20:17 - KJV](https://www.biblegateway.com/passage/?search=Exodus+20:17&version=kjv)
-> 17. Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.
+> >17. Thou shalt **not covet** thy neighbour’s house, thou shalt **not covet** thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.
 
-The 10th commandment is very particular. It deals with the inner man. It looks into our motives. When Jesus was asked by rich young ruler, what good thing shall he do, that he may have eternal life? Jesus answered to keep the commandments.
+The 10th commandment is very peculiar. It deals with the inner man, or with [lêḇ;](https://biblehub.com/hebrew/3820.htm) - *the heart, the feelings, the will, the intellect*. The man which is [ḥă·sar- lêḇ;] is in violation of the 10th commandment. When Jesus was asked by rich young ruler, what good thing shall he do, that he may have eternal life? Jesus answered to keep the commandments.
 
 > [!bible] [Matthew 19:18-19 - KJV](https://www.biblegateway.com/passage/?search=Matthew+19:18-19&version=kjv)
 > 18. He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
@@ -48,15 +52,15 @@ The 10th commandment is very particular. It deals with the inner man. It looks i
 
 It seems intentional that Jesus omitted the 10th commandment, since the rich young ruler's issue was precisely tied to covetousness or his attachment to wealth and possessions.
 
-The 10th commandment introduces whole another level or perspective toward the law. Interestingly the wisdom has to say something about it.
+The 10th commandment introduces whole another level or perspective toward the law, because it addresses the inner man, or [lêḇ;](https://biblehub.com/hebrew/3820.htm) - *the heart, the feelings, the will, the intellect*.
 
 Let's explore the phrase [ḥă·sar- lêḇ;] within Proverbs.
 ## Coveting the Neighbor's Wife
 
 > [!bible] [Proverbs 6:32 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+6:32&version=kjv)
-> 32. But whoso committeth adultery with a woman **lacketh understanding** [ḥă·sar- lêḇ;]: he that doeth it destroyeth his own soul.
+> 32. But whoso **committeth adultery** with a woman **lacketh understanding** [ḥă·sar- lêḇ;]: he that doeth it *destroyeth his own soul*.
 
-The one who commits adultery, cannot see over reaching consequences of his decision. He does not see, that he is destroying his own soul. The Wisdom is trying to reason out with an adulterer as follows:
+The one who commits adultery, cannot see over reaching consequences of his decision. He does not see, that he is destroying his own soul. Jesus is trying to reason out with an adulterer as follows:
 
 > [!bible] [Proverbs 6:27-29 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+6:27-29&version=kjv)
 > 27. Can a man take fire in his bosom, and his clothes not be burned?
@@ -65,18 +69,18 @@ The one who commits adultery, cannot see over reaching consequences of his decis
 
 It is not possible to remain innocent for the adulterer.
 
-The Wisdom makes plea.
+Jesus pleads with men:
 
 > [!bible] [Proverbs 5:1-5 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+5:1-5&version=kjv)
 > 1. My son, **attend** unto my wisdom, and bow thine ear to my understanding:
 > 2. That thou mayest **regard discretion**, and that thy lips may keep knowledge.
 > 3. For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:
-> 4. But her end is bitter as wormwood, sharp as a twoedged sword.
-> 5. Her feet go down to death; her steps take hold on hell.
+> 4. *But her end is bitter as wormwood, sharp as a twoedged sword*.
+> 5. *Her feet go down to death; her steps take hold on hell*.
 
-The wisdom has a foresight over the luring of a strange woman. To short sighted man, she looks sweet, yet her end is bitter. Her feet go down to death. The man who goes after her, destroyeth his own soul.
+Jesus has a foresight over the luring of a strange woman. To short sighted man, she looks sweet, yet her end is bitter one. Her feet go down to death. The man who goes after her, destroyeth his own soul.
 
-In order to mitigate this error, the wisdom advices to keep the commandments of the law.
+In order to mitigate this error, the Jesus advices to keep the commandments of the law.
 
 > [!bible] [Proverbs 6:20-24 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+6:20-24&version=kjv)
 > 20. My son, keep **thy father’s commandment**, and forsake not **the law of thy mother**:
@@ -85,16 +89,15 @@ In order to mitigate this error, the wisdom advices to keep the commandments of 
 > 23. **For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life**:
 > 24. To keep thee from the evil woman, from the flattery of the tongue of a strange woman.
 
-In order to keep the commandments of the law, it must be continually bind upon my heart. In such case the commandments of the law will keep me from that strange woman. How? Because they will give me the far-reaching sight.
+Jesus teaches me that in order to keep the commandments of His Father's law, it must be continually bind upon my heart. In such case the commandments of the law will keep me from that strange woman. How? Because they will give me the far-reaching sight.
 
 > [!bible] [Proverbs 6:23 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+6:23&version=kjv)
-> 23. For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:
+> 23. **For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life**:
 
-Therefore Wisdom calls us to ponder.
+Therefore Jesus calls us to *ponder*.
 
-
-> [!quote] tə·p̄al·lês
-> palas: To weigh, to make level, to ponder
+> [!quote] tə·p̄al·lês - to ponder
+> [palas](https://biblehub.com/hebrew/6424.htm): To weigh, to make level, to ponder
 
 > [!bible] [Proverbs 5:3-6 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+5:3-6&version=kjv)
 > 3. For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:
@@ -102,9 +105,7 @@ Therefore Wisdom calls us to ponder.
 > 5. Her feet go down to death; her steps take hold on hell.
 > 6. Lest thou shouldest **ponder** the path of life, her ways are moveable, that thou canst not know them.
 
-The Wisdom is calling me to ponder, to judge, to recognize her moveable path of life.
-
-The wisdom is pleading, and pointing to the consequences of adultery.
+Jesus is pleading with us to ponder, to judge, to recognize her moveable path of life. What are the consequences of adultery, save destruction of our soul, already spoken of in [Proverbs 6:32](https://www.biblegateway.com/passage/?search=Proverbs+6.32&version=KJV)?
 
 > [!bible] [Proverbs 5:8-11,13-18 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+5:8-18&version=kjv)
 > 8. Remove thy way far from her, and come not nigh the door of her house:
@@ -113,20 +114,20 @@ The wisdom is pleading, and pointing to the consequences of adultery.
 > 11. And thou mourn at the last, when **thy flesh and thy body are consumed**,
 > ...
 > 13. Drink waters out of thine own cistern, and running waters out of thine own well.
-> 14. Let thy fountains be dispersed abroad, and rivers of waters in the streets.
+> 14. Let thy fountains be [*not* - mistakenly missing in KJV] dispersed abroad, and rivers of waters in the streets.
 > 15. Let them be only thine own, and not strangers’ with thee.
 > 16. Let thy fountain be blessed: ...
 
 Simply spoken, if you go after a strange woman, you will give all your wealth to strangers.
 
-Why should one do that? It is short sighted. Rather the Wisdom propose the wise reasoning:
+Why should one do that to himself? It is short sighted. Christ's loving advice is as follows:
 
 > [!bible] [Proverbs 5:18-20 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+5:18-20&version=kjv)
-> 18. Let thy fountain be blessed: and rejoice with the wife of thy youth.
+> 18. Let thy fountain be blessed: and **rejoice with the wife of thy youth**.
 > 19. Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.
 > 20. And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?
 
-Unless you ponder upon the consequences of your actions, certainly God will ponder upon your ways. The cause and effect will produce its outcome. 
+Unless we ponder upon the consequences of our actions, certainly God will ponder upon our ways. The cause and effect will produce its outcome. 
 
 > [!bible] [Proverbs 5:21-23 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+5:21-23&version=kjv)
 > 21. For the ways of man are before the eyes of the LORD, and he **pondereth** all his goings.
