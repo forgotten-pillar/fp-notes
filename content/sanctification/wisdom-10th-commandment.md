@@ -42,6 +42,7 @@ Let's explore this phrase [ḥă·sar- lêḇ;] in Proverbs. We see in particula
 
 > [!important] 10th commandment
 > > [!bible] [Exodus 20:17 - KJV](https://www.biblegateway.com/passage/?search=Exodus+20:17&version=kjv)
+> > 
 > >17. Thou shalt **not covet** thy neighbour’s house, thou shalt **not covet** thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.
 
 The 10th commandment is very peculiar. It deals with the inner man, or with [lêḇ;](https://biblehub.com/hebrew/3820.htm) - *the heart, the feelings, the will, the intellect*. The man which is [ḥă·sar- lêḇ;] is in violation of the 10th commandment. When Jesus was asked by rich young ruler, what good thing shall he do, that he may have eternal life? Jesus answered to keep the commandments.
