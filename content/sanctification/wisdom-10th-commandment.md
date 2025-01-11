@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-10T05:40:10+01:00
-modifiedDate: 2025-01-11T08:33:50+01:00
+modifiedDate: 2025-01-11T13:04:56+01:00
 title: The Wisdom and the 10th Commandment
 publish: true
 ---
