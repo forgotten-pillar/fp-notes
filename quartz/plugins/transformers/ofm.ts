@@ -79,6 +79,7 @@ const calloutMapping = {
   example: "example",
   quote: "quote",
   cite: "quote",
+  bible: "bible",
 } as const
 
 const arrowMapping: Record<string, string> = {
@@ -429,6 +430,29 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                 const defaultState = collapseChar === "-" ? "collapsed" : "expanded"
                 const titleContent = match.input.slice(calloutDirective.length).trim()
                 const useDefaultTitle = titleContent === "" && restOfTitle.length === 0
+                
+                // For Bible callouts, process ordered lists to preserve numbers
+                if (calloutType === "bible") {
+                  
+                  const processNode = (n: any) => {
+                    if (n.type === "list" && n.ordered) {
+                      // Preserve the start attribute for ordered lists
+                      console.log(n.children[0].children[0])
+                      n.data = {
+                        ...n.data,
+                        hProperties: {
+                          ...n.data?.hProperties,
+                          start: n.start,
+                        },
+                      }
+                    }
+                    if (n.children) {
+                      n.children.forEach(processNode)
+                    }
+                  }
+                  calloutContent.forEach(processNode)
+                }
+                
                 const titleNode: Paragraph = {
                   type: "paragraph",
                   children: [

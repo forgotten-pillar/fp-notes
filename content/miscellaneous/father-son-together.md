@@ -84,11 +84,12 @@ Typifying the Father and the Son and their Covenant: The Father (JHVH) promises 
 
 Abram is the antitype of Christ. God (JHVH) is making a covenant with His Son. Out of His Son, the kings shall come out. And God will give His Son His seed, and the new promised Earth. Then the Father will be *their* God (See [Ezekiel 34:23-24](https://www.biblegateway.com/passage/?search=Ezekiel+34.23-24&version=KJV) and [Ezekiel 37:22-28](https://www.biblegateway.com/passage/?search=Ezekiel+37.22-28&version=KJV)). For more information see [[Abraham as Antitype]] and [[christ-the-everlasting-father|Christ - the Everlasting Father]].
 
-## 
+## Sacrificing Isaac - 4/5 ⭐️⭐️⭐️⭐️ | 🤝
 
 > [!bible] [Genesis 22:1-14 - KJV](https://www.biblegateway.com/passage/?search=Genesis+22:1-14&version=kjv)
 > 1. And it came to pass after these things, that **God did tempt Abraham**, and **said unto him, Abraham**: and he said, Behold, here I am.
 > 2. And he said, **Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah**; and *offer him there for a burnt offering* upon one of the mountains which I will tell thee of.
+> ...
 > 7. And Isaac spake unto Abraham his father, and said, **My father**: and he said, **Here am I, my son**. And he said, Behold the fire and the wood: *but where is the lamb for a burnt offering*?
 > 8. And Abraham said, **My son**, *God will provide himself a lamb for a burnt offering*: so they went both of them together.
 > 9. And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and *bound Isaac his son, and laid him on the altar upon the wood*.
@@ -97,6 +98,17 @@ Abram is the antitype of Christ. God (JHVH) is making a covenant with His Son. O
 > 12. And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou **fearest God**, seeing thou hast not withheld **thy son**, **thine only son from me.
 > 13. And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
 > 14. And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the LORD it shall be seen.
+> 15. And the angel of the LORD called unto Abraham out of heaven the second time,
+> 16. And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:
+> 17. That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;
+> 18. And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
+
+
+
+> [!bible] [Genesis 22:1-4 - KJV](https://www.biblegateway.com/passage/?search=Genesis+22:1-4&version=kjv)
+> <sup> 1 </sup>And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
+> <sup> 3 </sup>And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.
+> <sup> 4 </sup>Then on the third day Abraham lifted up his eyes, and saw the place afar off.
 
 
 
