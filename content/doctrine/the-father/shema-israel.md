@@ -2,11 +2,12 @@
 publish: true
 tags:
   - father
+  - JHVH
 fpRelatedReads:
   - rediscovering-the-pillar
 createdDate: 2024-10-09T09:25:54.577+02:00
 title: Sh'ma Israel
-modifiedDate: 2024-12-24T15:28:24+01:00
+modifiedDate: 2025-01-12T18:26:21+01:00
 description: Explore the biblical understanding of monotheism - how Scripture identifies the Father as the one true God while explaining Christ's divine role in worship and salvation.
 fp-social-media: "Sh'ma Istrael is recitation of Deuteronomy 6:4: \"Hear, o Israel: The LORD our God is one LORD\". While many Christians try to make that \"one\" LORD into unity, Christ Himself explains what is meant by Deuteronomy 6. Check the data out:"
 ---

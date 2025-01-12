@@ -1,10 +1,11 @@
 ---
 createdDate: 2025-01-08T19:48:14+01:00
-modifiedDate: 2025-01-09T07:39:00+01:00
+modifiedDate: 2025-01-12T18:26:28+01:00
 title: The Old Testament Quoted in the New
 publish: true
 tags:
   - rawStudy
+  - JHVH
 description: By examining the Old Testament quotations in the New, we get valuable insight into the Scripture interoperation. Embark on this journey, exploring interconnectivity between the Old and the New Testament.
 ---
 ## Virgin Birth Prophecies
