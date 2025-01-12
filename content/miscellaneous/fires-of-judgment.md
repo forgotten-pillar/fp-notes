@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-11T13:04:59+01:00
-modifiedDate: 2025-01-11T13:04:59+01:00
+modifiedDate: 2025-01-11T17:59:21+01:00
 publish: true
 title: Fires of Judgment
 description: "Los Angeles wildfires 2025: Biblical perspective on natural disasters, end-time prophecies, and divine warnings. Explore powerful insights from Ellen G. White on urban calamities, God's judgments, and the urgent call to spiritual preparation. Understanding fires, floods, and earthquakes as prophetic signs of Christ's soon return."

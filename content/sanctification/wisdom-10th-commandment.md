@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-10T05:40:10+01:00
-modifiedDate: 2025-01-11T13:04:56+01:00
+modifiedDate: 2025-01-12T11:26:08+01:00
 title: The Wisdom and the 10th Commandment
 publish: true
 ---
@@ -241,6 +241,34 @@ Hasar leb
 
 ****
 
+
+Did Jews keep the law of God? Let's examine Paul.
+
+> [!bible] [Philippians 3:5-6 - KJV](https://www.biblegateway.com/passage/?search=Philippians+3:5-6&version=kjv)
+> 5. Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;
+> 6. Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.
+
+Was he blameless? He thought he was, until he understood the 10th commandment.
+
+> [!bible] [Romans 7:7-14 - KJV](https://www.biblegateway.com/passage/?search=Romans+7:7-14&version=kjv)
+> 7. What shall we say then? Is the law sin? God forbid. Nay, **I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet**.
+> 8. But sin, taking occasion by the commandment, wrought in me all manner of **concupiscence**. For without the law sin was dead.
+> 9. **For I was alive without the law once**: *but when the commandment came, sin revived, and I died*.
+> 10. And the commandment, which was ordained to life, I found to be unto death.
+> 11. For sin, taking occasion by the commandment, deceived me, and by it slew me.
+> 12. Wherefore the law is holy, and the commandment holy, and just, and good.
+> 13. Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.
+> 14. For we know that the law is spiritual: but I am carnal, sold under sin.
+
+****
+Blue Ribband is representing the Law of God. This is the connection with [Matthew 5:27-28](https://www.biblegateway.com/passage/?search=Matthew+5.27-28&version=KJV).
+
+> [!bible] [Numbers 15:37-39 - KJV](https://www.biblegateway.com/passage/?search=Numbers+15:37-39&version=kjv)
+> 37. And the LORD spake unto Moses, saying,
+> 38. Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:
+> 39. And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:
+
+**
 
 
 

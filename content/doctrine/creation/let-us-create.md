@@ -5,7 +5,7 @@ description: Explore compelling evidence from the Bible and the Spirit of Prophe
 fpRelatedReads:
   - rediscovering-the-pillar
 createdDate: 2024-09-16T12:08:31.892+02:00
-modifiedDate: 2024-12-24T20:34:46+01:00
+modifiedDate: 2025-01-12T13:20:08+01:00
 ---
 In Heaven, long before the earth was created:
 
@@ -26,4 +26,4 @@ The creation itself:
 
 
 > [!TODO] 
-> Get all Bible verses about Creation
+> Get all Bible verses about Creation, and Ms236-1902.4
