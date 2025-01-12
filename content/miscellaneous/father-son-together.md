@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-12T13:17:22+01:00
-modifiedDate: 2025-01-12T17:42:37+01:00
+modifiedDate: 2025-01-12T18:30:44+01:00
 publish: true
 title: Bible Verses About the Father and the Son Together
 tags:
