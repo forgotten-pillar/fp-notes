@@ -437,7 +437,6 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   const processNode = (n: any) => {
                     if (n.type === "list" && n.ordered) {
                       // Preserve the start attribute for ordered lists
-                      console.log(n.children[0].children[0])
                       n.data = {
                         ...n.data,
                         hProperties: {
