@@ -14,20 +14,24 @@ permalink: father-son-together
 
 ## Introduction
 
-The following is a diligent extraction of all Bible verses which talk about the Father and the Son together. Bear in mind, this is my attempt to extract those verses, feel free to give me feedback on it. These are not verses which speak of the Father alone, nor the Son alone, but rather TOGETHER.
+The following is our attempt to diligently extract of all Bible verses which talk about the Father and the Son together. If we have missed some verses, please feel free to give us your feedback on it. These are not verses which speak of the Father alone, nor the Son alone, but rather TOGETHER.
 
 This extraction is beneficial to study for several reasons:
 1. Having the ability to recognize the Son of God in the Old Testament
-2. Understanding the consistent Biblical record calling the Father JHVH. It is important to note there are several instances which point to Christ as JHVH, but those instances are not in the set of verses which speak of the Father and the Son TOGETHER. When the Father and the Son are TOGETHER, it is always seen that the Father is called by the name JHVH. This is a consistent occurrence. 
+2. Understanding the consistent Biblical record calling the Father JHVH. It is important to note there are several instances which point to Christ as JHVH, but those instances are not in the set of verses which speak of the Father and the Son TOGETHER - see [[Who is JHVH]]. When the Father and the Son are TOGETHER, it is always seen that the Father is called by the name JHVH. This is a consistent occurrence. 
 3. Understanding the Covenant between the Father and the Son
 
 ### Guide
 
-**Subtitles**: Each instance of the joint occurrence of the Father and the Son has been titled. These titles are addressable by link, and are visible in the Table of Content on the right side.
-**Scoring**: I have also tried to score these instances on a scale from 1 - 5, representing how clearly that particular instance speaks about the Father and the Son. This is just my estimate, necessary for me to navigate through the data easily. One start (⭐️) means that the verse is not a clear joint occurrence of the Father and the Son, and in order to get to that conclusion, the interpretation needs to employed. Five stars (⭐️⭐️⭐️⭐️) mean that the verse is an obvious well know verse speaking about the Father and the Son - something like [Psalm 110:1](https://www.biblegateway.com/passage/?search=Psalm+110.1&version=KJV).
-**The Covenant Between the Father and the Son**: There are many verses which talk about the Plan of Salvation revealed in the Covenant between the Father and the Son. Those instances have been marked by the 🤝 emoji.
+ **Subtitles**: Each instance of the joint occurrence of the Father and the Son has been titled. These titles are addressable by link, and are visible in the Table of Content on the right side.
+
+ **Scoring**: I (Michael) have also tried to score these instances on a scale from 1 - 5, representing how clearly that particular instance speaks about the Father and the Son. This is just my estimate, necessary for me to navigate through the data easily. One start (⭐️) means that the verse is not a clear joint occurrence of the Father and the Son, and in order to get to that conclusion, the interpretation needs to be employed. Five stars (⭐️⭐️⭐️⭐️) mean that the verse is an obvious well know verse speaking about the Father and the Son - i.e. [Psalm 110:1](https://www.biblegateway.com/passage/?search=Psalm+110.1&version=KJV).
+
+ **The Covenant Between the Father and the Son**: There are many verses which talk about the Plan of Salvation revealed in the Covenant between the Father and the Son. Those instances have been marked by the 🤝 emoji.
 
 Also, I will try to give a short explanation of why I believe these verses reveal joint occurrences of the Father and the Son. Sometimes it will link to another note, and sometimes there will be a dead link. Those dead links are future articles to be written.
+
+# Genesis
 
 ## Creation of Man - 2/5 ⭐️⭐️
 
