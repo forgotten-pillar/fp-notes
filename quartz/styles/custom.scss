@@ -723,6 +723,9 @@ html[saved-theme="dark"] {
 }
 
 article.poetry > :not(blockquote.callout) {
+  font-style: italic;
+  text-align: center;
+  
   @media all and (min-width: #{map-get($breakpoints, mobile)}) {
     font-size: larger;
     
@@ -730,9 +733,6 @@ article.poetry > :not(blockquote.callout) {
       line-height: 1.5em;
     }
   }
-  
-  font-style: italic;
-  text-align: center;
 }
 
 article.poetry blockquote.callout:last-of-type + p {
@@ -741,4 +741,10 @@ article.poetry blockquote.callout:last-of-type + p {
 
 article.poetry blockquote.callout.example { // songs in soundcloud
   margin-top: 3rem;
+}
+
+@media (min-width: 1200px) {
+  #preview-container h1,article-title span {
+    line-height: 2.2rem;
+  }
 }

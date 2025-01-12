@@ -1,11 +1,15 @@
 ---
 createdDate: 2025-01-12T18:30:46+01:00
-modifiedDate: 2025-01-12T18:30:46+01:00
+modifiedDate: 2025-01-12T18:44:16+01:00
 publish: true
 title: The God of Jesus Christ
 permalink: god-of-jesus
 description: Discover biblical evidence revealing how Jesus Christ consistently acknowledged the Father as His God, from His earthly ministry through His glorified state.
 fp-social-media: 🔍 Did you know Jesus called the Father "My God" even after His resurrection? Explore the profound relationship between Jesus and the Father, where the Father is God of Jesus Christ!
+tags:
+  - father
+fpRelatedReads:
+  - rediscovering-the-pillar
 ---
 
 > [!abstract]
