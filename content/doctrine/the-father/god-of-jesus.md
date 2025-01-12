@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-12T18:30:46+01:00
-modifiedDate: 2025-01-12T18:44:16+01:00
+modifiedDate: 2025-01-12T19:29:17+01:00
 publish: true
 title: The God of Jesus Christ
 permalink: god-of-jesus

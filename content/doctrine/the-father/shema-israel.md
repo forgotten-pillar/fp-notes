@@ -7,7 +7,7 @@ fpRelatedReads:
   - rediscovering-the-pillar
 createdDate: 2024-10-09T09:25:54.577+02:00
 title: Sh'ma Israel
-modifiedDate: 2025-01-12T18:26:21+01:00
+modifiedDate: 2025-01-12T19:40:22+01:00
 description: Explore the biblical understanding of monotheism - how Scripture identifies the Father as the one true God while explaining Christ's divine role in worship and salvation.
 fp-social-media: "Sh'ma Istrael is recitation of Deuteronomy 6:4: \"Hear, o Israel: The LORD our God is one LORD\". While many Christians try to make that \"one\" LORD into unity, Christ Himself explains what is meant by Deuteronomy 6. Check the data out:"
 ---
@@ -26,12 +26,12 @@ fp-social-media: "Sh'ma Istrael is recitation of Deuteronomy 6:4: \"Hear, o Isra
 > 33. And to love ***him*** with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love his neighbour as himself, is more than all whole burnt offerings and sacrifices.
 > 34. And when Jesus saw that **he answered discreetly**, he said unto him, Thou art not far from the kingdom of God. And no man after that durst ask him any question.
 
-The response which the scribe gave to Jesus was a discreet answer. Which means that his interpretation of [Deuteronomy 6:4-5](https://www.biblegateway.com/passage/?search=Deuteronomy+6.4-5&version=KJV) was correct! Jesus said the truth: for there is *one God*; and there is *none other but he*. There are no more than one, and there are no other than that particular one. Who is He? He is the Father - [[god-of-jews|the God of the Jews]].
+The response which the scribe gave to Jesus was a discreet answer: " **thou hast said the truth: for there is one God; and there is *none other but he***". Which means that his interpretation of [Deuteronomy 6:4-5](https://www.biblegateway.com/passage/?search=Deuteronomy+6.4-5&version=KJV) was correct! Clearly Jesus was not speaking of one God as unity of three persons, or any sort of unity, rather He was strictly pointing to numerically ONE person - the Father - [[god-of-jews|the God of the Jews]].
 
-Jesus' application of Deuteronomy 6:
+## Jesus' application of Deuteronomy 6
 
 > [!bible] [Deuteronomy 6:13 - KJV](https://www.biblegateway.com/passage/?search=Deuteronomy+6:13&version=kjv)
-> 13. Thou shalt fear **the LORD thy God**, and *serve **him***, and shalt swear by his name.
+> 13. Thou shalt fear **the LORD thy God**, and serve *him*, and shalt swear by *his* name.
 
 > [!bible] [Matthew 4:10 - KJV](https://www.biblegateway.com/passage/?search=Matthew+4:10&version=kjv)
 > 10. Then saith Jesus unto him, Get thee hence, Satan: *for it is written*, **Thou shalt worship the Lord thy God**, and ***him only* shalt thou serve**.
