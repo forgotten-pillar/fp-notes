@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-12T13:17:22+01:00
-modifiedDate: 2025-01-12T13:31:44+01:00
+modifiedDate: 2025-01-12T15:10:21+01:00
 publish: true
 title: Bible Verses About the Father and the Son Together
 tags:
@@ -18,7 +18,7 @@ The following is our attempt to diligently extract of all Bible verses which tal
 
 This extraction is beneficial to study for several reasons:
 1. Having the ability to recognize the Son of God in the Old Testament
-2. Understanding the consistent Biblical record calling the Father JHVH. It is important to note there are several instances which point to Christ as JHVH, but those instances are not in the set of verses which speak of the Father and the Son TOGETHER - see [[Who is JHVH]]. When the Father and the Son are TOGETHER, it is always seen that the Father is called by the name JHVH. This is a consistent occurrence. 
+2. Understanding the consistent Biblical record calling the Father JHVH. It is important to note there are several instances which point to Christ as JHVH, but those instances are not in the set of verses which speak of the Father and the Son TOGETHER - see [[Who is JHVH]]. When the Father and the Son are TOGETHER, it is always seen that the Father is called by the name JHVH. This is a consistent occurrence. In order to better understand the who is speaking in the Old Testament, check [[principle-of-gods-revelation|The Principle of God's Revelation]].
 3. Understanding the Covenant between the Father and the Son
 
 ### Guide
@@ -67,6 +67,37 @@ As in antitype of Abraham and God, so in the type of the Father and the Son: the
 > 5. And **he** brought him forth abroad, and said, Look now toward heaven, and tell the stars, if **thou** be able to number them: and he said unto him, **So shall thy seed be**.
 
 Typifying the Father and the Son and their Covenant: The Father (JHVH) promises His inheritance - saved people. See [Isaiah 8:18](https://www.biblegateway.com/passage/?search=Isaiah+8.18&version=KJV) and [Hebrews 2:13](https://www.biblegateway.com/passage/?search=Hebrews+2.13&version=KJV).
+
+## The Covenant between God and Abram - 3/5 ⭐️⭐️⭐️ | 🤝
+
+> [!bible] [Genesis 17:1-8, 22 - KJV](https://www.biblegateway.com/passage/?search=Genesis+17:1-22&version=kjv)
+> 1. And when Abram was ninety years old and nine, **the LORD appeared to Abram**, and said unto him, **I am the Almighty God**; **walk before me, and be thou perfect**.
+> 2. And **I will make my covenant between me and thee**, and **will multiply thee exceedingly**.
+> 3. And Abram fell on his face: **and God talked with him**, saying,
+> 4. As for **me**, **behold, my covenant is with thee**, **and thou shalt be a father of many nations**.
+> 5. Neither shall thy name any more be called Abram, but thy name shall be Abraham; **for a father of many nations have I made thee**.
+> 6. *And I will make thee exceeding fruitful, and I will make nations of thee, and kings shall come out of thee*.
+> 7. **And I will establish my covenant between me and thee** and *thy seed after thee* in their generations for **an everlasting covenant**, **to be a God unto thee**, and *to thy seed after thee*.
+> 8. And **I will give unto thee**, and *to thy seed after thee*, **the land wherein thou art a stranger**, all the land of Canaan, for an everlasting possession; and **I will be their God**.
+> ...
+> 22. And he left off talking with him, and **God went up** from Abraham.
+
+Abram is the antitype of Christ. God (JHVH) is making a covenant with His Son. Out of His Son, the kings shall come out. And God will give His Son His seed, and the new promised Earth. Then the Father will be *their* God (See [Ezekiel 34:23-24](https://www.biblegateway.com/passage/?search=Ezekiel+34.23-24&version=KJV) and [Ezekiel 37:22-28](https://www.biblegateway.com/passage/?search=Ezekiel+37.22-28&version=KJV)). For more information see [[Abraham as Antitype]] and [[christ-the-everlasting-father|Christ - the Everlasting Father]].
+
+## 
+
+> [!bible] [Genesis 22:1-14 - KJV](https://www.biblegateway.com/passage/?search=Genesis+22:1-14&version=kjv)
+> 1. And it came to pass after these things, that **God did tempt Abraham**, and **said unto him, Abraham**: and he said, Behold, here I am.
+> 2. And he said, **Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah**; and *offer him there for a burnt offering* upon one of the mountains which I will tell thee of.
+> 7. And Isaac spake unto Abraham his father, and said, **My father**: and he said, **Here am I, my son**. And he said, Behold the fire and the wood: *but where is the lamb for a burnt offering*?
+> 8. And Abraham said, **My son**, *God will provide himself a lamb for a burnt offering*: so they went both of them together.
+> 9. And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and *bound Isaac his son, and laid him on the altar upon the wood*.
+> 10. And Abraham stretched forth his hand, and took the knife to slay his son.
+> 11. And **the angel of the LORD** called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.
+> 12. And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou **fearest God**, seeing thou hast not withheld **thy son**, **thine only son from me.
+> 13. And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
+> 14. And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the LORD it shall be seen.
+
 
 
 > [!todo] TODO
