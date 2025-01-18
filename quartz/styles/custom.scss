@@ -748,3 +748,11 @@ article.poetry blockquote.callout.example { // songs in soundcloud
     line-height: 2.2rem;
   }
 }
+
+.folder-container {
+  align-items: flex-start;
+
+  svg {
+    margin-top: 8px !important;
+  }
+}

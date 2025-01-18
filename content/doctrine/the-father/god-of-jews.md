@@ -6,7 +6,7 @@ fpRelatedReads:
   - rediscovering-the-pillar
 title: "Jesus Testified: The Father is the God of Israel"
 createdDate: 2024-10-09T09:53:37.630+02:00
-modifiedDate: 2025-01-12T19:35:00+01:00
+modifiedDate: 2025-01-12T21:43:31+01:00
 permalink: god-of-jews
 description: Discover definitive biblical evidence revealing that the God of the Jews is the Father through clear scriptural testimonies from Jesus himself and his apostles.
 fp-social-media: Do Jews have right conception of biblical monotheism? Discover what Jesus has to say about that.
