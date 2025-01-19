@@ -7,9 +7,7 @@ fp-social-media: "\"Swear not at all\" - Did Jesus contradict God's law on oaths
 title: Swear Not At All, but Swear By His Name
 permalink: swear-not
 ---
-
-> [!abstract]
-> Biblical oaths must be sworn by God's name alone as the ultimate authority, demonstrating faith in His promises and bringing Him glory. Jesus's command to "swear not at all" addressed the Jewish tradition of swearing by created things, which violated the sacred nature of divine oaths and diminished God's authority.
+![Ancient Scrolls](https://cdn.midjourney.com/cae1f70a-eec9-4902-ba30-841e11864fd4/0_0.png)
 
 > [!bible] [Matthew 5:33-37 - KJV](https://www.biblegateway.com/passage/?search=Matthew+5:33-37&version=kjv)
 > <sup> **33** </sup>Again, ye have heard that it hath been **said by them of old time**, **Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths**:
