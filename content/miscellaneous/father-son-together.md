@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-12T13:17:22+01:00
-modifiedDate: 2025-01-12T18:30:44+01:00
+modifiedDate: 2025-01-19T08:37:00+01:00
 publish: true
 title: Bible Verses About the Father and the Son Together
 tags:
@@ -61,7 +61,7 @@ One of *Us* - The Father (JHVH) is speaking to His Son.
 > 2. And I **will make of thee a great nation**, and I **will bless thee**, and **make thy name great**; and **thou shalt be a blessing**:
 > 3. And **I will bless them that bless thee**, and curse him that curseth thee: and **in thee shall all families of the earth be blessed**.
 
-As in antitype of Abraham and God, so in the type of the Father and the Son: the Father (JHVH) is speaking to His Son, to get out of Heaven - His country, from His kindred, from His Father's house, unto the earth. And the promise is to make great nation. For more information see [[christ-the-everlasting-father|Christ - Everlasting Father]]. 
+As in antitype of Abraham and God, so in the type of the Father and the Son: the Father (JHVH) is speaking to His Son, to get out of Heaven - His country, from His kindred, from His Father's house, unto the earth. And the promise is to make great nation. For more information see [[The Covenant with Abraham]] and [[christ-the-everlasting-father|Christ - Everlasting Father]]. 
 ## The Promise of Inheritance - 3/5 ⭐️⭐️⭐️ | 🤝
 
 > [!bible] [Genesis 15:5 - KJV](https://www.biblegateway.com/passage/?search=Genesis+15:5&version=kjv)
