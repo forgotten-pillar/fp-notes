@@ -1,10 +1,11 @@
 ---
 createdDate: 2025-01-18T18:35:10+01:00
-modifiedDate: 2025-01-19T08:35:50+01:00
+modifiedDate: 2025-01-19T19:03:13+01:00
 publish: true
 description: Explore the biblical perspective on oath-taking, examining how Jesus's teaching aligns with Old Testament commands while addressing the misuse of oaths in ancient Jewish tradition. Learn the spiritual significance of swearing by God's name versus created things.
 fp-social-media: "\"Swear not at all\" - Did Jesus contradict God's law on oaths? Discover the profound truth behind this seeming paradox. 🤔📖"
 title: Swear Not At All, but Swear By His Name
+permalink: swear-not
 ---
 
 > [!abstract]
