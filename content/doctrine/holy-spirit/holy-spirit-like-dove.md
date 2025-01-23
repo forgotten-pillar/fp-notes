@@ -7,7 +7,7 @@ fpRelatedReads:
 title: The Holy Spirit Like a Dove
 createdDate: 2024-11-03T08:15:20.826+01:00
 description: Explore data which testify that the Holy Spirit is the glory of God
-modifiedDate: 2024-12-24T15:10:47+01:00
+modifiedDate: 2025-01-23T16:49:50+01:00
 permalink: like-dove
 ---
 The visible glory of God given to His Son
