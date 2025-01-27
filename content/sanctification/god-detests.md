@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-23T16:49:51+01:00
-modifiedDate: 2025-01-23T16:49:51+01:00
+modifiedDate: 2025-01-24T09:12:31+01:00
 title: What God Detests
 description: Discover the actions and behaviors the Bible identifies as detestable to God. Gain insight into Scriptural teachings on righteous living, obedience, and spiritual discipline.
 fp-social-media: What does the Bible say God truly detests? Dive into Scripture to uncover timeless lessons on living a righteous life. 📖✨
@@ -103,7 +103,7 @@ Please take all of these verses within their proper context, as in literal conte
 > [!bible] [James 4:4 - KJV](https://www.biblegateway.com/passage/?search=James+4:4&version=kjv)
 > <sup> **4** </sup>Ye adulterers and adulteresses, **know ye not that the friendship of the world is enmity with God**? whosoever therefore will be a friend of the world is the enemy of God.
 
-## 13. **Confession Over Covering Sin**
+## 13. **Covering Sin**
 
 > [!bible] [Proverbs 28:13 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+28:13&version=kjv)
 > <sup> **13** </sup>**He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy**.
@@ -139,7 +139,7 @@ Please take all of these verses within their proper context, as in literal conte
 > <sup> **29** </sup>And if thy right eye offend thee, pluck it out, and cast it  from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.
 > <sup> **30** </sup>And if thy right hand offend thee, cut if off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.
 
-## 19. **Warning Against Lusting After Beauty**
+## 19. **Warning Against Lusting After Strange Woman**
 
 > [!bible] [Proverbs 6:25 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+6:25&version=kjv)
 > <sup> **25** </sup>**Lust not after her beauty in thine heart**; neither let her take thee with her eyelids.
