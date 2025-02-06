@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-01-23T16:49:51+01:00
-modifiedDate: 2025-01-24T09:12:31+01:00
+modifiedDate: 2025-02-01T14:07:00+01:00
 title: What God Detests
 description: Discover the actions and behaviors the Bible identifies as detestable to God. Gain insight into Scriptural teachings on righteous living, obedience, and spiritual discipline.
 fp-social-media: What does the Bible say God truly detests? Dive into Scripture to uncover timeless lessons on living a righteous life. 📖✨
