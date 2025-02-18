@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-02-18T15:48:08+01:00
-modifiedDate: 2025-02-18T15:48:08+01:00
+modifiedDate: 2025-02-18T18:10:26+01:00
 publish: true
 title: "1905-08-05 Letter: Dr. Kellogg to I.G. Butler"
 ---
