@@ -2,7 +2,7 @@
 createdDate: 2025-02-18T15:48:08+01:00
 modifiedDate: 2025-02-18T15:48:08+01:00
 publish: true
-title: "1903-08-05 Letter: Dr. Kellogg to I.G. Butler"
+title: "1905-08-05 Letter: Dr. Kellogg to I.G. Butler"
 ---
 
 [Download](https://forgotten-pillar.s3.us-east-2.amazonaws.com/1905-08-05-kellogg-butler.pdf)
