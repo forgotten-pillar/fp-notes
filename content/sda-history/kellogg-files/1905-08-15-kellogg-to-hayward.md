@@ -4,10 +4,16 @@ modifiedDate: 2025-02-18T15:07:11+01:00
 publish: true
 title: "1905-08-15 Letter: Dr. Kellogg to Dr. Hayward"
 ---
-[Download](https://forgotten-pillar.s3.us-east-2.amazonaws.com/1903-08-15-kellogg-to-hayward.pdf)
+Dr. Kellogg expresses his frustration over brethren which have drew his "truth" into the "*old controversy about the Trinity*" and made it appear loathsome.
 
+An evidence that the Trinity doctrine was a controversy back then - not the pleasant one.
 
-> [!quote]- Transcript
+> [!quote] Quote
+> *These theologians have sought to darken the minds of the people and to make this sweet and beautiful truth appear loathsome to them, **by drawing into it the old controversy about the Trinity***.
+>
+> *I never raised the question as to **which part of God** is present in a man, whether it was **God, the Father**; **God, the Son**; or **God, the Holy Spirit***. The only point was that it is God and not man.
+
+> [!quote]- Transcript *[(scan)](https://forgotten-pillar.s3.us-east-2.amazonaws.com/1903-08-15-kellogg-to-hayward.pdf)*
 > Extract from letter from Dr. Kellogg to Dr. Hayward
 > August 15, 1905.
 >
