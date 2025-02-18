@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-02-18T15:07:13+01:00
-modifiedDate: 2025-02-18T15:07:13+01:00
+modifiedDate: 2025-02-18T15:37:17+01:00
 publish: true
 title: "1903-10-25 Letter: Dr. Kellogg to Prof. W. W. Prescott"
 ---
@@ -18,7 +18,7 @@ TODO: paste examples where Sister White says that
 
 
 
-> [!quote]- Transcript *[(scan)](https://forgotten-pillar.s3.us-east-2.amazonaws.com/1903-10-25-JHKellogg-to-W.W.Prescott.pdf)*
+> [!abstract]- Transcript - 1903-10-25-kellogg-to-prescott* [(scan)](https://forgotten-pillar.s3.us-east-2.amazonaws.com/1903-10-25-JHKellogg-to-W.W.Prescott.pdf)*
 > Prof. W. W. Prescott,  
 > 222 North Capitol st.,  
 > Washington, D.C.  

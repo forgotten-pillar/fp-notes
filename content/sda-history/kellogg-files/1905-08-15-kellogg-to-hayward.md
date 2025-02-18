@@ -13,7 +13,7 @@ An evidence that the Trinity doctrine was a controversy back then - not the plea
 >
 > *I never raised the question as to **which part of God** is present in a man, whether it was **God, the Father**; **God, the Son**; or **God, the Holy Spirit***. The only point was that it is God and not man.
 
-> [!quote]- Transcript *[(scan)](https://forgotten-pillar.s3.us-east-2.amazonaws.com/1903-08-15-kellogg-to-hayward.pdf)*
+> [!abstract]- Transcript - 1905-08-15-kellogg-to-hayward *[(scan)](https://forgotten-pillar.s3.us-east-2.amazonaws.com/1903-08-15-kellogg-to-hayward.pdf)*
 > Extract from letter from Dr. Kellogg to Dr. Hayward
 > August 15, 1905.
 >
