@@ -1,11 +1,11 @@
 ---
 createdDate: 2025-02-08T17:14:05+01:00
-modifiedDate: 2025-02-10T12:08:01+01:00
+modifiedDate: 2025-02-15T17:21:26+01:00
 ---
 ## Death is sleep
 
 > [!bible] [Ecclesiastes 9:5-6 - KJV](https://www.biblegateway.com/passage/?search=Ecclesiastes+9:5-6&version=kjv)
-> <sup> **5** </sup>For the living know that they shall die: **but the dead know not any thing**, **neither have they any more a reward**; for the memory of them is forgotten.
+> <sup> **5** </sup>For the living know that they shall die: **but the dead *know not any thing***, **neither have they any more a reward**; for the memory of them is forgotten.
 > <sup> **6** </sup>Also their love, and their hatred, and their envy, **is now perished**; **neither have they any more a portion for ever in any thing that is done under the sun**.
 
 > [!bible] [Ecclesiastes 9:10 - KJV](https://www.biblegateway.com/passage/?search=Ecclesiastes+9:10&version=kjv)

@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-02-13T08:31:28+01:00
-modifiedDate: 2025-02-13T08:31:28+01:00
+modifiedDate: 2025-02-14T18:50:36+01:00
 title: Thy Kingdom Come
 description: What does it mean to pray ‘Thy Kingdom Come’? Explore the biblical foundation of God’s Kingdom—both present and future—through Scripture. Learn how this powerful prayer calls us to active faith, longing for Christ’s return and His sovereign rule on earth
 fp-social-media: 📖 What does “Thy Kingdom Come” really mean? Is God’s Kingdom already here, or is it yet to come? Discover the biblical truth behind this powerful prayer and why it calls us to action today! ✨
