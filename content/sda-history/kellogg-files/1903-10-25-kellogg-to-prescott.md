@@ -19,10 +19,10 @@ TODO: paste examples where Sister White says that
 
 
 > [!quote]- Transcript *[(scan)](https://forgotten-pillar.s3.us-east-2.amazonaws.com/1903-10-25-JHKellogg-to-W.W.Prescott.pdf)*
-Prof. W. W. Prescott,  
-222 North Capitol st.,  
-Washington, D.C.  
-Dear Brother:--
+> Prof. W. W. Prescott,  
+> 222 North Capitol st.,  
+> Washington, D.C.  
+> Dear Brother:--
 >
 > I have a suggestion to make which I wish you would consider and act upon if you think it advisable. It would help the situation somewhat if you would put a little note in the next REVIEW calling attention to the fact that a revised edition of "The Living Temple" is being prepared and will be ready in two or three weeks. I do not want the people to think that I am going to make a battle over this thing, and perhaps this would be the best way to let them know the contrary. I am preparing a little circular to send out to all our medical missionaries so as to quiet whatever agitation there may be, and get things into a harmonious state as rapidly as possible.
 >
