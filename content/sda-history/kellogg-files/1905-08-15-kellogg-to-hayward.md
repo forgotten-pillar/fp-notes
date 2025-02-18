@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-02-18T14:15:34+01:00
-modifiedDate: 2025-02-18T15:07:11+01:00
+modifiedDate: 2025-02-18T15:20:49+01:00
 publish: true
 title: "1905-08-15 Letter: Dr. Kellogg to Dr. Hayward"
 ---
