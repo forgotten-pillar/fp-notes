@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-02-18T18:10:27+01:00
-modifiedDate: 2025-02-18T18:21:36+01:00
+modifiedDate: 2025-02-19T14:41:32+01:00
 publish: true
 title: 1878 Dr. Kellogg Rejects the Trinity
 tags:

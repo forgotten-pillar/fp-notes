@@ -1,11 +1,12 @@
 ---
 createdDate: 2025-02-18T14:15:34+01:00
-modifiedDate: 2025-02-19T14:03:28+01:00
+modifiedDate: 2025-02-19T18:45:12+01:00
 publish: true
 title: "1905-08-15 Letter: Dr. Kellogg to Dr. Hayward"
 tags:
   - JHKellogg
   - KelloggTrinity
+description: The shocking revelation that Kellogg's spiritualistic ideas were connected with the Trinity doctrine
 ---
 ## Observation
 

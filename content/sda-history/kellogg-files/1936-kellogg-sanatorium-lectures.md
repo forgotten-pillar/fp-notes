@@ -1,11 +1,12 @@
 ---
 createdDate: 2025-02-18T18:21:49+01:00
-modifiedDate: 2025-02-19T14:03:05+01:00
+modifiedDate: 2025-02-19T18:44:35+01:00
 publish: true
 title: 1936 Dr. Kellogg's Sanatorium Lectures
 tags:
   - pantheism
   - JHKellogg
+description: After 29 years after Dr. Kellogg was expelled from SDA church, what did he believe? This lecture revealed the same sentiment which was present in the Living Temple, except it was more pronounced.
 ---
 ## Transcript
 
