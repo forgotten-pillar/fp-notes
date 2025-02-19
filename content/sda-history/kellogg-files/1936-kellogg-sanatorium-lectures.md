@@ -1,8 +1,11 @@
 ---
 createdDate: 2025-02-18T18:21:49+01:00
-modifiedDate: 2025-02-19T13:52:00+01:00
+modifiedDate: 2025-02-19T14:03:05+01:00
 publish: true
 title: 1936 Dr. Kellogg's Sanatorium Lectures
+tags:
+  - pantheism
+  - JHKellogg
 ---
 ## Transcript
 

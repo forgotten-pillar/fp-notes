@@ -3,6 +3,9 @@ createdDate: 2025-02-18T18:10:27+01:00
 modifiedDate: 2025-02-18T18:21:36+01:00
 publish: true
 title: 1878 Dr. Kellogg Rejects the Trinity
+tags:
+  - KelloggTrinity
+  - JHKellogg
 ---
 In 1878, in his book "The Soul and the Resurrection - Harmony of Science and the Bible on the Nature of the Soul and the Doctrine of the Resurrection", J. H. Kellogg made a statement where we can see that he rejects both trinitarian formulation and Athanasian Creed.
 

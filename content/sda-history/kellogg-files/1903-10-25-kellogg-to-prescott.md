@@ -1,8 +1,11 @@
 ---
 createdDate: 2025-02-18T15:07:13+01:00
-modifiedDate: 2025-02-19T13:59:08+01:00
+modifiedDate: 2025-02-19T14:03:59+01:00
 publish: true
 title: "1903-10-25 Letter: Dr. Kellogg to Prof. W. W. Prescott"
+tags:
+  - KelloggTrinity
+  - JHKellogg
 ---
 Dr. Kellogg is announcing for the first time his plan to revise his book the Living Temple.
 

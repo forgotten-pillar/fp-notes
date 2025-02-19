@@ -1,9 +1,14 @@
 ---
 createdDate: 2025-02-18T14:15:34+01:00
-modifiedDate: 2025-02-19T13:54:48+01:00
+modifiedDate: 2025-02-19T14:03:28+01:00
 publish: true
 title: "1905-08-15 Letter: Dr. Kellogg to Dr. Hayward"
+tags:
+  - JHKellogg
+  - KelloggTrinity
 ---
+## Observation
+
 Dr. Kellogg expresses his frustration over brethren which have drew his "truth" into the "*old controversy about the Trinity*" and made it appear loathsome.
 
 An evidence that the Trinity doctrine was a controversy back then - not the pleasant one.

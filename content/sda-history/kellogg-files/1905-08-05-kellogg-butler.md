@@ -1,11 +1,15 @@
 ---
 createdDate: 2025-02-18T15:48:08+01:00
-modifiedDate: 2025-02-19T13:57:01+01:00
+modifiedDate: 2025-02-19T14:03:23+01:00
 publish: true
 title: "1905-08-05 Letter: Dr. Kellogg to I.G. Butler"
+tags:
+  - JHKellogg
+  - KelloggTrinity
 ---
+## Observation
 
-> [!quote] Title
+> [!quote] Quote
 > *In my study of physiology I have recognized the fact that God is working in man at the present time, creating just as he has always been working in continuing and maintaining the work of creation week*. **I never undertook to differentiate between God the Father, God the Son, and God the Holy Ghost. I did not know it was necessary for me to do so. I am not very deep in theological things**.
 
 In his letter to G. I. Butler (August 5, 1905), Dr. John Harvey Kellogg acknowledged his belief in God’s active presence in creation but admitted that he never sought to differentiate between God the Father, God the Son, and God the Holy Ghost, indicating that while he leaned toward a Trinitarian understanding, he did not engage in deep theological distinctions on the matter.
