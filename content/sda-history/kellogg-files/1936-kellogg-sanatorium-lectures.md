@@ -1,12 +1,12 @@
 ---
 createdDate: 2025-02-18T18:21:49+01:00
-modifiedDate: 2025-02-19T10:40:34+01:00
+modifiedDate: 2025-02-19T13:52:00+01:00
 publish: true
 title: 1936 Dr. Kellogg's Sanatorium Lectures
 ---
 ## Transcript
 
-*Note: certain portions of the lecture are unreadable due to the nature of the scan. These portions have been indicated by ---- marks, or [not readable].
+*Note: certain portions of the lecture are unreadable due to the nature of the scan. These portions have been indicated by ---- marks, or* [not readable].
 
 > [!download] [1936-kellogg-sanatorium-lecture](https://forgotten-pillar.s3.us-east-2.amazonaws.com/Sanitarium+Lecture+1936.pdf)
 
