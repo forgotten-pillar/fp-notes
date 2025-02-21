@@ -7,6 +7,7 @@ tags:
   - pantheism
   - JHKellogg
 description: After 29 years after Dr. Kellogg was expelled from SDA church, what did he believe? This lecture revealed the same sentiment which was present in the Living Temple, except it was more pronounced.
+permalink: 1938-kellogg-lecture
 ---
 ## Transcript
 
