@@ -13,6 +13,8 @@ This letter, penned by Dr. John Harvey Kellogg to Sarah McEnterfer on January 28
 ### Who was Sarah McEnterfer?
 
 Historical context supports the conclusion that Sarah McEnterfer served as Ellen White’s nurse and companion. By 1906, Ellen White was in her late 70s and living at the St. Helena Sanitarium, where the letter was addressed. Given her age and health, she relied heavily on assistants. Sarah’s presence at the sanitarium and her involvement in handling Ellen White’s correspondence and reading materials suggest she performed secretarial duties alongside caregiving tasks.
+
+![Ellen White with Sarah McEnter](https://media2.whiteestate.org/images/55._Ellen_G._White_with_Sara_McEnterfer_Elmsh.width-1600.jpg)
 ## Transcript
 
 > [!download] [1906-01-28-kellogg-mcenterfer](https://forgotten-pillar.s3.us-east-2.amazonaws.com/1906-01-28-kellogg-mcenterfer.pdf)

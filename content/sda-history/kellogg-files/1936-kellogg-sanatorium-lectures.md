@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-02-18T18:21:49+01:00
-modifiedDate: 2025-02-19T18:44:35+01:00
+modifiedDate: 2025-02-21T21:03:13+01:00
 publish: true
 title: 1936 Dr. Kellogg's Sanatorium Lectures
 tags:
