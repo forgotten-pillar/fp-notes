@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-02-20T13:19:34+01:00
-modifiedDate: 2025-02-20T14:32:58+01:00
+modifiedDate: 2025-02-22T17:54:06+01:00
 publish: true
 title: "1906-01-28 Letter: Dr. Kellogg to Sarah McEnterfer"
 description: Kellogg’s 1906 letter to Sarah McEnterfer defends The Living Temple and attacks Ellen White, revealing his biased, flawed view of Seventh-day Adventist conflicts.
