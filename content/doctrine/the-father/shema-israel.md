@@ -10,6 +10,7 @@ title: Sh'ma Israel
 modifiedDate: 2025-01-12T19:40:22+01:00
 description: Explore the biblical understanding of monotheism - how Scripture identifies the Father as the one true God while explaining Christ's divine role in worship and salvation.
 fp-social-media: "Sh'ma Istrael is recitation of Deuteronomy 6:4: \"Hear, o Israel: The LORD our God is one LORD\". While many Christians try to make that \"one\" LORD into unity, Christ Himself explains what is meant by Deuteronomy 6. Check the data out:"
+permalink: shema-israel
 ---
 > [!abstract]
 > According to biblical texts and their interpretations, there is only one true God - the Father. Jesus consistently identifies His Father as the one God referenced in Deuteronomy 6, while maintaining a distinct role as Lord and Christ. While worship of Christ is sanctioned by the Father's command, the scriptural emphasis remains on the Father as the singular supreme deity, described as "*the only true God*" and "*one God and Father of all*."
