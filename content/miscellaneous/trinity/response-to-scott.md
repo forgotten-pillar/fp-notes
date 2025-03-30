@@ -5,10 +5,11 @@ publish: true
 title: Response to Scott Ritsema - The Trinity and SDA History
 description: Was Ellen White Trinitarian? Explore the complex history of the Godhead in Adventism. This response analyzes pioneer views on God's Personality vs. the Trinity, re-examining EGW's context using insights from 'The Forgotten Pillar'.
 permalink: response-to-scott
+tts: true
 ---
 
 > [!important] Clarification
-> I was introduced to a video of Brother Scott Ritsema by a friend of mine, who asked for a reply. Because I am running short on time, I added the video and the Forgotten Pillar book to the AI and asked it to write a constructive reply to Brother Scott. The following was figured out entirely by AI, which is significant in my opinion. If artificial intelligence can understand it, then surely God's created intelligence can understand it. I hope this will be an edifying article.
+> I was introduced to a video of Brother Scott Ritsema by a friend of mine, who asked for a reply. Because I am running short on time, I added the video and the Forgotten Pillar book to the AI and asked it to write a constructive reply to Brother Scott. The following was figured out entirely by AI, which is significant in my opinion. If artificial intelligence can understand it, then surely God's created intelligence should understand it too. I hope this will be an edifying article.
 
 ![The Trinity and SDA History](https://www.youtube.com/watch?v=nw0ZRapCWkE)
 
@@ -64,7 +65,7 @@ Brother Scott highlights later Ellen White statements referring to "three living
 
  > "**The Holy Spirit is a person**; for **He beareth witness** with our spirits that we are the children of God." (EGW, Ms 20, 1906; Forgotten Pillar, p. 147, 155)
     
-    The evidence or basis of His personality cited here is His action (bearing witness, searching), establishing His distinct divine intelligence and agency. She never ascribes physical form to the Holy Spirit in the way she does for the Father and Son; He is Spirit, the representative, the "spiritual manifestation" (Forgotten Pillar, p. 156), the means by which the Father and Son are omnipresent.
+ The evidence or basis of His personality cited here is His action (bearing witness, searching), establishing His distinct divine intelligence and agency. She never ascribes physical form to the Holy Spirit in the way she does for the Father and Son; He is Spirit, the representative, the "spiritual manifestation" (Forgotten Pillar, p. 156), the means by which the Father and Son are omnipresent.
     
 - **The Crucial Contrast:** This revealed difference is central to the original pillar of the **Personality of God** and **His Presence**:
     
@@ -75,7 +76,7 @@ Brother Scott highlights later Ellen White statements referring to "three living
  
 >  "God is a spirit; **yet He is a personal being, *for man was made in His image***. As a personal being, God has revealed Himself in His Son..." (EGW, *Ed* 131.5; Forgotten Pillar, p. 106) – The Father's personality is explicitly linked to image/form.
 
-    Ignoring how each member of the "heavenly trio" functions and exists according to revelation, and instead assuming they are persons in the same way (as traditional Trinitarianism and our current FBs imply), leads to the very confusion Ellen White warned against regarding speculation on God's nature.
+ Ignoring how each member of the "heavenly trio" functions and exists according to revelation, and instead assuming they are persons in the same way (as traditional Trinitarianism and our current FBs imply), leads to the very confusion Ellen White warned against regarding speculation on God's nature.
     
 - **Context of "Trio":** The "heavenly trio" statement (Ms 21, 1906), far from endorsing the Trinity, is arguably an anti-Trinitarian statement when read in its full context as detailed in Chapter XVIII of "The Forgotten Pillar." It was written while Ellen White was directly refuting William Boardman's Trinitarian concepts (three persons of one God illustrated by dew, rain, etc.). She corrected his "spiritualistic representations" ("not to be trusted") by affirming the cooperation of the three distinct divine powers/agencies (Father, Son, Spirit), not a three-in-one entity. Her use of "trio" (simply a group of three) was a direct correction of, not an endorsement of, the Trinitarian sentiment she was explicitly warning against (Forgotten Pillar, p. 171-179, 183). This context is vital and often omitted in presentations using this quote to support Trinitarianism.
 
