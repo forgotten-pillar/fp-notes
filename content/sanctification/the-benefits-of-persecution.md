@@ -5,7 +5,7 @@ tags:
   - devotional
 title: The Benefits of Persecution
 description: Discover how trials and tribulations refine faith, foster dependence on God, and prepare believers for Christ’s glory. Explore the purpose of suffering in cultivating holiness and boldness for the Gospel.
-modifiedDate: 2024-12-24T16:48:40+01:00
+modifiedDate: 2025-03-24T06:13:55+01:00
 createdDate: 2024-10-14T08:28:02.528+02:00
 permalink: benefits-of-persecution
 ---
