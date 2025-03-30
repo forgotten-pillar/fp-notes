@@ -1,5 +1,17 @@
+---
+modifiedDate: 2025-03-30T21:56:36+02:00
+---
 Why did not EGW engage in the trinity controversy?
 
 > And I have been shown that we are not to enter into controversy over these spiritualistic theories, because such controversy will only confuse minds. These things are not to be brought into our meetings. We are not to labor to refute them. If our ministers and teachers give themselves to the study of these erroneous theories, some will depart from the faith, giving heed to seducing spirits and doctrines of devils. It is not the work of the gospel minister to voice Satan’s theories. Go steadily forward, building up the old waste places, and restoring the foundations of many generations. Present the truth, sacred, sanctifying truth, and let the seducing theories of the enemy alone. Give him no ground on which to plant the seeds of these theories. I was warned to enter into no controversy over these matters. Let not our ministers or teachers or students give their lips to the repeating of the enemy’s sophistry. 19LtMs, Lt 175, 1904, par. 7
 > The Lord has given our ministers a message to bear. Let them magnify the truth. The Lord has not given us the commission to unravel Satan’s theories by entering into controversy regarding them. Hold up the truth; magnify the truth; say, “It is written.” Our people do not appreciate as they should the saving power of the atonement. They do not understand as they should the meaning of the words, “Christ our Passover is sacrificed for us.” [1 Corinthians 5:7.] 19LtMs, Lt 175, 1904, par. 8
 
+
+
+"The limited capacity of man cannot define this wonderful mystery, the blending of the two natures, the divine and human. It can never be explained. Man must wonder and be silent. And yet man is privileged to be a partaker of the divine nature, and in this way he can to some degree enter into the mystery {6LtMs, Lt 5, 1889, par. 6}
+
+"Christ's mission was not to explain the complexity of his nature, but to give abundant light to those who would receive it by faith. Fallen men who should believe on him would receive the full advantage which could be produced through the mysterious union of humanity and divinity {RH April 23, 1895, par. 7}
+
+I saw that God had especially guarded the Bible, yet learned men, when the copies were few, had changed the words in some instances, thinking that they were making it more plain, when they were mystifying that which was plain, in causing it to lean to their established views, governed by tradition. But I saw that the word of God, as a whole, is a perfect chain, one portion of scripture explaining another. True seekers for truth need not err; for not only is the word of God plain and simple in declaring the way to life, but the Holy Spirit is given to guide in understanding the way of life revealed in his Word. 1SG 117.1
+
+Yes, they would just as easily stumble over plain facts that the common mind will accept and discern the Divine, and to which God’s utterance is plain and beautiful, full of marrow and fatness. All the mistakes will not cause trouble to one soul or cause any feet to stumble that would not manufacture difficulties from the plainest revealed truth. {5LtMs, Ms 16, 1888, par. 7}
