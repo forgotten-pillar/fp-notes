@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-03-30T19:11:55+02:00
-modifiedDate: 2025-03-30T22:57:47+02:00
+modifiedDate: 2025-03-30T23:12:31+02:00
 publish: true
 title: Response to Scott Ritsema - The Trinity and SDA History
 description: Was Ellen White Trinitarian? Explore the complex history of the Godhead in Adventism. This response analyzes pioneer views on God's Personality vs. the Trinity, re-examining EGW's context using insights from 'The Forgotten Pillar'.
