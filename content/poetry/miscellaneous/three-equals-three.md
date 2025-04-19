@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-04-02T19:34:44+02:00
-modifiedDate: 2025-04-02T20:45:29+02:00
+modifiedDate: 2025-04-05T17:31:19+02:00
 poetry: true
 publish: true
 title: Three Equals Equal One

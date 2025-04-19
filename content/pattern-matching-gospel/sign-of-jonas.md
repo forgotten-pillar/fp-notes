@@ -9,6 +9,7 @@ tags:
   - devotional
 description: Discover how Jonah's whale experience prophetically mirrors Christ's death and resurrection through parallel prayers, divine signs, and biblical connections between Old and New Testament narratives.
 fp-social-media: "🐋 From whale's belly to empty tomb: How Jonah's ancient prayer perfectly foreshadowed Christ's resurrection. A fascinating biblical parallel that changes everything! #PatternMatchingGospel"
+permalink: sign-of-jonas
 ---
 ![jonah in the whle](https://forgotten-pillar.s3.us-east-2.amazonaws.com/presecan_mystical_underwater_scene_with_glowing_whale_silhoue_7bc46216-4150-43d4-b219-bd4a6baae28c_0.png)
 
