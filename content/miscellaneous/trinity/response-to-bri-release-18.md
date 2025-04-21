@@ -39,7 +39,7 @@ Ellen White states that the personality of God is the pillar of our faith at the
 
 > "Those who seek to remove the old landmarks are not holding fast; they are not remembering how they have received and heard. Those who try to bring in theories that would remove **the pillars of our faith** concerning the sanctuary, or concerning the **personality of God or of Christ**, are working as blind men. They are seeking to bring in uncertainties and to set the people of God adrift, without an anchor." (_The Forgotten Pillar_, p. 14, quoting Ms62-1905.14)
 
-The BRI pamphlet discusses Ellen White's views on God's attributes (love, eternity, holiness, omnipotence, omnipresence, omniscience) and the essential unity within the Godhead (pp. 7-10, 17-19). These are important aspects, but they are presented without fully integrating them with her directly presented ontological view of God, much stronger, and contextually crucial, emphasis on the distinct, literal personality of the Father and the Son, a pillar seemingly forgotten (or perhaps ignored) in much contemporary discourse.
+The BRI pamphlet discusses Ellen White's views on God's attributes (love, eternity, holiness, omnipotence, omnipresence, omniscience) and the essential unity within the Godhead (pp. 7-10, 17-19), but it largely overlooks her stronger, more contextually crucial emphasis on the distinct, literal personalities of the Father and the Son—a pillar often forgotten or ignored in modern discussions.
 
 ## Historical Context: The Fundamental Principles
 
