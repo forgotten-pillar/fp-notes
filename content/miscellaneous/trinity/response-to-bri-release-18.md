@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-04-19T07:45:03+02:00
-modifiedDate: 2025-04-26T17:31:14+02:00
+modifiedDate: 2025-04-26T17:59:25+02:00
 title: Re-examining Ellen White's Concept of God Beyond the BRI Narrative
 publish: true
 description: Examine how Ellen G. White's teachings on God's personality challenge modern Trinitarian interpretations. Our analysis of "The Forgotten Pillar" reveals crucial historical context missing from the Biblical Research Institute's study, showing White's consistent non-Trinitarian stance throughout her ministry.
