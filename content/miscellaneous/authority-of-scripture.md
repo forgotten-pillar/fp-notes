@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-04-26T19:13:25+02:00
-modifiedDate: 2025-04-26T19:13:25+02:00
+modifiedDate: 2025-04-26T22:46:13+02:00
 title: "The Enduring Word: Why Scripture Alone Must Be Our Ultimate Authority"
 publish: true
 permalink: 28-fb-motion
