@@ -3,6 +3,13 @@ createdDate: 2025-04-26T19:13:25+02:00
 modifiedDate: 2025-04-26T19:13:25+02:00
 title: "The Enduring Word: Why Scripture Alone Must Be Our Ultimate Authority"
 publish: true
+permalink: 28-fb-motion
+tts: true
+description: "Seventh-day Adventists: Is the Bible truly our only creed? Examines the 28 Fundamental Beliefs vs. Scripture's sole authority & calls for action."
+fp-social-media: Is the Bible truly our ONLY creed?" A vital read for Seventh-day Adventists examining the role of the 28 Fundamental Beliefs versus Scripture's ultimate authority. Explore the arguments & a crucial motion for the upcoming General Conference Session. Read, reflect, share!
+tags:
+  - fundamentalBeliefs
+  - SolaScriptura
 ---
 ## Introduction: Anchored in the Word Amidst Last-Day Storms
 
