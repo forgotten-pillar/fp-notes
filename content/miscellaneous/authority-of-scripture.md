@@ -2,7 +2,7 @@
 createdDate: 2025-04-26T19:13:25+02:00
 modifiedDate: 2025-04-26T22:46:13+02:00
 title: "The Enduring Word: Why Scripture Alone Must Be Our Ultimate Authority"
-publish: false
+publish: true
 permalink: 28-fb-motion
 tts: true
 description: "Seventh-day Adventists: Is the Bible truly our only creed? Examines the 28 Fundamental Beliefs vs. Scripture's sole authority & calls for action."
@@ -100,6 +100,12 @@ Therefore, the distinction is critical:
 - **For matters of faith, doctrine, and personal conviction:** God has **only one** authoritative voice – **His Holy Word, the Bible.**
 
 The General Conference facilitates our collective mission; it does not, and must not, dictate personal faith. To allow any human council to define belief authoritatively for the individual conscience is to supplant the Bible's unique role and compromise the foundation of Sola Scriptura. This is distinct from the legitimate function of the church articulating public statements (like the 28 Fundamental Beliefs) to describe its general understanding of Scripture for the world; however, such human summaries must never be presented as having the authority over God's people. The voice of God in regards to faith and conscience is perfectly and sufficiently vocalized in the Bible, and the General Conference should never **usurp** that authority.
+
+Indeed, this distinction is reinforced by Ellen White's broader counsel, which clearly elevates Scripture above all human decisions regarding faith, ensuring consistency with her statements in Testimonies, Volume 9:
+
+> "But God will have a people upon the earth to maintain the Bible, and **the Bible only**, as the standard of all doctrines and the basis of all reforms. The opinions of learned men, the deductions of science, **the creeds or decisions of ecclesiastical councils**, as numerous and discordant as are the churches which they represent, the voice of the majority—not one nor all of these should be regarded as evidence for or against any point of religious faith. Before accepting any doctrine or precept, we should demand a plain 'Thus saith the Lord' in its support." ([The Great Controversy, page 595, par. 1](https://egwwritings.org/read?panels=p132.2689&index=0))
+
+This emphatic statement underscores why the General Conference's authority must be carefully confined to its ordained sphere of planning the work, leaving matters of personal faith and doctrine solely under the jurisdiction of "*Thus saith the Lord*" found in the Bible alone.
 ## Our Path Forward: Restoring Scripture to Its Rightful Place
 
 As Seventh-day Adventists, called to bear God's final message, our stance must be unwavering. We must rally around the divine standard: **The Bible, the whole Bible, and nothing but the Bible, as our only rule of faith and practice.** Our 28 Fundamental Beliefs find their value only insofar as they accurately reflect Scripture and lead us deeper into Scripture. They are the map, derived from the Territory; they must never be treated as the Territory itself.
