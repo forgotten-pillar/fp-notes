@@ -8,6 +8,7 @@ description: Discover A.T. Jones’ bold challenge to traditional trinitarian cr
 fp-social-media: "Are you worshiping the true God—or just an idea of Him?A.T. Jones uncovers how wrong conceptions of God’s nature lead to false worship and spiritual decay. Read how knowing God’s true character transforms hearts and lives.👉 Read now & reflect: “Thou Shalt Have No Other Gods Before Me”"
 tags:
   - ATJones
+tts: true
 ---
 
 > [!abstract]
