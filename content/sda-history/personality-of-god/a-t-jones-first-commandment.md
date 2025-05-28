@@ -9,6 +9,8 @@ fp-social-media: "Are you worshiping the true God—or just an idea of Him?A.T. 
 tags:
   - ATJones
 tts: true
+fpRelatedReads:
+  - the-forgotten-pillar
 ---
 
 > [!abstract]
