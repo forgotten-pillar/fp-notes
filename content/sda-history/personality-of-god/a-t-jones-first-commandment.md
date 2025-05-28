@@ -52,4 +52,4 @@ In the effort to grasp the immensity of space, the mind is overwhelmed, and devo
 
 [^Westminster]: **The Westminster Confession of Faith** (1646) - This Presbyterian confession states of God and of the Holy Trinity: "There is but one only living and true God, who is infinite in being and perfection, a most pure spirit, invisible, without body, parts, or passions, ..." [source](https://learn.ligonier.org/articles/westminster-confession-faith)
 [^churchofengland]: **The Thirty-Nine Articles of the Church of England** (1563) - Article I describes God as Trinity: "*There is but one living and true God, everlasting, **without body, parts, or passions**; of infinite power, wisdom, and goodness; the Maker, and Preserver of all things both visible and invisible. And in unity of this Godhead there be three Persons, of one substance, power, and eternity; the Father, the Son, and the Holy Ghost.*"
-[^nicean]: Nicean Creed (325) [source](https://en.wikipedia.org/wiki/Nicene_Creed)
+[^nicean]: **Nicean Creed** (325) [source](https://en.wikipedia.org/wiki/Nicene_Creed)
