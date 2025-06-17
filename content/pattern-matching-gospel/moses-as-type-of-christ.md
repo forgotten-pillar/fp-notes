@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-06-17T10:27:04+02:00
-modifiedDate: 2025-06-17T10:27:04+02:00
+modifiedDate: 2025-06-17T10:31:12+02:00
 description: Explore the profound connection between Moses and Jesus. This study traces the theme of the "prophet like Moses," revealing Christ's superior glory, authority, and intercession as God's final word to mankind.
 title: "Mouth to Mouth: How Christ Fulfills the Pattern of Moses"
 fp-social-media: "From a mountain on earth to the throne of heaven. See how Jesus Christ fulfills and surpasses the role of Moses, becoming God's final and greatest word to us. #BibleStudy #Typology #Christ"
