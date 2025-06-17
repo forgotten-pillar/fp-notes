@@ -5,6 +5,8 @@ description: Explore the profound connection between Moses and Jesus. This study
 title: "Mouth to Mouth: How Christ Fulfills the Pattern of Moses"
 fp-social-media: "From a mountain on earth to the throne of heaven. See how Jesus Christ fulfills and surpasses the role of Moses, becoming God's final and greatest word to us. #BibleStudy #Typology #Christ"
 publish: true
+permalink: moses-type-of-christ
+tts: true
 ---
 
 > [!abstract] 
