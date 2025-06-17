@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-06-12T06:39:34+02:00
-modifiedDate: 2025-06-12T06:39:34+02:00
+modifiedDate: 2025-06-14T17:43:04+02:00
 title: The Spirit of Prophecy
 publish: true
 tts: true
