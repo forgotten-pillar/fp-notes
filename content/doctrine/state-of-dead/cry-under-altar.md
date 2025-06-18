@@ -14,7 +14,7 @@ tts: true
 ## Introduction:
 
 What happens to the fervent prayers of God's people who suffer and die for their faith? Does the silence of heaven in the face of profound injustice mean God is indifferent? How does the ultimate sacrifice of Jesus Christ reframe the meaning of martyrdom and the cry for justice?
-### The Cry of the Martyrs
+## The Cry of the Martyrs
 
 The book of Revelation opens a window into the spiritual realm. While the vision of the souls under the altar is sometimes used to argue for the doctrine of the soul's inherent immortality, its primary focus within the biblical narrative is symbolic. This study will concentrate on what the vision explicitly describes: the meaning of their location by the altar and the powerful nature of their cry for justice—a cry that finds its ultimate answer in Christ.
 
@@ -46,7 +46,7 @@ While the blood of martyrs cries for righteous justice, the blood of Jesus speak
 > <sup> **11** </sup>For **the stone shall cry out of the wall**, and the beam out of the timber shall answer it.
 > <sup> **12** </sup>**Woe to him that buildeth a town with blood**, and stablisheth a city by iniquity!
 
-### Under the Altar: A Life Poured Out
+## Under the Altar: A Life Poured Out
 
 The location of these souls—"under the altar"—is deeply significant. In the Old Testament sacrificial system, the blood, representing the life of the offering, was poured out at the base of the altar.
 
@@ -61,7 +61,7 @@ By their position, these martyrs are identified with the sacrifices of old, thei
 > [!bible] [Psalms 79:10 - KJV](https://www.biblegateway.com/passage/?search=Psalm+79:10&version=kjv)
 > <sup> **10** </sup>Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by **the revenging of the blood of thy servants which is shed**.
 
-### The Divine Response
+## The Divine Response
 
 The Lord Jesus Himself gives the definitive answer to their plea: God will not ignore the cries of His chosen ones.
 
@@ -90,5 +90,5 @@ Ultimately, their cry for justice is answered not merely with vengeance, but wit
 > <sup> **4** </sup>And I saw thrones, and they sat upon them, and judgment was given unto them: and **I saw the souls of them that were beheaded for the witness of Jesus**, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and **they lived and reigned with Christ a thousand years**.
 
 ## Conclusion:
-The suffering of the saints is never forgotten in the courts of heaven. Their lives, poured out as a sacrifice for the "witness of Jesus," are precious to the Father. Their cry for justice is fully and finally answered in the person of Jesus Christ, who not only judges the world in righteousness but elevates His faithful witnesses from under the altar to a throne of glory, to reign with Him forever.
 
+The suffering of the saints is never forgotten in the courts of heaven. Their lives, poured out as a sacrifice for the "witness of Jesus," are precious to the Father. Their cry for justice is fully and finally answered in the person of Jesus Christ, who not only judges the world in righteousness but elevates His faithful witnesses from under the altar to a throne of glory, to reign with Him forever.
