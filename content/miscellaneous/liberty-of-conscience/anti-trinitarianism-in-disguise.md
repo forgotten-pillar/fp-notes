@@ -151,3 +151,5 @@ The doctrines explored herein, particularly the personality of God, possess a de
 
 Furthermore, to witness the practical, and at times heartrending, consequences of the principles discussed, we direct your attention to another essential record. It recounts the story of two elders of the Chewelah Seventh-day Adventist Church and two faithful pastors who, standing firmly upon the simple language of the Bible, found themselves unable in good conscience to uphold the precise wording of Fundamental Belief #2. The narrative documents the severe ecclesiastical measures they faced for their stand. Their powerful defense of faith, juxtaposed with the misuse of institutional authority, is chronicled in the account, "One God, One Church."
 
+> [!NOTE]
+> The article taken from [libertyofconscience.com](https://libertyofconscience.com/en/posts/anti-trinitarianism-in-disguise)
