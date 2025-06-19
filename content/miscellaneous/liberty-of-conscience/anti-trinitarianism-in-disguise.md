@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-06-11T14:22:00+02:00
-modifiedDate: 2025-06-12T06:38:47+02:00
+modifiedDate: 2025-06-18T13:44:51+02:00
 title: Anti-Trinitarianism in disguise?
 publish: true
 ---
