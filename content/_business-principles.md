@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-06-23T12:14:00+02:00
-modifiedDate: 2025-06-28T09:18:05+02:00
+modifiedDate: 2025-06-28T09:34:45+02:00
 ---
 > [!bible] [Proverbs 22:29 - KJV](https://www.biblegateway.com/passage/?search=Proverbs+22:29&version=kjv)
 > <sup>**29**</sup> Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.
