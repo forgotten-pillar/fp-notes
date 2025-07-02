@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-06-11T14:22:00+02:00
-modifiedDate: 2025-06-18T13:44:51+02:00
+modifiedDate: 2025-07-02T07:30:38+02:00
 title: Anti-Trinitarianism in disguise?
 publish: true
 description: Learn why exalting the Bible as the sole test of faith isn't anti-Trinitarian, but a return to the foundational doctrines of the Seventh-day Adventist church.
