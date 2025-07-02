@@ -3,6 +3,12 @@ createdDate: 2025-06-11T14:22:00+02:00
 modifiedDate: 2025-06-18T13:44:51+02:00
 title: Anti-Trinitarianism in disguise?
 publish: true
+description: Learn why exalting the Bible as the sole test of faith isn't anti-Trinitarian, but a return to the foundational doctrines of the Seventh-day Adventist church.
+tags:
+  - LibertyOfConscience
+tts: true
+fp-social-media: Some fear the "Liberty of Conscience" initiative is a disguised entry for anti-Trinitarianism. But what if Sola Scriptura is the only principle that can safeguard the truth, regardless of our theological leanings?We compare the modern SDA Trinity doctrine with the pioneers' original beliefs on the Godhead. The conclusion is startling.
+permalink: anti-trinitarianism-in-disguise
 ---
 ## Introduction: Proposed Question
 
