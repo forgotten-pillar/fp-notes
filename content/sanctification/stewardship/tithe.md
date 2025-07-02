@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-07-02T07:32:00+02:00
-modifiedDate: 2025-07-02T07:57:53+02:00
+modifiedDate: 2025-07-02T08:09:36+02:00
 title: "The Lord's Tenth: A Study in Divine Ownership and Blessing"
 description: Explore the biblical principle of the tithe. This Bible study reveals how returning God's tenth is an act of faithful stewardship that unlocks divine blessings and deepens our relationship with Christ.
 fp-social-media: "Is the tithe just an old rule? This study reveals it's the key to faithful stewardship & God's promised blessing. See how returning what's His changes everything. #BibleStudy #Tithe #Stewardship"
