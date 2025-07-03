@@ -1,12 +1,15 @@
 ---
 createdDate: 2025-07-03T08:30:49+02:00
-modifiedDate: 2025-07-03T08:30:49+02:00
+modifiedDate: 2025-07-03T10:01:28+02:00
 title: "The Economy of God: Honest Dealings and Eternal Profit"
 description: Discover the biblical link between righteousness and true prosperity. This in-depth Bible study explores God's promises for honest dealings and the stark consequences of injustice, culminating in the ultimate question of eternal profit versus loss.
 fp-social-media: Your work matters to God. But are your business dealings securing a blessing or a curse? This deep-dive Bible study reveals the connection between your integrity and your true prosperity.
 permalink: honest-business
 publish: true
 tts: true
+tags:
+  - BusinessEthics
+  - Tithe
 ---
 > [!abstract]
 > True prosperity is inextricably linked to righteousness. While dishonest gain leads to a divine curse of futility and ultimate judgment, integrity in all dealings—rooted in the character of Christ—secures provision in this life and an imperishable treasure in the life to come. Every transaction is recorded, and the final balance sheet considers the state of the soul, not just the accumulation of wealth.
