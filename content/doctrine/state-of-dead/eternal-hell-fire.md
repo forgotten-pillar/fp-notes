@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-07-15T06:58:34+02:00
-modifiedDate: 2025-07-15T06:58:34+02:00
+modifiedDate: 2025-07-15T07:03:25+02:00
 title: 'The Consuming Fire: Does "Forever" Mean Endless Torment?'
 description: ' Does hell mean eternal torture? This Bible study examines verses on "everlasting fire" and "unquenchable fire," arguing for annihilationism—the complete destruction of the wicked—over eternal conscious torment.'
 fp-social-media: "The idea of eternal torment has misrepresented God's character for centuries. What if the Bible's \"hellfire\" actually means something else entirely? A look at the scriptures reveals a different, more final end for sin. #BibleStudy #Theology #Annihilationism"
