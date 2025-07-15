@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-07-13T09:24:45+02:00
-modifiedDate: 2025-07-13T19:32:47+02:00
+modifiedDate: 2025-07-15T07:06:40+02:00
 publish: true
 title: Rebellion in Heaven
 permalink: rebellion-in-heaven
@@ -142,3 +142,6 @@ The rebellious angels, of high positions, headed by Lucifer, rebelled against Ch
 
 With this we have seen where in the Bible, through typological pictures, the rebellion in Heaven is described. We have also seen this in previous studies in [the Spirit of Prophecy](https://forgottenpillar.com/book/sonship-of-christ-controversy).
 
+
+> [!example] Further Study
+>  Who is the [[archangel-michael|Archangel Michael]] who warred against the dragon in heaven?
