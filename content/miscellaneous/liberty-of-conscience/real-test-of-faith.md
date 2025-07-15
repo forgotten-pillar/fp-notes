@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-07-15T06:31:54+02:00
-modifiedDate: 2025-07-15T06:31:54+02:00
+modifiedDate: 2025-07-15T06:38:15+02:00
 publish: true
 tags:
   - LibertyOfConscience
