@@ -1,7 +1,7 @@
 ---
 createdDate: 2025-02-08T17:14:05+01:00
 modifiedDate: 2025-02-15T17:21:26+01:00
-title: What Happens When I Die?
+title: What Happens After I Die?
 description: "What happens after you die? This Bible study examines verses on the soul, spirit, and body to reveal the true Christian hope: resurrection, not an immortal soul escaping the body."
 fp-social-media: "Does your soul go to heaven when you die? The Bible's answer might surprise you. Death isn't a doorway—it's a sleep. And the only alarm clock is Christ. #BibleStudy #Resurrection #StateOfTheDead"
 tags:
