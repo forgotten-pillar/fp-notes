@@ -104,7 +104,7 @@ This "hell" (the grave) is not a place of eternal fire, but the temporary state 
 > [!bible] [Revelation 20:14 - KJV](https://www.biblegateway.com/passage/?search=Revelation+20:14&version=kjv)
 > <sup> **14** </sup>And **death and hell were cast into the lake of fire**. This is the **second death**.
 
-This second, final death is the ultimate destruction from which there is no resurrection. It is an eternal punishment, not an eternal punishing. Christ warns us to fear this final destruction of the entire person, not merely the first death of the body.
+This second, final death is the ultimate destruction from which there is no resurrection. It is an [[eternal-hell-fire|eternal punishment, not an eternal punishing]]. Christ warns us to fear this final destruction of the entire person, not merely the first death of the body.
 
 > [!bible] [Matthew 10:28 - KJV](https://www.biblegateway.com/passage/?search=Matthew+10:28&version=kjv)
 > <sup> **28** </sup>And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to **destroy both soul and body in hell**.
