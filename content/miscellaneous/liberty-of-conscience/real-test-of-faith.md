@@ -1,0 +1,147 @@
+---
+createdDate: 2025-07-15T06:31:54+02:00
+modifiedDate: 2025-07-15T06:31:54+02:00
+publish: true
+tags:
+  - LibertyOfConscience
+  - Creeds
+title: "The Real Test of Faith: God's Word or Man-Made Doctrines?"
+description: A crucial motion is coming to the General Conference. Learn why restoring the Bible’s supreme authority over the 28 Fundamental Beliefs is vital for the integrity and mission of the Seventh-day Adventist church.
+permalink: real-test-of-faith
+tts: true
+---
+## Introduction: Anchored in the Word Amidst Last-Day Storms
+
+Amidst earth's final, turbulent storms, a single, paramount question confronts Seventh-day Adventists: What is our ultimate source of truth and authority? Upon the answer hinges not merely theological preference, but spiritual survival and the integrity of our mission. A subtle yet profound danger now threatens the bedrock principle of our faith: the elevation of humanly constructed statements—even sincerely intended summaries like the 28 Fundamental Beliefs—to a standing that rivals or functionally supplants the Bible itself. Crafted in fallible human language, these summaries inherently lack the divine inspiration and supreme authority belonging solely to Holy Scripture. When they are transformed into binding tests of faith, a critical line is crossed—a step away from God's design and perilously towards apostasy.
+
+Therefore, two vital truths must be relentlessly reaffirmed:
+
+**The Bible is God’s divinely appointed and all-sufficient guide, fully adequate under the Holy Spirit’s blessing, to shape the belief, experience, and practice of God’s people worldwide.**
+
+**Conversely, the elevation of any human statement or creed, including our own 28 Fundamental Beliefs, to serve as an authoritative test of faith or fellowship, thereby supplanting the Bible’s primary role, represents a clear departure from God’s design and a step towards apostasy.**
+
+This exploration will demonstrate why unwavering adherence to these principles is essential for navigating the challenges ahead and remaining faithful to our divine calling.
+
+## Part 1: The Bible – God’s All-Sufficient Guide
+
+The apostle Paul lays the cornerstone for this conviction in **2 Timothy 3:16-17 (KJV)**:
+
+> [!bible] [2 Timothy 3:16-17 - KJV](https://www.biblegateway.com/passage/?search=2+Timothy+3:16-17&version=kjv)
+> <sup>**16**</sup> All scripture is given by inspiration of God, and is  profitable for doctrine, for reproof, for correction, for instruction in righteousness:
+> <sup>**17**</sup> That the man of God may be perfect, throughly furnished unto all good works.
+
+### The Scope of Scripture’s Sufficiency
+
+How “_profitable_” is Scripture according to this divine testimony? Is its value comparable to other good books? Paul proclaims a far deeper, inherent sufficiency. The “_man of God_”—representing every believer, yet especially highlighting those in leadership whose roles encompass the church’s needs—is rendered “_perfect_” (complete) and “_throughly furnished_” (thoroughly equipped) by Scripture. If the Bible provides such comprehensive equipping for those with the greatest responsibilities, it undeniably furnishes the entire church, individually and corporately, for every spiritual need and every good work.
+
+This profound sufficiency does not negate the necessity of diligent study. Paul commended Timothy for having known the Holy Scriptures from childhood ([2 Timothy 3:15](https://www.biblegateway.com/passage/?search=2+Timothy+3.15&version=KJV)). A perfect guide rewards, indeed demands, earnest exploration; it does not impart its wisdom passively. The Bible yields its divine treasures through active, prayerful engagement: reading, meditating, comparing scripture with scripture, and obeying its precepts. We rightly utilize helpful resources—linguistic tools, historical context, the insights shared by fellow believers and similar tools which are designed to exalt the Bible and lead us to Christ.
+
+The crucial question remains: _How are these aids, including our own doctrinal summaries, to be employed? As authoritative interpreters standing equal to or above Scripture_? God forbid! To do so is to shift the locus of authority from the inspired Word to human interpretation or tradition. If one argues that individual judgment is too unreliable to interpret the Bible directly, how can that same judgment be trusted to accurately interpret the interpreters (commentaries, traditions, or even our Fundamental Beliefs)? This leads to an inescapable logical impasse. The clear import of Paul’s words is that believers should utilize all available tools as servants to understand the text, always recognizing the ultimate authority and weightiest evidence resides within Scripture itself. Guided by the Holy Ghost and employing their God-given reason, believers engage directly with the Word. In doing so, Paul declares, they find the Bible profitable to the point of being complete and thoroughly furnished unto all good works. This is God’s own assessment, not to be diluted by human expediency or tradition.
+
+### Scripture’s Profitability Across All Dimensions of Faith and Life
+
+Paul highlights four key areas where Scripture demonstrates its complete sufficiency:
+
+**"For Doctrine" (Teaching Truth):** This encompasses the full breadth of truth essential for salvation and godly living—understanding the character and personality of God, the great controversy, the plan of redemption, Christ’s life, death, resurrection, priestly ministry in the heavenly sanctuary, and His second coming, the perpetuity of God’s law including the seventh-day Sabbath, the state of the dead, the relationship between law and grace, prophecy, principles of healthful living, biblical church order, and our commission to proclaim the everlasting gospel symbolized by the Three Angels’ Messages ([Revelation 14](https://www.biblegateway.com/passage/?search=Revelation+14&version=KJV)). Scripture is not merely a static repository; approached with a teachable heart, it functions dynamically through the Holy Ghost to make one “_wise unto salvation through faith which is in Christ Jesus_” ([2 Timothy 3:15](https://www.biblegateway.com/passage/?search=2+Timothy+3.15&version=KJV)).
+
+It is sometimes objected that if truth is one, sincere Bible students should not differ. This conflates the objective unity of divine truth with the subjective uniformity of human perception. God’s truth is vast and multifaceted. Human minds are diverse. Absolute uniformity of opinion on every point is neither achievable nor God’s primary design before glorification. Attempting to force all minds into a single interpretive mold ignores God-given individuality. The unity God desires is a unity of reliance upon His Word as the ultimate authority, unity in the foundational truths essential for salvation and present truth, unity in love, and unity in mission—even while allowing for differences in understanding on less central matters.
+
+This unity, rooted in the Bible as the sole standard, has been a hallmark of the Seventh-day Adventist experience. They have forged remarkable unity in their understanding of Scripture, from which their fundamental beliefs arise, not through a human creed but through a divine gift of guidance. Ellen White wrote, “_I recommend to you, dear reader, the Word of God as the rule of your faith and practice. By that Word we are to be judged. God has, in that Word, promised to give visions in the ‘last days’; not for a new rule of faith, but for the comfort of His people,_ _**and to correct those who err from Bible truth**_” (Early Writings, p. 78). This guidance anchors their unity in the Bible alone as the ultimate authority.
+
+The church’s **28 Fundamental Beliefs** stand as a collective attempt to articulate key doctrines purported to be drawn from Scripture. As an acknowledged **human synthesis**, while sometimes referenced as a summary helpful for outlining a common identity or mission focus, they possess no inherent authority. They must ever remain strictly subordinate to the Bible, functioning only as descriptive statements of a general understanding within the church, recognized always as being framed in language, and perpetually subject to re-evaluation and correction by the clearer light revealed through ongoing, prayerful study of the Word itself.
+
+**"For Reproof" (Refuting Error):** This involves the vital function of identifying, exposing, and guarding against false teachings (“heresies”). The Bible itself is God’s ordained instrument for discerning truth from error. Where Scripture is given its rightful place and studied holistically, error cannot ultimately prevail, just as darkness flees before light. God’s Word possesses an inherent power to expose the flaws in human philosophies and counterfeit doctrines. The principle of Sola Scriptura includes the understanding that Scripture interprets Scripture. The surest method for testing any teaching is to bring it to the bar of the full counsel of God’s Word. Interpretations conflicting with the Bible’s overall testimony will wither under its divine light. For maintaining doctrinal purity, God declares His Word alone makes the believer “_perfect, throughly furnished_.” **To suggest that human creeds are necessary as the primary defense against error implicitly questions the adequacy of God’s own provision**.
+
+**"For Correction" (Guiding Conduct and Order):** This pertains to applying God’s principles to daily life, church governance, and restorative discipline. Every attitude or behaviour contrary to Christ’s character and biblical standards can be identified, addressed, and corrected using Scripture alone. If a perceived “offence” cannot be clearly substantiated by biblical principles, it may well be an infraction against humanly devised rules or traditions, not divine law. For establishing and maintaining godly order, the Bible provides the complete and sufficient standard.
+
+**"For Instruction in Righteousness" (Training in Holy Living):** This covers the entire process of spiritual growth and character transformation—nurturing faith, hope, charity, patience, integrity, purity, and practical godliness. What better foundation for shaping a child’s mind than the pure words of Scripture? What more effective guide for a new believer or a seasoned saint than the life and teachings of Jesus? The Bible speaks with ever-increasing depth across all ages and stages of life. It is the means by which we are grafted into Christ, the Living Word ([John 15](https://www.biblegateway.com/passage/?search=John+15&version=KJV)). This vital spiritual development occurs through diligent, personal interaction with the Scriptures, illuminated by the Holy Ghost.
+
+In conclusion, God’s own valuation of His Bible is unequivocal: For teaching essential truth, refuting dangerous error, guiding church life and discipline, and training believers in holiness—Scripture is so profoundly sufficient that the person faithfully guided by it is “_perfect, throughly furnished unto all good works_.” This principle is the non-negotiable foundation of authentic Christianity and the bedrock upon which the Seventh-day Adventist movement must stand.
+
+## Part 2: The Peril of Human Creeds as Authoritative Tests
+
+Having established the Bible’s God-ordained sufficiency, we must confront the critical corollary: **The elevation of any human statement or creed, including our own 28 Fundamental Beliefs, to serve as an authoritative test of faith or fellowship, thereby supplanting the Bible’s primary role, represents a step away from God’s design and towards apostasy.**
+
+### Defining the “Substitution”
+
+What constitutes this dangerous “substitution”? It is not the mere act of summarizing biblical teachings or publishing a statement outlining what a community understands Scripture to teach. Articulating shared beliefs, as we attempt in the 28 Fundamentals, can be helpful for clarity and witness, **provided these summaries are consistently understood as subordinate descriptions derived from the ultimate authority, the Bible.**
+
+The substitution occurs when such a human document, regardless of its general accuracy or the piety of its framers, **is functionally transformed into a required test**. This happens when adherence to the specific wording of the human statement—rather than demonstrated faithfulness to the clear teachings of Scripture itself—becomes the effective standard for church membership, employment, or ministerial standing. This practical elevation is where the step towards apostasy lies. Why is this trajectory so perilous?
+
+### I. It Contradicts the Holy Spirit’s Testimony
+
+The Holy Ghost affirms through Paul that the believer sincerely embracing the Bible is “_perfect, throughly furnished_.” To mandate acceptance of an additional human creed as a test implicitly denies this divine declaration. It suggests the Bible alone is insufficient; the believer is somehow incomplete or unqualified without assenting to the human formulation. **Disturbingly, our church has, at times, engaged in the practice of judging an individual’s faith based on their ability to affirm the precise language of our 28 Fundamental Beliefs synthesis, rather than grounding such judgments solely in their harmony with the Bible itself.** This functionally places the human statement alongside, or even above, the inspired Word as the measure of fidelity, mirroring the very error of historical apostasy. Rome did not deny Christ as Mediator; it added other mediators, diluting His unique sufficiency. Similarly, when we insist that acceptance of “the Bible and this specific creedal statement” is necessary, we risk adding a human requirement to God’s perfect provision.
+
+### II. It Mirrors the Subtle Emergence of Past Apostasies
+
+History teaches that major departures from biblical truth often begin subtly, cloaked in piety. Practices like saint veneration grew from seemingly harmless respect for martyrs into paganized adoration, often fostered by well-meaning leaders oblivious to the long-term consequences. They would have recoiled at warnings, deeming them attacks on piety. Likewise, enforcing conformity through human creeds often starts with good intentions—preserving unity, guarding truth. Yet, this path can subtly shift focus from the living Word to the human summary, paving the way for rigidity and the suppression of further light. **We must honestly ask if our current use of the 28 Fundamental Beliefs, in some instances, reflects this dangerous pattern.**
+
+### III. It Revives a Core Mechanism of Historical Apostasy
+
+A key feature of the Roman apostasy was its claim to be the sole authoritative interpreter of Scripture, using tradition and councils to control or silence the Bible’s direct voice. This control was largely established and maintained through creed-making. The early church had no such imposed tests beyond Scripture. Authoritative creeds emerged later, often intertwined with political power (as seen at Nicea), becoming tools to enforce conformity. The principle established was that human authority could dictate biblical interpretation and exclude dissenters based on creedal adherence. While we reject papal claims, we must vigilantly ensure we do not replicate the underlying principle by allowing our own statements to function as binding tests that override personal, Spirit-led Bible study.
+
+### IV. The Arguments Used Can Echo Problematic Precedents
+
+Historical arguments for authoritative creeds often centered on enforcing uniformity to ensure “purity,” with the majority or hierarchy defining orthodoxy. Today, similar rationales sometimes surface regarding our Fundamental Beliefs: “We need them to keep the denomination pure,” or “They are essential to guard against error.” While doctrinal coherence is vital, when the creed itself, rather than a shared commitment to Scripture, becomes the primary instrument of enforcement, we echo troubling historical methods. **Is denominational purity best served by rigid adherence to a human synthesis, or by fostering a deep, collective faithfulness to the Word of God itself?**
+
+### V. The Practical Pressure Towards Conformity
+
+The system of requiring subscription to a detailed statement of beliefs can exert immense, albeit often subtle, pressure, particularly on ministers, educators, and employees. Fear—not necessarily of overt persecution, but of being deemed “unsound,” losing opportunities, facing disapproval, or hindering institutional success—can stifle the very freedom “_wherewith Christ hath made us free_” ([Galatians 5:1](https://www.biblegateway.com/passage/?search=Galatians+5.1&version=KJV)). This includes the freedom to wrestle honestly with Scripture, to question interpretations, and to seek deeper understanding, responsible primarily to God. **Critically, individuals who are clearly in harmony with the foundational principles of Scripture should not face disfellowshipment or termination simply because they cannot, in good conscience, affirm specific phrases or language within the 28 Fundamental Beliefs that they perceive as potentially unbiblical or inadequately expressed.** Truth does not fear scrutiny. **Therefore, the 28 Fundamental Beliefs, like any human creed, should always be open to respectful questioning and examination in the light of Scripture.** Its proper role is that of a **public synopsis**—a descriptive statement of what Seventh-day Adventists generally understand the Bible to teach—**not a coercive instrument forced upon members or used as an authoritative test of fellowship.** The danger lies in allowing any human document to functionally replace the living process of personal discovery and conviction through the Bible and the Holy Ghost.
+
+## 3. Distinguishing Authority: The General Conference and the Bible
+
+A common misconception persists among some Seventh-day Adventists, suggesting that inspired counsel of Ellen White grants the General Conference Session authority to dictate personal beliefs or function as the ultimate voice of God in matters of faith. This misunderstanding often hinders a clear view of the Bible’s sole authority. However, the very counsel sometimes cited actually clarifies the specific, limited scope of the General Conference’s authority. Consider this key statement:
+
+“_God has ordained that the representatives of His church from all parts of the earth, when assembled in a General Conference, shall have authority. The error that some are in danger of committing is in giving… the full measure of authority and influence that God has vested in His church in the judgment and voice of the General Conference_ _**assembled to plan for the prosperity and advancement of His work.**_” ([Testimonies for the Church, Vol. 9, pp. 260-261](https://egwwritings.org/read?panels=p115.1474&index=0), emphasis added).
+
+This passage explicitly defines the sphere of the General Conference’s God-ordained authority: it is **to plan for the practical organization and missional advancement of the church’s work** globally. The specified “error” is precisely extending this authority, meant for coordinating the work, into the sacred domain of personal faith and conscience, where it does not belong.
+
+Therefore, the distinction is critical:
+
+**- For planning the work and advancing the mission:** The assembled General Conference holds God-ordained authority.
+
+**- For matters of faith, doctrine, and personal conviction:** God has **only one** authoritative voice – **His Holy Word, the Bible.**
+
+The General Conference facilitates our collective mission; it does not, and must not, dictate personal faith. To allow any human council to define belief authoritatively for the individual conscience is to supplant the Bible’s unique role and compromise the foundation of Sola Scriptura. This is distinct from the legitimate function of the church articulating public statements (like the 28 Fundamental Beliefs) to describe its general understanding of Scripture for the world; however, such human summaries must never be presented as having the authority over God’s people. The voice of God in regards to faith and conscience is perfectly and sufficiently vocalized in the Bible, and the General Conference should never **usurp** that authority.
+
+Indeed, this distinction is reinforced by Ellen White’s broader counsel, which clearly elevates Scripture above all human decisions regarding faith, ensuring consistency with her statements in Testimonies, Volume 9:
+
+“_But God will have a people upon the earth to maintain the Bible, and_ _**the Bible only**__, as the standard of all doctrines and the basis of all reforms. The opinions of learned men, the deductions of science,_ _**the creeds or decisions of ecclesiastical councils**__, as numerous and discordant as are the churches which they represent, the voice of the majority—not one nor all of these should be regarded as evidence for or against any point of religious faith. Before accepting any doctrine or precept, we should demand a plain ‘Thus saith the Lord’ in its support._” ([The Great Controversy, page 595, par. 1](https://egwwritings.org/read?panels=p132.2689&index=0))
+
+This emphatic statement underscores why the General Conference’s authority must be carefully confined to its ordained sphere of planning the work, leaving matters of personal faith and doctrine solely under the jurisdiction of “_Thus saith the Lord_” found in the Bible alone.
+
+## The True Basis of Unity: Conscience Subject to God’s Word
+
+Influential voices within the church, such as the Adventist Research Institute (BRI), have addressed the interplay of individual conscience and church unity, stating:
+
+"_In such discussions, people may appeal to religious freedom, that each is free to believe whatever doctrine they choose. This argument, however, misunderstands the concept of religious liberty and shows confusion between church and state. A nation may grant religious freedom to its citizens in recognition that they usually do not have a choice of their nationality. The church, however, is a free association. Any voluntary organization that embraces mutually contradictory teachings, views, or doctrines, risks dividing and thereby undermining itself. And religious freedom does not require the church to accept pluralism. Those who join the church do so because they believe its message; otherwise, they should leave_."
+
+This perspective, however, risks conflating genuine, Bible-anchored liberty of conscience with an undisciplined freedom to believe "whatever doctrine they choose." The liberty we uphold is the sacred obligation to submit one's conscience directly to God's Word, not to human interpretations or institutional consensus. The true "message" of the church, which members affirm, must be the everlasting gospel as revealed in Scripture, not the fallible wording of a human summary.
+
+Indeed, when the logic exemplified by such institutional statements is applied to prioritize conformity to a human document like the 28 Fundamental Beliefs over demonstrated faithfulness to Scripture itself—a reality made evident when individuals, clearly subject to the Bible and Spirit of Prophecy, face discipline—the church is effectively steered from its divine calling as God's movement towards functioning as a mere club. This trajectory not only mirrors the very apostasies that historically elevated human tradition above divine revelation but also inherently challenges the practical reality of the church's claim to uphold the Bible as its sole creed. Regrettably, observed practice has too often demonstrated this latter tendency, fostering an environment more akin to a club than God's Spirit-led people. We therefore constructively invite the BRI and all leadership to champion a liberty of conscience deeply rooted in, and accountable only to, the supreme authority of God's Word, thereby ensuring our actions authentically align with our professed principles.
+
+## Our Path Forward: Restoring Scripture to Its Rightful Place
+
+As Seventh-day Adventists, called to bear God’s final message, our stance must be unwavering. We must rally around the divine standard: **The Bible, the whole Bible, and nothing but the Bible, as our only rule of faith and practice.** Our 28 Fundamental Beliefs find their value only insofar as they accurately reflect Scripture and lead us deeper into Scripture. They are the map, derived from the Territory; they must never be treated as the Territory itself.
+
+We must cultivate an environment where diligent, Spirit-led Bible study is celebrated, where sincere questions are welcomed, and where unity is rooted in our shared commitment to follow God’s Word above all else. Let our ministers preach the Word with power drawn directly from its source. Let every member be a noble Berean, “_searching the scriptures daily, whether those things were so_” ([Acts 17:11](https://www.biblegateway.com/passage/?search=Acts+17.11&version=KJV)).
+
+### A Call to Action for the Upcoming General Conference Session
+
+The principles discussed herein have direct implications for our church’s practice. A critical issue faces us: **Our church officially declares that the Bible is our only creed, yet in practice, the 28 Fundamental Beliefs have come to function as a creed.** The current preamble to the 28 Fundamental Beliefs has proven insufficient to prevent this drift. We are aware of instances where members have been disfellowshipped, and employees terminated, primarily because they could not affirm the precise wording of one or more statements, even while fully accepting the underlying Scriptures and “_the truths upon which the Spirit of God has placed His approval_” ([22LtMs, Ms 125, 1907, par. 15](https://egwwritings.org/read?panels=p14072.8750022&index=0)).
+
+Therefore, to address this discrepancy and safeguard the Bible’s sole authority, a motion will be presented at the upcoming General Conference session. **The motion proposes attaching** a single sentence from the preamble to the **1872 Fundamental Principles** to the end of the existing preamble for the **28 Fundamental Beliefs**. This addition aims to clarify that the 28 Fundamental Beliefs serve primarily as a descriptive synopsis and to prevent their misuse as a binding, authoritative creed. The historically significant sentence is:
+
+**"**_**We do not put forth this as having any authority with our people, nor is it designed to secure uniformity among them, as a system of faith, but is a brief statement of what is, and has been, with great unanimity, held by them.**_**"**
+
+If this motion is adopted, the preamble would read:
+
+"_Seventh‑day Adventists accept the Bible as their only creed and hold certain fundamental beliefs to be the teaching of the Holy Scriptures. These beliefs, as set forth here, constitute the church’s understanding and expression of the teaching of Scripture. Revision of these statements may be expected at a General Conference Session when the church is led by the Holy Spirit to a fuller understanding of Bible truth or finds better language in which to express the teachings of God’s Holy Word._ _**We do not put forth this as having any authority with our people, nor is it designed to secure uniformity among them, as a system of faith, but is a brief statement of what is, and has been, with great unanimity, held by them.**_"
+
+We must prayerfully consider the implications of accepting or rejecting this addition. Choosing not to add this clarifying historical sentence might suggest a collective desire, perhaps unconscious, to continue using the 28 Fundamental Beliefs as a functional creed. If that is the case, then integrity demands we revise the preamble’s opening claim that “_Seventh-day Adventists accept the Bible as their only creed_,” because our actions would contradict our words. Let us either adopt this sentence to safeguard the Bible’s sole authority or honestly align our preamble with our current practice.
+
+Let us therefore approach this decision with solemn reflection. Let us either adopt this historic sentence to clearly reaffirm the Bible’s sole authority in both principle and practice, or let us honestly align our stated preamble with our actual use of the Fundamental Beliefs. May our actions honor God’s Word and uphold the sacred principle of _Sola Scriptura_ as we navigate the final moments before our Lord’s return.
+
+The final conflict looms. Judgment must begin at the house of God ([1 Peter 4:17](https://www.biblegateway.com/passage/?search=1+Peter+4.17&version=KJV)). Our only safety lies in being firmly grounded upon the unshakeable Word of God. Let us hold high the banner of [Revelation 14:12](https://www.biblegateway.com/passage/?search=Revelation+14.12&version=KJV) – “_Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus_.” This faithfulness flows directly from allowing His Word, and His Word alone, illuminated by His Spirit, to be our supreme and all-sufficient guide.
+
+Taken from: [libertyofconscience.com - The Real Test of Faith: God's Word or Man-Made Doctrines?](https://libertyofconscience.com/en/posts/the-real-test-of-faith-gods-word-or-man-made-doctrines) 
