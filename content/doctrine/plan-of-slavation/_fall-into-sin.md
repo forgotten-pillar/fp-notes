@@ -1,6 +1,8 @@
 ---
 createdDate: 2025-07-19T08:46:20+02:00
 modifiedDate: 2025-07-19T08:57:32+02:00
+publish: true
+title: The Fall
 ---
 Shortly after Adam and Eve were created, Satan, observing this and their Eden home, contemplated introducing them into rebellion by leading them to break God's explicit command.
 
@@ -174,9 +176,7 @@ This temptation and fall happened as soon as the world was created, right at the
 
 God and Christ knew from the beginning everything that would happen:
 
-> "**From the beginning, God and Christ knew of the apostasy of Satan, and of the fall of man** through the deceptive power of the apostate. God did not ordain that sin should exist, but He foresaw its existence, and made provision to meet the terrible emergency. So great was His love for the world, that He covenanted to give His only-begotten Son, "that whosoever believeth in Him should not perish, but have everlasting life." John 3
-> 
-> ." {DA 22.2}
+> "**From the beginning, God and Christ knew of the apostasy of Satan, and of the fall of man** through the deceptive power of the apostate." {DA 22.2}
 
 The way Satan led Adam and Eve to sin was through misrepresenting God's character:
 
@@ -208,15 +208,9 @@ Many consider Adam's sin small, and the punishment too great. What was really th
 
 > "**The law of self is erected, the will of man is made supreme, and when the high and holy will of God is presented to be obeyed, respected, and honored, the human will wants its own way**, and to choose how far it shall [go] to do its own promptings, and there is controversy between the human agent and the divine." {Ms1-1892.12}
 
-> "**The fall of our first parents broke the golden chain of implicit obedience of the human will to the divine. Obedience has no longer been deemed an absolute necessity.** The human agents follow their own imaginations which the Lord said of the inhabitants of the old world were evil and that continually. **The Lord Jesus declares, I have kept my Father's commandments. [John 15**
-> 
-> **.] How? As a man**. Lo, I come to do Thy will, O God. To the accusations of the Jews He stood forth in His pure, virtuous, holy character and challenged them, "Who of you, convinceth me of sin?" [John 8
-> 
-> .]" {Ms1-1892.13}
+> "**The fall of our first parents broke the golden chain of implicit obedience of the human will to the divine. Obedience has no longer been deemed an absolute necessity.** The human agents follow their own imaginations which the Lord said of the inhabitants of the old world were evil and that continually. **The Lord Jesus declares, I have kept my Father's commandments. [John 15:10.] How? As a man**. Lo, I come to do Thy will, O God. To the accusations of the Jews He stood forth in His pure, virtuous, holy character and challenged them, "Who of you, convinceth me of sin?" [John 8:46]" {Ms1-1892.13}
 
-> "**Jesus says, "Follow me,"** "He that followeth me shall not walk in darkness, but shall have the light of life." [John 8
-> 
-> .] **Consider it not a hard duty.** **<u>The commandments of God are His expressed character flowing out of a heart of love, of thoughtful plans that man may be preserved from every evil. They are not an arbitrary authority over man</u>**, **but the Lord would have men as His obedient children and members of His own family.**" {Ms1-1892.20}
+> "**Jesus says, "Follow me,"** "He that followeth me shall not walk in darkness, but shall have the light of life." [John 8:12] **Consider it not a hard duty.** **<u>The commandments of God are His expressed character flowing out of a heart of love, of thoughtful plans that man may be preserved from every evil. They are not an arbitrary authority over man</u>**, **but the Lord would have men as His obedient children and members of His own family.**" {Ms1-1892.20}
 
 In connection with this, Satan claims precisely that, that we cannot keep God's commandments after Adam's fall. But God's commandments are not burdensome and Christ proved this when He came to the world:
 
@@ -225,6 +219,7 @@ In connection with this, Satan claims precisely that, that we cannot keep God's 
 Here again we see that the Law is what God forbade Adam, that is, what He told him. God's Word is Law.
 
 Scripture says:
+
 > [!bible] [Romans 6:23 - KJV](https://www.biblegateway.com/passage/?search=Romans+6:23&version=kjv)
 > <sup>**23**</sup> **For the wages of sin is death**; but the gift of God is  eternal life through Jesus Christ our Lord.
 

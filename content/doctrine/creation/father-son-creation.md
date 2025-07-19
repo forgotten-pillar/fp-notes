@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-07-19T08:41:08+02:00
-modifiedDate: 2025-07-19T08:46:10+02:00
+modifiedDate: 2025-07-19T09:26:25+02:00
 publish: true
 title: Creation of the Earth
 ---
