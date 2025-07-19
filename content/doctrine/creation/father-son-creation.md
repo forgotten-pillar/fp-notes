@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-07-19T08:41:08+02:00
-modifiedDate: 2025-07-19T09:26:25+02:00
+modifiedDate: 2025-07-19T11:28:37+02:00
 publish: true
 title: Creation of the Earth
 ---
@@ -185,9 +185,7 @@ Adam and Eve were then acquainted with God's Law:
 
 > "**Adam and Eve at their creation had knowledge of the original law of God. It was imprinted upon their hearts, and they were acquainted with the claims of law upon them**." {RH April 29, 1875, par. 4}
 
-> "Before this earth was called into being, God's law existed. Angels are governed by its principles, and in order for earth to be in harmony with heaven, humanity also must obey the divine statutes. **To Adam and Eve in Eden Christ made known the precepts of the law** "when the morning stars sang together, and all the sons of God shouted for joy." (Job 38
-> 
-> .) The mission of Christ on earth was not to destroy the law, but by His grace to bring us back to obedience to its precepts." {HB 181.2}
+> "Before this earth was called into being, God's law existed. Angels are governed by its principles, and in order for earth to be in harmony with heaven, humanity also must obey the divine statutes. **To Adam and Eve in Eden Christ made known the precepts of the law** "when the morning stars sang together, and all the sons of God shouted for joy." (Job 38:7) The mission of Christ on earth was not to destroy the law, but by His grace to bring us back to obedience to its precepts." {HB 181.2}
 
 > "The law of the Lord is perfect, converting the soul." **God's law is a transcript of His character and was given to man in the garden of Eden as the rule of obedience**. In succeeding ages this law was lost sight of." {Ms83-1903.9}
 
