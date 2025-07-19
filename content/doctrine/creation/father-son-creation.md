@@ -8,7 +8,7 @@ When God was creating the world, He did so through His Son. Scripture testifies 
 
 > [!bible] [Hebrews 1:1-2 - KJV](https://www.biblegateway.com/passage/?search=Hebrews+1:1-2&version=kjv)
 > <sup>**1**</sup> God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
-> <sup>**2**</sup> Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, **
+> <sup>**2**</sup> Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, **by whom also he made the worlds**;
 
 > [!bible] [John 1:3 - KJV](https://www.biblegateway.com/passage/?search=John+1:3&version=kjv)
 > <sup>**3**</sup> **All things were made by him**; and without him was not any thing made that was made.
