@@ -4,6 +4,8 @@ modifiedDate: 2025-07-22T10:22:40+02:00
 title: Pattern Matching Sex and the Gospel
 publish: true
 permalink: sex-and-gospel
+tts: true
+description: In an age of confusion, Scripture reveals a sacred truth about sex. Learn how marital intimacy is a "great mystery" that tells the story of Christ and His church.
 ---
 ## Introduction
 
@@ -13,7 +15,7 @@ The first divine mandate given to humanity, immediately following their creation
 
 > [!bible] [Genesis 1:27-28 - KJV](https://www.biblegateway.com/passage/?search=Genesis+1:27-28&version=kjv)
 > <sup>**27**</sup> So God created man in his own image, in the image of God created he him; male and female created he them.
-> <sup>**28**</sup> And God blessed them, and God said unto them, **Be fruitful, and multiply**, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
+> <sup>**28**</sup> And God blessed them, and God said unto them, **Be fruitful, and multiply**, and replenish the earth, and subdue it...
 
 The commandment to "be fruitful, and multiply" was not a divine afterthought but was woven into the fabric of God's original design for humanity. Sexual union, therefore, was instituted by God Himself as the sacred means by which His creative purpose would be fulfilled, intended to be realized exclusively within the beautiful and holy institution of marriage. This foundational principle of marriage is immediately established in the subsequent chapter.
 
