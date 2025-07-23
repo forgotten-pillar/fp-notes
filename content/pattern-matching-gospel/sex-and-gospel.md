@@ -1,8 +1,9 @@
 ---
 createdDate: 2025-07-18T06:26:32+02:00
-modifiedDate: 2025-07-18T06:26:32+02:00
+modifiedDate: 2025-07-22T10:22:40+02:00
 title: Pattern Matching Sex and the Gospel
 publish: true
+permalink: sex-and-gospel
 ---
 ## Introduction
 
@@ -151,7 +152,7 @@ Within the perfect pleasure of Eden, where every need was met and every fruit wa
 
 Herein lies the central drama. The serpent’s temptation was an invitation to look outside the perfect, all-sufficient relationship with God and desire a fruit that was forbidden. The essence of this sin, therefore, is the very essence of adultery: **to consume the fruit of another.** To consume the fruit which doesn't belong to you. The Tree of the Knowledge of Good and Evil and its fruit did not belong to Adam and Eve; it was the one thing God had reserved. To desire it, take it, and consume it was to commit an act of profound spiritual unfaithfulness.
 
-Also, the name of the tree was not coincidental, for it was given by God Himself. This tree hides knowledge — and so does sex. The Bible speaks of it as knowledge: "And Adam **knew** Eve his wife; and she conceived, and bare Cain." ([Genesis 4:1](https://www.biblegateway.com/passage/?search=Genesis+4.1&version=KJV)). See also [Genesis 4:17](https://www.biblegateway.com/passage/?search=Genesis+4.17&version=KJV); [4:25](https://www.biblegateway.com/passage/?search=Genesis+4.25&version=KJV); [19:5](https://www.biblegateway.com/passage/?search=Genesis+19.5&version=KJV); [Judges 19:25](https://www.biblegateway.com/passage/?search=Judges+19.25&version=KJV).
+Also, the name of the tree was not coincidental, for it was given by God Himself. This tree hides knowledge — and so does sex. The Bible speaks of it as knowledge: "And Adam **knew** Eve his wife; and she conceived, and bare Cain." ([Genesis 4:1](https://www.biblegateway.com/passage/?search=Genesis+4.1&version=KJV)). See also [Genesis 4:17](https://www.biblegateway.com/passage/?search=Genesis+4.17&version=KJV), [25](https://www.biblegateway.com/passage/?search=Genesis+4.25&version=KJV); [19:5](https://www.biblegateway.com/passage/?search=Genesis+19.5&version=KJV); [Judges 19:25](https://www.biblegateway.com/passage/?search=Judges+19.25&version=KJV).
 
 When Eve "took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat" ([Genesis 3:6](https://www.biblegateway.com/passage/?search=Genesis+3.6&version=KJV)), they violated the exclusive terms of their covenant. This act perfectly mirrors the betrayal of physical adultery, where one spouse seeks intimacy outside the sacred "garden" of marriage, tasting a fruit, and getting the knowledge, that does not belong to them. This first sin in the garden gives eternal weight to the laws against adultery; it reveals that sexual fidelity is not merely a social contract, but a reflection of our primary call to be utterly and exclusively faithful to God.
 
@@ -201,3 +202,7 @@ The security of the covenant, the joy of unveiled intimacy, the life that can fl
 This is the glorious fulfillment of the work the first Adam was meant to do. Where he failed to "keep" the garden, Christ, the Second Adam, has succeeded in building an eternal city for His bride. Our final calling is to the **"marriage supper of the Lamb"** ([Revelation 19:9](https://www.google.com/search?q=https://www.biblegateway.com/passage/%3Fsearch%3DRevelation%2B19.9%26version%3DKJV)), the eternal celebration of our union with Him.
 
 From the first command to be "one flesh" in Genesis to the final marriage supper in Revelation, the theme is one. The Bible is not a disjointed collection of laws and stories. It is a single, coherent narrative, from cover to cover. This begs the ultimate question, which we will explore next: Can the entire Bible be read as the greatest love story ever told?
+
+
+> [!example] Follow Up Study
+> TODO: The Gospel as the Love Story
