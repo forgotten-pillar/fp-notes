@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-07-17T09:15:51+02:00
+createdDate: 2025-07-26T09:46:22+02:00
 modifiedDate: 2025-07-26T09:46:22+02:00
 publish: true
 title: The Plan Revealed
