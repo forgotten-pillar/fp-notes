@@ -208,3 +208,6 @@ From the first command to be "one flesh" in Genesis to the final marriage supper
 
 > [!example] Follow Up Study
 > TODO: The Gospel as the Love Story
+
+> [!youtube]- Deep Dive Podcast
+> ![video](https://youtu.be/a0GRmbJLUAE)

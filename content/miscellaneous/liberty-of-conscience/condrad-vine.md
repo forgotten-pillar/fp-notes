@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-08-09T08:02:41+02:00
-modifiedDate: 2025-08-09T08:02:41+02:00
+modifiedDate: 2025-08-09T08:51:48+02:00
 title: "When Conscience is Canceled: Dr. Conrad Vine and the Cry for a Reformation of Faith"
 publish: true
 description: "The ban of Dr. Conrad Vine asks a hard question for Adventists: Is our ultimate authority church policy or the Bible? Discover the truth behind this conflict."
