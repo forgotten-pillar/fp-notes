@@ -11,7 +11,7 @@ In the great drama of God’s remnant people, moments arise that serve as a litm
 
 His ordeal, which began with a principled stand during the pandemic mandates and culminated in an unbiblical ban from speaking, exposes a critical vulnerability within Adventism: the tendency for church policy and administrative authority to supersede the clear teachings of Scripture and the procedural rights of its members. Dr. Vine’s story is a summons for every Seventh-day Adventist to re-examine our ultimate authority and to stand, as he has, for the truth “in an era of universal deceit.”
 
-**Part 1: The Principle Tested – When Policy Contradicts Conscience**
+## Part 1: The Principle Tested – When Policy Contradicts Conscience
 
 The core of this conflict was ignited when the General Conference issued a statement that effectively neutralized the principle of religious liberty concerning vaccine mandates. It declared:
 
