@@ -7,6 +7,9 @@ permalink: sex-and-gospel
 tts: true
 description: In an age of confusion, Scripture reveals a sacred truth about sex. Learn how marital intimacy is a "great mystery" that tells the story of Christ and His church.
 ---
+
+> [!youtube]- Deep Dive Podcast
+> ![video](https://youtu.be/a0GRmbJLUAE)
 ## Introduction
 
 In an age saturated with distorted and trivialized views of sexuality, a profound and sacred truth lies buried within the pages of Scripture, waiting to be rediscovered. What if the physical union between a husband and wife was intentionally designed by God to be more than a biological function or a mere expression of affection? What if it is, in fact, a holy object lesson—a "great mystery"—that contains the very blueprint of the Gospel story? This exploration will demonstrate that God encoded the narrative of His covenantal love for humanity into the fabric of marital intimacy. By peeling back layers of cultural misunderstanding and returning to God's original design, we will uncover how the "one flesh" union serves as a living, breathing parable of the relationship between Christ and His church, revealing truths about God's desire for us that are as stunning as they are transformative.
@@ -209,5 +212,5 @@ From the first command to be "one flesh" in Genesis to the final marriage supper
 > [!example] Follow Up Study
 > TODO: The Gospel as the Love Story
 
-> [!youtube]- Deep Dive Podcast
-> ![video](https://youtu.be/a0GRmbJLUAE)
+> [!youtube]- Visual Explainer
+> ![video](https://www.youtube.com/watch?v=NXGUx2A_hLw)
