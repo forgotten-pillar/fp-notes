@@ -21,7 +21,7 @@ As Dr. Vine rightly identified, this single sentence was “weaponized” agains
 
 This created a spiritual crisis. The very organization chartered to defend liberty of conscience publicly disavowed its application in a moment of intense personal and global pressure. The issue was never about the merits of a particular medical choice, but about who holds ultimate authority over the believer’s body and soul: God or a committee? Dr. Vine’s decision to address this and other encroaching secular ideologies was not an act of rebellion, but an act of pastoral fidelity—equipping members to stand on biblical truth when the institution would not stand with them.
 
-**Part 2: The Consequence of Speaking Truth – Ecclesiastical Cancel Culture**
+## Part 2: The Consequence of Speaking Truth – Ecclesiastical Cancel Culture
 
 The response to Dr. Vine’s principled preaching was swift and telling. As he courageously addressed the godless ideologies infiltrating our institutions, he was met not with theological engagement, but with what he accurately termed “cancel culture.” This culminated in the Michigan Conference, at the behest of union and General Conference leaders, banning him from speaking in the very pulpits he was called to serve.
 
@@ -33,7 +33,7 @@ This process was a masterclass in the abuse of power, marked by what the Norther
 
 This is not the method of Christ; it is the method of coercive power. It is the very "highhanded power" Ellen White warned against, which "makes men gods" and "is a curse wherever and by whomsoever it is exercised" (*Testimonies to Ministers*, p. 361). When leaders resort to silencing voices rather than engaging them with an open Bible, they betray a fear that their position cannot withstand scriptural scrutiny. They cease to be shepherds and begin to act as dictators.
 
-**Part 3: The Unchanging Standard – The Bible and the Bible Only**
+## Part 3: The Unchanging Standard – The Bible and the Bible Only
 
 Dr. Vine’s experience is a powerful illustration of the central theme of this ministry: the danger of substituting human authority for God’s Word. The administrative overreach he faced is a direct parallel to the danger of elevating the 28 Fundamental Beliefs to the status of a creed.
 
@@ -45,7 +45,7 @@ As Ellen White so powerfully declared:
 
 Dr. Vine’s defense is rooted in this very principle. When challenged on his positions regarding tithe, parachurch organizations, and the remnant, his response was not based on personal opinion but on a direct appeal to the Bible and the Spirit of Prophecy—the only ground upon which any true Seventh-day Adventist should be expected to stand.
 
-**Conclusion: A Call to Uphold the Standard**
+## Conclusion: A Call to Uphold the Standard
 
 The vote by the Village Church to reinstate Dr. Conrad Vine to their pulpit was more than a local decision; it was a beacon of hope. It was a declaration that the local body of Christ, the priesthood of all believers, retains its God-given authority and will not be subjugated by unwarranted administrative control. It affirmed that the principles of due process, open dialogue, and biblical accountability matter.
 
