@@ -1,7 +1,7 @@
 ---
 createdDate: 2025-07-19T10:37:00+02:00
 modifiedDate: 2025-07-19T10:40:59+02:00
-publish: true
+publish: false
 title: Creation of the Earth PL
 ---
 Gdy Bóg stwarzał świat, czynił to przez swojego Syna. Pismo Święte świadczy nam o tym następująco:

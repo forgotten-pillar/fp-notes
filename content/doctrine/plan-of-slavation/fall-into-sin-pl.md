@@ -1,7 +1,7 @@
 ---
 createdDate: 2025-07-19T11:29:03+02:00
-modifiedDate: 2025-07-20T08:41:01+02:00
-publish: true
+modifiedDate: 2025-08-09T12:23:28+02:00
+publish: false
 title: The Fall PL
 ---
 Wkrótce po stworzeniu Adama i Ewy, Szatan, obserwując to oraz ich dom w Edenie, rozważał wprowadzenie ich w bunt poprzez nakłonienie ich do złamania wyraźnego polecenia Boga.

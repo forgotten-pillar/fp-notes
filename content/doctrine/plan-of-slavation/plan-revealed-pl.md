@@ -1,7 +1,7 @@
 ---
 createdDate: 2025-08-09T10:22:55+02:00
-modifiedDate: 2025-08-09T10:22:55+02:00
-publish: true
+modifiedDate: 2025-08-09T12:23:11+02:00
+publish: false
 title: The Plan Revealed PL
 ---
 Adam i Ewa popadli w grzech. Teraz będziemy studiować i rozważać wielki i chwalebny plan zbawienia, jaki Ojciec i Syn mieli dla zbawienia człowieka. Jest on również nazywany Przymierzem między Ojcem a Synem.
