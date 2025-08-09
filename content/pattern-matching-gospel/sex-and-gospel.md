@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-07-21T06:26:32+02:00
-modifiedDate: 2025-07-27T19:57:56+02:00
+modifiedDate: 2025-08-09T10:18:55+02:00
 title: Pattern Matching Sex and the Gospel
 publish: true
 permalink: sex-and-gospel
