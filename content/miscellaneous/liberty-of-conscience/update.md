@@ -3,6 +3,7 @@ createdDate: 2025-08-16T09:31:40+02:00
 modifiedDate: 2025-08-16T09:31:40+02:00
 title: "Pressing Together: An Update on the Path Forward for Sola Scriptura"
 publish: true
+tts: true
 ---
 Before the recent General Conference Session, a conversation began, rooted in our shared love for God’s Word and His church. Thousands joined a call to reaffirm a cherished Seventh-day Adventist principle: that the **Bible, and the Bible alone**, is our only creed. The goal was to ensure our practices always align with this foundational truth by adding a clarifying sentence from our own history to the preamble of the 28 Fundamental Beliefs.
 
