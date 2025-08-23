@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-08-23T07:36:11+02:00
-modifiedDate: 2025-08-23T07:36:11+02:00
+modifiedDate: 2025-08-23T07:46:34+02:00
 title: Covenant Conditions
 publish: true
 ---
