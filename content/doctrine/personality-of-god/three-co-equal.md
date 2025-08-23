@@ -14,7 +14,7 @@ fpRelatedReads:
   - rediscovering-the-pillar
   - the-forgotten-pillar
 createdDate: 2024-12-22T10:06:16.613+02:00
-modifiedDate: 2025-08-23T07:54:04+02:00
+modifiedDate: 2025-08-23T07:59:39+02:00
 ---
 
 
