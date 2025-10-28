@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-10-25T08:04:43+02:00
-modifiedDate: 2025-10-25T08:04:43+02:00
+modifiedDate: 2025-10-28T06:41:59+01:00
 publish: true
 title: Adam - Image of Christ
 ---
