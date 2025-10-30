@@ -1,6 +1,7 @@
 ---
 createdDate: 2025-10-28T06:43:55+01:00
-modifiedDate: 2025-10-28T06:43:55+01:00
+modifiedDate: 2025-10-29T07:51:47+01:00
+title: Scriptures
 ---
 1. By what name are the sacred writings of the Bible commonly known?
 
