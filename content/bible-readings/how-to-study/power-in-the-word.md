@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-10-30T06:57:01+01:00
-modifiedDate: 2025-10-30T06:57:01+01:00
+modifiedDate: 2025-10-31T05:29:33+01:00
 title: Power in the Word
 ---
 1. Through what agency did God create the heavens?
