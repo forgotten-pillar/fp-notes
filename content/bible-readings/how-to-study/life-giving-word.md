@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-10-31T05:29:34+01:00
-modifiedDate: 2025-10-31T05:29:34+01:00
+modifiedDate: 2025-11-01T10:10:38+01:00
 title: The Life-Giving Word
 ---
 1. What is the nature of the word of God?
