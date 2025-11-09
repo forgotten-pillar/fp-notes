@@ -4,6 +4,7 @@ modifiedDate: 2025-11-09T08:48:46+01:00
 publish: true
 title: The Complete Record of John the Baptist
 description: This document compiles all verses related to John the Baptist from the King James Version of the Bible, organized in chronological order of the events of his life.
+tts: true
 ---
 This document compiles all verses related to John the Baptist from the King James Version of the Bible, organized in chronological order of the events of his life.
 ## Prophecies About John the Baptist
