@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-11-01T10:10:43+01:00
-modifiedDate: 2025-11-01T10:10:43+01:00
+modifiedDate: 2025-11-08T09:43:27+01:00
 title: Abraham - type of Christ
 publish: true
 ---
