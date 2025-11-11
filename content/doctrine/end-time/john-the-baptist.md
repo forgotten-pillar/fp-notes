@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-11-09T08:47:57+01:00
-modifiedDate: 2025-11-09T08:48:46+01:00
+modifiedDate: 2025-11-11T07:51:27+01:00
 publish: true
 title: The Complete Record of John the Baptist
 description: This document compiles all verses related to John the Baptist from the King James Version of the Bible, organized in chronological order of the events of his life.
@@ -15,11 +15,14 @@ This document compiles all verses related to John the Baptist from the King Jame
 > [!bible] [Malachi 3:1 - KJV](https://www.biblegateway.com/passage/?search=Malachi+3:1&version=kjv)
 > <sup>**1**</sup> Behold, **I will send my messenger**, and **he shall prepare the way before me**: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.
 
-
 > [!bible] [Malachi 4:5-6 - KJV](https://www.biblegateway.com/passage/?search=Malachi+4:5-6&version=kjv)
 > <sup>**5**</sup> Behold, I will send you **Elijah the prophet** before the coming of the great and dreadful day of the LORD: 
 > <sup>**6**</sup> And **he shall turn the heart of the fathers to the children, and the heart of the children to their fathers**, lest I come and smite the earth with a curse.
 
+Application for 144k:
+- The mission/purpose is clearly set: we are clearly to "*prepare the way of the LORD*", before Christ's second coming - "*before the coming of the great and dreadful day of the LORD*"
+- The message needs to be given, and there will be a voice "*that crieth in the wilderness*". The wilderness of John the Baptist is a concept of a modern outputs center
+- Mission is to turn the heart of the fathers to the children, and the heart of the children to their father - In [Luke 1:16-17](https://www.biblegateway.com/passage/?search=Luke+1.16-17&version=KJV) explains that "*many of the children of Israel shall he turn to the Lord their God*," and "*turn the hearts of the fathers to the children, and **the disobedient to the wisdom of the just**; to make ready a people prepared for the Lord*."
 ## Announcement of John's Birth
 
 > [!bible] [Luke 1:5-25 - KJV](https://www.biblegateway.com/passage/?search=Luke+1:5-25&version=kjv)
@@ -45,6 +48,8 @@ This document compiles all verses related to John the Baptist from the King Jame
 > <sup>**24**</sup> And after those days his wife Elisabeth conceived, and hid herself five months, saying, 
 > <sup>**25**</sup> Thus hath the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men.
 
+Application to 144k:
+- "*shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost*" - they will be fully consecrated to the Lord, and will exercise complete temperance, living according to God's health laws.
 ## John in the Womb
 
 > [!bible] [Luke 1:36 - KJV](https://www.biblegateway.com/passage/?search=Luke+1:36&version=kjv)
@@ -81,14 +86,19 @@ This document compiles all verses related to John the Baptist from the King Jame
 > <sup>**69**</sup> And hath raised up an horn of salvation for us in the house of his servant David; 
 > <sup>**70**</sup> As he spake by the mouth of his holy prophets, which have been since the world began: 
 > <sup>**71**</sup> That we should be saved from our enemies, and from the hand of all that hate us; 
-> <sup>**72**</sup> To perform the mercy promised to our fathers, and to remember his holy covenant; 
-> <sup>**73**</sup> The oath which he sware to our father Abraham, 
-> <sup>**74**</sup> That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear, 
+> <sup>**72**</sup> **To perform the mercy promised to our fathers, and to remember his holy covenant**; 
+> <sup>**73**</sup> **The oath which he sware to our father Abraham**, 
+> <sup>**74**</sup> **That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear**, 
 > <sup>**75**</sup> In holiness and righteousness before him, all the days of our life. 
 > <sup>**76**</sup> And thou, child, shalt be called **the prophet of the Highest**: for **thou shalt go before the face of the Lord to prepare his ways**; 
 > <sup>**77**</sup> To **give knowledge of salvation unto his people by the remission of their sins**, 
 > <sup>**78**</sup> Through the tender mercy of our God; whereby the dayspring from on high hath visited us, 
 > <sup>**79**</sup> To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace.
+
+Zacharias re-states the mission of John in more precise way what it means to prepare the way of the Lord - "*to give knowledge of salvation unto his people by the remission of their sins*", and he previously stated what knowledge he was to give. It was how Jesus would save us according to the [[doctrine/plan-of-slavation/index|Covenant he had made with His Father]]. The result of his mission will be "*to give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace*".
+
+Application of 144k:
+- they will proclaim the Covenant between the Father and the Son - the true Plan of Salvation
 
 ## John's Childhood
 
