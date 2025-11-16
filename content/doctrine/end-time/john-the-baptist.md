@@ -123,7 +123,6 @@ Application of 144k:
 > <sup>**5**</sup> And there went out unto him all the land of Judaea, and they of Jerusalem, and were all **baptized of him in the river of Jordan**, **confessing their sins**. 
 > <sup>**6**</sup> And John was **clothed with camel's hair**, and with **a girdle of a skin about his loins**; and he did **eat locusts and wild honey**;
 
-
 > [!bible] [Luke 3:1-6 - KJV](https://www.biblegateway.com/passage/?search=Luke+3:1-6&version=kjv)
 > <sup>**1**</sup> Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene, 
 > <sup>**2**</sup> Annas and Caiaphas being the high priests, **the word of God came unto John the son of Zacharias in the wilderness**. 
@@ -132,6 +131,9 @@ Application of 144k:
 > <sup>**5**</sup> Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth; 
 > <sup>**6**</sup> And all flesh shall see the salvation of God.
 
+Takeaway for 144k:
+- They will be vocal and influential in their preaching
+- They will exercise reforms in diet and in dress
 ## John's Preaching to the Multitudes
 
 > [!bible] [Matthew 3:7-12 - KJV](https://www.biblegateway.com/passage/?search=Matthew+3:7-12&version=kjv)
@@ -156,6 +158,7 @@ Application of 144k:
 > <sup>**17**</sup> Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable. 
 > <sup>**18**</sup> And **many other things in his exhortation preached he unto the people**.
 
+John was truly sanctified, and was allergic to formalism, and reproved the form of religion without its power. His reproof was made in love, since there was an immanent destruction luring for those who do not repent in sincerity. John lived the practical christianity and he could give practical advice of righteous living when asked. The same is applicable to 144k.
 ## John's Testimony to the Priests and Levites
 
 > [!bible] [John 1:19-28 - KJV](https://www.biblegateway.com/passage/?search=John+1:19-28&version=kjv)
@@ -170,6 +173,7 @@ Application of 144k:
 > <sup>**27**</sup> He it is, who coming after me is preferred before me, **whose shoe's latchet I am not worthy to unloose**. 
 > <sup>**28**</sup> These things were done in Bethabara beyond Jordan, where John was baptizing.
 
+John knew his mission very clearly. When he was asked of his identity, he knew clearly. His mission was Christ' centric.
 ## John Baptizes Jesus
 
 > [!bible] [Matthew 3:13-17 - KJV](https://www.biblegateway.com/passage/?search=Matthew+3:13-17&version=kjv)
@@ -190,6 +194,7 @@ Application of 144k:
 > <sup>**21**</sup> Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened, 
 > <sup>**22**</sup> And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.
 
+John saw the need that he should be baptized by Jesus, because Jesus baptizes with the Holy Ghost. Although he was filled with the Holy Spirit, still he had a need for it.
 ## John's Testimony About Jesus
 
 > [!bible] [John 1:29-34 - KJV](https://www.biblegateway.com/passage/?search=John+1:29-34&version=kjv)
@@ -205,6 +210,7 @@ Application of 144k:
 > <sup>**36**</sup> And looking upon Jesus as he walked, he saith, **Behold the Lamb of God!** 
 > <sup>**37**</sup> And the two disciples heard him speak, and they followed Jesus.
 
+The mission of John was to proclaim the covenant between the Father and the Son. So he pointed to Christ as the Lamb of God, which taketh away the sins of the world.
 ## John's Continued Ministry and Testimony
 
 > [!bible] [John 3:22-30 - KJV](https://www.biblegateway.com/passage/?search=John+3:22-30&version=kjv)
@@ -218,6 +224,7 @@ Application of 144k:
 > <sup>**29**</sup> He that hath the bride is the bridegroom: but **the friend of the bridegroom**, which standeth and heareth him, **rejoiceth greatly because of the bridegroom's voice**: this my joy therefore is fulfilled. 
 > <sup>**30**</sup> **He must increase, but I must decrease**.
 
+His self was dead.
 ## John Reproves Herod and is Imprisoned
 
 > [!bible] [Luke 3:19-20 - KJV](https://www.biblegateway.com/passage/?search=Luke+3:19-20&version=kjv)
@@ -235,6 +242,7 @@ Application of 144k:
 > <sup>**19**</sup> Therefore Herodias had a quarrel against him, and would have killed him; but she could not: 
 > <sup>**20**</sup> For Herod feared John, knowing that he was **a just man and an holy**, and observed him; and when he heard him, he did many things, and heard him gladly.
 
+John was "*a just and an holy man*," fearing not calling sin by its right name.
 ## Jesus Begins Ministry After John's Imprisonment
 
 > [!bible] [Matthew 4:12 - KJV](https://www.biblegateway.com/passage/?search=Matthew+4:12&version=kjv)
@@ -243,6 +251,7 @@ Application of 144k:
 > [!bible] [Mark 1:14 - KJV](https://www.biblegateway.com/passage/?search=Mark+1:14&version=kjv)
 > <sup>**14**</sup> Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,
 
+After the ministry of John ends, Jesus comes on the scene. So it will be by 144k.
 ## John's Disciples Fast
 
 > [!bible] [Matthew 9:14 - KJV](https://www.biblegateway.com/passage/?search=Matthew+9:14&version=kjv)
@@ -251,10 +260,10 @@ Application of 144k:
 > [!bible] [Mark 2:1 - KJV](https://www.biblegateway.com/passage/?search=Mark+2:1&version=kjv)
 > <sup>**18**</sup> And the disciples of John and of the Pharisees **used to fast**: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?
 
-
 > [!bible] [Luke 5:3 - KJV](https://www.biblegateway.com/passage/?search=Luke+5:3&version=kjv)
 > <sup>**33**</sup> And they said unto him, Why do the disciples of John **fast often, and make prayers**, and likewise the disciples of the Pharisees; but thine eat and drink?
 
+If John's disciples were fasting often, and making prayers, so was John - so are 144k.
 ## John's Question from Prison
 
 > [!bible] [Matthew 11:2-6 - KJV](https://www.biblegateway.com/passage/?search=Matthew+11:2-6&version=kjv)
@@ -308,6 +317,7 @@ Application of 144k:
 > [!bible] [Luke 11:1 - KJV](https://www.biblegateway.com/passage/?search=Luke+11:1&version=kjv)
 > <sup>**1**</sup> And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also **taught his disciples**.
 
+John was a man of prayer.
 ## John's Death
 
 > [!bible] [Matthew 14:6-12 - KJV](https://www.biblegateway.com/passage/?search=Matthew+14:6-12&version=kjv)
@@ -373,6 +383,7 @@ Application of 144k:
 > <sup>**12**</sup> And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought. 
 > <sup>**13**</sup> But I say unto you, That **Elias is indeed come**, and they have done unto him whatsoever they listed, as it is written of him.
 
+As John was not accepted by religious authorities, so will not 144k.
 ## Jesus Questions Religious Leaders About John
 
 > [!bible] [Matthew 21:23-27 - KJV](https://www.biblegateway.com/passage/?search=Matthew+21:23-27&version=kjv)
@@ -401,6 +412,7 @@ Application of 144k:
 > <sup>**7**</sup> And they answered, that they could not tell whence it was. 
 > <sup>**8**</sup> And Jesus said unto them, Neither tell I you by what authority I do these things.
 
+Religious leaders were against John, and did not accepted his message. So will be with 144k.
 ## Parable Reference to John
 
 > [!bible] [Matthew 21:3 - KJV](https://www.biblegateway.com/passage/?search=Matthew+21:3&version=kjv)
@@ -458,3 +470,34 @@ Application of 144k:
 > [!bible] [Acts 19:3-4 - KJV](https://www.biblegateway.com/passage/?search=Acts+19:3-4&version=kjv)
 > <sup>**3**</sup> And he said unto them, Unto what then were ye baptized? And they said, Unto **John's baptism**. 
 > <sup>**4**</sup> Then said Paul, **John verily baptized with the baptism of repentance**, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.
+
+## Summary: John the Baptist as a Pattern for the 144,000
+
+Based on the preceding analysis, John the Baptist, who prepared the way for Christ's first coming, serves as a direct pattern for the 144,000, who will **prepare the way for Christ's second coming**.
+
+### Their Mission and Message
+
+The mission of the 144,000 is to fulfill the same role as John, but in the last days.
+
+- **Prepare the Way:** Their primary purpose is to "**prepare ye the way of the LORD**" before the "**great and dreadful day of the LORD**."
+- **A Voice in the Wilderness:** They will be a "**voice of one crying in the wilderness**." This "wilderness" is understood as modern **outpost centers**—locations in nature, outside the pollution of cities but close enough to influence them.
+- **Proclaim the Covenant:** They are to "**give knowledge of salvation**" by proclaiming the true Plan of Salvation—the **Covenant between the Father and the Son**.
+- **Turn Hearts:** Their message will "**turn the heart of the fathers to the children**" and the "**disobedient to the wisdom of the just**," aiming "**to make ready a people prepared for the Lord**."
+- **Call to Repentance:** Like John, their preaching will be a **vocal and influential** call to repentance.
+### Their Character and Lifestyle
+
+To accomplish this mission, the 144,000 will reflect John's personal consecration and character.
+
+- **Filled with the Holy Ghost**
+- **Consecration and Temperance:** They will be fully consecrated to God, exercising complete temperance, symbolized by John's vow to "**drink neither wine nor strong drink**." This is applied as living according to God's health laws and exercising reforms in **diet and dress**.
+- **A Life of Prayer:** They will be people of prayer and fasting, just as John was famous for it.
+- **Humility:** Their work will be Christ-centric, with "a self is dead" attitude, embodying John's statement: "**He must increase, but I must decrease**."
+- **Righteous and Bold:** They will be "**a just man and an holy**," unafraid to call sin by its right name and reprove religious formalism, just as John reproved the Pharisees and Herod.
+
+### Their Reception
+
+It is indicated that the 144,000 will face the same rejection as their pattern.
+
+- **Rejected by Religious Leaders:** Just as religious leaders were against John, and did not accepted his message, so will it be with 144k.
+
+Finally, there is a parallel for the end of their ministry: After the ministry of John ends, Jesus comes on the scene. **So it will be by 144k**.
