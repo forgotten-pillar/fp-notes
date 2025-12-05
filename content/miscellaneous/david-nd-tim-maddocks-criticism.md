@@ -1,9 +1,10 @@
 ---
 createdDate: 2025-12-05T07:14:54+01:00
-modifiedDate: 2025-12-05T07:38:03+01:00
+modifiedDate: 2025-12-05T07:41:22+01:00
 title: Analysis of "Delivered by Truth" criticism to Tim Maddocks and David Ng
 permalink: david-ng-tim-maddocks
 description: Is the Maddocks/Ng deliverance ministry biblical? We analyze the criticism on casting out demons, delegated authority, and spiritual warfare concepts. Discover the truth.
+publish: true
 ---
 ## 1. Defining Constructive Criticism
 
