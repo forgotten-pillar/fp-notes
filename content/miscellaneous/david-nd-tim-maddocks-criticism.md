@@ -116,3 +116,25 @@ The criticism from "Delivered By Truth" contains valid warnings against making d
 - [Delivered by Truth Series](https://www.youtube.com/playlist?list=PLnYxisemqJEXToJKHSBhaVGVMrZzy-vcj) - "David Ng and Tim Maddocks' Dangerous Deliverance Ministry"
 - [Tim Maddocks Series](https://www.youtube.com/watch?v=qsQz7ko4d14&list=PLy0Ned1zNp4tad-n9wDaLJhI15gomlhuQ&index=1) - "Spiritual Warfare Series"
 - [David Ng Series](https://www.youtube.com/watch?v=9_5TIhfx4Sc&list=PLy0Ned1zNp4u9UBITtPUZNi42ok_n3ECn) - "Jesus for Asia Presents David Ng 'Spiritual Warfare'"
+
+## Appendix - Direct Quotations
+
+### David Ng on Communicating with Demons
+
+David Ng explicitly states that he stopped the practice of asking demons to speak or identify themselves because they are deceitful and it is counterproductive. He emphasizes communicating with the Holy Spirit instead.
+
+- **Quote 1:** "you don't want to call them all individually by name you just want to know the one... we used to command the demon to come forward that's kind of the Pentecostal way to come forward and speak their name... **you know that causes all sorts of problems and they lie and they bring you on a wild goose chase so now we learned through experience and counseling that it's best to just cooperate with the holy spirit** so we're asking the Holy Spirit to impress upon the person that we're helping please impress upon them who is the demon...",.
+- **Quote 2:** "**so we're not communicating with the demons we're asking the Holy Spirit to cut through and reveal what it is** right what is the demon that's oppressing this individual.".
+
+### Tim Maddocks on Communicating with Demons
+
+Tim Maddocks repeatedly advises against holding conversations with demons, citing their superior experience in deception and the danger of being misled.
+
+- **Quote 1:** "**so as a deliverance practitioner I have to be very careful that I don't let them deceive me also and this is why we don't we don't hold a conversation with them we don't ask them questions because they are they have 6,000 years of experience at deceiving people who am I to think that I'm smarter than them** so I'm going to depend on the power of Jesus to get rid of them i'm not going to depend on their answers to get me help.",.
+- **Quote 2:** "and that's another thing that we need to remember to do too **don't get into conversation with evil spirits because they lie satan was cons called the father of lies** and the demons are good children they just they know how to lie to there's no point in trying to have a dialogue with a demon because they are experts at deception and if we try to dialogue with them then we are likely to be deceived as well as the person we're trying to help.",.
+
+### Tim Maddocks' Verbatim Caution Regarding the Crucifixion Question
+
+In the specific instance where Tim Maddocks asked a demon about the crucifixion (to prove a theological point to the Buddhist relatives present regarding the state of the dead), he prefaced the story with a caution that this was an exception inspired by the Holy Spirit, not his standard practice.
+
+**Verbatim Quote:** "**I think it must have been the Holy Spirit that inspired me because uh like I say I don't like I don't want to talk to demons i'm ordering them out i'm going to tell the demon what God has done for the person i'm going to quote scripture to the demon but I don't want to ask it questions but in this case I asked it a question** i fired this question out very quickly were you happy when you sealed Jesus crucified and instantly it said yes it didn't have time to think about its answer I guess and then I said 'Were you happy when you saw Jesus come out of the tomb?' And it scowlled...".
