@@ -97,4 +97,4 @@ The inspired evidence demonstrates that the Father, Son, and Holy Spirit are not
 
 
 
-[^fb]: not explicitly, but implicitly stated by the Fundamental Beliefs. See [[principles-vs-beliefs|Fundamental Principles vs. Fundamental Beliefs]]
+[^fb]: not explicitly, but implicitly stated by the Fundamental Beliefs. See [[principles-vs-beliefs#|Fundamental Principles vs. Fundamental Beliefs]]

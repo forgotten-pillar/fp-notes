@@ -204,7 +204,7 @@ This brings the celestial vision to a profoundly personal and **tangible** reali
 
 The security of the covenant, the joy of unveiled intimacy, the life that can flow from their union—these are not mere metaphors. They are designed to be tangible encounters with the very principles of Heaven. God's high standard for our sexuality is therefore not a burden, but a gracious invitation to experience a fragment of our eternal home, right now. It is a pointer to the tangible reality of the Gospel.
 
-This is the glorious fulfillment of the work the first Adam was meant to do. Where he failed to "keep" the garden, Christ, the Second Adam, has succeeded in building an eternal city for His bride. Our final calling is to the **"marriage supper of the Lamb"** ([Revelation 19:9](https://www.biblegateway.com/passage/%3Fsearch%3DRevelation%2B19.9%26version%3DKJV)), the eternal celebration of our union with Him.[]()
+This is the glorious fulfillment of the work the first Adam was meant to do. Where he failed to "keep" the garden, Christ, the Second Adam, has succeeded in building an eternal city for His bride. Our final calling is to the **"marriage supper of the Lamb"** ([Revelation 19:9](https://www.biblegateway.com/passage/%3Fsearch%3DRevelation%2B19.9%26version%3DKJV)), the eternal celebration of our union with Him.
 
 From the first command to be "one flesh" in Genesis to the final marriage supper in Revelation, the theme is one. The Bible is not a disjointed collection of laws and stories. It is a single, coherent narrative, from cover to cover. This begs the ultimate question, which we will explore next: Can the entire Bible be read as the greatest love story ever told?
 
