@@ -7,6 +7,7 @@ description: Is the non-Trinitarian view really a lie? We examine Greg Sereda’
 fpRelatedReads:
   - the-forgotten-pillar
   - rediscovering-the-pillar
+publish: true
 ---
 In a recent video titled *"[This LIE About the Trinity Is Spreading Like WILDFIRE Among Seventh-day Adventists](https://www.youtube.com/watch?v=-Jw5ljptnuk),"* brother Greg Sereda addresses the growing number of Adventists questioning the doctrine of the Trinity. He expresses a genuine concern for the purity of the Gospel and the unity of the church. We commend his desire to uphold the divinity of Christ and the reality of the Holy Spirit, as these are non-negotiable pillars of the Christian faith.
 
