@@ -8,7 +8,9 @@ fpRelatedReads:
   - the-forgotten-pillar
   - rediscovering-the-pillar
 publish: true
+tts: true
 ---
+[![thumbnail](https://i.ytimg.com/vi/-Jw5ljptnuk/maxresdefault.jpg)](https://www.youtube.com/watch?v=-Jw5ljptnuk)
 In a recent video titled *"[This LIE About the Trinity Is Spreading Like WILDFIRE Among Seventh-day Adventists](https://www.youtube.com/watch?v=-Jw5ljptnuk),"* brother Greg Sereda addresses the growing number of Adventists questioning the doctrine of the Trinity. He expresses a genuine concern for the purity of the Gospel and the unity of the church. We commend his desire to uphold the divinity of Christ and the reality of the Holy Spirit, as these are non-negotiable pillars of the Christian faith.
 
 However, in the spirit of honest Bible study and historical accuracy, it is necessary to examine the arguments presented. Are the claims made about our pioneers, the Fundamental Principles, and the nature of God consistent with the weight of evidence found in Scripture and the Spirit of Prophecy? Drawing from the research presented in *[The Forgotten Pillar](https://forgottenpillar.com/book/the-forgotten-pillar)* and *[Rediscovering the Pillar](https://forgottenpillar.com/book/rediscovering-the-pillar)*, we offer this constructive critique to help clarify the issues at hand.
