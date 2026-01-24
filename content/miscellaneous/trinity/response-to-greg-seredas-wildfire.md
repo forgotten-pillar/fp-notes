@@ -46,7 +46,7 @@ Furthermore, Ellen White defended these very principles during the Kellogg crisi
 ### **Progressive Truth vs. Changing the Foundation**
 
 **The Argument:**
-The video suggests that the shift to the Trinity was a natural result of "progressive truth" and deeper Bible study. Greg states: *"The early semi-Aryan ideas about the Godhead were not a final settled position... but part of a developing understanding."* (02:54)
+The video suggests that the shift to the Trinity was a natural result of "progressive truth" and deeper Bible study. Greg states: *"The early semi-Arian ideas about the Godhead were not a final settled position... but part of a developing understanding."* (02:54)
 
 **The Response:**
 There is a distinct difference between *progressive* truth and *contradictory* truth. Progressive truth elaborates on the foundation; it does not uproot it. The doctrine of the Trinity changes the identity of the God we worship.
