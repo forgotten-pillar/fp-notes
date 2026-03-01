@@ -70,3 +70,23 @@
   .subscribe-btn:hover {
     background-color: var(--darkgray);
   }
+
+  .subscribe-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+
+  .subscribe-message {
+    display: none;
+    margin: 0.5rem 0 0;
+    font-size: 0.8em;
+    font-weight: 500;
+
+    &.success {
+      color: #16a34a;
+    }
+
+    &.error {
+      color: #dc2626;
+    }
+  }

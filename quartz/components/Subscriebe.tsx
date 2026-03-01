@@ -1,5 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types";
 import subscriebeStyles from './styles/subscriebe.scss'
+// @ts-ignore
+import script from './scripts/subscriebe.inline'
 
 const Subscriebe: QuartzComponent = ({} : QuartzComponentProps) => {
     return (
@@ -10,10 +12,12 @@ const Subscriebe: QuartzComponent = ({} : QuartzComponentProps) => {
                 <input type="email" placeholder="Your email" class="email-input" required />
                 <button class="subscribe-btn" type='submit'><span>Subscribe</span> <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-right"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></button>
             </form>
+            <p class="subscribe-message"></p>
         </div>
     )
 }
 
 Subscriebe.css = subscriebeStyles;
+Subscriebe.afterDOMLoaded = script;
 
 export default (() => Subscriebe) satisfies QuartzComponentConstructor
