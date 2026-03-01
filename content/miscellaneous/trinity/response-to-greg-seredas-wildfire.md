@@ -1,6 +1,6 @@
 ---
 createdDate: 2025-12-17T07:30:29+01:00
-modifiedDate: 2025-12-17T08:45:57+01:00
+modifiedDate: 2026-01-24T08:55:03+01:00
 title: "Reviewing the “Wildfire”: A Constructive Response to Greg Sereda"
 permalink: greg-sereda-wildfire
 description: Is the non-Trinitarian view really a lie? We examine Greg Sereda’s claims against Scripture and history to reveal the true SDA foundation. Read more.

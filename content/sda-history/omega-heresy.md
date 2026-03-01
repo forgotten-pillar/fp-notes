@@ -21,6 +21,7 @@ modifiedDate: 2024-12-24T17:07:12+01:00
 
 - how big of change is a "great changes"
 	- after her death the change happened in [[fundamental-principles|official beliefs of SDA church]]
+	- a short preview of doctrinal changes between current Fundamental Beliefs and original Seventh-day Adventist faith see [[principles-vs-beliefs|Fundamental Principles vs. Fundamental Beliefs]]
 
 > [!warning] Caution, warning
 > Instead of focusing to the error, we should focus on the truth. The problem with deception is that we can be deceived thinking we are not deceived. We can be fully convinced that we are not deceived, while being deceived.
