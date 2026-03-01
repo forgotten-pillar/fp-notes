@@ -4,7 +4,7 @@ fpRelatedReads:
   - the-forgotten-pillar
 title: Omega Heresy
 createdDate: 2024-08-26T20:03:08.362+02:00
-modifiedDate: 2024-12-24T17:07:12+01:00
+modifiedDate: 2026-03-01T09:41:38+01:00
 ---
 ### The omega will be of a most startling nature
 
