@@ -101,6 +101,15 @@ Who is it that sanctifies you wholly? It is God
 > <sup>**24**</sup> Faithful is he that calleth you, who also will do it.
 
 Therefore, I can believe in it. I can have assurance that God can finish it what He has started. Therefore, with faith, it is possible!
-
 ***
 It is not a change in Gospels plan.
+
+The Bible present everywhere if we cast out our first faith, that least to damnations. 
+
+> [!bible] [Hebrews 10:35-38 - KJV](https://www.biblegateway.com/passage/?search=Hebrews+10:35-38&version=kjv)
+> <sup>**35**</sup> Cast not away therefore your confidence, which hath great recompence of reward.
+> <sup>**36**</sup> For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.
+> <sup>**37**</sup> For yet a little while, and he that shall come will come, and will not tarry.
+> <sup>**38**</sup> Now the just shall live by faith: **but if any man draw back**, my soul shall have no pleasure in him.
+
+There is an issue of drawing back. 
