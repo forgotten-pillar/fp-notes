@@ -2,8 +2,9 @@ import { remark } from "remark"
 import remarkFrontmatter from "remark-frontmatter"
 import remarkGfm from "remark-gfm"
 import fs from "fs"
+import path from "path"
 import { QuartzEmitterPlugin } from "../types"
-import { FilePath, joinSegments } from "../../util/path"
+import { FilePath, FullSlug, joinSegments } from "../../util/path"
 import { write } from "./helpers"
 import DepGraph from "../../depgraph"
 
@@ -24,6 +25,10 @@ export const MarkdownPage: QuartzEmitterPlugin = () => {
         const sourcePath = file.data.filePath!
         const slug = file.data.slug!
         graph.addEdge(sourcePath, joinSegments(ctx.argv.output, slug + ".md") as FilePath)
+
+        for (const aliasSlug of getAliasSlugs(ctx.argv.directory, file)) {
+          graph.addEdge(sourcePath, joinSegments(ctx.argv.output, aliasSlug + ".md") as FilePath)
+        }
       }
       return graph
     },
@@ -71,9 +76,34 @@ export const MarkdownPage: QuartzEmitterPlugin = () => {
           ext: ".md",
         })
         fps.push(fp)
+
+        for (const aliasSlug of getAliasSlugs(ctx.argv.directory, file)) {
+          const aliasFp = await write({
+            ctx,
+            content: out,
+            slug: aliasSlug,
+            ext: ".md",
+          })
+          fps.push(aliasFp)
+        }
       }
 
       return fps
     },
   }
+}
+
+function getAliasSlugs(directory: string, file: { data: { filePath?: string; frontmatter?: any } }): FullSlug[] {
+  const filePath = file.data.filePath
+  if (!filePath) return []
+  const dir = path.posix.relative(directory, path.dirname(filePath))
+  const aliases: string[] = file.data.frontmatter?.aliases ?? []
+  const slugs: FullSlug[] = aliases.map((alias) => path.posix.join(dir, alias) as FullSlug)
+  const permalink = file.data.frontmatter?.permalink
+  if (typeof permalink === "string") {
+    slugs.push(permalink as FullSlug)
+  }
+  return slugs.map((slug) =>
+    slug.endsWith("/") ? (joinSegments(slug, "index") as FullSlug) : slug,
+  )
 }
