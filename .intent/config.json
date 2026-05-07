@@ -1,0 +1,40 @@
+{
+  "scripts": [
+    {
+      "name": "quartz",
+      "command": "npm run quartz",
+      "mode": "command",
+      "category": "other"
+    },
+    {
+      "name": "docs",
+      "command": "npm run docs",
+      "mode": "command",
+      "category": "other"
+    },
+    {
+      "name": "check",
+      "command": "npm run check",
+      "mode": "command",
+      "category": "typecheck"
+    },
+    {
+      "name": "format",
+      "command": "npm run format",
+      "mode": "command",
+      "category": "format"
+    },
+    {
+      "name": "test",
+      "command": "npm run test",
+      "mode": "command",
+      "category": "test"
+    },
+    {
+      "name": "profile",
+      "command": "npm run profile",
+      "mode": "command",
+      "category": "other"
+    }
+  ]
+}
