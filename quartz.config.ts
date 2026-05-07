@@ -72,7 +72,12 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest", openLinksInNewTab: true, lazyLoad: true, prettyLinks: true }),
+      Plugin.CrawlLinks({
+        markdownLinkResolution: "shortest",
+        openLinksInNewTab: true,
+        lazyLoad: true,
+        prettyLinks: true,
+      }),
       Plugin.Description(),
       // Plugin.Latex({ renderEngine: "katex" }),
       Plugin.HardLineBreaks(),
@@ -93,6 +98,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.NotFoundPage(),
       // Plugin.Broadcaster(),
+      Plugin.AgentDiscovery(),
     ],
   },
 }
