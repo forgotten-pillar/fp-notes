@@ -57,8 +57,8 @@ const Subscriebe: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
           </svg>
         </span>
       </button>
-      <p class="notice">
-        Click on the bell icon, and enable push notification, or get notified via email,<br/> or by{" "}
+      <p class="notice subscribe">
+        Click on the bell icon, and enable push notification, or get notified via email, or by{" "}
         <a
           href="https://t.me/forgottenpillar"
           target="_blank"

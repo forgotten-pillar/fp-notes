@@ -114,11 +114,17 @@
     // margin-bottom: 5px;
     color: var(--dark);
     font-weight: 100;
+    line-height: 1.4;
+    margin-top: 10px;
 
     a.telegram-channel {
       display: inline-flex;
       align-items: center;
       gap: 4px;
+    }
+
+    @media (min-width: 481px) {
+      padding-right: 12em;
     }
   }
 }
@@ -207,3 +213,5 @@
   background-color: rgba(143, 159, 169, 0.15);
   border-radius: 0.4em;
 }
+
+
