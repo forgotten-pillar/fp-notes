@@ -68,7 +68,7 @@ Some of the notes on this site include **narration powered by ElevenLabs**. When
 
 ### Stay Updated with Notifications
 
-Never miss a new note! You can enable push notifications by clicking the <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.268 21a2 2 0 0 0 3.464 0"/><path d="M15 8h6"/><path d="M18 5v6"/><path d="M20.002 14.464a9 9 0 0 0 .738.863A1 1 0 0 1 20 17H4a1 1 0 0 1-.74-1.673C4.59 13.956 6 12.499 6 8a6 6 0 0 1 8.75-5.332"/></svg> bell icon found in the sidebar (or at the top of the page on mobile). When new notes are published, you will receive a notification directly in your browser or device — even when the site is not open.
+Never miss a new note! You can enable push notifications by clicking the <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.268 21a2 2 0 0 0 3.464 0"/><path d="M15 8h6"/><path d="M18 5v6"/><path d="M20.002 14.464a9 9 0 0 0 .738.863A1 1 0 0 1 20 17H4a1 1 0 0 1-.74-1.673C4.59 13.956 6 12.499 6 8a6 6 0 0 1 8.75-5.332"/></svg> bell icon found at the bottom of the page. When new notes are published, you will receive a notification directly in your browser or device — even when the site is not open.
 
 Your browser will ask for permission to send notifications. Simply allow it, and you are all set. You can disable notifications at any time by clicking the bell icon again.
 
