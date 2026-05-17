@@ -34,6 +34,7 @@ import ReadingModeToggle from "./ReadingModeToggle"
 import ColFlex from "./ColFlex"
 import RowFlex from "./RowFlex"
 import DesktopFullOnly from "./DesktopFullOnly"
+import NotificationBell from "./NotificationBell"
 
 export {
   ArticleTitle,
@@ -72,4 +73,5 @@ export {
   ColFlex,
   RowFlex,
   DesktopFullOnly,
+  NotificationBell,
 }

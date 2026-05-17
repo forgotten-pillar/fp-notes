@@ -1,63 +1,63 @@
 document.addEventListener("nav", () => {
   const container = document.querySelector(".email-subscribe-container") as HTMLElement | null
-  if (!container) return
 
-  const form = container.querySelector("form")
-  const messageEl = container.querySelector(".subscribe-message") as HTMLElement | null
-  if (!form || !messageEl) return
+  if (container) {
+    const form = container.querySelector("form")
+    const messageEl = container.querySelector(".subscribe-message") as HTMLElement | null
+    const submitBtn = form?.querySelector(".subscribe-btn") as HTMLButtonElement | null
+    const emailInput = form?.querySelector(".email-input") as HTMLInputElement | null
 
-  const submitBtn = form.querySelector(".subscribe-btn") as HTMLButtonElement | null
-  const emailInput = form.querySelector(".email-input") as HTMLInputElement | null
-  if (!submitBtn || !emailInput) return
+    if (form && messageEl && submitBtn && emailInput) {
+      const originalBtnHTML = submitBtn.innerHTML
 
-  const originalBtnHTML = submitBtn.innerHTML
-
-  function showMessage(text: string, type: "success" | "error") {
-    if (!messageEl) return
-    messageEl.textContent = text
-    messageEl.className = `subscribe-message ${type}`
-    messageEl.style.display = "block"
-  }
-
-  async function handleSubmit(e: Event) {
-    e.preventDefault()
-    if (!emailInput || !submitBtn) return
-
-    const email = emailInput.value.trim()
-    if (!email) return
-
-    // Disable button and show loading state
-    submitBtn.disabled = true
-    submitBtn.innerHTML = "<span>Subscribing...</span>"
-
-    try {
-      const response = await fetch("https://forgottenpillar.com/api/subscribe", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email }),
-      })
-
-      const data = await response.json()
-
-      if (data.success) {
-        showMessage(data.message, "success")
-        form?.reset()
-      } else {
-        showMessage(data.message || "Subscription failed. Please try again.", "error")
+      function showMessage(text: string, type: "success" | "error") {
+        if (!messageEl) return
+        messageEl.textContent = text
+        messageEl.className = `subscribe-message ${type}`
+        messageEl.style.display = "block"
       }
-    } catch {
-      showMessage("Network error. Please check your connection and try again.", "error")
-    } finally {
-      submitBtn.disabled = false
-      submitBtn.innerHTML = originalBtnHTML
+
+      async function handleSubmit(e: Event) {
+        e.preventDefault()
+        if (!emailInput || !submitBtn) return
+
+        const email = emailInput.value.trim()
+        if (!email) return
+
+        // Disable button and show loading state
+        submitBtn.disabled = true
+        submitBtn.innerHTML = "<span>Subscribing...</span>"
+
+        try {
+          const response = await fetch("https://forgottenpillar.com/api/subscribe", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ email }),
+          })
+
+          const data = await response.json()
+
+          if (data.success) {
+            showMessage(data.message, "success")
+            form?.reset()
+          } else {
+            showMessage(data.message || "Subscription failed. Please try again.", "error")
+          }
+        } catch {
+          showMessage("Network error. Please check your connection and try again.", "error")
+        } finally {
+          submitBtn.disabled = false
+          submitBtn.innerHTML = originalBtnHTML
+        }
+      }
+
+      form.addEventListener("submit", handleSubmit)
+      window.addCleanup(() => form.removeEventListener("submit", handleSubmit))
     }
   }
 
-  form.addEventListener("submit", handleSubmit)
-  window.addCleanup(() => form.removeEventListener("submit", handleSubmit))
-
-  // --- Web Push subscription button ---
-  setupPushButton(container)
+  // --- Web Push subscription buttons (Subscribe card + footer) ---
+  setupPushButtons(container)
 })
 
 function urlBase64ToUint8Array(base64String: string): Uint8Array {
@@ -84,23 +84,22 @@ const ICON_BELL_OFF = `<svg ${SVG_ATTRS}><path d="M10.268 21a2 2 0 0 0 3.464 0"/
 
 type PushState = "idle" | "subscribed" | "denied" | "ios"
 
-function setupPushButton(container: HTMLElement) {
-  const btn = container.querySelector(".push-bell-btn") as HTMLButtonElement | null
-  if (!btn) return
+function setupPushButtons(container: HTMLElement | null) {
+  const buttons = Array.from(
+    document.querySelectorAll(".push-bell-btn"),
+  ) as HTMLButtonElement[]
+  if (buttons.length === 0) return
 
-  const iconDefault = btn.querySelector(".icon-default") as HTMLElement | null
-  const iconHover = btn.querySelector(".icon-hover") as HTMLElement | null
-  const msg = container.querySelector(".push-bell-message") as HTMLElement | null
-  const iosHint = container.querySelector(".push-ios-hint") as HTMLElement | null
-  if (!iconDefault || !iconHover || !msg || !iosHint) return
+  const msg = container?.querySelector(".push-bell-message") as HTMLElement | null
+  const iosHint = container?.querySelector(".push-ios-hint") as HTMLElement | null
 
-  const vapidKey = container.getAttribute("data-push-vapid-key") || ""
-  const subscribeUrl = container.getAttribute("data-push-subscribe-url") || ""
-  const unsubscribeUrl = container.getAttribute("data-push-unsubscribe-url") || ""
+  const vapidKey = container?.getAttribute("data-push-vapid-key") || ""
+  const subscribeUrl = container?.getAttribute("data-push-subscribe-url") || ""
+  const unsubscribeUrl = container?.getAttribute("data-push-unsubscribe-url") || ""
 
-  // Graceful degradation: hide the button if config is missing.
+  // Graceful degradation: hide every push bell button if config is missing.
   if (!subscribeUrl || !unsubscribeUrl) {
-    btn.style.display = "none"
+    for (const b of buttons) b.style.display = "none"
     return
   }
 
@@ -119,45 +118,55 @@ function setupPushButton(container: HTMLElement) {
     "serviceWorker" in navigator && "PushManager" in window && "Notification" in window
 
   function renderState(state: PushState) {
-    if (!btn || !iconDefault || !iconHover) return
-    btn.dataset.state = state
-    btn.disabled = state === "denied"
-    if (state === "subscribed") {
-      iconDefault.innerHTML = ICON_BELL_CHECK
-      iconHover.innerHTML = ICON_BELL_MINUS
-      btn.setAttribute("aria-label", "Notifications on — click to turn off")
-      btn.title = "Notifications on — click to turn off"
-    } else if (state === "denied") {
-      iconDefault.innerHTML = ICON_BELL_OFF
-      iconHover.innerHTML = ICON_BELL_OFF
-      btn.setAttribute("aria-label", "Notifications blocked — enable in browser settings")
-      btn.title = "Notifications blocked — enable in browser settings"
-    } else if (state === "ios") {
-      iconDefault.innerHTML = ICON_BELL
-      iconHover.innerHTML = ICON_BELL
-      btn.setAttribute("aria-label", "Notifications — add to Home Screen first")
-      btn.title = "Notifications — add to Home Screen first"
-    } else {
-      iconDefault.innerHTML = ICON_BELL_PLUS
-      iconHover.innerHTML = ICON_BELL_PLUS
-      btn.setAttribute("aria-label", "Enable browser notifications")
-      btn.title = "Enable browser notifications"
+    for (const btn of buttons) {
+      const iconDefault = btn.querySelector(".icon-default") as HTMLElement | null
+      const iconHover = btn.querySelector(".icon-hover") as HTMLElement | null
+      if (!iconDefault || !iconHover) continue
+      btn.dataset.state = state
+      btn.disabled = state === "denied"
+      if (state === "subscribed") {
+        iconDefault.innerHTML = ICON_BELL_CHECK
+        iconHover.innerHTML = ICON_BELL_MINUS
+        btn.setAttribute("aria-label", "Notifications on — click to turn off")
+        btn.title = "Notifications on — click to turn off"
+      } else if (state === "denied") {
+        iconDefault.innerHTML = ICON_BELL_OFF
+        iconHover.innerHTML = ICON_BELL_OFF
+        btn.setAttribute("aria-label", "Notifications blocked — enable in browser settings")
+        btn.title = "Notifications blocked — enable in browser settings"
+      } else if (state === "ios") {
+        iconDefault.innerHTML = ICON_BELL
+        iconHover.innerHTML = ICON_BELL
+        btn.setAttribute("aria-label", "Notifications — add to Home Screen first")
+        btn.title = "Notifications — add to Home Screen first"
+      } else {
+        iconDefault.innerHTML = ICON_BELL_PLUS
+        iconHover.innerHTML = ICON_BELL_PLUS
+        btn.setAttribute("aria-label", "Enable browser notifications")
+        btn.title = "Enable browser notifications"
+      }
     }
+  }
+
+  function setDisabledAll(disabled: boolean) {
+    for (const btn of buttons) btn.disabled = disabled
   }
 
   // iOS Safari (non-standalone) cannot use Web Push; show the bell but route taps to the iOS hint.
   if (isIOS && !isStandalone) {
     renderState("ios")
     const onIosClick = () => {
-      iosHint.style.display = "block"
+      if (iosHint) iosHint.style.display = "block"
     }
-    btn.addEventListener("click", onIosClick)
-    window.addCleanup(() => btn.removeEventListener("click", onIosClick))
+    for (const btn of buttons) {
+      btn.addEventListener("click", onIosClick)
+      window.addCleanup(() => btn.removeEventListener("click", onIosClick))
+    }
     return
   }
 
   if (!pushSupported) {
-    btn.style.display = "none"
+    for (const b of buttons) b.style.display = "none"
     return
   }
 
@@ -192,8 +201,7 @@ function setupPushButton(container: HTMLElement) {
   }
 
   async function doSubscribe() {
-    if (!btn) return
-    btn.disabled = true
+    setDisabledAll(true)
     clearPushMessage()
     try {
       const reg = await navigator.serviceWorker.ready
@@ -244,8 +252,7 @@ function setupPushButton(container: HTMLElement) {
   }
 
   async function doUnsubscribe() {
-    if (!btn) return
-    btn.disabled = true
+    setDisabledAll(true)
     clearPushMessage()
     try {
       const reg = await navigator.serviceWorker.ready
@@ -272,8 +279,9 @@ function setupPushButton(container: HTMLElement) {
     }
   }
 
-  async function onClick() {
-    const state = btn?.dataset.state as PushState | undefined
+  async function onClick(e: Event) {
+    const target = e.currentTarget as HTMLButtonElement | null
+    const state = target?.dataset.state as PushState | undefined
     if (state === "subscribed") {
       await doUnsubscribe()
     } else {
@@ -281,8 +289,10 @@ function setupPushButton(container: HTMLElement) {
     }
   }
 
-  btn.addEventListener("click", onClick)
-  window.addCleanup(() => btn.removeEventListener("click", onClick))
+  for (const btn of buttons) {
+    btn.addEventListener("click", onClick)
+    window.addCleanup(() => btn.removeEventListener("click", onClick))
+  }
 
   refresh()
 }
