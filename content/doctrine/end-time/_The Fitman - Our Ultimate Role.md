@@ -71,7 +71,7 @@ God is risking everything on the success of the 144,000. We cannot lose track of
 
 
 > [!caution] Who hath ears to hear, let him hear
-> Mat 13:43 Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.
+> [Matthew 13:43](https://www.biblegateway.com/passage/?search=Matthew+13.43&version=KJV) Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.
 
 ## Conclusion
 
