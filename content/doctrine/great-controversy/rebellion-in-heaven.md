@@ -1,12 +1,13 @@
 ---
 createdDate: 2025-07-13T09:24:45+02:00
-modifiedDate: 2025-07-15T07:06:40+02:00
+modifiedDate: 2026-05-17T11:30:58+02:00
 publish: true
 title: Rebellion in Heaven
 permalink: rebellion-in-heaven
 description: The Bible details Lucifer's fall, but key patterns are hidden in other stories. Learn how Old Testament rebellions unveil the true nature of his sin.
 tags:
   - patternMatching
+broadcast: true
 ---
 From the Bible we have some concrete verses that testify about the rebellion in Heaven and about Lucifer's fall, and the reason for his apostasy. But we also have some details indirectly explained in the events of certain rebellions in Israel's history. These rebellions typologically portray the first great rebellion in Heaven, and they reveal to us the main points of the rebellion, so that the picture becomes clearer for us.
 ## Lucifer's Rebellion
