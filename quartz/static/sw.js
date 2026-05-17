@@ -1,5 +1,5 @@
 // Service worker for FP Notes PWA.
-// Responsibilities (Wave 2): install/activate lifecycle, empty fetch listener
+// Responsibilities (Wave 2 + fix): install/activate lifecycle, empty fetch listener
 // (required for Chrome installability — no caching), push + notificationclick.
 
 const DEFAULT_ICON = "/static/icons/icon-192.png"
@@ -61,8 +61,9 @@ self.addEventListener("notificationclick", (event) => {
       for (const client of allClients) {
         if ("navigate" in client && "focus" in client) {
           try {
+            await client.focus()
             await client.navigate(absoluteUrl)
-            return client.focus()
+            return
           } catch (_e) {
             // fall through to openWindow
           }
