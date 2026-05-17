@@ -75,6 +75,12 @@ export interface GlobalConfiguration {
    * Region Codes: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
    */
   locale: ValidLocale
+  /** Optional Web Push (PWA notifications) configuration. */
+  pushNotifications?: {
+    vapidPublicKey: string
+    subscribeUrl: string
+    unsubscribeUrl: string
+  }
 }
 
 export interface QuartzConfig {

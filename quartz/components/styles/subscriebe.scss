@@ -1,92 +1,158 @@
 .email-subscribe-container {
-    background-color: var(--highlight);
-    color: white;
-    padding: 2.2rem;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-    border-radius: 0.5rem;
-    margin-bottom: 1.5rem;
+  background-color: var(--highlight);
+  color: white;
+  padding: 2.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  border-radius: 0.5rem;
+  margin-bottom: 1.5rem;
 
-    h3 {
-        margin: 0;
-        font-size: 1.5rem;
-        color: var(--darkgray)
-    }
-
-    .notice {
-        font-size: .8em;
-        font-style: italic;
-        margin: 0;
-        // margin-bottom: 5px;
-        color: var(--dark);
-        font-weight: 100;
-
-        a.telegram-channel {
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-        }
-    }
-  }
-  
-  .input-container {
-    display: flex;
-    margin-top: .5rem;
-    gap: .5em;
-    width: 100%;
-  }
-  
-  .email-input {
-    color: var(--dark);
-    background-color: rgba(var(--lightgray), 0.8);
-    border: var(--darkgray) 1px solid;
-    border-radius: 10px;
-    padding: 8px 12px;
-    font-size: .75em;
-    min-width: 5em;
-    width: 40%;
-
-    &::placeholder {
-        color: var(--darkgray);
-    }
-}
-  
-  .subscribe-btn {
-    padding: 10px 15px;
-    background-color: var(--dark);
-    color: var(--light);
-    border: none;
-    border-radius: .5em;
-    font-size: .75em;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-    display: flex;
-    align-content: center;
-    gap: 0.5em;
-  }
-  
-  .subscribe-btn:hover {
-    background-color: var(--darkgray);
+  h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: var(--darkgray);
   }
 
-  .subscribe-btn:disabled {
-    opacity: 0.6;
-    cursor: not-allowed;
-  }
-
-  .subscribe-message {
-    display: none;
-    margin: 0.5rem 0 0;
+  .notice {
     font-size: 0.8em;
-    font-weight: 500;
+    font-style: italic;
+    margin: 0;
+    // margin-bottom: 5px;
+    color: var(--dark);
+    font-weight: 100;
 
-    &.success {
-      color: #16a34a;
-    }
-
-    &.error {
-      color: #dc2626;
+    a.telegram-channel {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
     }
   }
+}
+
+.input-container {
+  display: flex;
+  margin-top: 0.5rem;
+  gap: 0.5em;
+  width: 100%;
+}
+
+.email-input {
+  color: var(--dark);
+  background-color: rgba(var(--lightgray), 0.8);
+  border: var(--darkgray) 1px solid;
+  border-radius: 10px;
+  padding: 8px 12px;
+  font-size: 0.75em;
+  min-width: 5em;
+  width: 40%;
+
+  &::placeholder {
+    color: var(--darkgray);
+  }
+}
+
+.subscribe-btn {
+  padding: 10px 15px;
+  background-color: var(--dark);
+  color: var(--light);
+  border: none;
+  border-radius: 0.5em;
+  font-size: 0.75em;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: flex;
+  align-content: center;
+  gap: 0.5em;
+}
+
+.subscribe-btn:hover {
+  background-color: var(--darkgray);
+}
+
+.subscribe-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.subscribe-message {
+  display: none;
+  margin: 0.5rem 0 0;
+  font-size: 0.8em;
+  font-weight: 500;
+
+  &.success {
+    color: #16a34a;
+  }
+
+  &.error {
+    color: #dc2626;
+  }
+}
+
+.push-subscribe-block {
+  width: 100%;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(78, 78, 78, 0.2);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+
+  h4 {
+    margin: 0;
+    font-size: 1rem;
+    color: var(--darkgray);
+    font-weight: 500;
+  }
+}
+
+.push-subscribe-btn {
+  padding: 10px 15px;
+  background-color: var(--dark);
+  color: var(--light);
+  border: none;
+  border-radius: 0.5em;
+  font-size: 0.75em;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.push-subscribe-btn:hover {
+  background-color: var(--darkgray);
+}
+
+.push-subscribe-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.push-subscribe-message {
+  display: none;
+  margin: 0.25rem 0 0;
+  font-size: 0.8em;
+  font-weight: 500;
+
+  &.success {
+    color: #16a34a;
+  }
+
+  &.error {
+    color: #dc2626;
+  }
+}
+
+.push-ios-hint {
+  margin: 0.25rem 0 0;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.8em;
+  font-style: italic;
+  color: var(--dark);
+  background-color: rgba(143, 159, 169, 0.15);
+  border-radius: 0.4em;
+}

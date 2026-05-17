@@ -20,6 +20,11 @@ const config: QuartzConfig = {
     generateSocialImages: false,
     locale: "en-US",
     baseUrl: "notes.forgottenpillar.com",
+    pushNotifications: {
+      vapidPublicKey: "REPLACE_WITH_VAPID_PUBLIC_KEY",
+      subscribeUrl: "https://forgottenpillar.com/api/push/subscribe",
+      unsubscribeUrl: "https://forgottenpillar.com/api/push/unsubscribe",
+    },
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     theme: {
