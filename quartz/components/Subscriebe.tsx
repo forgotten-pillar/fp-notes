@@ -13,24 +13,50 @@ const Subscriebe: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
       data-push-unsubscribe-url={push?.unsubscribeUrl ?? ""}
     >
       <h3>Get notified when new stuff drops.</h3>
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        width="28"
-        height="28"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        class="subscribe-bell-icon"
-        aria-hidden="true"
+      <button
+        type="button"
+        class="push-bell-btn"
+        data-state="idle"
+        aria-label="Enable browser notifications"
+        title="Enable browser notifications"
       >
-        <path d="M10.268 21a2 2 0 0 0 3.464 0" />
-        <path d="M22 8c0-2.3-.8-4.3-2-6" />
-        <path d="M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326" />
-        <path d="M4 2C2.8 3.7 2 5.7 2 8" />
-      </svg>
+        <span class="push-bell-icon icon-default" aria-hidden="true">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="M10.268 21a2 2 0 0 0 3.464 0" />
+            <path d="M15 8h6" />
+            <path d="M18 5v6" />
+            <path d="M20.002 14.464a9 9 0 0 0 .738.863A1 1 0 0 1 20 17H4a1 1 0 0 1-.74-1.673C4.59 13.956 6 12.499 6 8a6 6 0 0 1 8.75-5.332" />
+          </svg>
+        </span>
+        <span class="push-bell-icon icon-hover" aria-hidden="true">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="M10.268 21a2 2 0 0 0 3.464 0" />
+            <path d="M15 8h6" />
+            <path d="M18 5v6" />
+            <path d="M20.002 14.464a9 9 0 0 0 .738.863A1 1 0 0 1 20 17H4a1 1 0 0 1-.74-1.673C4.59 13.956 6 12.499 6 8a6 6 0 0 1 8.75-5.332" />
+          </svg>
+        </span>
+      </button>
       <p class="notice">
         Get notified via email, or by{" "}
         <a
@@ -76,17 +102,10 @@ const Subscriebe: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
         </button>
       </form>
       <p class="subscribe-message"></p>
-      <div class="push-subscribe-block">
-        <h4>Get instant alerts in your browser</h4>
-        <button class="push-subscribe-btn" type="button">
-          <span class="push-subscribe-btn-label">🔔 Enable browser notifications</span>
-        </button>
-        <p class="push-subscribe-message"></p>
-        <p class="push-ios-hint" style="display:none">
-          📱 To enable, tap Share → Add to Home Screen, then open from the home screen and try
-          again.
-        </p>
-      </div>
+      <p class="push-bell-message"></p>
+      <p class="push-ios-hint" style="display:none">
+        To enable, tap Share → Add to Home Screen, then open from the home screen and try again.
+      </p>
     </div>
   )
 }

@@ -56,8 +56,8 @@ document.addEventListener("nav", () => {
   form.addEventListener("submit", handleSubmit)
   window.addCleanup(() => form.removeEventListener("submit", handleSubmit))
 
-  // --- Web Push subscription block ---
-  setupPushBlock(container)
+  // --- Web Push subscription button ---
+  setupPushButton(container)
 })
 
 function urlBase64ToUint8Array(base64String: string): Uint8Array {
@@ -69,23 +69,38 @@ function urlBase64ToUint8Array(base64String: string): Uint8Array {
   return output
 }
 
-function setupPushBlock(container: HTMLElement) {
-  const block = container.querySelector(".push-subscribe-block") as HTMLElement | null
-  if (!block) return
+const SVG_ATTRS =
+  'xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"'
 
-  const btn = block.querySelector(".push-subscribe-btn") as HTMLButtonElement | null
-  const label = block.querySelector(".push-subscribe-btn-label") as HTMLElement | null
-  const msg = block.querySelector(".push-subscribe-message") as HTMLElement | null
-  const iosHint = block.querySelector(".push-ios-hint") as HTMLElement | null
-  if (!btn || !label || !msg || !iosHint) return
+const ICON_BELL = `<svg ${SVG_ATTRS}><path d="M10.268 21a2 2 0 0 0 3.464 0"/><path d="M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326"/></svg>`
+
+const ICON_BELL_PLUS = `<svg ${SVG_ATTRS}><path d="M10.268 21a2 2 0 0 0 3.464 0"/><path d="M15 8h6"/><path d="M18 5v6"/><path d="M20.002 14.464a9 9 0 0 0 .738.863A1 1 0 0 1 20 17H4a1 1 0 0 1-.74-1.673C4.59 13.956 6 12.499 6 8a6 6 0 0 1 8.75-5.332"/></svg>`
+
+const ICON_BELL_CHECK = `<svg ${SVG_ATTRS}><path d="M10.268 21a2 2 0 0 0 3.464 0"/><path d="M17 17H4a1 1 0 0 1-.74-1.673C4.59 13.956 6 12.499 6 8a6 6 0 0 1 12 0c0 .898.06 1.708.166 2.43"/><path d="m16 19 2 2 4-4"/></svg>`
+
+const ICON_BELL_MINUS = `<svg ${SVG_ATTRS}><path d="M10.268 21a2 2 0 0 0 3.464 0"/><path d="M15 8h6"/><path d="M20.002 14.464a9 9 0 0 0 .738.863A1 1 0 0 1 20 17H4a1 1 0 0 1-.74-1.673C4.59 13.956 6 12.499 6 8a6 6 0 0 1 8.75-5.332"/></svg>`
+
+const ICON_BELL_OFF = `<svg ${SVG_ATTRS}><path d="M10.268 21a2 2 0 0 0 3.464 0"/><path d="M17 17H4a1 1 0 0 1-.74-1.673C4.59 13.956 6 12.499 6 8a6 6 0 0 1 .258-1.742"/><path d="m2 2 20 20"/><path d="M8.668 3.01A6 6 0 0 1 18 8c0 2.687.77 4.653 1.707 6.05"/></svg>`
+
+type PushState = "idle" | "subscribed" | "denied" | "ios"
+
+function setupPushButton(container: HTMLElement) {
+  const btn = container.querySelector(".push-bell-btn") as HTMLButtonElement | null
+  if (!btn) return
+
+  const iconDefault = btn.querySelector(".icon-default") as HTMLElement | null
+  const iconHover = btn.querySelector(".icon-hover") as HTMLElement | null
+  const msg = container.querySelector(".push-bell-message") as HTMLElement | null
+  const iosHint = container.querySelector(".push-ios-hint") as HTMLElement | null
+  if (!iconDefault || !iconHover || !msg || !iosHint) return
 
   const vapidKey = container.getAttribute("data-push-vapid-key") || ""
   const subscribeUrl = container.getAttribute("data-push-subscribe-url") || ""
   const unsubscribeUrl = container.getAttribute("data-push-unsubscribe-url") || ""
 
-  // Graceful degradation: hide the entire block if config is missing.
+  // Graceful degradation: hide the button if config is missing.
   if (!subscribeUrl || !unsubscribeUrl) {
-    block.style.display = "none"
+    btn.style.display = "none"
     return
   }
 
@@ -103,37 +118,62 @@ function setupPushBlock(container: HTMLElement) {
   const pushSupported =
     "serviceWorker" in navigator && "PushManager" in window && "Notification" in window
 
-  if (!pushSupported) {
-    if (isIOS && !isStandalone) {
-      btn.style.display = "none"
-      iosHint.style.display = "block"
-      return
+  function renderState(state: PushState) {
+    if (!btn || !iconDefault || !iconHover) return
+    btn.dataset.state = state
+    btn.disabled = state === "denied"
+    if (state === "subscribed") {
+      iconDefault.innerHTML = ICON_BELL_CHECK
+      iconHover.innerHTML = ICON_BELL_MINUS
+      btn.setAttribute("aria-label", "Notifications on — click to turn off")
+      btn.title = "Notifications on — click to turn off"
+    } else if (state === "denied") {
+      iconDefault.innerHTML = ICON_BELL_OFF
+      iconHover.innerHTML = ICON_BELL_OFF
+      btn.setAttribute("aria-label", "Notifications blocked — enable in browser settings")
+      btn.title = "Notifications blocked — enable in browser settings"
+    } else if (state === "ios") {
+      iconDefault.innerHTML = ICON_BELL
+      iconHover.innerHTML = ICON_BELL
+      btn.setAttribute("aria-label", "Notifications — add to Home Screen first")
+      btn.title = "Notifications — add to Home Screen first"
+    } else {
+      iconDefault.innerHTML = ICON_BELL_PLUS
+      iconHover.innerHTML = ICON_BELL_PLUS
+      btn.setAttribute("aria-label", "Enable browser notifications")
+      btn.title = "Enable browser notifications"
     }
-    block.style.display = "none"
+  }
+
+  // iOS Safari (non-standalone) cannot use Web Push; show the bell but route taps to the iOS hint.
+  if (isIOS && !isStandalone) {
+    renderState("ios")
+    const onIosClick = () => {
+      iosHint.style.display = "block"
+    }
+    btn.addEventListener("click", onIosClick)
+    window.addCleanup(() => btn.removeEventListener("click", onIosClick))
     return
   }
 
-  if (isIOS && !isStandalone) {
+  if (!pushSupported) {
     btn.style.display = "none"
-    iosHint.style.display = "block"
     return
   }
 
   function showPushMessage(text: string, type: "success" | "error") {
     if (!msg) return
     msg.textContent = text
-    msg.className = `push-subscribe-message ${type}`
+    msg.className = `push-bell-message ${type}`
     msg.style.display = "block"
   }
 
   function clearPushMessage() {
     if (!msg) return
     msg.textContent = ""
-    msg.className = "push-subscribe-message"
+    msg.className = "push-bell-message"
     msg.style.display = "none"
   }
-
-  type PushState = "default" | "subscribed" | "denied"
 
   async function currentState(): Promise<PushState> {
     if (Notification.permission === "denied") return "denied"
@@ -142,23 +182,9 @@ function setupPushBlock(container: HTMLElement) {
       const existing = await reg.pushManager.getSubscription()
       if (existing) return "subscribed"
     } catch (_e) {
-      // ignore — fall through to default
+      // ignore — fall through to idle
     }
-    return "default"
-  }
-
-  function renderState(state: PushState) {
-    if (!btn || !label) return
-    btn.disabled = false
-    btn.dataset.state = state
-    if (state === "denied") {
-      btn.disabled = true
-      label.textContent = "Notifications blocked — enable in browser settings"
-    } else if (state === "subscribed") {
-      label.textContent = "✓ Notifications enabled — Click to disable"
-    } else {
-      label.textContent = "🔔 Enable browser notifications"
-    }
+    return "idle"
   }
 
   async function refresh() {

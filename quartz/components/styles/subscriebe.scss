@@ -17,17 +17,83 @@
     padding-right: 2.5rem;
   }
 
-  .subscribe-bell-icon {
+  .push-bell-btn {
     position: absolute;
-    top: 2.2rem;
-    right: 2.2rem;
+    top: 1.6rem;
+    right: 1.6rem;
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
     color: var(--darkgray);
-    opacity: 0.5;
-    pointer-events: none;
+    border-radius: 50%;
+    cursor: pointer;
+    opacity: 0.7;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition:
+      color 0.2s ease,
+      background-color 0.2s ease,
+      opacity 0.2s ease,
+      transform 0.2s ease;
+
+    &:hover {
+      opacity: 1;
+      background-color: rgba(0, 0, 0, 0.06);
+      transform: scale(1.05);
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--secondary);
+      outline-offset: 2px;
+    }
+
+    .push-bell-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 0;
+    }
+
+    .icon-hover {
+      display: none;
+    }
+
+    &[data-state="subscribed"] {
+      color: #16a34a;
+      opacity: 1;
+    }
+
+    &[data-state="subscribed"]:hover {
+      color: #dc2626;
+
+      .icon-default {
+        display: none;
+      }
+
+      .icon-hover {
+        display: inline-flex;
+      }
+    }
+
+    &[data-state="denied"] {
+      color: var(--gray);
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    &[data-state="denied"]:hover {
+      background-color: transparent;
+      transform: none;
+    }
 
     @media (max-width: 480px) {
-      width: 22px;
-      height: 22px;
+      width: 32px;
+      height: 32px;
+      top: 1.2rem;
+      right: 1.2rem;
     }
   }
 
@@ -107,48 +173,7 @@
   }
 }
 
-.push-subscribe-block {
-  width: 100%;
-  margin-top: 1.5rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid rgba(78, 78, 78, 0.2);
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 0.5rem;
-
-  h4 {
-    margin: 0;
-    font-size: 1rem;
-    color: var(--darkgray);
-    font-weight: 500;
-  }
-}
-
-.push-subscribe-btn {
-  padding: 10px 15px;
-  background-color: var(--dark);
-  color: var(--light);
-  border: none;
-  border-radius: 0.5em;
-  font-size: 0.75em;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5em;
-}
-
-.push-subscribe-btn:hover {
-  background-color: var(--darkgray);
-}
-
-.push-subscribe-btn:disabled {
-  opacity: 0.6;
-  cursor: not-allowed;
-}
-
-.push-subscribe-message {
+.push-bell-message {
   display: none;
   margin: 0.25rem 0 0;
   font-size: 0.8em;
