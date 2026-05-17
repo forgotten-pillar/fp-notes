@@ -1,76 +1,51 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
-import { updateFrontmatter } from "./broadcaster"
+import { formatBroadcastResponse } from "./broadcaster"
 
-describe("updateFrontmatter", () => {
-  test("replaces boolean broadcast: true with an ISO timestamp", () => {
-    const input = `---
-title: Hello
-broadcast: true
----
-Body text here.
-`
-    const iso = "2026-05-17T10:00:00.000Z"
-    const out = updateFrontmatter(input, "broadcast", iso)
-    assert.match(out, /^---\n/)
-    assert.match(out, /title: Hello/)
-    assert.match(out, new RegExp(`broadcast: ${iso}`))
-    assert.doesNotMatch(out, /broadcast: true/)
-    assert.match(out, /Body text here\./)
+describe("formatBroadcastResponse", () => {
+  test("v1.1 happy path with sent, skipped and counts produces multi-line summary", () => {
+    const out = formatBroadcastResponse({
+      success: true,
+      sent: ["a", "b"],
+      skipped: ["c"],
+      sentCount: 5,
+      failedCount: 1,
+      removedSubscriptions: 1,
+    })
+    assert.match(out, /^Broadcaster: POST succeeded$/m)
+    assert.match(out, /^ {2}Sent \(2\): a, b$/m)
+    assert.match(out, /^ {2}Skipped — already broadcast \(1\): c$/m)
+    assert.match(out, /^ {2}Subscribers reached: 5, failed: 1, removed: 1$/m)
   })
 
-  test("returns content unchanged when there is no frontmatter at all", () => {
-    const input = `# Just markdown
-
-No frontmatter here.
-`
-    const out = updateFrontmatter(input, "broadcast", "2026-05-17T10:00:00.000Z")
-    assert.strictEqual(out, input)
+  test("v1.1 all-skipped omits the Sent line", () => {
+    const out = formatBroadcastResponse({
+      success: true,
+      sent: [],
+      skipped: ["a"],
+      sentCount: 0,
+      failedCount: 0,
+      removedSubscriptions: 0,
+    })
+    assert.match(out, /^Broadcaster: POST succeeded$/m)
+    assert.match(out, /^ {2}Skipped — already broadcast \(1\): a$/m)
+    assert.doesNotMatch(out, /^ {2}Sent /m)
+    assert.match(out, /^ {2}Subscribers reached: 0, failed: 0, removed: 0$/m)
   })
 
-  test("returns content unchanged when frontmatter has no targeted key", () => {
-    const input = `---
-title: Hello
-tags:
-  - foo
-  - bar
----
-Body
-`
-    const out = updateFrontmatter(input, "broadcast", "2026-05-17T10:00:00.000Z")
-    assert.strictEqual(out, input)
+  test("v1 fallback (no sent/skipped arrays) is a single-line summary", () => {
+    const out = formatBroadcastResponse({
+      success: true,
+      sentCount: 10,
+      failedCount: 0,
+      removedSubscriptions: 0,
+    })
+    assert.strictEqual(out, "Broadcaster: POST succeeded — sent: 10, failed: 0, removed: 0")
   })
 
-  test("only rewrites the targeted key when multiple keys exist", () => {
-    const input = `---
-title: Hello
-tags:
-  - foo
-broadcast: true
-publish: true
----
-Body
-`
-    const iso = "2026-05-17T10:00:00.000Z"
-    const out = updateFrontmatter(input, "broadcast", iso)
-    assert.match(out, /title: Hello/)
-    assert.match(out, /tags:\n {2}- foo/)
-    assert.match(out, new RegExp(`broadcast: ${iso}`))
-    assert.match(out, /publish: true/)
-    assert.doesNotMatch(out, /broadcast: true/)
-  })
-
-  test("replaces an existing ISO broadcast value with a new ISO value", () => {
-    const oldIso = "2026-01-01T00:00:00.000Z"
-    const newIso = "2026-05-17T10:00:00.000Z"
-    const input = `---
-title: Hello
-broadcast: ${oldIso}
----
-Body
-`
-    const out = updateFrontmatter(input, "broadcast", newIso)
-    assert.match(out, new RegExp(`broadcast: ${newIso}`))
-    assert.doesNotMatch(out, new RegExp(oldIso))
+  test("null / non-object input returns the 'not parseable' message", () => {
+    const expected = "Broadcaster: POST succeeded (response not parseable)"
+    assert.strictEqual(formatBroadcastResponse(null), expected)
+    assert.strictEqual(formatBroadcastResponse("some string"), expected)
   })
 })
