@@ -1,8 +1,14 @@
 import { FilePath, QUARTZ, joinSegments } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import fs from "fs"
+import path from "path"
 import { glob } from "../../util/glob"
 import DepGraph from "../../depgraph"
+
+// Files under quartz/static/ that must also be emitted to the site root so the
+// browser can find them at the canonical PWA paths (e.g. /sw.js needs to live
+// at root for service-worker scope "/" to apply).
+const ROOT_LEVEL_STATIC_FILES = ["manifest.webmanifest", "sw.js"]
 
 export const Static: QuartzEmitterPlugin = () => ({
   name: "Static",
@@ -19,6 +25,12 @@ export const Static: QuartzEmitterPlugin = () => ({
         joinSegments("static", fp) as FilePath,
         joinSegments(argv.output, "static", fp) as FilePath,
       )
+      if (ROOT_LEVEL_STATIC_FILES.includes(fp)) {
+        graph.addEdge(
+          joinSegments("static", fp) as FilePath,
+          joinSegments(argv.output, fp) as FilePath,
+        )
+      }
     }
 
     return graph
@@ -30,6 +42,17 @@ export const Static: QuartzEmitterPlugin = () => ({
       recursive: true,
       dereference: true,
     })
-    return fps.map((fp) => joinSegments(argv.output, "static", fp)) as FilePath[]
+    const emitted = fps.map((fp) => joinSegments(argv.output, "static", fp)) as FilePath[]
+
+    for (const fp of ROOT_LEVEL_STATIC_FILES) {
+      const src = path.join(staticPath, fp)
+      if (fs.existsSync(src)) {
+        const dest = joinSegments(argv.output, fp)
+        await fs.promises.copyFile(src, dest)
+        emitted.push(dest as FilePath)
+      }
+    }
+
+    return emitted
   },
 })

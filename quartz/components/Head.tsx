@@ -17,33 +17,39 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
-    const iconPath = 'https://forgotten-pillar.s3.us-east-2.amazonaws.com/fp-notes-logo.svg'
-    const pathForUrl = fileData.frontmatter?.permalink ? fileData.frontmatter.permalink : fileData.slug !== 'index' ? fileData.slug : '';
-    const link = `https://notefp.link/${pathForUrl}`;
-    const ogImagePath = fileData?.frontmatter?.title ? `https://forgottenpillar.com/api/og-notes?title=${encodeURIComponent(fileData.frontmatter?.title)}` : 'https://forgotten-pillar.s3.us-east-2.amazonaws.com/og-notes.png'
+    const iconPath = "https://forgotten-pillar.s3.us-east-2.amazonaws.com/fp-notes-logo.svg"
+    const pathForUrl = fileData.frontmatter?.permalink
+      ? fileData.frontmatter.permalink
+      : fileData.slug !== "index"
+        ? fileData.slug
+        : ""
+    const link = `https://notefp.link/${pathForUrl}`
+    const ogImagePath = fileData?.frontmatter?.title
+      ? `https://forgottenpillar.com/api/og-notes?title=${encodeURIComponent(fileData.frontmatter?.title)}`
+      : "https://forgotten-pillar.s3.us-east-2.amazonaws.com/og-notes.png"
 
     // Prepare JSON-LD structured data
     const jsonLd = {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": fileData.frontmatter?.title || 'The Forgotten Pillar Notes',
-      "description": fileData.frontmatter?.description || description,
-      "image": ogImagePath,
-      "author": {
+      headline: fileData.frontmatter?.title || "The Forgotten Pillar Notes",
+      description: fileData.frontmatter?.description || description,
+      image: ogImagePath,
+      author: {
         "@type": "Organization",
-        "name": "The Forgotten Pillar"
+        name: "The Forgotten Pillar",
       },
-      "publisher": {
+      publisher: {
         "@type": "Organization",
-        "name": "The Forgotten Pillar",
-        "logo": {
+        name: "The Forgotten Pillar",
+        logo: {
           "@type": "ImageObject",
-          "url": "https://forgotten-pillar.s3.us-east-2.amazonaws.com/fp-notes-logo.svg"
-        }
+          url: "https://forgotten-pillar.s3.us-east-2.amazonaws.com/fp-notes-logo.svg",
+        },
       },
-      "datePublished": fileData.dates?.created || new Date().toISOString(),
-      "dateModified": fileData.dates?.modified || new Date().toISOString(),
-      "mainEntityOfPage": `https://${cfg.baseUrl!}/${fileData.slug!}`
+      datePublished: fileData.dates?.created || new Date().toISOString(),
+      dateModified: fileData.dates?.modified || new Date().toISOString(),
+      mainEntityOfPage: `https://${cfg.baseUrl!}/${fileData.slug!}`,
     }
 
     return (
@@ -55,7 +61,10 @@ export default (() => {
             <link rel="preconnect" href="https://fonts.googleapis.com" />
             <link rel="preconnect" href="https://fonts.gstatic.com" />
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
-            <link rel="stylesheet" href='https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400;700' />
+            <link
+              rel="stylesheet"
+              href="https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400;700"
+            />
           </>
         )}
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -73,14 +82,43 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        {/* PWA shell */}
+        <link rel="manifest" href="/manifest.webmanifest" />
+        <meta name="theme-color" content="#106a8f" />
+        <link rel="apple-touch-icon" href="/static/icons/apple-touch-icon.png" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+        <meta name="apple-mobile-web-app-title" content="FP Notes" />
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
-        
+
         {/* JSON-LD script - output raw JSON */}
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-        <meta name="google-site-verification" content="VNplcD2JGpi5cKkzCp2MY7RJ7klWEfrcUo8KwcSyIO8" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+        {/* Service worker registration (Wave 1 placeholder; Wave 2 adds push handling) */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function () {
+    try {
+      navigator.serviceWorker.register('/sw.js', { scope: '/' }).catch(function (err) {
+        console.warn('[pwa] service worker registration failed:', err);
+      });
+    } catch (err) {
+      console.warn('[pwa] service worker registration threw:', err);
+    }
+  });
+}`,
+          }}
+        />
+        <meta
+          name="google-site-verification"
+          content="VNplcD2JGpi5cKkzCp2MY7RJ7klWEfrcUo8KwcSyIO8"
+        />
       </head>
     )
   }
