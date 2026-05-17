@@ -66,6 +66,21 @@ By clicking the <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" v
 
 Some of the notes on this site include **narration powered by ElevenLabs**. When available, you can use the integrated audio player to listen to the content for a more engaging and accessible experience.
 
+### Stay Updated with Notifications
+
+Never miss a new note! You can enable push notifications by clicking the <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.268 21a2 2 0 0 0 3.464 0"/><path d="M15 8h6"/><path d="M18 5v6"/><path d="M20.002 14.464a9 9 0 0 0 .738.863A1 1 0 0 1 20 17H4a1 1 0 0 1-.74-1.673C4.59 13.956 6 12.499 6 8a6 6 0 0 1 8.75-5.332"/></svg> bell icon found in the sidebar (or at the top of the page on mobile). When new notes are published, you will receive a notification directly in your browser or device — even when the site is not open.
+
+Your browser will ask for permission to send notifications. Simply allow it, and you are all set. You can disable notifications at any time by clicking the bell icon again.
+
+### Install as an App
+
+This site can be installed as an app on your device for quick access and an app-like experience. Here is how:
+
+- **On mobile (iOS/Android):** Open this site in your browser, tap the share button (or the browser menu), and select *"Add to Home Screen."*
+- **On desktop (Chrome/Edge):** Look for the install icon in the address bar, or go to the browser menu and select *"Install app"* or *"Create shortcut."*
+
+Once installed, the site opens in its own window without browser toolbars, and you will receive push notifications (if enabled) just like a native app.
+
 > [!tip] Want to contribute to the notes
 > See [[contribution| the contribution guide]]
 

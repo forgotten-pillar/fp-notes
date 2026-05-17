@@ -58,7 +58,7 @@ const Subscriebe: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
         </span>
       </button>
       <p class="notice">
-        Get notified via email, or by{" "}
+        Click on the bell icon, and enable push notification, or get notified via email, or by{" "}
         <a
           href="https://t.me/forgottenpillar"
           target="_blank"
