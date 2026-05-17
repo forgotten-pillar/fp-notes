@@ -67,12 +67,12 @@
     }
 
     &[data-state="subscribed"] {
-      color: #16a34a;
+      color: var(--secondary);
       opacity: 1;
     }
 
     &[data-state="subscribed"]:hover {
-      color: #dc2626;
+      color: var(--dark);
 
       .icon-default {
         display: none;
@@ -175,11 +175,11 @@
   font-weight: 500;
 
   &.success {
-    color: #16a34a;
+    color: var(--secondary);
   }
 
   &.error {
-    color: #dc2626;
+    color: var(--dark);
   }
 }
 
@@ -190,11 +190,11 @@
   font-weight: 500;
 
   &.success {
-    color: #16a34a;
+    color: var(--secondary);
   }
 
   &.error {
-    color: #dc2626;
+    color: var(--dark);
   }
 }
 
