@@ -76,8 +76,7 @@ Your browser will ask for permission to send notifications. Simply allow it, and
 
 This site can be installed as an app on your device for quick access and an app-like experience. Here is how:
 
-- **On mobile (iOS/Android):** Open this site in your browser, tap the share button (or the browser menu), and select *"Add to Home Screen."*
-- **On desktop (Chrome/Edge):** Look for the install icon in the address bar, or go to the browser menu and select *"Install app"* or *"Create shortcut."*
+Click the <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 8a1 1 0 0 1 1 1v2a1 1 0 0 0 1 1h3.293a.707.707 0 0 1 .5 1.207l-6.939 6.939a1.207 1.207 0 0 1-1.708 0l-6.94-6.94a.707.707 0 0 1 .5-1.206H8a1 1 0 0 0 1-1V9a1 1 0 0 1 1-1z"/><path d="M9 4h6"/></svg> install button at the bottom of the page to add this site to your device. On mobile, you can also use the browser's share menu and select *"Add to Home Screen."*
 
 Once installed, the site opens in its own window without browser toolbars, and you will receive push notifications (if enabled) just like a native app.
 
