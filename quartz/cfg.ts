@@ -80,6 +80,7 @@ export interface GlobalConfiguration {
     vapidPublicKey: string
     subscribeUrl: string
     unsubscribeUrl: string
+    broadcastUrl?: string
   }
 }
 
