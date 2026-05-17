@@ -1,11 +1,9 @@
 import { QuartzEmitterPlugin } from "../types";
-import { FullSlug, SimpleSlug, joinSegments } from "../../util/path"
+import { FullSlug, SimpleSlug } from "../../util/path"
 import { getDate } from "../../components/Date"
 import { escapeHTML } from "../../util/escape"
 import { toHtml } from "hast-util-to-html"
 import { Root } from "hast"
-import { Value } from "vfile";
-import fs from 'fs'
 
 export type Broadcast = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
@@ -26,17 +24,11 @@ type BroadcastNotePayload = {
     publishedAt: string
 }
 
-type PendingRewrite = {
-    fullPath: string
-    content: Value
-}
-
 export const Broadcaster: QuartzEmitterPlugin = () => ({
     name: 'Broadcaster',
     getQuartzComponents: () => [],
     async emit(ctx, content, _resources) {
         const newBroadcastList: Broadcast = new Map()
-        const pendingRewrites = new Map<FullSlug, PendingRewrite>()
         const notesPayload: BroadcastNotePayload[] = []
 
         const cfg = ctx.cfg.configuration
@@ -62,11 +54,6 @@ export const Broadcaster: QuartzEmitterPlugin = () => ({
                 richContent: escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true })),
                 date: date,
                 description: file.data.description ?? "",
-            })
-
-            pendingRewrites.set(slug, {
-                fullPath: joinSegments(file.cwd, file.data.filePath!),
-                content: file.value,
             })
 
             notesPayload.push({
@@ -112,69 +99,51 @@ export const Broadcaster: QuartzEmitterPlugin = () => ({
                 body: JSON.stringify(body),
             })
         } catch (err) {
-            console.error("Broadcaster: fetch failed, frontmatter not rewritten:", err)
+            console.error("Broadcaster: fetch failed:", err)
             return []
         }
 
         if (!response.ok) {
             let errBody = ""
             try { errBody = await response.text() } catch {}
-            console.error(`Broadcaster: POST failed with status ${response.status}, frontmatter not rewritten:`, errBody)
+            console.error(`Broadcaster: POST failed with status ${response.status}:`, errBody)
             return []
         }
 
         let respBody: unknown = null
         try { respBody = await response.json() } catch {}
-        console.log("Broadcaster: POST succeeded:", respBody)
-
-        for (const pending of pendingRewrites.values()) {
-            await updateMarkdownFrontMatter({
-                fullPath: pending.fullPath,
-                content: pending.content,
-                key: 'broadcast',
-                value: new Date().toISOString(),
-            })
-        }
+        console.log(formatBroadcastResponse(respBody))
 
         return []
     }
 })
 
-export function updateFrontmatter(content: string, key: string, newValue: string) {
-    // Find the start and end of the frontmatter block
-    const frontmatterStart = content.indexOf('---');
-    const frontmatterEnd = content.indexOf('---', frontmatterStart + 3);
-
-    if (frontmatterStart === -1 || frontmatterEnd === -1) {
-      // No frontmatter found, return the original content
-      return content;
+export function formatBroadcastResponse(respBody: unknown): string {
+    if (respBody === null || typeof respBody !== "object") {
+        return "Broadcaster: POST succeeded (response not parseable)"
     }
 
-    // Extract the frontmatter
-    const frontmatter = content.slice(frontmatterStart + 4, frontmatterEnd);
+    const body = respBody as Record<string, unknown>
+    const sent = Array.isArray(body.sent) ? (body.sent as unknown[]) : null
+    const skipped = Array.isArray(body.skipped) ? (body.skipped as unknown[]) : null
 
-    // Update the specific frontmatter key
-    const lines = frontmatter.split('\n');
-    const updatedLines = lines.map(line => {
-      if (line.startsWith(`${key}:`)) {
-        return `${key}: ${newValue}`;
-      }
-      return line;
-    });
+    const sentCount = typeof body.sentCount === "number" ? body.sentCount : null
+    const failedCount = typeof body.failedCount === "number" ? body.failedCount : null
+    const removed = typeof body.removedSubscriptions === "number" ? body.removedSubscriptions : null
 
-    // Construct the updated content
-    const updatedFrontmatter = updatedLines.join('\n');
-    const updatedContent = content.slice(0, frontmatterStart) +
-                           '---\n' + updatedFrontmatter + '---\n' +
-                           content.slice(frontmatterEnd + 4);
+    if (sent !== null || skipped !== null) {
+        const lines: string[] = ["Broadcaster: POST succeeded"]
+        if (sent && sent.length > 0) {
+            lines.push(`  Sent (${sent.length}): ${sent.join(", ")}`)
+        }
+        if (skipped && skipped.length > 0) {
+            lines.push(`  Skipped — already broadcast (${skipped.length}): ${skipped.join(", ")}`)
+        }
+        if (sentCount !== null || failedCount !== null || removed !== null) {
+            lines.push(`  Subscribers reached: ${sentCount ?? 0}, failed: ${failedCount ?? 0}, removed: ${removed ?? 0}`)
+        }
+        return lines.join("\n")
+    }
 
-    return updatedContent;
-  }
-
-  const updateMarkdownFrontMatter = async (
-    {content, fullPath, key, value} :
-    {content: Value, fullPath: string, key: string, value: string}
-) => {
-    const newValue = updateFrontmatter(content.toString(), key, value);
-    await fs.promises.writeFile(fullPath, newValue)
-  }
+    return `Broadcaster: POST succeeded — sent: ${sentCount ?? 0}, failed: ${failedCount ?? 0}, removed: ${removed ?? 0}`
+}
