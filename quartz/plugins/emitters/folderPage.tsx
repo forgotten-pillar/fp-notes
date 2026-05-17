@@ -16,7 +16,7 @@ import {
   simplifySlug,
 } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
-import { Darkmode, FolderContent, GraphMini, NotificationBell } from "../../components"
+import { Darkmode, FolderContent, GraphMini, InstallPWA, NotificationBell } from "../../components"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
 import DepGraph from "../../depgraph"
@@ -43,6 +43,7 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
       const DarkModeComponent = Darkmode();
       const GraphMiniComponent = GraphMini();
       const NotificationBellComponent = NotificationBell();
+      const InstallPWAComponent = InstallPWA();
 
       return [
         Head,
@@ -57,7 +58,8 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
         Footer,
         DarkModeComponent,
         GraphMiniComponent,
-        NotificationBellComponent
+        NotificationBellComponent,
+        InstallPWAComponent
       ]
     },
     async getDependencyGraph(_ctx, content, _resources) {

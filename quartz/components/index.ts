@@ -35,6 +35,7 @@ import ColFlex from "./ColFlex"
 import RowFlex from "./RowFlex"
 import DesktopFullOnly from "./DesktopFullOnly"
 import NotificationBell from "./NotificationBell"
+import InstallPWA from "./InstallPWA"
 
 export {
   ArticleTitle,
@@ -74,4 +75,5 @@ export {
   RowFlex,
   DesktopFullOnly,
   NotificationBell,
+  InstallPWA,
 }

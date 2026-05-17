@@ -13,7 +13,7 @@ import {
   pathToRoot,
 } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
-import { Darkmode, GraphMini, NotificationBell, TagContent } from "../../components"
+import { Darkmode, GraphMini, InstallPWA, NotificationBell, TagContent } from "../../components"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
 import DepGraph from "../../depgraph"
@@ -40,6 +40,7 @@ export const TagPage: QuartzEmitterPlugin<Partial<TagPageOptions>> = (userOpts) 
       const DarkModeComponent = Darkmode();
       const GraphMiniComponent = GraphMini();
       const NotificationBellComponent = NotificationBell();
+      const InstallPWAComponent = InstallPWA();
 
       return [
         Head,
@@ -54,7 +55,8 @@ export const TagPage: QuartzEmitterPlugin<Partial<TagPageOptions>> = (userOpts) 
         Footer,
         DarkModeComponent,
         GraphMiniComponent,
-        NotificationBellComponent
+        NotificationBellComponent,
+        InstallPWAComponent
       ]
     },
     async getDependencyGraph(ctx, content, _resources) {

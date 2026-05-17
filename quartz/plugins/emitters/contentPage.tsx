@@ -11,7 +11,7 @@ import { FullPageLayout } from "../../cfg"
 import { Argv } from "../../util/ctx"
 import { FilePath, FullSlug, isRelativeURL, joinSegments, pathToRoot } from "../../util/path"
 import { defaultContentPageLayout, sharedPageComponents } from "../../../quartz.layout"
-import { Content, Darkmode, GraphMini, NotificationBell, PrintButton, TranslateButton } from "../../components"
+import { Content, Darkmode, GraphMini, InstallPWA, NotificationBell, PrintButton, TranslateButton } from "../../components"
 import chalk from "chalk"
 import { write } from "./helpers"
 import DepGraph from "../../depgraph"
@@ -70,6 +70,7 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
       const GraphMiniComponent = GraphMini();
       const TranslateComponent = TranslateButton();
       const NotificationBellComponent = NotificationBell();
+      const InstallPWAComponent = InstallPWA();
 
       return [
         Head,
@@ -85,7 +86,8 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         DarkModeComponent,
         GraphMiniComponent,
         TranslateComponent,
-        NotificationBellComponent
+        NotificationBellComponent,
+        InstallPWAComponent
       ]
     },
     async getDependencyGraph(ctx, content, _resources) {
