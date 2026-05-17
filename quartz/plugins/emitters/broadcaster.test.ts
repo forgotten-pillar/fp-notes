@@ -1,6 +1,66 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
-import { formatBroadcastResponse } from "./broadcaster"
+import { formatBroadcastResponse, pickBroadcastDescription } from "./broadcaster"
+
+// Note: the age filter (MAX_BROADCAST_AGE_DAYS) is exercised end-to-end by the
+// dry-run build verification, not by a unit test — mocking the full emit flow
+// (content tree, ProcessedContent, ctx) would be more code than it's worth.
+
+describe("pickBroadcastDescription", () => {
+  test("returns fp-social-media when present and non-empty", () => {
+    const out = pickBroadcastDescription(
+      { "fp-social-media": "social tagline", description: "seo desc" },
+      "auto preview",
+    )
+    assert.strictEqual(out, "social tagline")
+  })
+
+  test("returns description when fp-social-media missing", () => {
+    const out = pickBroadcastDescription(
+      { description: "seo desc" },
+      "auto preview",
+    )
+    assert.strictEqual(out, "seo desc")
+  })
+
+  test("returns description when fp-social-media is whitespace-only", () => {
+    const out = pickBroadcastDescription(
+      { "fp-social-media": "   ", description: "seo desc" },
+      "auto preview",
+    )
+    assert.strictEqual(out, "seo desc")
+  })
+
+  test("returns fallbackDescription when both frontmatter fields missing", () => {
+    const out = pickBroadcastDescription({}, "auto preview")
+    assert.strictEqual(out, "auto preview")
+  })
+
+  test("returns '' when everything is missing/empty", () => {
+    assert.strictEqual(pickBroadcastDescription({}, ""), "")
+    assert.strictEqual(pickBroadcastDescription({}, undefined), "")
+    assert.strictEqual(
+      pickBroadcastDescription({ "fp-social-media": "", description: "  " }, "   "),
+      "",
+    )
+  })
+
+  test("returns '' when frontmatter is undefined and no fallback", () => {
+    assert.strictEqual(pickBroadcastDescription(undefined, undefined), "")
+  })
+
+  test("trims whitespace from the chosen value", () => {
+    assert.strictEqual(
+      pickBroadcastDescription({ "fp-social-media": "  social  " }, undefined),
+      "social",
+    )
+    assert.strictEqual(
+      pickBroadcastDescription({ description: "\n seo \t" }, undefined),
+      "seo",
+    )
+    assert.strictEqual(pickBroadcastDescription(undefined, "  fallback  "), "fallback")
+  })
+})
 
 describe("formatBroadcastResponse", () => {
   test("v1.1 happy path with sent, skipped and counts produces multi-line summary", () => {

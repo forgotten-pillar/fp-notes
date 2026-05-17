@@ -5,6 +5,31 @@ import { escapeHTML } from "../../util/escape"
 import { toHtml } from "hast-util-to-html"
 import { Root } from "hast"
 
+// Skip notes whose date is older than this many days at broadcast collection time.
+// The backend (v1.1) also dedups by slug, but this filter prevents old notes from
+// being re-sent if the backend's broadcasted-notes table is wiped, and reduces
+// noisy payload size on every build.
+// Trade-off: to force re-broadcast of a >7-day-old note, bump its date or temporarily
+// lift this constant — there is no per-note override.
+const MAX_BROADCAST_AGE_DAYS = 7
+
+export function pickBroadcastDescription(
+  frontmatter: Record<string, unknown> | undefined,
+  fallbackDescription: string | undefined,
+): string {
+  const social = frontmatter?.["fp-social-media"]
+  if (typeof social === "string" && social.trim() !== "") return social.trim()
+
+  const desc = frontmatter?.["description"]
+  if (typeof desc === "string" && desc.trim() !== "") return desc.trim()
+
+  if (typeof fallbackDescription === "string" && fallbackDescription.trim() !== "") {
+    return fallbackDescription.trim()
+  }
+
+  return ""
+}
+
 export type Broadcast = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
   title: string
@@ -46,6 +71,14 @@ export const Broadcaster: QuartzEmitterPlugin = () => ({
 
             const date = getDate(cfg, file.data) ?? new Date()
 
+            const ageMs = Date.now() - date.getTime()
+            const maxAgeMs = MAX_BROADCAST_AGE_DAYS * 24 * 60 * 60 * 1000
+            if (ageMs > maxAgeMs) {
+                continue
+            }
+
+            const description = pickBroadcastDescription(file.data.frontmatter, file.data.description)
+
             newBroadcastList.set(slug, {
                 title: file.data.frontmatter?.title!,
                 links: file.data.links ?? [],
@@ -53,13 +86,13 @@ export const Broadcaster: QuartzEmitterPlugin = () => ({
                 content: file.data.text ?? "",
                 richContent: escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true })),
                 date: date,
-                description: file.data.description ?? "",
+                description,
             })
 
             notesPayload.push({
                 slug,
                 title: file.data.frontmatter?.title ?? "",
-                description: file.data.description ?? "",
+                description,
                 url: `https://${baseUrl.replace(/\/+$/, "")}/${slug}`,
                 publishedAt: date.toISOString(),
             })
