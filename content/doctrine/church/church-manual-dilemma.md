@@ -80,4 +80,3 @@ Some people believe that the General Conference is a voice of God in regards to 
 [^adventistToday]: [The Church Manual in Crisis, Adventist Today, June 2, 2020](https://atoday.org/the-church-manual-in-crisis/) commentary by Alvin Masarira, (accessed: Dec 16, 2024)
 [^encyclopedia]: [Seventh-day Adventist Church Manual, Encyclopedia of Seventh-day Adventists, November 28, 2020](https://encyclopedia.adventist.org/article?id=BB25), by Mario Veloso, (accessed: Dec 16, 2024)
 [^gc]: [General Conference Website, Seventh-day Adventist Church Manual](https://gc.adventist.org/church-manual/) (accessed: Dec 16, 2024)
-
