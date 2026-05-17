@@ -7,7 +7,8 @@ tags:
   - finalGeneration
   - gospel
 createdDate: 2026-05-17T10:00:00+02:00
-modifiedDate: 2026-05-17T08:36:02+02:00
+modifiedDate: 2026-05-17T08:38:40+02:00
+permalink: hastening-lords-return
 ---
 
 > [!question] Do we know when Jesus is coming? And can I do something about it, or am I just a passive player watching and waiting until He comes?
