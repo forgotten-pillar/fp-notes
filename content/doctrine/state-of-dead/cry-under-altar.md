@@ -1,6 +1,6 @@
 ---
-createdDate: 2025-06-18T09:12:09+02:00
-modifiedDate: 2026-05-18T09:58:09+02:00
+createdDate: 2026-05-18T09:58:09+02:00
+modifiedDate: 2026-05-18T09:59:21+02:00
 title: The Cry from Under the Altar
 description: " Explore the meaning of the souls under the altar in Revelation 6. A Bible study on the cry of the martyrs, God's promise of justice, and their ultimate vindication in Christ."
 fp-social-media: "Their lives were poured out like a sacrifice. Their souls cry out from under the altar. Discover the profound meaning of martyrdom and the promise of reigning with Christ. #BookofRevelation #BibleStudy"

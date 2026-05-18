@@ -1,6 +1,6 @@
 ---
-createdDate: 2025-02-15T17:21:30+01:00
-modifiedDate: 2026-05-18T09:56:59+02:00
+createdDate: 2026-05-18T09:56:59+02:00
+modifiedDate: 2026-05-18T09:59:27+02:00
 title: The Myth of the Immortal Soul
 description: Does the Bible teach that the soul is immortal? This study traces the origin of the lie, examines what Scripture actually says about the soul's mortality, and answers common objections from 2 Corinthians 5 and Revelation 6.
 fp-social-media: "The serpent said 'Ye shall not surely die.' But God says the soul that sins SHALL die. Where did the doctrine of the immortal soul really come from? #BibleStudy #StateOfTheDead #Truth"
