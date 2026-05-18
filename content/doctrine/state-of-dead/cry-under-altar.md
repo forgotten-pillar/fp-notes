@@ -1,12 +1,13 @@
 ---
 createdDate: 2025-06-18T09:12:09+02:00
-modifiedDate: 2025-06-18T09:58:00+02:00
+modifiedDate: 2026-05-18T09:58:09+02:00
 title: The Cry from Under the Altar
 description: " Explore the meaning of the souls under the altar in Revelation 6. A Bible study on the cry of the martyrs, God's promise of justice, and their ultimate vindication in Christ."
 fp-social-media: "Their lives were poured out like a sacrifice. Their souls cry out from under the altar. Discover the profound meaning of martyrdom and the promise of reigning with Christ. #BookofRevelation #BibleStudy"
 permalink: cry-under-altar
 publish: true
 tts: true
+broadcast: true
 ---
 > [!abstract]
 > The cry of the martyrs from under the altar in Revelation is a powerful biblical symbol, not a proof-text for the soul's innate immortality. It represents the culmination of a scriptural theme where innocent blood, from Abel onward, cries out from the earth for justice. Their symbolic position under the altar signifies that their lives were poured out as a sacrifice in witness to Christ. This cry is answered definitively in Jesus, whose own blood speaks a better word of redemption. God's response is not merely vengeance, but the ultimate vindication and exaltation of His saints, who are given white robes of righteousness and thrones to reign with their Savior.
