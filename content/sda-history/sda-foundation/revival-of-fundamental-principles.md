@@ -10,7 +10,7 @@ description: Explore the data on the prophetic insight of Ellen White, giving us
 createdDate: 2024-11-05T14:01:04.303+01:00
 modifiedDate: 2024-12-24T17:02:26+01:00
 ---
-The following is the compilation of Ellen White quotations about the revival of the fundamental principles in these last days.
+The following is the compilation of Ellen White quotations about the revival of the [[fundamental-principles|fundamental principles]] in these last days.
 
 > “**_The Lord has declared that_** **_the history of the past shall be rehearsed_** **_as we enter upon the closing work._** **_Every truth_** **_that He has given for these last days is to be proclaimed to the world._** **_Every pillar_** **_that He has established_** **_is to be strengthened_****_. We cannot now step off the foundation that God has established..._** **_There is need now to rehearse the experience of the men_** **_who acted a part in the establishment of our work_** **_at the beginning_**_._” [{EGW, Ms129-1905.6; 1905}](https://egwwritings.org/?ref=en_Ms129-1905.6&para=9797.13)
 
@@ -24,6 +24,8 @@ God has promised high reward in reviving the straight testimony borne in years p
 > “**_I beseech those who are laboring for God not to accept the spurious for the genuine. Let not human reason be placed where divine, sanctifying truth should be_**_._ **_Christ is waiting to kindle faith and love in the hearts of His people_**_._ **_Let not erroneous theories receive countenance from the people who ought to be standing firm on the platform of eternal truth._** **_God calls upon us to hold firmly to the fundamental principles that are based upon unquestionable authority_**.” [{EGW, 8T 298.2; 1904}](https://egwwritings.org/?ref=en_8T.298.2&para=112.1801)
 
 Renewal of the straight testimony borne in years past will cause a renewal of the spiritual life. The power of the Spirit will come to us for the Lord has promised. The promise of the outpouring of the Holy Spirit is conditional: we must “_hold firmly to_ **_the fundamental principles_** _that are based upon unquestionable authority_”. These messages will be met with fierce opposition; we will pass through severe trials and our faith will be tested. Thus, we need to study the old waymarks _carefully_. “_These_ **_foundation principles_** _are to be held fast unto the end_”.
+
+See also [[principles-vs-beliefs|Fundamental Principles vs. Fundamental Beliefs]], [[adventist-pioneers-on-trinity|Adventist Pioneers on the Trinity]], [[present-truth|Present Truth]], and [[sda-offshoots-and-the-bride|SDA, Offshoots & the Bride of Christ]].
 
 > “**_I have been deeply impressed by the Spirit of God that we are to pass through severe trials. Everyone’s faith will be tested._** **_We must study carefully the old waymarks_****_._** **_These experiences in the past are to be revived_**_. Daniel is to stand out conspicuously with the Revelation given to John on the Isle of Patmos.”_ [{EGW, Ms223-1902.11; 1902}](https://egwwritings.org/?ref=en_Ms223-1902.11&para=9124.26)  
 > “**_In our experience in these last days we shall meet every conceivable thing that Satan can invent to make_** **_of none effect the established points of our faith_** **_that have been, in the providence of God, so greatly blessed._** **_These foundation principles_** **_are to be held fast unto the end. Read the Word of God_**_._” [{EGW, Ms223-1902.13; 1902}](https://egwwritings.org/?ref=en_Ms223-1902.13&para=9124.28)

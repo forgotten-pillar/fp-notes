@@ -82,3 +82,5 @@ Ellen White confirms in The Desire of Ages:
 God the Father, Christ's Father, has given the souls of the faithful into Christ's hands as His eternal inheritance, as His children whom He has redeemed with His precious blood, and thus God in Heaven made Christ the Everlasting Father to those people who will be eternally saved.
 
 "*His name shall be... The everlasting Father*."
+
+See also [[the-beginning-problem|The Beginning Problem]], [[the-order-of-heaven-by-the-bible|The Order of Heaven]], and [[eternal-life-through-the-name-of-the-son|Eternal Life through the Name of the Son]].

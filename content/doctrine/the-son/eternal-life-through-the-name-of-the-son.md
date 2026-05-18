@@ -30,6 +30,7 @@ modifiedDate: 2024-12-24T16:07:10+01:00
 
 > [!todo] Todo
 > Give the answer to the previous answer
-> - link to hermeneutics
+
+See also [[the-beginning-problem|The Beginning Problem]] and [[the-order-of-heaven-by-the-bible|The Order of Heaven]].
 
 

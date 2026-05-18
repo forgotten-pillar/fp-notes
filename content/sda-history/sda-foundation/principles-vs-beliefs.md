@@ -57,3 +57,5 @@ The following is the comparison between the Fundamental Principles and Fundament
 
 [^coequal]: equal in personality - check out [[three-co-equal|Three Co-equal Persons]] article for more details
 
+See also [[adventist-pioneers-on-trinity|Adventist Pioneers on the Trinity]], [[_The personality of God - the part of our foundation|The Personality of God - Part of Our Foundation]], [[revival-of-fundamental-principles|Revival of the Fundamental Principles]], and [[sda-offshoots-and-the-bride|SDA, Offshoots & the Bride of Christ]].
+

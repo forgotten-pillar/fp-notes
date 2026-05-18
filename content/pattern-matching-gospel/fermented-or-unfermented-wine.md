@@ -130,3 +130,4 @@ In the Old Testament, God gave instruction for Nazirites not to drink strong dri
 
 The reason for this instruction was due to their sanctification. Nazarite sanctification level was no match with Jesus' sanctification level. If Jesus was pure, then He must have not drank the alcohol. Therefore, I believe that it is unreasonable to think He was offering others fermented wine, while preaching the sanctification. All that Jesus ever server and offered to mankind was a blessing.
 
+See also [[alabaster-box|Alabaster Box]] for another pattern matching study on Christ's sacrifice.

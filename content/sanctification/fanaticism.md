@@ -98,3 +98,5 @@ Sister White referred to the revival of _“old truths,”_ which form the found
 
 ## Conclusion
 Authentic spiritual growth requires rejecting both lukewarm indifference and extreme rigidity. Christians are called to cultivate unity, exercise common sense, and prioritize mercy and love over critical judgment. Individual conscience should remain untrammeled, with each person free to pursue their understanding of faith while respecting the spiritual journeys of others.
+
+See also [[studying-together|When Studying Together]] and [[importance-of-personal-study|Importance of Personal Study]].

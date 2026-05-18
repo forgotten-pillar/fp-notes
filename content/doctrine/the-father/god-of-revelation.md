@@ -20,7 +20,7 @@ fpRelatedReads:
 > [!bible] [Revelation 1:1 - KJV](https://www.biblegateway.com/passage/?search=Revelation+1:1&version=kjv)
 > 1. The Revelation of **Jesus Christ**, which **God gave unto him**, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
 
-The very first verse of the Revelation, identifies God as the Father
+The very first verse of the Revelation, identifies God as the Father. This is consistent with [[principle-of-gods-revelation|the principle of God's revelation]].
 
 ****
 > [!bible] [Revelation 1:4-6 - KJV](https://www.biblegateway.com/passage/?search=Revelation+1:4-6&version=kjv)
@@ -330,4 +330,4 @@ This is Christ speaking about the commandments of His Father.
 
 ## Conclusion
 
-The book of Revelation consistently identifies God as the Father, with Jesus Christ acknowledged as His divine Son. Christ's own references to "*my God*," His reception of revelation from the Father, and descriptions of their shared throne validate this relationship. The Spirit speaking to the churches is revealed to be Christ Himself. This clear theological framework unifies Revelation's message from beginning to end.
+The book of Revelation consistently identifies God as the Father, with Jesus Christ acknowledged as His divine Son. See also [[Three Angels Messages]], [[principles-vs-beliefs|Fundamental Principles vs. Fundamental Beliefs]], and [[the-order-of-heaven-by-the-bible|The Order of Heaven]]. Christ's own references to "*my God*," His reception of revelation from the Father, and descriptions of their shared throne validate this relationship. The Spirit speaking to the churches is revealed to be Christ Himself. This clear theological framework unifies Revelation's message from beginning to end.

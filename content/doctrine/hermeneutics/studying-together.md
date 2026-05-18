@@ -39,8 +39,10 @@ modifiedDate: 2024-12-24T20:38:23+01:00
 
 
 > [!question] What is the platform of eternal truth?
-> The platform of eternal truth is the foundation of Seventh-day Adventist faith - the Fundamental Principles. See Chapter 10 of Special Testimonies - The Foundation of our Faith: https://egwwritings.org/read?panels=p417.261
+> The platform of eternal truth is the foundation of Seventh-day Adventist faith - the [[fundamental-principles|Fundamental Principles]]. See Chapter 10 of Special Testimonies - The Foundation of our Faith: https://egwwritings.org/read?panels=p417.261
 
 ## Persecution
 
 > There is no greater evidence that Satan is working than that those who profess to be sanctified to God's service **persecute their fellow beings** because they do not believe the same doctrine that they themselves believe. [RH December 28, 1897, par. 17](https://egwwritings.org/read?panels=p821.16495&index=0)
+
+See also [[importance-of-personal-study|Importance of Personal Study]], [[as-it-reads|Take the Bible as it Reads]], [[weight-of-evidence|The Weight of Evidence]], and [[fanaticism|Fanaticism]].

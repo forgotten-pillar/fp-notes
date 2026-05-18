@@ -6,7 +6,7 @@ tags:
 createdDate: 2024-10-25T08:58:55.228+02:00
 modifiedDate: 2024-12-24T20:36:12+01:00
 ---
-Before Jesus' first coming there was a voice in the wilderness with a special mission - to make straight the way of the Lord. This voice was the prophet John the Baptist. He is a significant figure, since he represents the work which the last generation before the Second Coming of Christ will do. What was the mission of John?
+Before Jesus' first coming there was a voice in the wilderness with a special mission - to make straight the way of the Lord. This voice was the prophet John the Baptist. He is a significant figure, since he represents the work which the [[present-truth-for-final-generation|last generation]] before the Second Coming of Christ will do. What was the mission of John?
 
 > [!bible] [John 1:23 - KJV](https://www.biblegateway.com/passage/?search=John+1:23&version=kjv)
 > 23. He said, I am the voice of one crying in the wilderness, **Make straight the way of the Lord**, as said the prophet Esaias.
@@ -68,3 +68,5 @@ The imagery in Isaiah 40:3-5, where every valley is lifted up and every mountain
   
 
 These references illustrate how the language of transformation in Isaiah 40 echoes throughout the Bible, symbolizing God’s power to overcome all that hinders true communion with Him. The changes in the landscape metaphorically represent the changes God brings to the human heart and to society, leveling barriers, exalting the humble, and preparing a straight path for His presence.
+
+See also [[present-truth|Present Truth]] and [[Three Angels Messages]].

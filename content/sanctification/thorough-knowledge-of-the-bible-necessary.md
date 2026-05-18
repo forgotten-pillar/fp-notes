@@ -25,3 +25,5 @@ Jesus defeated Satan's temptations by other verses, which were also from Deutero
 
 > [!important] We should know God's word thoroughly and personally, and not merely
 
+See also [[importance-of-personal-study|Importance of Personal Study]], [[mental-food|Mental Food]], and [[battle-for-our-time|Battle for Our Time]].
+

@@ -324,3 +324,5 @@ This structure that we have studied was the Law in Heaven against which Satan re
 
 ***
 How can we know the order of Heaven in the relationship with Satan? The Bible shows this in the Controversy between Satan and archangel Michael. Check out [[archangel-michael|Archangel Michael]] study.
+
+See also [[the-beginning-problem|The Beginning Problem]], [[_Everything was created through Christ|Everything was Created through Christ]], [[christ-the-everlasting-father|Christ - The Everlasting Father]], and [[principle-of-gods-revelation|The Principle of God's Revelation]].

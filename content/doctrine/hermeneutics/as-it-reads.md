@@ -28,5 +28,7 @@ createdDate: 2024-08-28T22:43:43.635+02:00
 
 This principle is very opposite to the [[_Jesuit's principle of interpretation|principles of interpretations proposed by Jesuits]]
 
+See also [[weight-of-evidence|The Weight of Evidence]], [[importance-of-personal-study|Importance of Personal Study]], and [[studying-together|When Studying Together]].
+
 > [!todo] TODO
 > Get the links

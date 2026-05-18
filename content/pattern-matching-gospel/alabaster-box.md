@@ -24,5 +24,7 @@ modifiedDate: 2024-12-24T19:20:29+01:00
 > [!bible] [Ephesians 5:2 - KJV](https://www.biblegateway.com/passage/?search=Ephesians+5:2&version=kjv)
 > 2. And walk in love, as Christ also hath loved us, and hath **given himself for us** *an offering* and *a sacrifice* to God for **a sweetsmelling savour**.
 
+See also [[fermented-or-unfermented-wine|Fermented or Unfermented Wine]] for another pattern matching study.
+
 > [!example] Poem [[broken-alabaster-tale-of-sacrifice|Alabaster Box]]
 

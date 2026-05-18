@@ -90,3 +90,5 @@ Think about how does this verse applies to the things you see online, or any typ
 > 14. **Let the words of my mouth**, and **the meditation of my heart**, be acceptable in thy sight, O LORD, my strength, and my redeemer.
 
 God sees the content of our thoughts. And our thoughts will produce our speech.
+
+See also [[battle-for-our-time|Battle for Our Time]], [[thorough-knowledge-of-the-bible-necessary|Thorough Knowledge of the Bible Necessary]], and [[sentiment-reading-scriptures|The Sentiment Reading the Scriptures]].

@@ -46,5 +46,7 @@ Here we also see the harmony between J. B. Frisbie (see [[J.B. Frisbie and the t
 > It was not in harmony with the doctrine on the personality of God
 
 
+See also [[principles-vs-beliefs|Fundamental Principles vs. Fundamental Beliefs]], [[_The personality of God - the part of our foundation|The Personality of God - Part of Our Foundation]], and [[sda-offshoots-and-the-bride|SDA, Offshoots & the Bride of Christ]].
+
 > [!todo] TODO
 > Provide more data

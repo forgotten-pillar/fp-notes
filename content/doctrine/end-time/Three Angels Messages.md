@@ -14,5 +14,5 @@ modifiedDate: 2024-12-22T19:46:12+01:00
 > 12. Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.
 
 
-> [!todo] 
+> [!todo]
 > Brake down each message in a separate note

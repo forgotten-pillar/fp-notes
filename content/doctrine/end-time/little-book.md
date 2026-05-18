@@ -29,5 +29,7 @@ This little book was the book of Daniel, which is the "sealed book" [Daniel 12:4
 The little book which is now open refers to the book of Daniel. While [Daniel 8:14](https://www.biblegateway.com/passage/?search=Daniel+8.14&version=KJV) points to the fulfillment of the 2300 days prophecy, terminated in 1844, which resulted in [[1884-as-test|the Great Disappointment]] experience depicted by bitterness in the belly.
 
 
-> [!todo] 
+See also [[present-truth|Present Truth]], [[Three Angels Messages]], and [[present-truth-for-final-generation|Present Truth for the Final Generation]].
+
+> [!todo]
 > Add more details

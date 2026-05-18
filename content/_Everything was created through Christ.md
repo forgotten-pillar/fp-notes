@@ -12,3 +12,5 @@ All things were created by the Son of God. “In the beginning was the Word, and
 The Father wrought by His Son in the creation of all heavenly beings. “By Him were all things created, ... whether they be thrones, or dominions, or principalities, or powers; all things were created by Him, and for Him.”—Patriarchs and Prophets, 34.  
   
 [The Truth About Angels, p. 25.3](https://egwwritings.org/read?panels=p146.116)
+
+See also [[the-beginning-problem|The Beginning Problem]], [[the-order-of-heaven-by-the-bible|The Order of Heaven]], and [[principle-of-gods-revelation|The Principle of God's Revelation]].

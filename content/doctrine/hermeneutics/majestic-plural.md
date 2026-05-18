@@ -23,3 +23,5 @@ The Majestic Plural can also be found in other contexts where respect or honor i
 
 See [Wikipedia: Royal We](https://www.wikiwand.com/en/articles/Royal_we#Non-Western_usage)
 
+This concept is relevant to understanding [[the-beginning-problem|The Beginning Problem]], specifically Micah 5:2 where Christ's "goings forth" (plural) are from everlasting.
+
