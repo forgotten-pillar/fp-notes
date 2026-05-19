@@ -1,6 +1,6 @@
 ---
 createdDate: 2026-05-19T09:45:32+02:00
-modifiedDate: 2026-05-19T09:47:52+02:00
+modifiedDate: 2026-05-19T09:50:44+02:00
 title: A Constructive Evaluation of "From Anti-trinitarianism to Trinitarianism - The Adventist Story"
 publish: true
 permalink: response-to-keiser
