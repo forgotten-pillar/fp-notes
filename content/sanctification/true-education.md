@@ -5,8 +5,8 @@ tags:
   - sanctification
 title: What Is True Education?
 description: If we fail to understand the true science of education, we shall never have a place in the kingdom of God. Heaven is a school, Eden was the first classroom, nature is the lesson book, and God Himself is the teacher. How did John the Baptist receive his education - and what does that mean for us today?
-createdDate: 2024-10-14T08:28:02.528+02:00
-modifiedDate: 2026-05-19T09:44:42+02:00
+createdDate: 2026-05-19T09:44:42+02:00
+modifiedDate: 2026-05-19T09:48:04+02:00
 tts: true
 permalink: true-education
 broadcast: true
