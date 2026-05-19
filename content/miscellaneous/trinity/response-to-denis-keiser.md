@@ -7,6 +7,7 @@ permalink: response-to-keiser
 description: A detailed response to Dr. Denis Kaiser's presentation on the Adventist shift from anti-trinitarianism to trinitarianism. Discover the critical role of the Personality of God doctrine in the Fundamental Principles and why the pioneers rejected the Trinity.
 fp-social-media: Dr. Denis Kaiser claims the pioneers never studied the doctrine of God. The historical record tells a different story. The Personality of God was the very first article of the Fundamental Principles from 1872 to 1914. Read our constructive evaluation and discover why Ellen White called Trinitarian revisions "patchwork theories."
 broadcast: true
+tts: true
 ---
 ![Denis Keiser - The God We Worship Symposium](https://i.ytimg.com/vi/sxLA1gGQCwo/maxresdefault.jpg)
 
