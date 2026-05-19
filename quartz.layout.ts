@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
     //   provider: 'giscus',
     //   options: {
     //     // from data-repo
-    //     repo: 'mpresecan/fp-notes',
+    //     repo: 'forgotten-pillar/fp-notes',
     //     // from data-repo-id
     //     repoId: 'R_kgDONObySw',
     //     // from data-category
@@ -24,7 +24,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/mpresecan/fp-notes",
+      GitHub: "https://github.com/forgotten-pillar/fp-notes",
       "Download Center": "https://forgottenpillar.com/books",
       Contribute: "/contribute",
       RSS: "/index.xml",

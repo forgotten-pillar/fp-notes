@@ -4,7 +4,7 @@ permalink: contribute
 title: Contribution Guide
 description: Learn how to contribute to The Forgotten Pillar Notes. This guide covers the technical setup, writing conventions, and how to submit your contributions via GitHub.
 createdDate: 2024-08-02T20:04:23.298+02:00
-modifiedDate: 2026-05-19T12:00:00+02:00
+modifiedDate: 2026-05-19T09:54:14+02:00
 ---
 
 > [!abstract]-
@@ -15,7 +15,11 @@ modifiedDate: 2026-05-19T12:00:00+02:00
 This site is built with [Quartz](https://quartz.jzhao.xyz), a static site generator that transforms Markdown files into a website. The notes themselves are plain Markdown files stored in the `content/` folder of the repository. When changes are pushed to the repository, the site is automatically rebuilt and deployed.
 
 The source code and all notes are hosted on GitHub:
-**[github.com/mpresecan/fp-notes](https://github.com/mpresecan/fp-notes)**
+**[github.com/forgotten-pillar/fp-notes](https://github.com/forgotten-pillar/fp-notes)**
+
+## Quick Edit
+
+Every note on this site has a pencil icon with an **edit** button in the header. Clicking it takes you directly to the file on GitHub, where you can make changes in your browser without any local setup. GitHub will guide you through forking the repository and opening a Pull Request automatically. This is the easiest way to fix a typo or suggest a small improvement.
 
 ## Ways to Contribute
 
@@ -37,7 +41,7 @@ To contribute, you will need:
 
 ### 1. Fork the Repository
 
-Go to [github.com/mpresecan/fp-notes](https://github.com/mpresecan/fp-notes) and click the **Fork** button in the top-right corner. This creates your own copy of the project under your GitHub account.
+Go to [github.com/forgotten-pillar/fp-notes](https://github.com/forgotten-pillar/fp-notes) and click the **Fork** button in the top-right corner. This creates your own copy of the project under your GitHub account.
 
 ### 2. Clone Your Fork
 
@@ -161,7 +165,7 @@ git push origin add-note-topic-name
 
 Go to your fork on GitHub. You should see a banner suggesting to open a **Pull Request**. Click it, and:
 
-1. Make sure the base repository is `mpresecan/fp-notes` and the base branch is `v4`
+1. Make sure the base repository is `forgotten-pillar/fp-notes` and the base branch is `v4`
 2. Write a brief description of what you added or changed
 3. Submit the Pull Request
 
@@ -176,7 +180,7 @@ Your contribution will be reviewed, and once approved, it will be merged and pub
 
 ## Reporting Issues
 
-If you find an error but do not want to fix it yourself, you can [open an issue](https://github.com/mpresecan/fp-notes/issues/new) on GitHub describing the problem. Please include:
+If you find an error but do not want to fix it yourself, you can [open an issue](https://github.com/forgotten-pillar/fp-notes/issues/new) on GitHub describing the problem. Please include:
 
 - Which note has the issue (include the URL or file path)
 - What the problem is (typo, incorrect reference, broken link, etc.)
@@ -184,4 +188,4 @@ If you find an error but do not want to fix it yourself, you can [open an issue]
 
 ## Questions?
 
-If you have questions about contributing, feel free to [open a discussion](https://github.com/mpresecan/fp-notes/issues) on GitHub.
+If you have questions about contributing, feel free to [open a discussion](https://github.com/forgotten-pillar/fp-notes/issues) on GitHub.
