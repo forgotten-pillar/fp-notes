@@ -1,6 +1,6 @@
 ---
 createdDate: 2026-05-31T07:20:28+02:00
-modifiedDate: 2026-05-31T07:42:29+02:00
+modifiedDate: 2026-05-31T07:43:15+02:00
 title: "The Light of the Body: What the Eye Really Means"
 description: What does "if thine eye be single" really mean? Discover how Matthew 6:22-23 connects to the Hebrew idioms of the "evil eye" and "good eye" in Proverbs, revealing Jesus' teaching on generosity, greed, and trusting God with your finances.
 permalink: light-of-the-body
@@ -10,6 +10,7 @@ tags:
   - Stewardship
 fp-social-media: Think Matthew 6:22 is about what you look at? It's not. The 'evil eye' and 'good eye' are Hebrew idioms about money. Read what Jesus was really saying about greed, generosity, and where your heart is.
 tts: true
+broadcast: true
 ---
 > [!bible] [Matthew 6:22-23 - KJV](https://www.biblegateway.com/passage/?search=Matthew+6:22-23&version=kjv)
 > <sup>**22**</sup> The light of the body is **the eye**: if therefore thine eye be **single**, thy whole body shall be **full of light**.
