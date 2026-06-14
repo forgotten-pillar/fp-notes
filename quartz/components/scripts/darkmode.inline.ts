@@ -30,6 +30,16 @@ document.addEventListener("nav", () => {
   themeButton.addEventListener("click", switchTheme)
   window.addCleanup(() => themeButton.removeEventListener("click", switchTheme))
 
+  // Keyboard shortcut: Ctrl/Cmd + . to toggle theme
+  const shortcutHandler = (e: KeyboardEvent) => {
+    if ((e.ctrlKey || e.metaKey) && e.key === ".") {
+      e.preventDefault()
+      switchTheme(e)
+    }
+  }
+  document.addEventListener("keydown", shortcutHandler)
+  window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
+
   // Listen for changes in prefers-color-scheme
   const colorSchemeMediaQuery = window.matchMedia("(prefers-color-scheme: dark)")
   colorSchemeMediaQuery.addEventListener("change", themeChange)
