@@ -1,7 +1,7 @@
 import matter from "gray-matter"
 import remarkFrontmatter from "remark-frontmatter"
 import { QuartzTransformerPlugin } from "../types"
-import yaml from "js-yaml"
+import { load as yamlLoad, CORE_SCHEMA } from "js-yaml"
 import toml from "toml"
 import { slugTag } from "../../util/path"
 import { QuartzPluginData } from "../vfile"
@@ -52,7 +52,9 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             const { data } = matter(Buffer.from(file.value), {
               ...opts,
               engines: {
-                yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }) as object,
+                // CORE_SCHEMA (YAML 1.2 core) keeps empty values as null and avoids the
+                // YAML 1.1 "Norway problem"; js-yaml v5's JSON_SCHEMA parses `key:` as ""
+                yaml: (s) => yamlLoad(s, { schema: CORE_SCHEMA }) as object,
                 toml: (s) => toml.parse(s) as object,
               },
             })
